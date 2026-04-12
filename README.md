@@ -1,5 +1,6 @@
 <div align="center">
 
+
 # AppList
 
 **本列表源于个人兴趣爱好，收集整理了 Android、Android TV、Windows 应用，以及 Xposed 和 Magisk 模块。希望能为有类似需求的朋友提供帮助，也便于自己快速查找和管理。列表会根据个人兴趣和使用进行更新。**
