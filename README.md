@@ -13,7 +13,7 @@
 
 <details>
 
-<summary>📱 <strong>`Android`</strong></summary>
+<summary>📱 <strong>Android</strong></summary>
 - [标题](链接)：
 - [标题](链接)：
 - [标题](链接)：
