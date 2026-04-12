@@ -76,8 +76,7 @@
   - BetterVia：解除 Via 浏览器白名单限制
   - EdgeX：Edge 浏览器增强
 
-- [Activity启动链管理](https://pan.baidu.com/s/1Xq4s4ofM5EJmifkVQeG-hQ?pwd=6666)
-  - 拦截 App 跳转并提供选择控制
+- [Activity启动链管理](https://pan.baidu.com/s/1Xq4s4ofM5EJmifkVQeG-hQ?pwd=6666)：拦截 App 跳转并提供选择控制
 
 - [标题](链接)
 
