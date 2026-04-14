@@ -15,7 +15,7 @@
 <details>
 <summary>📱 <strong>Android</strong></summary>
 
-- [标题](链接)
+- [Flip 2 DND](https://pan.baidu.com/s/1dEKZjlmf-3Kt0Xcz5jH88A?pwd=6666)：通过翻转手机切换“勿扰模式”
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
@@ -29,17 +29,14 @@
   - 稳定版
   - Canray
   - Alpha
-
 - [KernelSU](https://pan.baidu.com/s/1cQHUyqPB2hd_oXztBrpBdw?pwd=6666)
   - SukiSU Ultra
   - ReSukiSU
   - KernelSU Next
   - KernelSU
-
 - [APatch](https://pan.baidu.com/s/1gdXLCWy0SL3IZ07XO1yczA?pwd=6666)
   - APatch
   - APatch Next
-
 - [SuperSU](链接)：最早的Root管理器，兼容安卓7及以下设备
 
 </details>
@@ -62,7 +59,6 @@
   - Vector（JingMatrix）
   - LSPosed - mod
   - LSPosed - npm
-
 - [Xposed](链接)：安卓7及以下系统  
 - [EdXposed](链接)：安卓8–11  
 
@@ -75,10 +71,8 @@
   - ChromePie：给 Chrome 浏览器加 Pie 菜单
   - BetterVia：解除 Via 浏览器白名单限制
   - EdgeX：Edge 浏览器增强
-
 - [Activity启动链管理](https://pan.baidu.com/s/1Xq4s4ofM5EJmifkVQeG-hQ?pwd=6666)：拦截 App 跳转并提供选择控制
-
-- [标题](链接)
+- [Punch-hole Download Progress](https://pan.baidu.com/s/1L5t9rSr55tvs0-5Mn_3hEQ?pwd=6666)：在摄像头开孔周围以动画圆环的形式显示下载进度。
 
 </details>
 
@@ -94,23 +88,20 @@
 
 - [IPTV](链接)
   - 我的电视：电视直播
-  - WebView 电视：基于腾讯 X5
-
+  - WebView 电视：基于腾讯 X5 iptv播放器
 - [直播](链接)
-  - Simple Live：多平台聚合
+  - Simple Live：多平台聚合直播，支持抖音、斗鱼、虎牙、快手
   - 纯粹直播：支持多平台 + 自定义源
-
 - [桌面](https://pan.baidu.com/s/10k75Mo9t1hyfKPIII7hfyQ?pwd=6666)
   - FLauncher
   - Projectivy Launcher
   - Leanback 启动器
   - LM Ultimate
   - Emotn UI
-
 - [Fluffy](链接)：文件管理器  
 - [Adblocker](链接)：带广告拦截浏览器  
-- [小白云盘](链接)：支持 4K 播放  
-- [Gemby](链接)：Emby 客户端  
+- [小白云盘](链接)：第三方阿里网盘，支持 4K 播放  
+- [Gemby](链接)：基于mpv的Emby 客户端  
 
 </details>
 
