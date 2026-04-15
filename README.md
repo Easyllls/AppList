@@ -267,6 +267,7 @@
   - HiBit Uninstaller
   - Soft Organizer
   - Bulk Crap Uninstaller
+  - Geek Uninstaller
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
