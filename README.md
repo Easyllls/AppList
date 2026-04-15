@@ -190,7 +190,7 @@
 - [ImTip](https://pan.baidu.com/s/1LqpP6WtJAU8vNnMPcycArw?pwd=6666)：输入跟踪提示 + 超级热键 + 自定义 AI 助手
 - [Tiny11builder](https://pan.baidu.com/s/1WPyP8CvSPwBH2FuxhFvkLA?pwd=6666)：用于构建精简版 Windows 11 映像的 PowerShell 脚本
 - [内存管理](https://pan.baidu.com/s/1QJEqP5hDsjUGTnd54QXTWA?pwd=6666)
-  - - Mem Reduct：轻量级实时内存管理应用程序
+  - Mem Reduct：轻量级实时内存管理应用程序
   - Memory Cleaner 重制版：删除强制联网更新，并添加目前windows已有的所有清理内存方法。
   - WinMemoryCleaner：RAM清理工具，利用原生Windows功能优化内存区域。
 - [WSL](https://pan.baidu.com/s/1fLdSBoIDyVezU9j4QZpPxQ?pwd=6666)：在 Windows 上运行 Linux 命令行工具、实用程序和应用程序
