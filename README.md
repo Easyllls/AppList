@@ -79,7 +79,21 @@
 <details>
 <summary>🔒 <strong>免Root框架</strong></summary>
 
-- [标题](链接)
+- [免Root框架](https://pan.baidu.com/s/1xJaSIewQDCyRagTCJGwV9A?pwd=6666)：无需Root权限即可体验部分Xposed模块，以下是文件列表
+  - LSPatch
+  - LSPatch（JingMatrix）
+  - NPatch
+  - FPA
+  - Xpatch
+  - 元萝卜
+  - 应用转生
+  - 易拉钩
+  - 神之手
+  - 伏羲X
+  - 天鉴X
+  - BlackBox
+  - SandVXposed
+  - VirtualXposed
 
 </details>
 
