@@ -253,12 +253,12 @@
   - LinkAndroid：多功能的手机连接助手 支持有线和无线连接
   - QtScrcpy：基于Qt ffmpeg opengl开发跨平台安卓实时投屏软件
   - MirrorCaster：高效、低延迟的Android投屏工具
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
+- [ncmdump-gui](https://pan.baidu.com/s/1zjbb_NNpZ_HL5LDVIdUNNQ?pwd=6666)：图形化的 ncmdump 工具。转换网易云音乐 ncm 到 mp3
+- [PakePlus](https://pan.baidu.com/s/15XbS5uYDPNw9sRkZKSamGw?pwd=6666)：把网页转换成安卓应用
+- [BlueGauge](https://pan.baidu.com/s/1s3wME_LfN7PGJV6okV88Uw?pwd=6666)：轻便的托盘工具，可轻松查看蓝牙设备的电池电量。
+- [Flyby11](https://pan.baidu.com/s/1ZPXoP_Pg6i8dVP12zMr8dA?pwd=6666)：Windows11升级助手，无需考虑硬件要求
+- [侠客日记](https://pan.baidu.com/s/1VYIFAlxXTLjLKHE0gyz7Kw?pwd=6666)：使用MAUI Blazor 构建的开源、跨平台的本地日记app
+- [Auto CAD](https://pan.baidu.com/s/1bqxr5RSJadHOJ2qSRYFsUQ?pwd=6666)：
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
