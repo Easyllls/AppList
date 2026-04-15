@@ -193,12 +193,17 @@
   - - Mem Reduct：轻量级实时内存管理应用程序
   - Memory Cleaner 重制版：删除强制联网更新，并添加目前windows已有的所有清理内存方法。
   - WinMemoryCleaner：RAM清理工具，利用原生Windows功能优化内存区域。
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
+- [Video2X](https://pan.baidu.com/s/1lG-TY6jzs9vx0spvbrvkAQ?pwd=6666)：基于机器学习的视频超分辨率和帧插值框架
+- [WSL](https://pan.baidu.com/s/1fLdSBoIDyVezU9j4QZpPxQ?pwd=6666)：在 Windows 上运行 Linux 命令行工具、实用程序和应用程序
+- [EasyRC](https://pan.baidu.com/s/164_QO9sKijXea71VlktZ3A?pwd=6666)：非常好用的一键全自动重装系统工具
+- [ACE-KILLER](https://pan.baidu.com/s/1Egool9ISkZJOZcGiPO5CoA?pwd=6666)：腾讯游戏进程优化工具
+- [浏览器](https://pan.baidu.com/s/1m2TVIDQiGosYhKsB609eTg?pwd=6666)
+  - LibreWolf：基于 Firefox 的独立定制浏览器，专注于隐私、安全和用户自由
+  - TrayChrome：基于 WPF 和 WebView2 的轻量级托盘浏览器
+  - Supermium：基于 Chromium 的浏览器分支，支持 Manifest V2 扩展
+  - BrowserOS：基于 Chromium 的开源 AI 浏览器，在本地原生运行 AI Agent
+- [OCR](https://pan.baidu.com/s/1C1EmcsA9CQptsBNkE28AvA?pwd=6666)
+  - PillOCR：基于大模型api接近无感的OCR工具。
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
