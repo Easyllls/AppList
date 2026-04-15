@@ -122,7 +122,16 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
-- [标题](链接)
+- [下载工具](https://pan.baidu.com/s/1uwkePgEAIIWvGGYEYuGo7A?pwd=6666)：各种下载工具合集
+  - Internet Download Manager：十分强大好用的多线程下载工具
+  - Neat Download Manager：优秀免费的多线程网络下载工具
+  - 迅雷专业版：第三方修改版
+  - AB Download Manager：能加速你下载速度的下载管理器，界面不错
+  - BiliTools：哔哩哔哩工具箱，支持下载视频、番剧等等各类资源
+  - Motrix Next：功能齐全的多协议下载管理器
+  - Fluent M3U8：美观、艺术的 M3U8 下载器
+  - Gopeed：一款支持多平台、多协议的高速下载工具
+  - res-downloader：集网络资源嗅探 + 高速下载功能于一体的下载工具
 
 </details>
 
