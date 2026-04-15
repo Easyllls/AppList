@@ -258,10 +258,15 @@
 - [BlueGauge](https://pan.baidu.com/s/1s3wME_LfN7PGJV6okV88Uw?pwd=6666)：轻便的托盘工具，可轻松查看蓝牙设备的电池电量。
 - [Flyby11](https://pan.baidu.com/s/1ZPXoP_Pg6i8dVP12zMr8dA?pwd=6666)：Windows11升级助手，无需考虑硬件要求
 - [侠客日记](https://pan.baidu.com/s/1VYIFAlxXTLjLKHE0gyz7Kw?pwd=6666)：使用MAUI Blazor 构建的开源、跨平台的本地日记app
-- [Auto CAD](https://pan.baidu.com/s/1bqxr5RSJadHOJ2qSRYFsUQ?pwd=6666)：
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
+- [Auto CAD](https://pan.baidu.com/s/1bqxr5RSJadHOJ2qSRYFsUQ?pwd=6666)：专门用于制作高精度的建筑、机械及各类二维或三维施工图纸。
+- [Education Clock](https://pan.baidu.com/s/1FM6jnGXVe62amHg0sTeJfw?pwd=6666)：适合学校使用的桌面时钟，倒计时、桌面时钟、课程表、天气预报等
+- [RyTuneX](https://pan.baidu.com/s/1qudXln4VIQb2flUKrKBVAg?pwd=6666)：基于 WinUI 3 框架打造的前沿系统优化工具，旨在全面提升 Windows 设备的性能
+- [卸载工具](https://pan.baidu.com/s/1CbkVM_Khmjflge_-IDzb0Q?pwd=6666)
+  - Uninstall Tool
+  - IObit Uninstaller
+  - HiBit Uninstaller
+  - Soft Organizer
+  - Bulk Crap Uninstaller
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
