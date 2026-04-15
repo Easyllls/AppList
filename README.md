@@ -240,11 +240,17 @@
   - zTasker：强大的 自动任务 工具，无需编程即可设置复杂的自动化流程
   - RMT：按键宏工具，让用户通过简单配置即可实现多种自动化操作
   - Shutdown Timerssic：定时关机工具
-  - TinyTask
-  - AutoClicker
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
+  - TinyTask：人人都能实现自动化
+  - OP Auto Clicker：非常实用、安全的鼠标自动点击工具
+- [Glow](https://pan.baidu.com/s/1MNuD23wz7f1xSjR08JV2Tw?pwd=6666)：功能强大的系统、硬件分析工具
+- [Hosts](https://pan.baidu.com/s/1viluA1C_ZklqU0SDhoUluA?pwd=6666)
+  - SwitchHosts：管理、切换多个 hosts 方案的工具
+- [手机控制 投屏（ADB）](https://pan.baidu.com/s/16s0lnM_JqASOVv4mf42FZw?pwd=6666)
+  - AYA：用于简化对安卓设备操作控制的桌面应用程序
+  - 搞机工具箱：利用ADB (安卓调试桥）来控制手机的玩机工具
+  - 开心电视助手：功能强大的 Android 设备远程管理与刷机工具
+  - Scrcpy GUI：Scrcpy的非官方项目、面向初学者的友好图形界面
+  - LinkAndroid：多功能的手机连接助手 支持有线和无线连接
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
