@@ -225,8 +225,11 @@
 - [QTTabBar](https://pan.baidu.com/s/1mQFJitYmmiIngFcNHbUFNA?pwd=6666)：在 Windows 资源管理器中使用多标签功能
 - [Windows激活工具](https://pan.baidu.com/s/11JPOPhrp_Czj8mJNdP46sw?pwd=6666)
   - HEU KMS Activator：功能强大且易于使用的 Windows 和 Office 激活工具
-- [标题](链接)
-- [标题](链接)
+- [WSABuilds](https://pan.baidu.com/s/1xxczq5L0Xlmoyka5P3sWuw?pwd=6666)：适用于 Win10和11的带有Play服务面具和KSU的安卓子系统
+- [壁纸](https://pan.baidu.com/s/140ohMTVttUCMxgvrsYxoHg?pwd=6666)
+  - Lively Wallpaper：由 WinUI 3驱动的动态桌面壁纸和屏幕保护程序
+  - WinDynamicDesktop：根据一天中时间变化的动态壁纸
+  - Sucrose Wallpaper Engine：强大的多功能壁纸引擎，完全自定义桌面体验
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
