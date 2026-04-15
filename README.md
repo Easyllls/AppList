@@ -163,8 +163,11 @@
 - [Seelen UI](https://pan.baidu.com/s/16Vo652EU3yYzTXCEJHFwkQ?pwd=6666)：完全可定制的 Windows 10/11 桌面环境
 - [哔哩哔哩（第三方）](https://pan.baidu.com/s/1--ro9xh-wucNedmfdPupNg?pwd=6666)
   - 哔哩助理：基于 Windows App SDK 和 AI 构建的 BiliBili 第三方应用
-- [标题](链接)
-- [标题](链接)
+- [WechatRealFriends](https://pan.baidu.com/s/1ZuF06TBVJ-dAUB22ll2U5A?pwd=6666)：微信好友关系一键检测，基于微信ipad协议，看看有没有朋友偷偷删掉或者拉黑你
+- [局域网文件传输](https://pan.baidu.com/s/14YOdEhiQf_8-lc23mDxVvg?pwd=6666)
+  - Transok：一个高效的局域网文件共享工具
+  - LocalSend
+  - LANDrop
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
