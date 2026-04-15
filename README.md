@@ -142,8 +142,12 @@
   - Screenbox：基于 LibVLC 的通用 Windows 平台媒体播放器
   - Cinetry：网络资源播放器，支持iptv、alist、openlist、webdav、cms、emby、jellyfin等自定义订阅
   - VLC：强大的本地视频播放器
-- [标题](链接)
-- [标题](链接)
+- [直播](https://pan.baidu.com/s/1FhP1q49YWUyNg4CU2HiOBQ?pwd=6666)
+  - DTV-多平台直播轻量化桌面客户端，支持抖音、虎牙、快手、哔哩哔哩
+  - Simple Live：跨平台的聚合直播软件
+  - pure live
+- [翻译](https://pan.baidu.com/s/1Tz73wMxZ812oziSDWq3Cew?pwd=6666)
+  - DocuTranslate：基于大语言模型的轻量级本地文件翻译工具
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
