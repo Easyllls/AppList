@@ -2,7 +2,7 @@
 
 # AppList
 
-**本列表源于个人兴趣爱好，收集整理了 Android、Android TV、Windows 应用，以及 Xposed 和 Magisk 模块。希望能为有类似需求的朋友提供帮助，也便于自己快速查找和管理。列表会根据个人兴趣和使用进行更新。**
+**本列表源于个人兴趣爱好收集整理，包含各种 Android、Android TV、Windows 应用，以及 Xposed 和 Magisk 模块。本列表长期更新。**
 
 [QQ频道](https://pd.qq.com/s/akqek6a90?b=9)
 
