@@ -171,9 +171,19 @@
   - Transok：一个高效的局域网文件共享工具
   - LocalSend：无需互联网，与附近设备共享文件
   - LANDrop：跨平台局域网文件传输工具
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
+- [AppDataCleaner](https://pan.baidu.com/s/10ROWVgwkzvwPSUW64vjzjQ?pwd=6666)：appdata 文件夹清理工具
+- [RunCat](https://pan.baidu.com/s/1_TsfYHsO5LdbfAVscKhbQA?pwd=6666)：在您的任务栏上显示一个跟随CPU负载奔跑的小猫
+- [音乐播放器](https://pan.baidu.com/s/1BMeRmGMVdgTHQtZjwQCDNA?pwd=6666)
+  - AlgerMusicPlayer：第三方网易云音乐播放器、本地服务、桌面歌词等
+  - MusicBox：高颜值、插件化的本地音乐播放器
+  - LZF Music：简洁、美观、功能强大的本地与私有云音乐解决方案
+  - Museeks：简单、干净且跨平台的音乐播放器
+  - 澜音：基于插件获取公开音乐信息与播放功能
+  - SPlayer：简约多功能的音乐播放器
+  - AppRhyme：使用Flutter和Rust构建的开源音乐软件
+  - LX Music：落雪音乐助手-一个免费开源的音乐播放器
+  - MusicFree：一个插件化、定制化、无广告的免费音乐播放器
+  - Biu：第三方基于 Bilibili API 的跨平台桌面音乐播放器
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
