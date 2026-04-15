@@ -217,6 +217,11 @@
   - VideoTools：“小而美”的视频处理工具，功能实用且体积极小
   - HandBrake：视频转码器
   - Video2X：基于机器学习的视频超分辨率和帧插值框架
+  - FFmpegFreeUI
+  - LosslessCut
+  - OpenShot Video Editor
+  - Shotcut
+  - Video2X Qt6
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
