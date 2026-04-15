@@ -207,7 +207,7 @@
 - [Ai](https://pan.baidu.com/s/11TZc-ftKdezzzQCdQlqCdQ?pwd=6666)
   - Everywhere：桌面交互式 AI 助手 支持多模型调用并能直接理解屏幕上的内容
   - ClawX：OpenClaw AI 智能体的桌面客户端
-  - Chatbox：
+  - Chatbox：一个 AI 模型桌面客户端，支持 ChatGPT、Claude、Google Gemini、Ollama 等主流模型
   - Apt：高效便捷的AI解决方案，集成多种最新AI模型
 - [标题](链接)
 - [标题](链接)
