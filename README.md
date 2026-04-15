@@ -235,7 +235,13 @@
 - [远程桌面](https://pan.baidu.com/s/1ft53kAFSFCXqZ5fUSjcAQA?pwd=6666)
   - CrossDesk
   - RustDesk
-- [标题](链接)
+- [自动化工具](https://pan.baidu.com/s/19mnt4CbFnEwXRw17tWNR3Q?pwd=6666)
+  - 点点精灵：专业的 Windows 自动化操作软件
+  - zTasker：强大的 自动任务 工具，无需编程即可设置复杂的自动化流程
+  - RMT：按键宏工具，让用户通过简单配置即可实现多种自动化操作
+  - Shutdown Timerssic：定时关机工具
+  - TinyTask
+  - AutoClicker
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
