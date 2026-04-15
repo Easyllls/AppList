@@ -251,6 +251,8 @@
   - 开心电视助手：功能强大的 Android 设备远程管理与刷机工具
   - Scrcpy GUI：Scrcpy的非官方项目、面向初学者的友好图形界面
   - LinkAndroid：多功能的手机连接助手 支持有线和无线连接
+  - QtScrcpy：基于Qt ffmpeg opengl开发跨平台安卓实时投屏软件
+  - MirrorCaster：高效、低延迟的Android投屏工具
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
