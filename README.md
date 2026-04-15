@@ -187,9 +187,12 @@
   - listen1：可以搜索和播放来自多个主流音乐网站的歌曲，让你的曲库更全面。并支持收藏功能，方便的创建自己的歌单。
   - 拟声：新拟物风格的 音视频播放器
 - [ArchiveMaster](https://pan.baidu.com/s/14GBrwrYkP8Qmxi29gvOfBw?pwd=6666)：一套协助用户对文件进行处理、管理、备份、同步的工具集
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
+- [ImTip](https://pan.baidu.com/s/1LqpP6WtJAU8vNnMPcycArw?pwd=6666)：输入跟踪提示 + 超级热键 + 自定义 AI 助手
+- [Tiny11builder](https://pan.baidu.com/s/1WPyP8CvSPwBH2FuxhFvkLA?pwd=6666)：用于构建精简版 Windows 11 映像的 PowerShell 脚本
+- [内存管理](https://pan.baidu.com/s/1QJEqP5hDsjUGTnd54QXTWA?pwd=6666)
+  - - Mem Reduct：轻量级实时内存管理应用程序
+  - Memory Cleaner 重制版：删除强制联网更新，并添加目前windows已有的所有清理内存方法。
+  - WinMemoryCleaner：RAM清理工具，利用原生Windows功能优化内存区域。
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
