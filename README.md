@@ -140,8 +140,8 @@
   - PotPlayer：Windows平台最优秀的影音全能格式播放器
   - Kazumi：基于自定义规则的跨平台番剧采集APP，支持弹幕、实时超分辨率等
   - Screenbox：基于 LibVLC 的通用 Windows 平台媒体播放器
-  - SPlayer
   - Cinetry：网络资源播放器，支持iptv、alist、openlist、webdav、cms、emby、jellyfin等自定义订阅
+  - VLC：强大的本地视频播放器
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
