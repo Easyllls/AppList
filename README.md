@@ -222,8 +222,9 @@
   - OpenShot Video Editor：一款免费、开源的视频编辑器，易于使用，快速上手，功能强大。
   - Shotcut：免费、开源、跨平台的视频编辑器
   - Video2X Qt6：Video2X 的 Qt6 GUI
-- [标题](链接)
-- [标题](链接)
+- [QTTabBar](https://pan.baidu.com/s/1mQFJitYmmiIngFcNHbUFNA?pwd=6666)：在 Windows 资源管理器中使用多标签功能
+- [Windows激活工具](https://pan.baidu.com/s/11JPOPhrp_Czj8mJNdP46sw?pwd=6666)
+  - HEU KMS Activator：功能强大且易于使用的 Windows 和 Office 激活工具
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
