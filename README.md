@@ -283,6 +283,23 @@
   - Snippai：AI 加持的智能截图工具，截要点，解万难
   - Snow Shot-一款开源、轻量且可扩展的智能截图工具
   - OpenScreen：免费开源的专业级屏幕录像工具
+- [ZyperWin++](https://pan.baidu.com/s/1Nen_bZNzFcQhfAjBJk1yrQ?pwd=6666)：轻便的Windows优化工具
+- [Winhance](https://pan.baidu.com/s/12BaWKEZjd6ug8_iDjDVb0w?pwd=6666)：PowerShell GUI 应用程序，旨在优化和自定义您的 Windows 体验。
+- [剪切板](https://pan.baidu.com/s/1uCF42LsXlhXiUNPDvgbIEQ?pwd=6666)
+  - EcoPaste
+  - QuickClipboard
+  - Ditto
+- [相册与图片浏览](https://pan.baidu.com/s/1bxxVQQ6BfsbEx4B8TW_IgA?pwd=6666)
+  - Honeyview：快速轻量的图片查看器 支持设置无边框浏览
+  - PicView：快速、免费且完全可定制的图片查看器。
+- [iptv](https://pan.baidu.com/s/1T4pI4guztmuMJblA_DdRTg?pwd=6666)
+  - IPTVnator：IPTV 播放器 支持 m3u 和 m3u8 播放列表、收藏频道、电子节目单等更多特性
+- [BiliNote](https://pan.baidu.com/s/1djQmza2RNqLisDewF3B36w?pwd=6666)：AI 视频笔记生成工具 让 AI 为你的视频做笔记
+- [No!! MeiryoUI](https://pan.baidu.com/s/1W_ysiEuj1dWT4FU40t7z3g?pwd=6666)：用于 Windows 8.1/10/11 系统的字体设置工具
+- [小说与文档](https://pan.baidu.com/s/1ETPPahRS0QfzDNFjaJDAkQ?pwd=6666)
+  - Calibre：功能强大且易于使用的电子书管理器
+  - 
+  - 
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
