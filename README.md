@@ -148,14 +148,21 @@
   - pure live
 - [翻译](https://pan.baidu.com/s/1Tz73wMxZ812oziSDWq3Cew?pwd=6666)
   - DocuTranslate：基于大语言模型的轻量级本地文件翻译工具
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
+- [Block-Ads](https://pan.baidu.com/s/1p6pARVSBq4tJMcym7D5Qxg?pwd=6666)：禁止垃圾进程运行
+- [CTM工具](https://pan.baidu.com/s/1QpHic3vBtGBhteRB3IumyQ?pwd=6666)：适用于 Windows 10 与 11 的桌面美化与系统优化工具
+- [硬件监控资源监控](https://pan.baidu.com/s/1AbgEAxhd6BNya91NXvTLMw?pwd=6666)
+  - LiteMonitor：轻量、可定制的开源桌面硬件监控软件并支持任务栏显示，支持更换皮肤。
+  - TrafficMonitor：系统信息监控悬浮窗软件，并支持任务栏显示，支持更换皮肤。
+- [Defendnot](https://pan.baidu.com/s/1ZYvQ4PwCLOR-8sEgFhGqVA?pwd=6666)：通过 WSC API 来禁用 Windows Defender
+- [Process Lasso](https://pan.baidu.com/s/1NzdgEkdiqk7Fs-xJM5sCXQ?pwd=6666)：实时 CPU 优化和进程自动化管理
+- [解压缩](https://pan.baidu.com/s/1IHSnkkc1p2EFMw9G-cEA2g?pwd=6666)
+  - NanaZip：面向现代 Windows 体验的开源解压缩文件管理器
+  - PeaZip：一款功能强大且易于使用的文件解压缩工具
+  - WinRAR：强大且易用的老牌解压缩文件管理器
+  - 7-Zip：一款拥有极高压缩比的开源压缩软件
+- [Seelen UI](https://pan.baidu.com/s/16Vo652EU3yYzTXCEJHFwkQ?pwd=6666)：完全可定制的 Windows 10/11 桌面环境
+- [哔哩哔哩（第三方）](https://pan.baidu.com/s/1--ro9xh-wucNedmfdPupNg?pwd=6666)
+  - 哔哩助理：基于 Windows App SDK 和 AI 构建的 BiliBili 第三方应用
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
