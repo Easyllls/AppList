@@ -25,16 +25,16 @@
 <details>
 <summary>🔓 <strong>Root管理器</strong></summary>
 
-- [Magisk](https://pan.baidu.com/s/1tkbt21EHDLIkl3wVMZv-Bg?pwd=6666)
+- [Magisk](https://pan.baidu.com/s/1q9nEYRGGC0klg_3FocqWlQ?pwd=6666)
   - 稳定版
   - Canray
   - Alpha
-- [KernelSU](https://pan.baidu.com/s/1cQHUyqPB2hd_oXztBrpBdw?pwd=6666)
+- [KernelSU](https://pan.baidu.com/s/1xhaWmtz4fNxiiFMKkIBtLg?pwd=6666)
   - SukiSU Ultra
   - ReSukiSU
   - KernelSU Next
   - KernelSU
-- [APatch](https://pan.baidu.com/s/1gdXLCWy0SL3IZ07XO1yczA?pwd=6666)
+- [APatch](https://pan.baidu.com/s/1qv7tFBrWMOwLiCDCLFOG8Q?pwd=6666)
   - APatch
   - APatch Next
 - [SuperSU](链接)：最早的Root管理器，兼容安卓7及以下设备
@@ -52,7 +52,7 @@
 <details>
 <summary>🛠 <strong>Xposed Framework</strong></summary>
 
-- [LSPosed](https://pan.baidu.com/s/1tun9ra_UvPbJgRwOS_pTWw?pwd=6666)
+- [LSPosed](https://pan.baidu.com/s/1tVytETarI7m8uebnvwSnaA?pwd=6666)
   - LSPosed
   - LSPosed - Irena
   - ReLSPosed
