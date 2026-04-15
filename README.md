@@ -217,11 +217,11 @@
   - VideoTools：“小而美”的视频处理工具，功能实用且体积极小
   - HandBrake：视频转码器
   - Video2X：基于机器学习的视频超分辨率和帧插值框架
-  - FFmpegFreeUI
-  - LosslessCut
-  - OpenShot Video Editor
-  - Shotcut
-  - Video2X Qt6
+  - FFmpegFreeUI：ffmpeg 在 Windows 上的轻度专业交互外壳，收录大量参数，界面美观，交互友好。让普通人也能够轻松压制视频和转换格式。
+  - LosslessCut：FFmpeg 图形化界面，专门用于对视频、音频、字幕及其他相关媒体文件进行极速、无损的操作。
+  - OpenShot Video Editor：一款免费、开源的视频编辑器，易于使用，快速上手，功能强大。
+  - Shotcut：免费、开源、跨平台的视频编辑器
+  - Video2X Qt6：Video2X 的 Qt6 GUI
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
