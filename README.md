@@ -232,7 +232,9 @@
   - Sucrose Wallpaper Engine：强大的多功能壁纸引擎，完全自定义桌面体验
 - [Keyviz](https://pan.baidu.com/s/1DND7N3DqMz6B7DzgxA0_Cw?pwd=6666)：按键可视化软件，可以实时显示您的按键和鼠标操作
 - [KeyStats](https://pan.baidu.com/s/1j2RGSdc13MRYzltl45EdOQ?pwd=6666)：键盘鼠标轨迹统计菜单栏应用
-- [标题](链接)
+- [远程桌面](https://pan.baidu.com/s/1ft53kAFSFCXqZ5fUSjcAQA?pwd=6666)
+  - CrossDesk
+  - RustDesk
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
