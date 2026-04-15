@@ -230,8 +230,8 @@
   - Lively Wallpaper：由 WinUI 3驱动的动态桌面壁纸和屏幕保护程序
   - WinDynamicDesktop：根据一天中时间变化的动态壁纸
   - Sucrose Wallpaper Engine：强大的多功能壁纸引擎，完全自定义桌面体验
-- [标题](链接)
-- [标题](链接)
+- [Keyviz](https://pan.baidu.com/s/1DND7N3DqMz6B7DzgxA0_Cw?pwd=6666)：按键可视化软件，可以实时显示您的按键和鼠标操作
+- [KeyStats](https://pan.baidu.com/s/1j2RGSdc13MRYzltl45EdOQ?pwd=6666)：键盘鼠标轨迹统计菜单栏应用
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
