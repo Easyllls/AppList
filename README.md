@@ -275,7 +275,14 @@
   - Notepad3：快速且轻量级的基于 Scintilla 的文本编辑器
   - Notepad4：基于 Scintilla 的轻量级文本编辑器
   - Notepad Next：轻量级、跨平台的开源文本编辑器
-- [标题](链接)
+- [截屏与录屏](https://pan.baidu.com/s/1Pam5tZV_JdJD8giJM958yQ?pwd=6666)
+  - SunnyCapturer：简洁且漂亮的截图工具，支持图片翻译和OCR
+  - Flameshot：功能强大且易于使用的截图软件
+  - ScreenCapture：轻量、功能丰富的截图程序
+  - X-Snip：小巧、轻量、功能丰富的截图工具
+  - Snippai：AI 加持的智能截图工具，截要点，解万难
+  - Snow Shot-一款开源、轻量且可扩展的智能截图工具
+  - OpenScreen：免费开源的专业级屏幕录像工具
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
