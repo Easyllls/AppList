@@ -73,6 +73,8 @@
   - EdgeX：Edge 浏览器增强
 - [Activity启动链管理](https://pan.baidu.com/s/1Xq4s4ofM5EJmifkVQeG-hQ?pwd=6666)：拦截 App 跳转并提供选择控制
 - [Punch-hole Download Progress](https://pan.baidu.com/s/1L5t9rSr55tvs0-5Mn_3hEQ?pwd=6666)：在摄像头开孔周围以动画圆环的形式显示下载进度。
+- [QQ](https://pan.baidu.com/s/1wk9QY2Bvfdy7GidJW8zxzg?pwd=6666)
+  - QQHook：QQNT 绕过环境检测模块，防止冻结/踢下线。
 
 </details>
 
