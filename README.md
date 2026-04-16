@@ -44,6 +44,68 @@
 <details>
 <summary>🎭 <strong>Magisk Module（大部分已兼容 KernelSU、APatch）</strong></summary>
 
+- [Shamiko](https://pan.baidu.com/s/1BGXvS2lbqRtcp6uVCm7mHQ?pwd=6666)：在Zygisk模式下更好的隐藏Root
+- [InternalBrowserRedirect](链接)：强制应用内链接用外部浏览器打开 支持自定义规则
+- [IFW Enhance](链接)：意图（分享菜单）清理 阻止烦人的多余 Intent
+  - IFW Enhance TIW：第三方修改版
+- [Lynx](链接)：适用于想要提高 Android 性能的用户，特别是游戏玩家并关注电池消耗。
+- [Zygisk](https://pan.baidu.com/s/1JbcDVYAe3Ot-9ZtFzvkyYA?pwd=6666)：第三方 Zygisk 实现，可替代Magisk自身的Zygisk和让KernelSU、APatch加载Zygisk模块
+  - Zygisk Next
+  - ReZygisk
+  - NeoZygisk
+- [Universal GMS Doze](https://pan.baidu.com/s/1UWrPD7m2K1n3CkY6vFNcvA?pwd=6666)：让GMS不那么耗电
+- [Play Integrity Fix](https://pan.baidu.com/s/1XYRT5S6pg5d3UXMDFf_KwA?pwd=6666)：修复 Play Integrity 和 SafetyNet 认证
+- [Play Integrity Fix INJECT](https://pan.baidu.com/s/1Jof28xubN6VK9yTxaxLFJg?pwd=6666)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
 - [标题](链接)
 - [标题](链接)
 
@@ -60,7 +122,8 @@
   - LSPosed - mod
   - LSPosed - npm
 - [Xposed](https://pan.baidu.com/s/1PEreyA9D_vaP_ejcToPqiA?pwd=6666)：安卓7及以下系统  
-- [EdXposed](https://pan.baidu.com/s/1P2AZvMZLdkv-QIIRGZxFtw?pwd=6666)：安卓8–11  
+- [EdXposed](https://pan.baidu.com/s/1P2AZvMZLdkv-QIIRGZxFtw?pwd=6666)：安卓8–11
+- [Riru](https://pan.baidu.com/s/1CSsnfA0t7Qh9DeWww_Z1Tg?pwd=6666)：注入 zygote，以允许模块在应用程序或系统服务器中运行其代码。（不再建议使用，仅备份）
 
 </details>
 
