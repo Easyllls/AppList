@@ -143,6 +143,13 @@
   - 影视
   - OK影视：基于影视提供部分增强功能
   - 影视仓
+  - 月光宝盒PLUS
+  - 蚂蚁影视
+  - 月光宝盒Box
+  - 小苹果影视盒子
+  - 云仓Box
+  - QBox
+  - Pluto
 - [LeanKeyboard](链接)：输入法
 
 </details>
