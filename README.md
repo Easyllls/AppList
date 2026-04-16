@@ -322,7 +322,9 @@
   - TTS-Vue：微软语音合成工具，将文本转为语音
 - [O&O ShutUp10++](https://pan.baidu.com/s/177kO1jhZVujM91Rq5JA7eg?pwd=6666)：适用于 Windows 10 和 11 的免费反间谍工具
 - [Extab](https://pan.baidu.com/s/1ZaNuHt2tVrM8IrTa41TrPQ?pwd=6666)：多标签页资源管理器
-- [标题](链接)
+- [Nilesoft Shell](https://pan.baidu.com/s/1rhETan7CbKY7yW_XmCh4kA?pwd=6666)：文件资源管理器上下文菜单管理器
+- [DreamScene2](https://pan.baidu.com/s/1_aQufVxnufK25yi1NM2Z2w?pwd=6666)：一个小而快并且功能强大的动态桌面软件
+- [Win11Debloat](https://pan.baidu.com/s/15EHwla5HgJ1xqkl8JtdVFg?pwd=6666)：Win10/11系统优化脚本，卸载预装应用 禁用遥测等
 - [标题](链接)
 
 
