@@ -37,7 +37,7 @@
 - [APatch](https://pan.baidu.com/s/1qv7tFBrWMOwLiCDCLFOG8Q?pwd=6666)
   - APatch
   - APatch Next
-- [SuperSU](链接)：最早的Root管理器，兼容安卓7及以下设备
+- [SuperSU](https://pan.baidu.com/s/1qeNx805k-HWanyc-SFG5PA?pwd=6666)：最早的Root管理器，兼容安卓7及以下设备
 
 </details>
 
@@ -59,7 +59,7 @@
   - Vector（JingMatrix）
   - LSPosed - mod
   - LSPosed - npm
-- [Xposed](链接)：安卓7及以下系统  
+- [Xposed](https://pan.baidu.com/s/1PEreyA9D_vaP_ejcToPqiA?pwd=6666)：安卓7及以下系统  
 - [EdXposed](链接)：安卓8–11  
 
 </details>
