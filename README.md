@@ -138,10 +138,10 @@
   - CatBox
   - TVBox_q215613905：原版
   - TVBox_takagen99：原版开发版
-  - XMBOX
+  - XMBOX：基于影视开发优化界面
   - 宝盒
   - 影视
-  - OK影视
+  - OK影视：基于影视提供部分增强功能
   - 影视仓
 - [LeanKeyboard](链接)：输入法
 
