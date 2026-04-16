@@ -309,7 +309,8 @@
 - [AIDA64](https://pan.baidu.com/s/1fu_LDiAZwAk4RtH5DeaIxQ?pwd=6666)：功能强大的系统诊断和基准测试工具，
 - [ContextMenuManager](https://pan.baidu.com/s/1GHYoQ40k3UpnRTYt221JaQ?pwd=6666)：右键菜单管理程序
 - [OFGB](https://pan.baidu.com/s/1Y2_sYKZSdJXGkybk3ETN7Q?pwd=6666)：一键关闭Windows11中的所有广告
-- [标题](链接)
+- [钉钉](https://pan.baidu.com/s/1EUKtJoV9LfKG26Fkue5CTQ?pwd=6666)
+  - DingTalkRevokeMsgPatcher：钉钉消息防撤回补丁
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
