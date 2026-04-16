@@ -130,6 +130,9 @@
 - [移除温控](https://pan.baidu.com/s/1npRdCa7W9oGpfkF7egFjxw?pwd=6666)：通过移除/屏蔽各厂商温控来全面释放性能
 - [运存防线](https://pan.baidu.com/s/10JkF7dfBA9cW6KYqpbue8A?pwd=6666)：当手机RAM可用内存低于10%时自动清理进程释放内存
 - [iOS Emoji](https://pan.baidu.com/s/1Imvf0vUXAeRhi3RKfZ7ejw?pwd=6666)：允许安卓设备用户替换系统表情符号为iOS风格的表情符号
+- [Zygisk Detach](https://pan.baidu.com/s/1HIOO8cqNhtk1fyEb11I_Qg?pwd=6666)
+- [Unlock CN GMS](https://pan.baidu.com/s/1IKTLGmISW_hsghx1gDARew?pwd=6666)
+- [AsoulOpt](https://pan.baidu.com/s/1r7xb03tOMGtDBJZAmr945g?pwd=6666)：游戏线程优化
 
 </details>
 
