@@ -55,27 +55,43 @@
   - NeoZygisk
 - [Universal GMS Doze](https://pan.baidu.com/s/1UWrPD7m2K1n3CkY6vFNcvA?pwd=6666)：让GMS不那么耗电
 - [Play Integrity Fix](https://pan.baidu.com/s/1XYRT5S6pg5d3UXMDFf_KwA?pwd=6666)：修复 Play Integrity 和 SafetyNet 认证
-- [Play Integrity Fix INJECT](https://pan.baidu.com/s/1Jof28xubN6VK9yTxaxLFJg?pwd=6666)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
+- [Play Integrity Fix INJECT](https://pan.baidu.com/s/1Jof28xubN6VK9yTxaxLFJg?pwd=6666)：利用Zygisk以注入的方式实现修复Play认证
+- [China Play Integrity Fix](https://pan.baidu.com/s/1IH40ulTXSPVfStyjZPjP5g?pwd=6666)：对国内版ROM定制开发并提供更多功能
+  - PIFS：高级版，拥有更多功能
+  - PIFB：轻量版
+- [Zygisk Assistant](https://pan.baidu.com/s/1ZLN5t_9JKBYVVYWDOKb4bg?pwd=6666)：通过在用户模式下卸载可疑挂载来隐藏 Root。
+- [Clipboard Whitelist](链接)：允许应用在后台访问剪贴板
+- [A-SOUL Games Optimization](链接)：Android游戏线程调整，提升游戏性能
+- [Audio jitter silencer](链接)：用于解决 Android 设备上音频抖动问题
+- [Audio misc.settings](链接)：用于配置和优化 Android 设备上的各种音频设置
+- [AudioHQ](链接)：高级音频控制器 独立控制每个应用的音量
+- [ViPER4](链接)：音频增强模块
+- [QTI memory optimization](链接)：适用于Android设备的内存管理优化模块
+- [CacheCleaner](链接)：自动清理应用程序缓存
+- [AdGuardHome](https://pan.baidu.com/s/1FkDzIaCg7FpjSsWJa9Q7KQ?pwd=6666)：让AdGuardHome运行在安卓设备上的模块，以下是三个开发者的版本
+  - twoone3（自用）
+  - top大佬(酷安)
+  - CHIZI-0618（推荐）
+- [指纹支付](https://pan.baidu.com/s/13PKNZgHgfnZf-PDbuB_UGA?pwd=6666)：让常用应用在支持指纹识别的设备上使用指纹支付，支持微信、支付宝、京东、淘宝、云闪付
+- [QSC定量停充](链接)：到达指定电量、指定温度自动停止充电、自动恢复充电
+- [MIUI｜HyperOS](https://pan.baidu.com/s/1kGIzA5I-qyqQ7fvIdwIrKA?pwd=6666)：以下模块仅适用于小米设备
+  - Monet Project：为 MIUI 和 HyperOS 带来Material You主题
+  - HyperOptimize：通过优化系统参数，禁用应用程序和系统进程来减少功耗和内存消耗。
+  - HyperUnlocked：适用于小米设备的高级功能解锁模块
+  - MIUI优化：修改MIUI部分系统配置参数以提升性能
+  - MIUI动态温控：动态调整MIUI系统不同场景下的温度墙
+- [Uperf](链接)：Android用户态性能控制器
+- [冻它](链接)：墓碑机制模块，自动暂停后台应用运行
+- [深度Doze](链接)：清理电池优化白名单
+- [存储空间隔离](链接)：优雅地解决“坏应用”滥用存储权限的问题
+- [动态刷新率](https://pan.baidu.com/s/1e_VdXgTrMD6oaj-WAfHnVA?pwd=6666)：动态调整屏幕刷新率
+  - Dfps
+  - fas-rs
+  - afps
+- [微信](https://pan.baidu.com/s/183KJpbmqHHa5ftKV_XWukw?pwd=6666)
+  - 微信进程清理：息屏清理不必要的进程以降低内存占用
+  - 微信莫奈取色模块：为微信开启莫奈取色
+  - 
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
