@@ -233,6 +233,7 @@
   - Lively Wallpaper：由 WinUI 3驱动的动态桌面壁纸和屏幕保护程序
   - WinDynamicDesktop：根据一天中时间变化的动态壁纸
   - Sucrose Wallpaper Engine：强大的多功能壁纸引擎，完全自定义桌面体验
+  - DreamScene2：一个小而快并且功能强大的动态桌面软件
 - [Keyviz](https://pan.baidu.com/s/1DND7N3DqMz6B7DzgxA0_Cw?pwd=6666)：按键可视化软件，可以实时显示您的按键和鼠标操作
 - [KeyStats](https://pan.baidu.com/s/1j2RGSdc13MRYzltl45EdOQ?pwd=6666)：键盘鼠标轨迹统计菜单栏应用
 - [远程桌面](https://pan.baidu.com/s/1ft53kAFSFCXqZ5fUSjcAQA?pwd=6666)
@@ -323,7 +324,6 @@
 - [O&O ShutUp10++](https://pan.baidu.com/s/177kO1jhZVujM91Rq5JA7eg?pwd=6666)：适用于 Windows 10 和 11 的免费反间谍工具
 - [Extab](https://pan.baidu.com/s/1ZaNuHt2tVrM8IrTa41TrPQ?pwd=6666)：多标签页资源管理器
 - [Nilesoft Shell](https://pan.baidu.com/s/1rhETan7CbKY7yW_XmCh4kA?pwd=6666)：文件资源管理器上下文菜单管理器
-- [DreamScene2](https://pan.baidu.com/s/1_aQufVxnufK25yi1NM2Z2w?pwd=6666)：一个小而快并且功能强大的动态桌面软件
 - [Win11Debloat](https://pan.baidu.com/s/15EHwla5HgJ1xqkl8JtdVFg?pwd=6666)：Win10/11系统优化脚本，卸载预装应用 禁用遥测等
 - [标题](链接)
 
