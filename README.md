@@ -136,8 +136,8 @@
   - Ghosten Player：支持播放网盘与本地文件并自动生成海报墙的视频播放
 - [TVbox](https://pan.baidu.com/s/1_7_gD39SXqXpyJTD4LoRzg?pwd=6666)
   - CatBox
-  - TVBox_q215613905
-  - TVBox_takagen99
+  - TVBox_q215613905：原版
+  - TVBox_takagen99：原版开发版
   - XMBOX
   - 宝盒
   - 影视
