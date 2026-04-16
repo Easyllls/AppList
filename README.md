@@ -321,7 +321,7 @@
 - [TTS（语音合成）](https://pan.baidu.com/s/1HpJPOAzXq7VS8H4k_vezQg?pwd=6666)
   - TTS-Vue：微软语音合成工具，将文本转为语音
 - [O&O ShutUp10++](https://pan.baidu.com/s/177kO1jhZVujM91Rq5JA7eg?pwd=6666)：适用于 Windows 10 和 11 的免费反间谍工具
-- [标题](链接)
+- [Extab](https://pan.baidu.com/s/1ZaNuHt2tVrM8IrTa41TrPQ?pwd=6666)：多标签页资源管理器
 - [标题](链接)
 - [标题](链接)
 
