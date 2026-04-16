@@ -151,6 +151,9 @@
   - QBox
   - Pluto
 - [LeanKeyboard](链接)：输入法
+- [应用商店](链接)
+  - Flicky
+  - Emotn Store
 
 </details>
 
