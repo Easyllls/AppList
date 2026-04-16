@@ -100,22 +100,23 @@
 <details>
 <summary>📺 <strong>Android TV</strong></summary>
 
-- [IPTV](链接)
+- [IPTV](https://pan.baidu.com/s/1FqmhAooEflR2aPt3n_jl-Q?pwd=6666)
   - 我的电视：电视直播
-  - WebView 电视：基于腾讯 X5 iptv播放器
-- [直播](链接)
+  - WebView 电视：基于 腾讯X5 WebView 开发的电视直播App
+- [直播](https://pan.baidu.com/s/17vfKF2MIGZrYkMgzoVr8-A?pwd=6666)
   - Simple Live：多平台聚合直播，支持抖音、斗鱼、虎牙、快手
   - 纯粹直播：支持多平台 + 自定义源
-- [桌面](https://pan.baidu.com/s/10k75Mo9t1hyfKPIII7hfyQ?pwd=6666)
+- [桌面](https://pan.baidu.com/s/1CirDDSQ28wKjVW9lSCNcBw?pwd=6666)
   - FLauncher
   - Projectivy Launcher
-  - Leanback 启动器
-  - LM Ultimate
+  - Leanback启动器：第三方开源的 Google Leanback 启动器增强版
+  - LM Ultimate：安卓电视 盒子桌面管理工具
   - Emotn UI
-- [Fluffy](链接)：文件管理器  
-- [Adblocker](链接)：带广告拦截浏览器  
+- [Fluffy](https://pan.baidu.com/s/1HgIwfWjtjVRSKjy8IbOitA?pwd=6666)：文件管理器  
+- [浏览器](https://pan.baidu.com/s/1j4fZxCvmbbAwJaF9Um2uHQ?pwd=6666)
+  - Browser：带广告拦截浏览器  
 - [小白云盘](链接)：第三方阿里网盘，支持 4K 播放  
-- [Gemby](链接)：基于mpv的Emby 客户端  
+- [Gemby](https://pan.baidu.com/s/1c1Wru2QBt7f9qBj9bxCNaQ?pwd=6666)：基于 MPV 内核的简约 Emby 客户端
 
 </details>
 
