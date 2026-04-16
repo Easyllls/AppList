@@ -91,25 +91,26 @@
 - [微信](https://pan.baidu.com/s/183KJpbmqHHa5ftKV_XWukw?pwd=6666)
   - 微信进程清理：息屏清理不必要的进程以降低内存占用
   - 微信莫奈取色模块：为微信开启莫奈取色
-  - 
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
+  - WAuxvZygisk
+  - 微信平板模式
+- [BCR](链接)：适用于 Android 设备的基本通话记录器
+- [Monet All](链接)：莫奈取色整合模块
+- [A1-内存管理](链接)：内存管理模块
+- [充电加速](链接)：持续修改电池温度及充电电流，以达到最快充电速度
+- [SUI](链接)：现代超级用户界面实显
+- [Uperf Game Turbo](链接)：用户态性能控制器
+- [旁路充电](链接)：游戏运行时启用旁路充电以降低游戏时电池发热
+- [Xperia Music](链接)：将索尼音乐安装在任何设备上 并支持更新
+- [ACC](链接)：高级充电控制器
+- [Tricky Store](https://pan.baidu.com/s/1-YvrDVeLcYK04Nydz1ueVg?pwd=6666)：用于修改 Android 设备密钥证明（Key Attestation）证书链
+- [Tricky Store OSS](https://pan.baidu.com/s/1j3cqc1YwaK1rCN_0-XXarw?pwd=6666)：Tricky Store 模块的开源替代品
+- [Tricky Store (Fork)](https://pan.baidu.com/s/1cHl_FjtxrxjB6kFAu_hwpQ?pwd=6666)：Tricky Store的分支版本
+- [Tricky Addon](https://pan.baidu.com/s/1BRPTGRdOfJfz1InjNyAvhA?pwd=6666)：用于配置 Tricky Store 的 KSU WebUI
+- [OpenEUICC](https://pan.baidu.com/s/1Z3ZkIlC2USUu10Hf6yMcWg?pwd=6666)：让不支持的安卓设备支持外置eSIM卡
+- [LiveBoot](https://pan.baidu.com/s/1kvrPB2Vv7_9XHTIPMSTJBg?pwd=6666)：为 Android 设备启用 Unix 风格启动动画
+- [自动神仙救砖](链接)：卡开机自动禁用Magisk模块
+- [Open Webview](链接)：替换系统WebView
+- [Wifi Bonding](https://pan.baidu.com/s/1NNDZ7lEn7dQEF20ehHDzPA?pwd=6666)：高通设备 WiFi 增强模块
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
