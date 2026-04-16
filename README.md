@@ -47,7 +47,7 @@
 - [OpenList](https://pan.baidu.com/s/1y5D91JNMwFTwoxeltrBPjA?pwd=6666)：将 OpenList 文件服务器集成到安卓系统中以系统化方式运行
 - [TEESimulator](https://pan.baidu.com/s/1yoGK0B3UaGfXi5vpi2XoBQ?pwd=6666)：用于安卓设备硬件支持密钥对及密钥证明的软件模拟方案
 - [Bypasser](https://pan.baidu.com/s/1PAc8COtXJMmqubJIbmefEA?pwd=6666)：用于绕过与 TMLP 相关的 Android 环境检测模块
-- [NavTweaks](链接)：自定义 Android 10–15 的导航栏外观
+- [NavTweaks](https://pan.baidu.com/s/1Kfz2zIsZbjlZu3nNnKjDBw?pwd=6666)：自定义 Android 10–15 的导航栏外观
 - [GhostGMS](https://pan.baidu.com/s/186OFg21sm1dFKe17ejjVQQ?pwd=6666)：优化 Google 移动服务（GMS），提升续航、隐私与性能
 - [IntegrityBox](https://pan.baidu.com/s/1N8BdJsPD_HjV5lNUg2oYTQ?pwd=6666)：一个完整的 Play Integrity 兼容性与系统信号管理工具包
 - [Frosty](https://pan.baidu.com/s/1VCqmtDRcmKMmX7DXqHctXg?pwd=6666)：冻结与省电模块
@@ -122,7 +122,7 @@
 - [playcurlNEXT](https://pan.baidu.com/s/1Log__Eoo8QYqj8w7kuVaxA?pwd=6666)：自动管理 Play Integrity 指纹
 - [ZN - Audit Patch](https://pan.baidu.com/s/1wp4W0Yt3w_D0H1_Gg5nJvA?pwd=6666)：修补 Android 审计日志中的一个信息泄露漏洞
 - [Nohello](https://pan.baidu.com/s/1QG-gy6VwllDHLt86lRol0w?pwd=6666)：Zygisk 模块，用于隐藏设备 Root 或 Zygisk 的存在
-- [Infamick Script](链接)：多功能系统工具脚本合集，可快速访问和修改各类系统设置与信息。
+- [Infamick Script](https://pan.baidu.com/s/1bKyFtqL4t-DhL-R4gJ48-w?pwd=6666)：多功能系统工具脚本合集，可快速访问和修改各类系统设置与信息。
 - [BindHosts](https://pan.baidu.com/s/1ybEIJ2QkIFeO6rBfD2AX6Q?pwd=6666)：一个更强大的 “进阶版 Hosts 管理器”，自带管理工具和 Web UI
 - [Treat Wheel](https://pan.baidu.com/s/1Tijyz4YQuJSHicz6AcNMRw?pwd=6666)：在 ReZygisk 环境下隐藏非 Zygisk Root痕迹
 - [Play Integrity Fork](https://pan.baidu.com/s/1yPlXgSspBQ9UXpnKdmFWwA?pwd=6666)：修复安卓设备完整性检查。
