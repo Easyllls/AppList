@@ -315,8 +315,8 @@
 - [Tai](https://pan.baidu.com/s/1HINDIt1OhOyWBVksfieKmw?pwd=6666)：统计软件使用和网站浏览时长
 - [WUB](https://pan.baidu.com/s/1VcAoTtDs8Lt8QhRoRBN6jQ?pwd=6666)：阻止Windows10/11及其内置应用自动更新
 - [GetQzonehistory](https://pan.baidu.com/s/1k8UFrrScYB1ZpXmMNEXJtQ?pwd=6666)：获取QQ发布的历史说说 支持导出
-- [标题](链接)
-- [标题](链接)
+- [MyComputerManager](https://pan.baidu.com/s/1X6FcMYuRAAl3Tgj8WPPgLA?pwd=6666)：删除此电脑里“多余”的快捷方式
+- [MyKeymap](https://pan.baidu.com/s/1O2AyHjgAzyQsVYsFm9IX0w?pwd=6666)：基于 AutoHotkey 的键盘映射工具
 - [标题](链接)
 - [标题](链接)
 
