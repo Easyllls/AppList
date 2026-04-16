@@ -103,6 +103,13 @@
 - [IPTV](https://pan.baidu.com/s/1FqmhAooEflR2aPt3n_jl-Q?pwd=6666)
   - 我的电视：电视直播
   - WebView 电视：基于 腾讯X5 WebView 开发的电视直播App
+  - 电视直播
+  - 壹米｜电视
+  - M3U
+  - OTT TV
+  - TiviMate
+  - 你的电视
+  - 极简TV
 - [直播](https://pan.baidu.com/s/17vfKF2MIGZrYkMgzoVr8-A?pwd=6666)
   - Simple Live：多平台聚合直播，支持抖音、斗鱼、虎牙、快手
   - 纯粹直播：支持多平台 + 自定义源
@@ -112,9 +119,11 @@
   - Leanback启动器：第三方开源的 Google Leanback 启动器增强版
   - LM Ultimate：安卓电视 盒子桌面管理工具
   - Emotn UI
+  - ATV Launcher
 - [Fluffy](https://pan.baidu.com/s/1HgIwfWjtjVRSKjy8IbOitA?pwd=6666)：文件管理器  
 - [浏览器](https://pan.baidu.com/s/1j4fZxCvmbbAwJaF9Um2uHQ?pwd=6666)
-  - Browser：带广告拦截浏览器  
+  - Browser：带广告拦截浏览器
+  - TV Bro: 电视网络浏览器
 - [小白云盘](https://pan.baidu.com/s/1l6pUPZhyaBYkg3eG0oP09w?pwd=6666)：强大的云盘工具，目前支持阿里、夸克
 - [Gemby](https://pan.baidu.com/s/1c1Wru2QBt7f9qBj9bxCNaQ?pwd=6666)：基于 MPV 内核的简约 Emby 客户端
 - [播放器](https://pan.baidu.com/s/1VKfU7L8IRBm5iJVGkpoa2g?pwd=6666)：各种第三方网络播放器
@@ -122,9 +131,19 @@
   - ACAC：第三方AcFun TV和Pad客户端
   - BBLL：第三方哔哩哔哩客户端
   - 哔哩哔哩：尝试修复经典的 bilibili tv 1.6.6 版本
+  - YyTv
 - [视频播放器](https://pan.baidu.com/s/1b3qjrq0OWnYNHZhOghBGKA?pwd=6666)
   - Ghosten Player：支持播放网盘与本地文件并自动生成海报墙的视频播放
 - [TVbox](https://pan.baidu.com/s/1_7_gD39SXqXpyJTD4LoRzg?pwd=6666)
+  - CatBox
+  - TVBox_q215613905
+  - TVBox_takagen99
+  - XMBOX
+  - 宝盒
+  - 影视
+  - OK影视
+  - 影视仓
+- [LeanKeyboard](链接)：输入法
 
 </details>
 
