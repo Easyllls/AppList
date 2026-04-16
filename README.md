@@ -305,10 +305,10 @@
   - Readest：EPUB 和 PDF 电子书阅读器，专为深度沉浸式阅读而打造。
   - Anx reader：强大、优雅、功能丰富的电子书阅读器，重新定义您的数字阅读之旅
 - [Atlas](https://pan.baidu.com/s/1qq-tNQxK7zC6zO1f_Yp3tA?pwd=6666)：开源且轻量的 Windows 修改脚本，旨在优化性能、隐私和可用性
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
+- [WSA PacMan](https://pan.baidu.com/s/1lcVOMWHAjRU0_MnKzLrbnQ?pwd=6666)：Windows子系统 (WSA) 的 GUI 包安装和管理器
+- [AIDA64](https://pan.baidu.com/s/1fu_LDiAZwAk4RtH5DeaIxQ?pwd=6666)：功能强大的系统诊断和基准测试工具，
+- [ContextMenuManager](https://pan.baidu.com/s/1GHYoQ40k3UpnRTYt221JaQ?pwd=6666)：右键菜单管理程序
+- [OFGB](https://pan.baidu.com/s/1Y2_sYKZSdJXGkybk3ETN7Q?pwd=6666)：一键关闭Windows11中的所有广告
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
