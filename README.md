@@ -150,8 +150,8 @@
   - 云仓Box
   - QBox
   - Pluto
-- [LeanKeyboard](链接)：适用于安卓机顶盒和电视的键盘
-- [应用商店](链接)
+- [LeanKeyboard](https://pan.baidu.com/s/1GpF35iZT5MRp55_8ZQtxWg?pwd=6666)：适用于安卓机顶盒和电视的键盘
+- [应用商店](https://pan.baidu.com/s/1-6OyChfL3UUROvFWYUJ0rQ?pwd=6666)
   - Flicky：一款拥有电视友好界面的 F-Droid 客户端。
   - Emotn Store
 
