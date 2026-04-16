@@ -115,7 +115,7 @@
 - [Fluffy](https://pan.baidu.com/s/1HgIwfWjtjVRSKjy8IbOitA?pwd=6666)：文件管理器  
 - [浏览器](https://pan.baidu.com/s/1j4fZxCvmbbAwJaF9Um2uHQ?pwd=6666)
   - Browser：带广告拦截浏览器  
-- [小白云盘](链接)：第三方阿里网盘，支持 4K 播放  
+- [小白云盘](https://pan.baidu.com/s/1l6pUPZhyaBYkg3eG0oP09w?pwd=6666)：强大的云盘工具，目前支持阿里、夸克
 - [Gemby](https://pan.baidu.com/s/1c1Wru2QBt7f9qBj9bxCNaQ?pwd=6666)：基于 MPV 内核的简约 Emby 客户端
 - [播放器](https://pan.baidu.com/s/1VKfU7L8IRBm5iJVGkpoa2g?pwd=6666)：各种第三方网络播放器
   - HuYa：第三方虎牙和抖音TV客户端
@@ -125,7 +125,6 @@
 - [视频播放器](https://pan.baidu.com/s/1b3qjrq0OWnYNHZhOghBGKA?pwd=6666)
   - Ghosten Player：支持播放网盘与本地文件并自动生成海报墙的视频播放
 - [TVbox](https://pan.baidu.com/s/1_7_gD39SXqXpyJTD4LoRzg?pwd=6666)
-- [小白云盘](链接)：强大的云盘工具，目前支持阿里、夸克
 
 </details>
 
