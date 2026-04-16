@@ -111,15 +111,15 @@
 - [自动神仙救砖](链接)：卡开机自动禁用Magisk模块
 - [Open Webview](链接)：替换系统WebView
 - [Wifi Bonding](https://pan.baidu.com/s/1NNDZ7lEn7dQEF20ehHDzPA?pwd=6666)：高通设备 WiFi 增强模块
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
+- [Net Switch](链接)：隔离任何应用的互联网访问
+- [playcurlNEXT](https://pan.baidu.com/s/1Log__Eoo8QYqj8w7kuVaxA?pwd=6666)：自动管理 Play Integrity 指纹
+- [ZN - Audit Patch](https://pan.baidu.com/s/1wp4W0Yt3w_D0H1_Gg5nJvA?pwd=6666)：修补 Android 审计日志中的一个信息泄露漏洞
+- [Nohello](https://pan.baidu.com/s/1QG-gy6VwllDHLt86lRol0w?pwd=6666)：Zygisk 模块，用于隐藏设备 Root 或 Zygisk 的存在
+- [Infamick Script](链接)：多功能系统工具脚本合集，可快速访问和修改各类系统设置与信息。
+- [BindHosts](https://pan.baidu.com/s/1ybEIJ2QkIFeO6rBfD2AX6Q?pwd=6666)：一个更强大的 “进阶版 Hosts 管理器”，自带管理工具和 Web UI
+- [Treat Wheel](https://pan.baidu.com/s/1Tijyz4YQuJSHicz6AcNMRw?pwd=6666)：在 ReZygisk 环境下隐藏非 Zygisk Root痕迹
+- [Play Integrity Fork](https://pan.baidu.com/s/1yPlXgSspBQ9UXpnKdmFWwA?pwd=6666)：修复安卓设备完整性检查。
+- [Yuri Keybox Manager](https://pan.baidu.com/s/1nTwwnKwVpXZcgaySh2vmqA?pwd=6666)：一键获取 Yuri keybox 使受完整性检测影响的应用通过验证
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
