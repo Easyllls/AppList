@@ -44,6 +44,13 @@
 <details>
 <summary>🎭 <strong>Magisk Module（大部分已兼容 KernelSU、APatch）</strong></summary>
 
+- [OpenList](https://pan.baidu.com/s/1y5D91JNMwFTwoxeltrBPjA?pwd=6666)：将 OpenList 文件服务器集成到安卓系统中以系统化方式运行
+- [TEESimulator](https://pan.baidu.com/s/1yoGK0B3UaGfXi5vpi2XoBQ?pwd=6666)：用于安卓设备硬件支持密钥对及密钥证明的软件模拟方案
+- [Bypasser](https://pan.baidu.com/s/1PAc8COtXJMmqubJIbmefEA?pwd=6666)：用于绕过与 TMLP 相关的 Android 环境检测模块
+- [NavTweaks](链接)：自定义 Android 10–15 的导航栏外观
+- [GhostGMS](https://pan.baidu.com/s/186OFg21sm1dFKe17ejjVQQ?pwd=6666)：优化 Google 移动服务（GMS），提升续航、隐私与性能
+- [IntegrityBox](https://pan.baidu.com/s/1N8BdJsPD_HjV5lNUg2oYTQ?pwd=6666)：一个完整的 Play Integrity 兼容性与系统信号管理工具包
+- [Frosty](https://pan.baidu.com/s/1VCqmtDRcmKMmX7DXqHctXg?pwd=6666)：冻结与省电模块
 - [Shamiko](https://pan.baidu.com/s/1BGXvS2lbqRtcp6uVCm7mHQ?pwd=6666)：在Zygisk模式下更好的隐藏Root
 - [InternalBrowserRedirect](链接)：强制应用内链接用外部浏览器打开 支持自定义规则
 - [IFW Enhance](链接)：意图（分享菜单）清理 阻止烦人的多余 Intent
@@ -120,11 +127,9 @@
 - [Treat Wheel](https://pan.baidu.com/s/1Tijyz4YQuJSHicz6AcNMRw?pwd=6666)：在 ReZygisk 环境下隐藏非 Zygisk Root痕迹
 - [Play Integrity Fork](https://pan.baidu.com/s/1yPlXgSspBQ9UXpnKdmFWwA?pwd=6666)：修复安卓设备完整性检查。
 - [Yuri Keybox Manager](https://pan.baidu.com/s/1nTwwnKwVpXZcgaySh2vmqA?pwd=6666)：一键获取 Yuri keybox 使受完整性检测影响的应用通过验证
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
+- [移除温控](https://pan.baidu.com/s/1npRdCa7W9oGpfkF7egFjxw?pwd=6666)：通过移除/屏蔽各厂商温控来全面释放性能
+- [运存防线](https://pan.baidu.com/s/10JkF7dfBA9cW6KYqpbue8A?pwd=6666)：当手机RAM可用内存低于10%时自动清理进程释放内存
+- [iOS Emoji](https://pan.baidu.com/s/1Imvf0vUXAeRhi3RKfZ7ejw?pwd=6666)：允许安卓设备用户替换系统表情符号为iOS风格的表情符号
 
 </details>
 
