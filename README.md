@@ -245,6 +245,7 @@
   - Shutdown Timerssic：定时关机工具
   - TinyTask：人人都能实现自动化
   - OP Auto Clicker：非常实用、安全的鼠标自动点击工具
+  - MouseClickTool：简单好用的鼠标连点器
 - [Glow](https://pan.baidu.com/s/1MNuD23wz7f1xSjR08JV2Tw?pwd=6666)：功能强大的系统、硬件分析工具
 - [Hosts](https://pan.baidu.com/s/1viluA1C_ZklqU0SDhoUluA?pwd=6666)
   - SwitchHosts：管理、切换多个 hosts 方案的工具
