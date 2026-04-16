@@ -311,6 +311,9 @@
 - [OFGB](https://pan.baidu.com/s/1Y2_sYKZSdJXGkybk3ETN7Q?pwd=6666)：一键关闭Windows11中的所有广告
 - [钉钉](https://pan.baidu.com/s/1EUKtJoV9LfKG26Fkue5CTQ?pwd=6666)
   - DingTalkRevokeMsgPatcher：钉钉消息防撤回补丁
+- [Tai](https://pan.baidu.com/s/1HINDIt1OhOyWBVksfieKmw?pwd=6666)：统计软件使用和网站浏览时长
+- [WUB](https://pan.baidu.com/s/1VcAoTtDs8Lt8QhRoRBN6jQ?pwd=6666)：阻止Windows10/11及其内置应用自动更新
+- [标题](链接)
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
