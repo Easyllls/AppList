@@ -318,7 +318,8 @@
 - [GetQzonehistory](https://pan.baidu.com/s/1k8UFrrScYB1ZpXmMNEXJtQ?pwd=6666)：获取QQ发布的历史说说 支持导出
 - [MyComputerManager](https://pan.baidu.com/s/1X6FcMYuRAAl3Tgj8WPPgLA?pwd=6666)：删除此电脑里“多余”的快捷方式
 - [MyKeymap](https://pan.baidu.com/s/1O2AyHjgAzyQsVYsFm9IX0w?pwd=6666)：基于 AutoHotkey 的键盘映射工具
-- [标题](链接)
+- [TTS（语音合成）](https://pan.baidu.com/s/1HpJPOAzXq7VS8H4k_vezQg?pwd=6666)
+  - TTS-Vue：微软语音合成工具，将文本转为语音
 - [标题](链接)
 
 
