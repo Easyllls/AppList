@@ -60,7 +60,7 @@
   - LSPosed - mod
   - LSPosed - npm
 - [Xposed](https://pan.baidu.com/s/1PEreyA9D_vaP_ejcToPqiA?pwd=6666)：安卓7及以下系统  
-- [EdXposed](链接)：安卓8–11  
+- [EdXposed](https://pan.baidu.com/s/1P2AZvMZLdkv-QIIRGZxFtw?pwd=6666)：安卓8–11  
 
 </details>
 
