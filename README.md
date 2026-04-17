@@ -84,6 +84,7 @@
   - Zsm android
   - A1-内存管理：第三方内存管理，支持 Android 8 ~ 14
   - 运存防线：当手机RAM可用内存低于10%时自动清理进程释放内存
+  - 超强保后台：超强保后台模块，配置文件位于：/data/adb/swap controller/swap.conf
 - [CacheCleaner](链接)：自动清理应用程序缓存
 - [AdGuardHome](https://pan.baidu.com/s/1FkDzIaCg7FpjSsWJa9Q7KQ?pwd=6666)：让AdGuardHome运行在安卓设备上的模块，以下是三个开发者的版本
   - twoone3（自用）
