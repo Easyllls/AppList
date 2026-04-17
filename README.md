@@ -78,7 +78,13 @@
   - ViPER4Android FX
   - Moto Dolby G Pro：从 Motorola G Pro 移植的均衡器，适用于任何 Android 9 及更高版本的 64 位架构设备。
   - ViPERFX：蝰蛇音效完整简中
-- [QTI memory optimization](链接)：适用于Android设备的内存管理优化模块
+- [内存优化（运行内存）](https://pan.baidu.com/s/10JkF7dfBA9cW6KYqpbue8A?pwd=6666)
+  - QTI memory optimization：适用于Android设备的内存管理优化模块
+  - 内存清理：在内存紧张时，回收闲置的内存(不会杀死任何应用)。
+  - Zsm android
+  - A1-内存管理 
+  - 运存防线：当手机RAM可用内存低于10%时自动清理进程释放内存
+  - 
 - [CacheCleaner](链接)：自动清理应用程序缓存
 - [AdGuardHome](https://pan.baidu.com/s/1FkDzIaCg7FpjSsWJa9Q7KQ?pwd=6666)：让AdGuardHome运行在安卓设备上的模块，以下是三个开发者的版本
   - twoone3（自用）
@@ -107,7 +113,6 @@
   - 微信平板模式
 - [BCR](链接)：适用于 Android 设备的基本通话记录器
 - [Monet All](链接)：莫奈取色整合模块
-- [A1-内存管理](链接)：内存管理模块
 - [充电加速](链接)：持续修改电池温度及充电电流，以达到最快充电速度
 - [SUI](链接)：现代超级用户界面实显
 - [Uperf Game Turbo](链接)：用户态性能控制器
@@ -133,7 +138,6 @@
 - [Play Integrity Fork](https://pan.baidu.com/s/1yPlXgSspBQ9UXpnKdmFWwA?pwd=6666)：修复安卓设备完整性检查。
 - [Yuri Keybox Manager](https://pan.baidu.com/s/1nTwwnKwVpXZcgaySh2vmqA?pwd=6666)：一键获取 Yuri keybox 使受完整性检测影响的应用通过验证
 - [移除温控](https://pan.baidu.com/s/1npRdCa7W9oGpfkF7egFjxw?pwd=6666)：通过移除/屏蔽各厂商温控来全面释放性能
-- [运存防线](https://pan.baidu.com/s/10JkF7dfBA9cW6KYqpbue8A?pwd=6666)：当手机RAM可用内存低于10%时自动清理进程释放内存
 - [iOS Emoji](https://pan.baidu.com/s/1Imvf0vUXAeRhi3RKfZ7ejw?pwd=6666)：允许安卓设备用户替换系统表情符号为iOS风格的表情符号
 - [Zygisk Detach](https://pan.baidu.com/s/1HIOO8cqNhtk1fyEb11I_Qg?pwd=6666)
 - [Unlock CN GMS](https://pan.baidu.com/s/1IKTLGmISW_hsghx1gDARew?pwd=6666)
