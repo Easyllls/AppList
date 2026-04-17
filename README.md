@@ -335,7 +335,25 @@
 - [自动化工具](https://pan.baidu.com/s/1UBwSZvVHnz7YER4xOu0gtw?pwd=6666)
   - Xposed Edge Pro：功能强大的按键与手势映射、各种自动化任务
   - ShortX：各种自动任务
-- [标题](链接)
+- [蚂蚁森林助手](https://pan.baidu.com/s/1LDiIPGr7yEhCfafRtZ3BVw?pwd=6666)
+  - 芝麻粒-TK-Alpha
+  - 芝麻粒-GR
+  - 女神逆天版
+  - XRadiant
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
