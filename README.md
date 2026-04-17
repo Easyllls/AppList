@@ -185,7 +185,7 @@
 - [Zygisk Detach](https://pan.baidu.com/s/1HIOO8cqNhtk1fyEb11I_Qg?pwd=6666)：从Play商店中分离已安装的应用（屏蔽更新）
 - [Unlock CN GMS](https://pan.baidu.com/s/1IKTLGmISW_hsghx1gDARew?pwd=6666)：去除国行手机对 GMS 的阉割
 - [青龙面板](https://pan.baidu.com/s/18l_UKRDJ_jl5WfgZt0zS-w?pwd=6666)：面板访问：127.0.0.1:5700，ip:127.0.0.1，用户:root，密码:123456
-
+- [移除提示隐私](https://pan.baidu.com/s/1RT7i1bLmde_jurzVjUpCwg?pwd=6666)：移除状态栏的隐私提示和相机/麦克风占用图标
 
 </details>
 
