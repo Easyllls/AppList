@@ -251,7 +251,10 @@
   - HyperIsland-为澎湃 OS3 打造的超级岛进度通知增强模块
   - SetoHook：适用于HyperOS的系统增强工具
   - Hyper Helper：适用于 HyperOS 的轻量级增强模块
-  - Pengeek（米客）-MIUI与HyperOS定制与增强模块
+  - CustoMIUIzer：MIUI系统增强与优化模块
+    - CustoMIUIzer
+    - CustoMIUIzerMod：适配MIUI14
+    - Pengeek（米客）：基于CustoMIUIzer，适配MIUI与HyperOS定制与增强模块
   - MIUI QOL-此模块改善了在 MIUI 以及 HyperOS 的日常使用体验
   - MiPush Enhance：小米Push增强模块
   - ChargeProtectSetter：调整 HyperOS 电量保护数值
@@ -263,9 +266,9 @@
     - HyperOS
   - AppLock：防止特定应用被侧滑杀死或一键清理，理论上支持 Android 9~12，MIUI 12+，可能也支持更低版本的 Android 和 MIUI 11，如需使用请自行测试
   - AppRetention：通过 Hook 系统 kill 逻辑 来实现 后台保活。 
-  - 
-  - 
-  - 
+  - Auto NFC：仅适用于MIUI，进入/退出 刷卡页面时自动 开启/关闭 NFC
+  - BetterMiuiExpress
+  - ChiMi：MIUI系统优化
   - 
   - 
   - 
