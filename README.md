@@ -95,7 +95,13 @@
   - top大佬(酷安)
   - CHIZI-0618（推荐）
 - [指纹支付](https://pan.baidu.com/s/13PKNZgHgfnZf-PDbuB_UGA?pwd=6666)：让常用应用在支持指纹识别的设备上使用指纹支付，支持微信、支付宝、京东、淘宝、云闪付
-- [QSC定量停充](链接)：到达指定电量、指定温度自动停止充电、自动恢复充电
+- [充电控制](链接)
+  - ACC：高级充电控制器
+  - QSC定量停充：到达指定电量、指定温度自动停止充电、自动恢复充电
+  - 旁路充电：若检测到打开游戏则开启模拟旁路充电，此时主板不再向手机电池充电，以降低游戏时电池发热问题，关闭游戏恢复充电。
+  - 充电控制：控制电流,保持高速充电状态.
+  - 充电加速：尽可能的让手机满血快充。配置文件在/data/adb/turbo-charge/option.txt
+  - GengChao🔥快充模块⚡(二改)：5000mA超高电流充电，实测充电器输出最高可达37.5W，持续功率维持在30W左右(旗舰版修复无线充电功能)，同时在非充电状态下快充模块保持低性能开销运行
 - [MIUI｜HyperOS](https://pan.baidu.com/s/1kGIzA5I-qyqQ7fvIdwIrKA?pwd=6666)：以下模块仅适用于小米设备
   - Monet Project：为 MIUI 和 HyperOS 带来Material You主题
   - HyperOptimize：通过优化系统参数，禁用应用程序和系统进程来减少功耗和内存消耗。
@@ -122,7 +128,6 @@
 - [Uperf Game Turbo](链接)：用户态性能控制器
 - [旁路充电](链接)：游戏运行时启用旁路充电以降低游戏时电池发热
 - [Xperia Music](链接)：将索尼音乐安装在任何设备上 并支持更新
-- [ACC](链接)：高级充电控制器
 - [Tricky Store](https://pan.baidu.com/s/1-YvrDVeLcYK04Nydz1ueVg?pwd=6666)：用于修改 Android 设备密钥证明（Key Attestation）证书链
 - [Tricky Store OSS](https://pan.baidu.com/s/1j3cqc1YwaK1rCN_0-XXarw?pwd=6666)：Tricky Store 模块的开源替代品
 - [Tricky Store (Fork)](https://pan.baidu.com/s/1cHl_FjtxrxjB6kFAu_hwpQ?pwd=6666)：Tricky Store的分支版本
