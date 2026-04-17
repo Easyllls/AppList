@@ -82,7 +82,7 @@
   - QTI memory optimization：适用于Android设备的内存管理优化模块
   - 内存清理：在内存紧张时，回收闲置的内存(不会杀死任何应用)。
   - Zsm android
-  - A1-内存管理 
+  - A1-内存管理：第三方内存管理，支持 Android 8 ~ 14
   - 运存防线：当手机RAM可用内存低于10%时自动清理进程释放内存
   - 
 - [CacheCleaner](链接)：自动清理应用程序缓存
