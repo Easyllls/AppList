@@ -340,10 +340,10 @@
   - 芝麻粒-GR
   - 女神逆天版
   - XRadiant
-  - 
-  - 
-  - 
-  - 
+  - 芝麻粒
+  - 芝麻粒-LazyImmortal
+  - 芝麻粒-TK
+  - 芝麻粒-TK-LazyImmortal
   - 
   - 
   - 
