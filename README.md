@@ -188,9 +188,9 @@
 - [移除提示隐私](https://pan.baidu.com/s/1RT7i1bLmde_jurzVjUpCwg?pwd=6666)：移除状态栏的隐私提示和相机/麦克风占用图标
 - [Android 12 扩展模块](https://pan.baidu.com/s/1XpPB3EKM9XWFA9rjEfDGmw?pwd=6666)：启用并自定义 Android 12 隐藏功能
 - [AOSP Mods](https://pan.baidu.com/s/1n_tsXHHpMs8EPU5HqB0qpw?pwd=6666)：用于在基于AOSP的ROM上在SystemUI上进行自定义的基于Xposed的模块。支持Android 12 +
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
+- [无障碍服务守护](https://pan.baidu.com/s/1yr5yTKS5nyPRQtVDqipsQQ?pwd=6666)：开机自动开启且实时保护无障碍服务,防止应用意外关闭导致无障碍服务连同关闭.
+- [logDisabler](https://pan.baidu.com/s/1lOiSXJRfij7AOzdJcTQGoA?pwd=6666)：优雅的禁用log
+- [智能DNS](https://pan.baidu.com/s/12TMk6znScSydVKU5zf6Dzw?pwd=6666)：根据Ping包往返时间自动选取最优DNS
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
