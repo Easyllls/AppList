@@ -85,7 +85,11 @@
   - A1-内存管理：第三方内存管理，支持 Android 8 ~ 14
   - 运存防线：当手机RAM可用内存低于10%时自动清理进程释放内存
   - 超强保后台：超强保后台模块，配置文件位于：/data/adb/swap controller/swap.conf
-- [CacheCleaner](链接)：自动清理应用程序缓存
+- [内存清理（存储）](https://pan.baidu.com/s/13Y6BnI6q8umMZGK40y6Xdg?pwd=6666)
+  - CacheCleaner：自动清理应用程序缓存
+  - FileClear for ZW：全自动进行深度垃圾清理、广告毒瘤(含腾讯X5内核)屏蔽、系统优化加速的模块
+  - clear the blacklist：crond 清理黑名单列表
+  - Cache Cleaner-彩銘羽：Xposed模块+Magisk模块一起用
 - [AdGuardHome](https://pan.baidu.com/s/1FkDzIaCg7FpjSsWJa9Q7KQ?pwd=6666)：让AdGuardHome运行在安卓设备上的模块，以下是三个开发者的版本
   - twoone3（自用）
   - top大佬(酷安)
