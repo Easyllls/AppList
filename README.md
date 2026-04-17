@@ -364,9 +364,13 @@
   - Guise
   - Device ID Masker Lite
   - Android Faker
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
+- [隐藏应用列表](https://pan.baidu.com/s/1AtMLxiFXKezqI0eeWDkDsA?pwd=6666)
+  - 隐藏应用列表
+  - HMAL：第三方修改版HMA
+  - 隐秘空间
+- [我不是开发者](https://pan.baidu.com/s/1fqQN51z6-RgIZdx7wGXOPw?pwd=6666)：隐藏开发者模式、USB 调试和无线调试。
+- [隐藏无障碍模式](https://pan.baidu.com/s/1K6QCudTPPfBCue5pSJEh7g?pwd=6666)
+  - 非残！
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
