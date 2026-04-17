@@ -108,6 +108,19 @@
   - HyperUnlocked：适用于小米设备的高级功能解锁模块
   - MIUI优化：修改MIUI部分系统配置参数以提升性能
   - MIUI动态温控：动态调整MIUI系统不同场景下的温度墙
+  - DarkMode Evolution：MIUI14/13深色模式补全，已经支持很多应用
+  - SimpleOPT-MIUI：MIUI小优化，仅适用于Android 12的高通845-870平台的设备,
+  - MIUI GameTurbo：此模块将为不受支持的设备解锁Game Turbo、侧边栏、视频工具箱、自动任务、优化充电等功能。
+  - Don't debug!：关闭MIUI非必要调试模式，禁止surfaceflinger高频log(NOP)
+  - MIUI 浏览器增强：恢复MIUI 强大的广告拦截功能。
+  - MIUI优化：修改温控(含MIUI云控)，实现亮屏满血快充与处理器满血运行。等
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
 - [Uperf](链接)：Android用户态性能控制器
 - [冻它](链接)：墓碑机制模块，自动暂停后台应用运行
 - [深度Doze](链接)：清理电池优化白名单
