@@ -245,6 +245,66 @@
 - [Punch-hole Download Progress](https://pan.baidu.com/s/1L5t9rSr55tvs0-5Mn_3hEQ?pwd=6666)：在摄像头开孔周围以动画圆环的形式显示下载进度。
 - [QQ](https://pan.baidu.com/s/1wk9QY2Bvfdy7GidJW8zxzg?pwd=6666)
   - QQHook：QQNT 绕过环境检测模块，防止冻结/踢下线。
+- [MIUI｜HyperOS](https://pan.baidu.com/s/15UPhTPhCzEF9RF3MnK2p9g?pwd=6666)：以下模块仅适用于小米设备
+  - HyperCeiler：HyperOS/MIUI 增强模块
+  - IsleNotify：让HyperOS的通知接入灵动岛
+  - HyperIsland-为澎湃 OS3 打造的超级岛进度通知增强模块
+  - SetoHook：适用于HyperOS的系统增强工具
+  - Hyper Helper：适用于 HyperOS 的轻量级增强模块
+  - Pengeek（米客）-MIUI与HyperOS定制与增强模块
+  - MIUI QOL-此模块改善了在 MIUI 以及 HyperOS 的日常使用体验
+  - MiPush Enhance：小米Push增强模块
+  - ChargeProtectSetter：调整 HyperOS 电量保护数值
+  - HyperPods：在小米设备上增强非小米耳机功能
+  - 智能断充：自定义 HyperOS 充电保护阈值
+  - HyperStar：自定义 HyperOS 控制中心以及一些其他功能
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
 
 </details>
 
