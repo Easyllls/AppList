@@ -52,8 +52,9 @@
 - [IntegrityBox](https://pan.baidu.com/s/1N8BdJsPD_HjV5lNUg2oYTQ?pwd=6666)：一个完整的 Play Integrity 兼容性与系统信号管理工具包
 - [Frosty](https://pan.baidu.com/s/1VCqmtDRcmKMmX7DXqHctXg?pwd=6666)：冻结与省电模块
 - [Shamiko](https://pan.baidu.com/s/1BGXvS2lbqRtcp6uVCm7mHQ?pwd=6666)：在Zygisk模式下更好的隐藏Root
-- [InternalBrowserRedirect](链接)：强制应用内链接用外部浏览器打开 支持自定义规则
-- [IFW Enhance](链接)：意图（分享菜单）清理 阻止烦人的多余 Intent
+- [InternalBrowserRedirect](https://pan.baidu.com/s/1mSHEY00KRmkSjeEVvqSJRg?pwd=6666)：强制应用内链接用外部浏览器打开 支持自定义规则
+- [IFW Enhance](https://pan.baidu.com/s/1qx3AXEMleMrwQFYAu7tExw?pwd=6666)：意图（分享菜单）清理 阻止烦人的多余 Intent
+  - IFW Enhance
   - IFW Enhance TIW：第三方修改版
 - [Lynx](链接)：适用于想要提高 Android 性能的用户，特别是游戏玩家并关注电池消耗。
 - [Zygisk](https://pan.baidu.com/s/1JbcDVYAe3Ot-9ZtFzvkyYA?pwd=6666)：第三方 Zygisk 实现，可替代Magisk自身的Zygisk和让KernelSU、APatch加载Zygisk模块
