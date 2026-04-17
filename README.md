@@ -165,7 +165,7 @@
 - [Tricky Addon](https://pan.baidu.com/s/1BRPTGRdOfJfz1InjNyAvhA?pwd=6666)：用于配置 Tricky Store 的 KSU WebUI
 - [OpenEUICC](https://pan.baidu.com/s/1Z3ZkIlC2USUu10Hf6yMcWg?pwd=6666)：让不支持的安卓设备支持外置eSIM卡
 - [LiveBoot](https://pan.baidu.com/s/1kvrPB2Vv7_9XHTIPMSTJBg?pwd=6666)：为 Android 设备启用 Unix 风格启动动画
-- [自动神仙救砖](链接)：卡开机自动禁用Magisk模块
+- [自动神仙救砖](https://pan.baidu.com/s/1KCS8C3PcTbk25XO1fC0pCw?pwd=6666)：卡开机自动禁用Magisk模块
 - [Open Webview](链接)：替换系统WebView
 - [Wifi Bonding](https://pan.baidu.com/s/1NNDZ7lEn7dQEF20ehHDzPA?pwd=6666)：高通设备 WiFi 增强模块
 - [Net Switch](链接)：隔离任何应用的互联网访问
