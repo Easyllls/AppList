@@ -316,8 +316,8 @@
   - MIUiThemePatcher
   - MIUI9 Root25秒解除限制
 - [fcmfix](https://pan.baidu.com/s/1MtwOanTAnDIBcx8pdt8Icg?pwd=6666)：让fcm/gcm唤醒未启动的应用进行发送通知
-- [标题](链接)
-- [标题](链接)
+- [贴吧TS](https://pan.baidu.com/s/1aU2Rn4pvS01izHHlvnn52A?pwd=6666)：提供修改百度贴吧底栏等个性化功能
+- [知了](https://pan.baidu.com/s/1wi7w-D9BDPAlpSNZUPh2Sg?pwd=6666)：知乎功能扩展与增强模块
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
