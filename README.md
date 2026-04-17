@@ -166,9 +166,9 @@
 - [OpenEUICC](https://pan.baidu.com/s/1Z3ZkIlC2USUu10Hf6yMcWg?pwd=6666)：让不支持的安卓设备支持外置eSIM卡
 - [LiveBoot](https://pan.baidu.com/s/1kvrPB2Vv7_9XHTIPMSTJBg?pwd=6666)：为 Android 设备启用 Unix 风格启动动画
 - [自动神仙救砖](https://pan.baidu.com/s/1KCS8C3PcTbk25XO1fC0pCw?pwd=6666)：卡开机自动禁用Magisk模块
-- [Open Webview](链接)：替换系统WebView
+- [Open Webview](https://pan.baidu.com/s/16szlhzQezq87gS6-yWJreQ?pwd=6666)：替换系统WebView
 - [Wifi Bonding](https://pan.baidu.com/s/1NNDZ7lEn7dQEF20ehHDzPA?pwd=6666)：高通设备 WiFi 增强模块
-- [Net Switch](链接)：隔离任何应用的互联网访问
+- [Net Switch](https://pan.baidu.com/s/1T79v3IEmSHwaioA3tX6S0Q?pwd=6666)：隔离任何应用的互联网访问
 - [playcurlNEXT](https://pan.baidu.com/s/1Log__Eoo8QYqj8w7kuVaxA?pwd=6666)：自动管理 Play Integrity 指纹
 - [ZN - Audit Patch](https://pan.baidu.com/s/1wp4W0Yt3w_D0H1_Gg5nJvA?pwd=6666)：修补 Android 审计日志中的一个信息泄露漏洞
 - [Nohello](https://pan.baidu.com/s/1QG-gy6VwllDHLt86lRol0w?pwd=6666)：Zygisk 模块，用于隐藏设备 Root 或 Zygisk 的存在
@@ -177,7 +177,10 @@
 - [Treat Wheel](https://pan.baidu.com/s/1Tijyz4YQuJSHicz6AcNMRw?pwd=6666)：在 ReZygisk 环境下隐藏非 Zygisk Root痕迹
 - [Play Integrity Fork](https://pan.baidu.com/s/1yPlXgSspBQ9UXpnKdmFWwA?pwd=6666)：修复安卓设备完整性检查。
 - [Yuri Keybox Manager](https://pan.baidu.com/s/1nTwwnKwVpXZcgaySh2vmqA?pwd=6666)：一键获取 Yuri keybox 使受完整性检测影响的应用通过验证
-- [移除温控](https://pan.baidu.com/s/1npRdCa7W9oGpfkF7egFjxw?pwd=6666)：通过移除/屏蔽各厂商温控来全面释放性能
+- [移除温控](https://pan.baidu.com/s/1npRdCa7W9oGpfkF7egFjxw?pwd=6666)
+  - thermal-engine Removerv unofficial：不直接修改系统地移除温控文件
+  - 移除温控【正式版】：通过移除/屏蔽各厂商温控来全面释放性能
+  - 温控移除：采用find自动搜索温控文件+mount挂载方式移除温控
 - [iOS Emoji](https://pan.baidu.com/s/1Imvf0vUXAeRhi3RKfZ7ejw?pwd=6666)：允许安卓设备用户替换系统表情符号为iOS风格的表情符号
 - [Zygisk Detach](https://pan.baidu.com/s/1HIOO8cqNhtk1fyEb11I_Qg?pwd=6666)
 - [Unlock CN GMS](https://pan.baidu.com/s/1IKTLGmISW_hsghx1gDARew?pwd=6666)
