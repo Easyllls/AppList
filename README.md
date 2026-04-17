@@ -351,8 +351,8 @@
   - XQE·雨季
   - VoltX
   - ACEnergy2
-- [标题](链接)
-- [标题](链接)
+- [上帝模式](https://pan.baidu.com/s/1YQVzGR8TPgymaVNpdOqBnQ?pwd=6666)：移除应用中你不想看到的界面
+- [媒体存储设备管理](https://pan.baidu.com/s/1-MxLWwV05LPz1ylgRPHfgQ?pwd=6666)：有效防止媒体存储被滥用
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
