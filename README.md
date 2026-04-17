@@ -353,7 +353,7 @@
   - ACEnergy2
 - [上帝模式](https://pan.baidu.com/s/1YQVzGR8TPgymaVNpdOqBnQ?pwd=6666)：移除应用中你不想看到的界面
 - [媒体存储设备管理](https://pan.baidu.com/s/1-MxLWwV05LPz1ylgRPHfgQ?pwd=6666)：有效防止媒体存储被滥用
-- [硬件参数模拟](https://pan.baidu.com/s/1oDYGszee3QaMhLT2VUEocA?pwd=6666)
+- [硬件参数模拟](https://pan.baidu.com/s/1oDYGszee3QaMhLT2VUEocA?pwd=6666)：针对指定应用模拟设备部分参数信息
   - 隐私保护器
   - 设备修改器2.0测试版
   - DeviceChanger
