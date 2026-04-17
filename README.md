@@ -318,7 +318,15 @@
 - [fcmfix](https://pan.baidu.com/s/1MtwOanTAnDIBcx8pdt8Icg?pwd=6666)：让fcm/gcm唤醒未启动的应用进行发送通知
 - [贴吧TS](https://pan.baidu.com/s/1aU2Rn4pvS01izHHlvnn52A?pwd=6666)：提供修改百度贴吧底栏等个性化功能
 - [知了](https://pan.baidu.com/s/1wi7w-D9BDPAlpSNZUPh2Sg?pwd=6666)：知乎功能扩展与增强模块
-- [标题](链接)
+- [哔哩哔哩](https://pan.baidu.com/s/16t1zGYA-Ula9z1j12-z1YA?pwd=6666)
+  - 花哩花哩
+  - 哔哩漫游X
+  - 哔哩漫游
+  - 哔哩布丁
+  - 哔哩净化
+  - MBGA
+  - Bili调速
+  - BAuxiliary
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
