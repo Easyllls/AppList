@@ -193,9 +193,9 @@
 - [智能DNS](https://pan.baidu.com/s/12TMk6znScSydVKU5zf6Dzw?pwd=6666)：根据Ping包往返时间自动选取最优DNS
 - [Mi-Freeform](https://pan.baidu.com/s/1CBgVchx3bk_ILKduuR_txw?pwd=6666)：Android第三方小窗软件，支持Android 8.1-Android 13。
 - [导航栏调整](https://pan.baidu.com/s/1VVKer0Fzg6ysbDjsyghFlA?pwd=6666)
-  - CustomizedNavbar
-  - G-VisualMod
-  - NavTweaks
+  - CustomizedNavbar：更改导航栏手势指示器颜色以匹配主题的强调色，增加宽度和厚度
+  - G-VisualMod：Systemlessy定制您的Android视觉效果！
+  - NavTweaks：自定义Android 10-16的导航手势
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
