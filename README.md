@@ -196,7 +196,11 @@
   - CustomizedNavbar：更改导航栏手势指示器颜色以匹配主题的强调色，增加宽度和厚度
   - G-VisualMod：Systemlessy定制您的Android视觉效果！
   - NavTweaks：自定义Android 10-16的导航手势
-- [标题](链接)
+- [字体](https://pan.baidu.com/s/1k8YlJScvyYs_ovKndes7BA?pwd=6666)
+  - 筑紫黑体+Neutraface
+  - 浪漫雅圆+sleek+Google(综合字体)
+  - Miui13 Fonts
+  - FOT-MatisseElegantoPro 六字重
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
