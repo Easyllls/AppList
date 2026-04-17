@@ -315,7 +315,7 @@
   - MIUI净化
   - MIUiThemePatcher
   - MIUI9 Root25秒解除限制
-- [标题](链接)
+- [fcmfix](https://pan.baidu.com/s/1MtwOanTAnDIBcx8pdt8Icg?pwd=6666)：让fcm/gcm唤醒未启动的应用进行发送通知
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
