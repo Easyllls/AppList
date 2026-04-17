@@ -153,10 +153,12 @@
   - WAuxvZygisk
   - 微信平板模式
   - 微信QQ内存压制：压制毒瘤微信和QQ的后台内存占用，自动识别是否在后台并且清理掉无用进程，只保留主进程和消息推送进程
-- [BCR](https://pan.baidu.com/s/1TYQKuetgdAocVgzVsc56_Q?pwd=6666)：适用于 Android 设备的基本通话记录器
+- [通话录音](https://pan.baidu.com/s/1TYQKuetgdAocVgzVsc56_Q?pwd=6666)
+  - BCR：适用于 Android 设备的基本通话记录器
+  - Call Recorder 
 - [Monet All](https://pan.baidu.com/s/1SByVdu7ZkUf0MG7ahVVpAw?pwd=6666)：莫奈取色整合模块
 - [SUI](https://pan.baidu.com/s/19IC9mS0cZmENv8VP5DASMQ?pwd=6666)：现代超级用户界面实现，shizuku的Magisk模块实现
-- [Xperia Music](链接)：将索尼音乐安装在任何设备上 并支持更新
+- [Xperia Music](https://pan.baidu.com/s/1ZtCbY5zpgG7iB54SimW8NQ?pwd=6666)：将索尼音乐安装在任何设备上 并支持更新
 - [Tricky Store](https://pan.baidu.com/s/1-YvrDVeLcYK04Nydz1ueVg?pwd=6666)：用于修改 Android 设备密钥证明（Key Attestation）证书链
 - [Tricky Store OSS](https://pan.baidu.com/s/1j3cqc1YwaK1rCN_0-XXarw?pwd=6666)：Tricky Store 模块的开源替代品
 - [Tricky Store (Fork)](https://pan.baidu.com/s/1cHl_FjtxrxjB6kFAu_hwpQ?pwd=6666)：Tricky Store的分支版本
