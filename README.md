@@ -321,18 +321,20 @@
 - [哔哩哔哩](https://pan.baidu.com/s/16t1zGYA-Ula9z1j12-z1YA?pwd=6666)
   - 花哩花哩
   - 哔哩漫游X
-  - 哔哩漫游
+  - 哔哩漫游：解除B站客户端番剧区域限制并且提供其他小功能
   - 哔哩布丁
   - 哔哩净化
   - MBGA
   - Bili调速
   - BAuxiliary
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
+- [禁止卸载](https://pan.baidu.com/s/1OhU1842VovI3Yc7uZtfdgw?pwd=6666)：禁止卸载应用与清除应用数据
+- [支付宝 InstallB 模块](https://pan.baidu.com/s/1ZzvmFLqkn9L0IACiJUkiKw?pwd=6666)：为支付宝支付界面提供黑色钻石会员级视觉效果或完全自定义的个性化皮肤。
+- [核心破解](https://pan.baidu.com/s/1OAmcunIFKLeNmHiS-W9hRg?pwd=6666)：禁用 Android 签名验证
+- [指纹支付](https://pan.baidu.com/s/1DYt8r6HJPrWW4wF_Pf_AOw?pwd=6666)：让常用应用在支持指纹识别的设备上使用指纹支付，支持京东 淘宝 支付宝 微信 云闪付
+- [启用截图](https://pan.baidu.com/s/1Yph_79jaXG0AviN9u9PuEA?pwd=6666)：解除Android设备的某些应用截屏限制
+- [自动化工具](https://pan.baidu.com/s/1UBwSZvVHnz7YER4xOu0gtw?pwd=6666)
+  - Xposed Edge Pro：功能强大的按键与手势映射、各种自动化任务
+  - ShortX：各种自动任务
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
