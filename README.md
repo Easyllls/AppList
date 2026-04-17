@@ -79,7 +79,9 @@
   - PIFB：轻量版
 - [Zygisk Assistant](https://pan.baidu.com/s/1ZLN5t_9JKBYVVYWDOKb4bg?pwd=6666)：通过在用户模式下卸载可疑挂载来隐藏 Root。
 - [Clipboard Whitelist](https://pan.baidu.com/s/1ayPMiP8E3sYAADqFecJFkg?pwd=6666)：剪切板白名单，允许应用在后台访问剪贴板
-- [A-SOUL Games Optimization](https://pan.baidu.com/s/1945bXVGUd4vmJ2TS8D9Ddg?pwd=6666)：通过优化线程放置提升游戏性能。
+- - [游戏线程优化](https://pan.baidu.com/s/1945bXVGUd4vmJ2TS8D9Ddg?pwd=6666)
+  - A-SOUL Games Optimization：通过优化线程放置提升游戏性能。
+  - AsoulOpt：游戏线程优化
 - [音频优化与控制](https://pan.baidu.com/s/1ZfQC6v5asCdPxCORi4mB5g?pwd=6666)
   - Audio jitter silencer：用于解决 Android 设备上音频抖动问题
   - Audio misc. settings：设置各种音频配置值的模块（媒体音频音量步长（100 级）、提高重采样质量、禁用效果框架等）。
@@ -175,7 +177,6 @@
 - [iOS Emoji](https://pan.baidu.com/s/1Imvf0vUXAeRhi3RKfZ7ejw?pwd=6666)：允许安卓设备用户替换系统表情符号为iOS风格的表情符号
 - [Zygisk Detach](https://pan.baidu.com/s/1HIOO8cqNhtk1fyEb11I_Qg?pwd=6666)
 - [Unlock CN GMS](https://pan.baidu.com/s/1IKTLGmISW_hsghx1gDARew?pwd=6666)
-- [AsoulOpt](https://pan.baidu.com/s/1r7xb03tOMGtDBJZAmr945g?pwd=6666)：游戏线程优化
 
 </details>
 
