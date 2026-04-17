@@ -269,6 +269,27 @@
   - Auto NFC：仅适用于MIUI，进入/退出 刷卡页面时自动 开启/关闭 NFC
   - BetterMiuiExpress
   - ChiMi：MIUI系统优化
+  - DIY NFC卡面图片：自定义MIUI/HyperOS/ColorOS NFC卡片的卡面
+  - MiuiFcmFix
+  - ForegroundPin：贴边小窗强制前台
+  - MaxFreeForm：为各种 MIUI / HyperOS 设备解除多小窗限制
+  - MIDock
+  - Miller
+  - MiPush Enhance
+  - Miui弹窗
+  - Miui Feature
+  - MIUI Extra
+  - MiTombstone
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
