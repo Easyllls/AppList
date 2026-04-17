@@ -154,7 +154,7 @@
   - 微信平板模式
   - 微信QQ内存压制：压制毒瘤微信和QQ的后台内存占用，自动识别是否在后台并且清理掉无用进程，只保留主进程和消息推送进程
 - [BCR](https://pan.baidu.com/s/1TYQKuetgdAocVgzVsc56_Q?pwd=6666)：适用于 Android 设备的基本通话记录器
-- [Monet All](链接)：莫奈取色整合模块
+- [Monet All](https://pan.baidu.com/s/1SByVdu7ZkUf0MG7ahVVpAw?pwd=6666)：莫奈取色整合模块
 - [充电加速](链接)：持续修改电池温度及充电电流，以达到最快充电速度
 - [SUI](链接)：现代超级用户界面实显
 - [Uperf Game Turbo](链接)：用户态性能控制器
