@@ -258,9 +258,11 @@
   - HyperPods：在小米设备上增强非小米耳机功能
   - 智能断充：自定义 HyperOS 充电保护阈值
   - HyperStar：自定义 HyperOS 控制中心以及一些其他功能
-  - 
-  - 
-  - 
+  - 5G开关：在移动网络面板中添加 5G 开关
+    - MIUI
+    - HyperOS
+  - AppLock：防止特定应用被侧滑杀死或一键清理，理论上支持 Android 9~12，MIUI 12+，可能也支持更低版本的 Android 和 MIUI 11，如需使用请自行测试
+  - AppRetention：通过 Hook 系统 kill 逻辑 来实现 后台保活。 
   - 
   - 
   - 
