@@ -201,9 +201,11 @@
   - 浪漫雅圆+sleek+Google(综合字体)
   - Miui13 Fonts
   - FOT-MatisseElegantoPro 六字重
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
+- [传感器控制](https://pan.baidu.com/s/1pALdg_wP_7fUmzPWqi38XQ?pwd=6666)：利用安卓某个版本调试的原理禁用控制传感器
+- [第三方应用下载目录重定向](https://pan.baidu.com/s/1uXHIxmcZM9kpTHwJKdtfOw?pwd=6666)
+- [下载器](https://pan.baidu.com/s/1f9aodvtokIIYpp4rH3CHxw?pwd=6666)
+  - aria2 for Magisk
+  - AriaNg for Magisk：AriaNg 是一个让 aria2 更容易使用的现代 Web 前端，AriaNg 使用响应式布局, 支持各种计算机或移动设备。后台访问：http://127.0.0.1:88
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
