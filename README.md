@@ -206,10 +206,10 @@
 - [下载器](https://pan.baidu.com/s/1f9aodvtokIIYpp4rH3CHxw?pwd=6666)
   - aria2 for Magisk
   - AriaNg for Magisk：AriaNg 是一个让 aria2 更容易使用的现代 Web 前端，AriaNg 使用响应式布局, 支持各种计算机或移动设备。后台访问：http://127.0.0.1:88
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
+- [selinux enforce](https://pan.baidu.com/s/1cjUB5XUMPsmPQlSeUY9rYg?pwd=6666)：设置selinux强制执行
+- [GPS Pro Test](https://pan.baidu.com/s/1rWOhcsd34FoyKMytPCY4pA?pwd=6666)：优化GPS定位速度
+- [Pixel (2016) Permissions](https://pan.baidu.com/s/1vgDN1Ro6D5WcA5UZwwoFiQ?pwd=6666)：在一般的Android设备上获取Google Pixel（2016）的所有特殊功能。
+- [LocationReportEnabler](https://pan.baidu.com/s/1Bkt2Y3Kk82r85y7e1J0IFQ?pwd=6666)：通过更改相关包中的系统属性，在不受支持的区域启用 Google Feed、时间线和位置报告。
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
