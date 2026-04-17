@@ -182,8 +182,8 @@
   - 移除温控【正式版】：通过移除/屏蔽各厂商温控来全面释放性能
   - 温控移除：采用find自动搜索温控文件+mount挂载方式移除温控
 - [iOS Emoji](https://pan.baidu.com/s/1Imvf0vUXAeRhi3RKfZ7ejw?pwd=6666)：允许安卓设备用户替换系统表情符号为iOS风格的表情符号
-- [Zygisk Detach](https://pan.baidu.com/s/1HIOO8cqNhtk1fyEb11I_Qg?pwd=6666)
-- [Unlock CN GMS](https://pan.baidu.com/s/1IKTLGmISW_hsghx1gDARew?pwd=6666)
+- [Zygisk Detach](https://pan.baidu.com/s/1HIOO8cqNhtk1fyEb11I_Qg?pwd=6666)：从Play商店中分离已安装的应用（屏蔽更新）
+- [Unlock CN GMS](https://pan.baidu.com/s/1IKTLGmISW_hsghx1gDARew?pwd=6666)：去除国行手机对 GMS 的阉割
 
 </details>
 
