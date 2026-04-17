@@ -305,9 +305,16 @@
   - FuckMiMarket
   - WooBox For MIUI
   - XMiTools
-  - 
-  - 
-  - 
+  - 糙米
+  - 状态栏歌词
+  - 指纹限制解除模块
+  - 小米净化
+  - 创意主题Xposed
+  - miui音乐本地化
+  - MIUI双开限制解除
+  - MIUI净化
+  - MIUiThemePatcher
+  - MIUI9 Root25秒解除限制
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
