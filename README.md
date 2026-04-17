@@ -370,8 +370,15 @@
   - 隐秘空间
 - [我不是开发者](https://pan.baidu.com/s/1fqQN51z6-RgIZdx7wGXOPw?pwd=6666)：隐藏开发者模式、USB 调试和无线调试。
 - [隐藏无障碍模式](https://pan.baidu.com/s/1K6QCudTPPfBCue5pSJEh7g?pwd=6666)
-  - 非残！
-- [标题](链接)
+  - 非残！：使用xposed hook假装自己没有使用无障碍服务
+- [进程管理](https://pan.baidu.com/s/1PJjIMMpfZqftWpicu-Upgg?pwd=6666)
+  - 不死鸟：通过修改进程的 MaxOomAdj 实现应用进程保活
+  - NoActive
+  - AppRetention
+  - NoANR
+  - 进程锁
+  - LSPDoze：设备在熄屏状态下尽快进入深度 Doze 以优化待机功耗
+  - Freezer：适用于安卓设备的进程管理模块（墓碑模式）
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
