@@ -379,7 +379,10 @@
   - 进程锁
   - LSPDoze：设备在熄屏状态下尽快进入深度 Doze 以优化待机功耗
   - Freezer：适用于安卓设备的进程管理模块（墓碑模式）
-- [标题](链接)
+- [去广告](https://pan.baidu.com/s/1DKHzQ-nqv_pFIgeeU5EXxQ?pwd=6666)：基于Xposed框架的Android广告屏蔽工具
+  - 开屏小能手
+  - Fuck AD
+  - AdClose
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
