@@ -56,7 +56,7 @@
 - [IFW Enhance](https://pan.baidu.com/s/1qx3AXEMleMrwQFYAu7tExw?pwd=6666)：意图（分享菜单）清理 阻止烦人的多余 Intent
   - IFW Enhance
   - IFW Enhance TIW：第三方修改版
-- [Lynx](链接)：适用于想要提高 Android 性能的用户，特别是游戏玩家并关注电池消耗。
+- [Lynx](https://pan.baidu.com/s/1Mkc_UNUvCqucVZHcG9lf5g?pwd=6666)：内核调整，适用于想要提高 Android 性能的用户，特别是游戏玩家并关注电池消耗。
 - [Zygisk](https://pan.baidu.com/s/1JbcDVYAe3Ot-9ZtFzvkyYA?pwd=6666)：第三方 Zygisk 实现，可替代Magisk自身的Zygisk和让KernelSU、APatch加载Zygisk模块
   - Zygisk Next
   - ReZygisk
