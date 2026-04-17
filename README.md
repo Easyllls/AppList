@@ -68,12 +68,16 @@
   - PIFS：高级版，拥有更多功能
   - PIFB：轻量版
 - [Zygisk Assistant](https://pan.baidu.com/s/1ZLN5t_9JKBYVVYWDOKb4bg?pwd=6666)：通过在用户模式下卸载可疑挂载来隐藏 Root。
-- [Clipboard Whitelist](链接)：允许应用在后台访问剪贴板
-- [A-SOUL Games Optimization](链接)：Android游戏线程调整，提升游戏性能
-- [Audio jitter silencer](链接)：用于解决 Android 设备上音频抖动问题
-- [Audio misc.settings](链接)：用于配置和优化 Android 设备上的各种音频设置
-- [AudioHQ](链接)：高级音频控制器 独立控制每个应用的音量
-- [ViPER4](链接)：音频增强模块
+- [Clipboard Whitelist](https://pan.baidu.com/s/1ayPMiP8E3sYAADqFecJFkg?pwd=6666)：剪切板白名单，允许应用在后台访问剪贴板
+- [A-SOUL Games Optimization](https://pan.baidu.com/s/1945bXVGUd4vmJ2TS8D9Ddg?pwd=6666)：通过优化线程放置提升游戏性能。
+- [音频优化与控制](https://pan.baidu.com/s/1ZfQC6v5asCdPxCORi4mB5g?pwd=6666)
+  - Audio jitter silencer：用于解决 Android 设备上音频抖动问题
+  - Audio misc. settings：设置各种音频配置值的模块（媒体音频音量步长（100 级）、提高重采样质量、禁用效果框架等）。
+  - AudioHQ - Advanced Audio Controller：高级音频控制器 独立控制每个应用的音量
+  - Ainur Narsil：全系统音频修改工具，有助于使 Android 播放通道摆脱大多数音效（OpenSL 和硬件 DSP）的干扰。对于配备优秀内部编解码器和数模转换器的设备，这可能尤其有用——让纯硬件音频保持制造商的原始调校。
+  - ViPER4Android FX
+  - Moto Dolby G Pro：从 Motorola G Pro 移植的均衡器，适用于任何 Android 9 及更高版本的 64 位架构设备。
+  - ViPERFX：蝰蛇音效完整简中
 - [QTI memory optimization](链接)：适用于Android设备的内存管理优化模块
 - [CacheCleaner](链接)：自动清理应用程序缓存
 - [AdGuardHome](https://pan.baidu.com/s/1FkDzIaCg7FpjSsWJa9Q7KQ?pwd=6666)：让AdGuardHome运行在安卓设备上的模块，以下是三个开发者的版本
