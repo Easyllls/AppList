@@ -274,7 +274,7 @@
   - ACAC：第三方AcFun TV和Pad客户端
   - BBLL：第三方哔哩哔哩客户端
   - 哔哩哔哩：尝试修复经典的 bilibili tv 1.6.6 版本
-  - YyTv
+  - YyTv：虎牙
 - [视频播放器](https://pan.baidu.com/s/1b3qjrq0OWnYNHZhOghBGKA?pwd=6666)
   - Ghosten Player：支持播放网盘与本地文件并自动生成海报墙的视频播放
 - [TVbox](https://pan.baidu.com/s/1_7_gD39SXqXpyJTD4LoRzg?pwd=6666)：tvbox通常需要自备订阅，否则就是个空壳
