@@ -114,9 +114,13 @@
   - Don't debug!：关闭MIUI非必要调试模式，禁止surfaceflinger高频log(NOP)
   - MIUI 浏览器增强：恢复MIUI 强大的广告拦截功能。
   - MIUI优化：修改温控(含MIUI云控)，实现亮屏满血快充与处理器满血运行。等
-  - 
-  - 
-  - 
+  - MIUI步数修改：修改MIUI步数，仅限MIUI。
+  - MIUIAppCut for ZW：基于我多年的MIUI APP精简积累制作；中度精简！！刷入前务必根据自己需要修改cutapp.txt文件！！模块安装后，会自动区分是否为Pad，进行搜索精简。
+  - Xiaomi CTS Pass：强制小米设备通过谷歌CTS测试，
+  - Unlock MIUI ThemeManager：MIUI主题破解
+  - MIUI全机型充电加速：配置文件在模块目录下的config.ini文件
+  - A-智能步数管理
+  - 极致性能：让设备的性能释放最大化。移除部分厂商对处理器性能的限制。接通电源时拉满处理器性能释放并关闭LPM，断电自动复原。提高CPU/GPU/DDR温度墙上限来减少发热导致的卡顿。
   - 
   - 
   - 
