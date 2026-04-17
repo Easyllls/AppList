@@ -56,7 +56,17 @@
 - [IFW Enhance](https://pan.baidu.com/s/1qx3AXEMleMrwQFYAu7tExw?pwd=6666)：意图（分享菜单）清理 阻止烦人的多余 Intent
   - IFW Enhance
   - IFW Enhance TIW：第三方修改版
-- [Lynx](https://pan.baidu.com/s/1Mkc_UNUvCqucVZHcG9lf5g?pwd=6666)：内核调整，适用于想要提高 Android 性能的用户，特别是游戏玩家并关注电池消耗。
+- [性能控制（内核调整）](https://pan.baidu.com/s/1Mkc_UNUvCqucVZHcG9lf5g?pwd=6666)
+  - Lynx：内核调整，适用于想要提高 Android 性能的用户，特别是游戏玩家并关注电池消耗。
+  - - Uperf：Android用户态性能控制器
+  - CPU Max Frequency Limiter：CPU最大频率限制器，支持主流SoC
+  - FDE.AI
+  - MAGNETAR：设备性能优化器-旨在在每个使用场景中提供最佳体验
+  - 𝙎𝙢𝙤𝙤𝙩𝙝 𝙏𝙬𝙚𝙖𝙠𝙨：该模块旨在提高系统性能、流畅度和改善游戏体验。
+  - STRP：专注于最大限度地提高用户体验|释放Android设备的真正力量！ |在Termux中使用'su -c strpmenu'进入菜单！
+  - Uperf Game Turbo
+  - XYCtouch：智能优化图像渲染帧延迟 | 降低触控延迟 | 优化缓冲减少渲染丢帧
+  - YAKT
 - [Zygisk](https://pan.baidu.com/s/1JbcDVYAe3Ot-9ZtFzvkyYA?pwd=6666)：第三方 Zygisk 实现，可替代Magisk自身的Zygisk和让KernelSU、APatch加载Zygisk模块
   - Zygisk Next
   - ReZygisk
@@ -124,7 +134,6 @@
   - 小米加强解除温控：小米/红米专用的温控解除加强模块，主体代码使用C语言编写，替换小米原版 mi thermald 程序，并且每次充电时强制开启满血快充
   - 屏蔽云控温控：屏蔽MIUI云控更新地址，禁止下载写入MIUI更新，删除MiuiJoyoSe
   - 移除温控：通过采用Magisk方式移除温控
-- [Uperf](链接)：Android用户态性能控制器
 - [冻它](链接)：墓碑机制模块，自动暂停后台应用运行
 - [深度Doze](链接)：清理电池优化白名单
 - [存储空间隔离](链接)：优雅地解决“坏应用”滥用存储权限的问题
