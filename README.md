@@ -191,8 +191,11 @@
 - [无障碍服务守护](https://pan.baidu.com/s/1yr5yTKS5nyPRQtVDqipsQQ?pwd=6666)：开机自动开启且实时保护无障碍服务,防止应用意外关闭导致无障碍服务连同关闭.
 - [logDisabler](https://pan.baidu.com/s/1lOiSXJRfij7AOzdJcTQGoA?pwd=6666)：优雅的禁用log
 - [智能DNS](https://pan.baidu.com/s/12TMk6znScSydVKU5zf6Dzw?pwd=6666)：根据Ping包往返时间自动选取最优DNS
-- [标题](链接)
-- [标题](链接)
+- [Mi-Freeform](https://pan.baidu.com/s/1CBgVchx3bk_ILKduuR_txw?pwd=6666)：Android第三方小窗软件，支持Android 8.1-Android 13。
+- [导航栏调整](https://pan.baidu.com/s/1VVKer0Fzg6ysbDjsyghFlA?pwd=6666)
+  - CustomizedNavbar
+  - G-VisualMod
+  - NavTweaks
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
