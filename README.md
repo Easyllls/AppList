@@ -15,6 +15,10 @@
 <details>
 <summary>📱 <strong>Android</strong></summary>
 
+- [视频播放器](https://pan.baidu.com/s/1HVohGvJoB88U60hQju1JXw?pwd=6666)
+  - mpx：以隐私为优先、基于 Flutter 构建的本地媒体播放器。
+- [音乐播放器](https://pan.baidu.com/s/1__Kw4CupE5uEGIv-fiiu5Q?pwd=6666)
+  - MobiMusic：多平台聚合音乐播放器
 - [Flip 2 DND](https://pan.baidu.com/s/1dEKZjlmf-3Kt0Xcz5jH88A?pwd=6666)：通过翻转手机切换“勿扰模式”
 - [标题](链接)
 - [标题](链接)
