@@ -252,8 +252,6 @@
   - BetterVia：解除 Via 浏览器白名单限制
   - EdgeX：Edge 浏览器增强
 - [Punch-hole Download Progress](https://pan.baidu.com/s/1L5t9rSr55tvs0-5Mn_3hEQ?pwd=6666)：在摄像头开孔周围以动画圆环的形式显示下载进度。
-- [QQ](https://pan.baidu.com/s/1wk9QY2Bvfdy7GidJW8zxzg?pwd=6666)
-  - QQHook：QQNT 绕过环境检测模块，防止冻结/踢下线。
 - [MIUI｜HyperOS](https://pan.baidu.com/s/15UPhTPhCzEF9RF3MnK2p9g?pwd=6666)：以下模块仅适用于小米设备
   - HyperCeiler：HyperOS/MIUI 增强模块
   - IsleNotify：让HyperOS的通知接入灵动岛
@@ -458,6 +456,7 @@
 - [Tim小助手](https://pan.baidu.com/s/1Wr1Kk1bN4aDLIKjdMjwCUQ?pwd=6666)：对Tim,QQ进行的扩展优化的Xposed模块
 - [QQ](https://pan.baidu.com/s/1OljRTNqRUtSAlCT_93sOdA?pwd=6666)
   - QAuxiliary
+  - QQHook：QQNT 绕过环境检测模块，防止冻结/踢下线。
   - QFun
   - QStory
   - Serendipity
