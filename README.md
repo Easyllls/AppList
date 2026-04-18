@@ -605,8 +605,8 @@
   - Rootcloak
   - 忽略建行警告
   - 建行杀手
-- [标题](链接)
-- [标题](链接)
+- [签名助手](https://pan.baidu.com/s/1CBfAZuM4_w96m_RxyQmadQ?pwd=6666)
+- [DarQ](https://pan.baidu.com/s/1TLcaZzGnBTHOPGlXztUbig?pwd=6666)：强制指定应用开启深色模式
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
