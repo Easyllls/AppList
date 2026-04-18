@@ -636,8 +636,8 @@
   - 筋斗云
   - 模拟位置
   - 定位修改
-- [标题](链接)
-- [标题](链接)
+- [YAMF](https://pan.baidu.com/s/1eghXWu-Y4-ZQSHqYSpwe4Q?pwd=6666)：另一个米窗，相比米窗有有一些改进 但也有新的问题，目前仅支持 Android 12-13
+- [FakeGapps](https://pan.baidu.com/s/1WVq-Dpoaj0U4isIwWHQKCw?pwd=6666)：与 MicroG 结合使用，无需专有的 Google Play 服务即可启用 Google Cloud Messaging (GCM) 等功能。
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
