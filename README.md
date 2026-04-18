@@ -455,7 +455,7 @@
   - TCQT
   - TSBattery：省电
   - XAutoDaily：各种签到
-  - ⚠️⚠️ 以下模块已是上古产物，早已无法使用，这里仅做备份
+  - 模了个块
   - QNotified
   - QQ瘦身
   - QX模块
