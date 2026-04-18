@@ -385,6 +385,7 @@
   - 进程锁：锁定指定应用不被系统清理，即使内存爆满也不会被清理，只能手动结束目标应用
   - LSPDoze：设备在熄屏状态下尽快进入深度 Doze 以优化待机功耗
   - Freezer：适用于安卓设备的进程管理模块（墓碑模式）
+  - Cirno：应用冻结器，用于让后台应用完全不占用 CPU 资源
 - [去广告](https://pan.baidu.com/s/1DKHzQ-nqv_pFIgeeU5EXxQ?pwd=6666)：基于Xposed框架的Android广告屏蔽工具
   - 开屏小能手
   - Fuck AD
