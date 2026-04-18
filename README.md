@@ -334,7 +334,6 @@
   - MBGA
   - Bili调速
   - BAuxiliary
-- [禁止卸载](https://pan.baidu.com/s/1OhU1842VovI3Yc7uZtfdgw?pwd=6666)：禁止卸载应用与清除应用数据
 - [支付宝 InstallB 模块](https://pan.baidu.com/s/1ZzvmFLqkn9L0IACiJUkiKw?pwd=6666)：为支付宝支付界面提供黑色钻石会员级视觉效果或完全自定义的个性化皮肤。
 - [核心破解](https://pan.baidu.com/s/1OAmcunIFKLeNmHiS-W9hRg?pwd=6666)：禁用 Android 签名验证
 - [指纹支付](https://pan.baidu.com/s/1DYt8r6HJPrWW4wF_Pf_AOw?pwd=6666)：让常用应用在支持指纹识别的设备上使用指纹支付，支持京东 淘宝 支付宝 微信 云闪付
@@ -417,6 +416,18 @@
 - [应用管理](https://pan.baidu.com/s/130LDcrJdyT6Yn9W8250gIQ?pwd=6666)
   - NoWakeLock：控制 Android 唤醒锁的应用程序
   - Activity启动链管理：拦截 App 跳转并提供选择控制
+  - 禁止卸载：禁止卸载应用与清除应用数据
+  - 应用管理：
+  - Thanox：
+  - App Settings 重生版
+  - App Locale 2：应用语言设置
+  - Dia：基于对话框取消开发
+  - 对话框取消：取消各种应用内弹窗，以及其他增强
+  - AllTrans：应用翻译
+  - XPrivacyLua Pro
+  - XPrivacyLua
+  - X Messenger Privacy
+  - 隐私助手
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
