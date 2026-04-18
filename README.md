@@ -245,9 +245,9 @@
 
 - [浏览器增强](https://pan.baidu.com/s/1l9nfpBGGSPwg1JeUE3HXEw?pwd=6666)
   - ChromePie：给 Chrome 浏览器加 Pie 菜单
+  - ChromeXt：向基于 Chromium 和基于 WebView 的浏览器添加 UserScript 和 DevTools 支持。
   - BetterVia：解除 Via 浏览器白名单限制
   - EdgeX：Edge 浏览器增强
-- [Activity启动链管理](https://pan.baidu.com/s/1Xq4s4ofM5EJmifkVQeG-hQ?pwd=6666)：拦截 App 跳转并提供选择控制
 - [Punch-hole Download Progress](https://pan.baidu.com/s/1L5t9rSr55tvs0-5Mn_3hEQ?pwd=6666)：在摄像头开孔周围以动画圆环的形式显示下载进度。
 - [QQ](https://pan.baidu.com/s/1wk9QY2Bvfdy7GidJW8zxzg?pwd=6666)
   - QQHook：QQNT 绕过环境检测模块，防止冻结/踢下线。
@@ -278,6 +278,7 @@
   - MiuiFcmFix
   - ForegroundPin：贴边小窗强制前台
   - MaxFreeForm：为各种 MIUI / HyperOS 设备解除多小窗限制
+  - AutoSEffSwitch：连接蓝牙耳机或有线耳机自动切换音效为原声状态
   - MIDock
   - Miller
   - MiPush Enhance
@@ -409,6 +410,48 @@
   - 抖音大师
   - 抖音插件
   - DYImmModule
+- [启动遮罩进化](https://pan.baidu.com/s/1TorzPsitPcmxyo0NNWe-EA?pwd=6666)：为 安卓12+ Splash Screen 添加自定义选项，你可以理解为自定义应用的启动图
+- [自定义 WebView](https://pan.baidu.com/s/1mlpYITsy5_F12L9DviNBYw?pwd=6666)
+  - AnyWebView：它尝试检测所有系统WebView并将它们添加到开发人员选项->WebView实现列表中。
+  - WebViewDebugHook
+- [应用管理](https://pan.baidu.com/s/130LDcrJdyT6Yn9W8250gIQ?pwd=6666)
+  - NoWakeLock：控制 Android 唤醒锁的应用程序
+  - Activity启动链管理：拦截 App 跳转并提供选择控制
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
