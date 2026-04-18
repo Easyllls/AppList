@@ -452,6 +452,7 @@
   - QFun
   - QStory
   - Serendipity
+  - Funbox：表情包
   - TCQT
   - TSBattery：省电
   - XAutoDaily：各种签到
