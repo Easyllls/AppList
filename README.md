@@ -447,8 +447,8 @@
   - MyXposed：微博轻享版
   - 这真轻享：微博轻享版
 - [状态栏歌词](https://pan.baidu.com/s/1nG1WG96mpfRaKX9PVdznjA?pwd=6666)
-  - 酒域-歌词获取
-  - 词幕
+  - 酒域-歌词获取：通过Hook获取音乐软件的歌词，提供给其他模块\软件使用
+  - 词幕：提供系统通知栏歌词扩展功能。使用非常简单，只需要安装激活后并重启，微调设置就可以使用了
   - 墨·状态栏歌词
 - [Tim小助手](https://pan.baidu.com/s/1Wr1Kk1bN4aDLIKjdMjwCUQ?pwd=6666)：对Tim,QQ进行的扩展优化的Xposed模块
 - [QQ](https://pan.baidu.com/s/1OljRTNqRUtSAlCT_93sOdA?pwd=6666)
