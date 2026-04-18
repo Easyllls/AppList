@@ -243,7 +243,7 @@
 <details>
 <summary>🛠 <strong>Xposed Module</strong></summary>
 
-- - [三星 One UI 专用](https://pan.baidu.com/s/1nIL8NyMfki0wkLkODCH4QQ?pwd=6666)
+- [三星 One UI 专用](https://pan.baidu.com/s/1nIL8NyMfki0wkLkODCH4QQ?pwd=6666)
   - KnoxPatch：在已 Root 的三星设备上恢复官方应用和部分功能
   - One UI X：释放三星 One UI 的无限可能
 - [浏览器增强](https://pan.baidu.com/s/1l9nfpBGGSPwg1JeUE3HXEw?pwd=6666)
