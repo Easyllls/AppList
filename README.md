@@ -269,6 +269,7 @@
   - ChargeProtectSetter：调整 HyperOS 电量保护数值
   - HyperPods：在小米设备上增强非小米耳机功能
   - 智能断充：自定义 HyperOS 充电保护阈值
+  - 酒域-息屏增强：在支持的息屏上显示歌词和部分增强功能，配合 酒域-歌词获取 使用
   - HyperStar：自定义 HyperOS 控制中心以及一些其他功能
   - 5G开关：在移动网络面板中添加 5G 开关
     - MIUI
@@ -446,6 +447,9 @@
   - MyXposed：微博轻享版
   - 这真轻享：微博轻享版
 - [状态栏歌词](https://pan.baidu.com/s/1nG1WG96mpfRaKX9PVdznjA?pwd=6666)
+  - 酒域-歌词获取
+  - 词幕
+  - 墨·状态栏歌词
 - [Tim小助手](https://pan.baidu.com/s/1Wr1Kk1bN4aDLIKjdMjwCUQ?pwd=6666)：对Tim,QQ进行的扩展优化的Xposed模块
 - [QQ](https://pan.baidu.com/s/1OljRTNqRUtSAlCT_93sOdA?pwd=6666)
   - QAuxiliary
