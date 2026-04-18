@@ -617,6 +617,7 @@
   - GoogleHookTool
   - HookTest
   - JustTrustMe
+  - Layout Inspect：逆向必备的工具：它具备以下功能：应用进程、捕获布局（兼容各种窗口类型，包含临时上帝模式）、活动记录、类加载器（记录动态加载器）、搜索类名（包含动态加载类）、Inject So（注入So文件）、Dump So（与Frida枚举So类似）、Dump Dex（脱壳Dex加固）、Dump Maps（内存映射）、Dump Xml（解密Axml）、Dump Asset（解密Assets）、移除安全限制（截屏限制）、调试浏览器等等。
   - Intent 记录
   - Intent 拦截者
   - USB Debugging
