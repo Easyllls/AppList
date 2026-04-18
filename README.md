@@ -377,10 +377,10 @@
   - 非残！：使用xposed hook假装自己没有使用无障碍服务
 - [进程管理](https://pan.baidu.com/s/1PJjIMMpfZqftWpicu-Upgg?pwd=6666)
   - 不死鸟：通过修改进程的 MaxOomAdj 实现应用进程保活
-  - NoActive
-  - AppRetention
+  - NoActive：通过Hook系统框架实现Android墓碑
+  - AppRetention：通过 Hook 系统 kill 逻辑 来实现 后台保活
   - NoANR
-  - 进程锁
+  - 进程锁：锁定指定应用不被系统清理，即使内存爆满也不会被清理，只能手动结束目标应用
   - LSPDoze：设备在熄屏状态下尽快进入深度 Doze 以优化待机功耗
   - Freezer：适用于安卓设备的进程管理模块（墓碑模式）
 - [去广告](https://pan.baidu.com/s/1DKHzQ-nqv_pFIgeeU5EXxQ?pwd=6666)：基于Xposed框架的Android广告屏蔽工具
