@@ -640,7 +640,10 @@
 - [FakeGapps](https://pan.baidu.com/s/1WVq-Dpoaj0U4isIwWHQKCw?pwd=6666)：与 MicroG 结合使用，无需专有的 Google Play 服务即可启用 Google Cloud Messaging (GCM) 等功能。
 - [BootloaderSpoofer](https://pan.baidu.com/s/1FBH7b1tvSwkVK5rIvqPJLg?pwd=6666)：通过修改证书扩展来绕过硬件完整性 本地 校验。如果应用把证书发送到安全服务器进行验证，那基本就没用了，这个模块也就失效了。只建议对那些仅在本地检测 Bootloader 是否解锁的应用启用，不要去 Hook Google 应用或系统框架，否则很可能导致 Play Integrity 校验失败
 - [GravityBox](https://pan.baidu.com/s/1tgHWUeUdlP0NY35bZIraig?pwd=6666)：为运行原生（或接近原生）Android 的设备用户提供一个“调校工具箱”
-- [标题](链接)
+- [短信验证码提取](https://pan.baidu.com/s/1yjrPSQPpnho12iobNLWN2Q?pwd=6666)
+  - 信驿 Relay：消息转发与验证码自动填写工具，支持短信、应用通知、来电等来源的统一处理。
+  - XposedSmsCode：识别短信验证码的Xposed模块，并将验证码拷贝到剪切板，亦可以自动输入验证码。
+  - NekoSMS：基于表达式的短信拦截器
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
