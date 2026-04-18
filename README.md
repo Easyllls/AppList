@@ -646,7 +646,9 @@
   - NekoSMS：基于表达式的短信拦截器
 - [无障碍-Daemon](https://pan.baidu.com/s/111BHRIbGvYyXAiT6t-3Z4w?pwd=6666)：锁定应用的无障碍辅助权限
 - [音量控制器](https://pan.baidu.com/s/1bg8P7EUtQdGZWzqyagekwA?pwd=6666)：单独控制指定应用的音量，支持哔哩哔哩、QQ音乐、网易云音乐、酷狗、酷我、Aplayer、喜马拉雅
-- [标题](链接)
+- [剪切板增强](https://pan.baidu.com/s/1bnTBvJ2fi9qO0PapAWFurw?pwd=6666)
+  - 原生剪贴板：高级剪切板管理器
+  - 全局复制XP：复制任意界面的文字
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
