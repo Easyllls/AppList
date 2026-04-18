@@ -607,7 +607,18 @@
   - 建行杀手
 - [签名助手](https://pan.baidu.com/s/1CBfAZuM4_w96m_RxyQmadQ?pwd=6666)
 - [DarQ](https://pan.baidu.com/s/1TLcaZzGnBTHOPGlXztUbig?pwd=6666)：强制指定应用开启深色模式
-- [标题](链接)
+- [开发者工具](https://pan.baidu.com/s/1J2KUh_0AMSFd2YUC_-hjug?pwd=6666)
+  - HookUI
+  - GoogleHookTool
+  - HookTest
+  - JustTrustMe
+  - Intent 记录
+  - Intent 拦截者
+  - USB Debugging
+  - ReflectMaster
+  - SimpleHook
+  - 崩溃日志捕捉工具/Crash Catch Tool
+  - XAppDebug
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
