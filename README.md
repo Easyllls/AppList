@@ -581,7 +581,7 @@
   - 腾讯运动修改
   - 步数修改器
   - 步数修改
-- [标题](链接)
+- [BypassRootCheckPro](https://pan.baidu.com/s/1e_tAR2RBopDgMgTmB6bZXw?pwd=6666)：该模块以更专业的方式绕过 root 检测。不仅对 Java 层逻辑进行 Hook，还能够对 Native / 系统调用层的逻辑（包括用 C/C++ 或 Native Java 编写的代码）进行 Hook。
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
