@@ -516,8 +516,65 @@
   - MusicNotification
   - 音效增强器
   - 音量增强器
-- [标题](链接)
-- [标题](链接)
+- [小红书](https://pan.baidu.com/s/1OfvnsVJVwYLwFFk-sjZL9w?pwd=6666)
+  - 红薯自动
+  - 红薯猪手
+  - 小红书+
+- [微信](https://pan.baidu.com/s/19gJIzQ_eb321uYIJz3PrNQ?pwd=6666)
+  - WAuxiliary
+  - NewMiko
+  - FunBox
+  - FingerPay
+  - FkWeChat
+  - I'm Pad
+  - WeChat Pad
+  - WeChatTablet：平板模式
+  - 闰​二​月
+  - 面纱
+  - NbHook
+  - MaskWechat
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
