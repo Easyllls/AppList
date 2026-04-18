@@ -644,8 +644,8 @@
   - 信驿 Relay：消息转发与验证码自动填写工具，支持短信、应用通知、来电等来源的统一处理。
   - XposedSmsCode：识别短信验证码的Xposed模块，并将验证码拷贝到剪切板，亦可以自动输入验证码。
   - NekoSMS：基于表达式的短信拦截器
-- [标题](链接)
-- [标题](链接)
+- [无障碍-Daemon](https://pan.baidu.com/s/111BHRIbGvYyXAiT6t-3Z4w?pwd=6666)：锁定应用的无障碍辅助权限
+- [音量控制器](https://pan.baidu.com/s/1bg8P7EUtQdGZWzqyagekwA?pwd=6666)：单独控制指定应用的音量，支持哔哩哔哩、QQ音乐、网易云音乐、酷狗、酷我、Aplayer、喜马拉雅
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
