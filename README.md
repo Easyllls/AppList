@@ -581,7 +581,30 @@
   - 腾讯运动修改
   - 步数修改器
   - 步数修改
-- [BypassRootCheckPro](https://pan.baidu.com/s/1e_tAR2RBopDgMgTmB6bZXw?pwd=6666)：该模块以更专业的方式绕过 root 检测。不仅对 Java 层逻辑进行 Hook，还能够对 Native / 系统调用层的逻辑（包括用 C/C++ 或 Native Java 编写的代码）进行 Hook。
+- [隐藏Root与Xposed框架](https://pan.baidu.com/s/1e_tAR2RBopDgMgTmB6bZXw?pwd=6666)
+  - BypassRootCheckPro：该模块以更专业的方式绕过 root 检测。不仅对 Java 层逻辑进行 Hook，还能够对 Native / 系统调用层的逻辑（包括用 C/C++ 或 Native Java 编写的代码）进行 Hook。
+  - HiddenCore Module
+  - GG Tools
+  - DIWA
+  - BankRX
+  - ANRC
+  - anantaryamarga
+  - SudoHide
+  - SkyOlin助手
+  - Magisk hide面具增强模块
+  - HideApp
+  - Hide-X
+  - XP过检测
+  - Xposed 黑名单
+  - Xposed Hider
+  - Xposed Checker
+  - 建行忽略root
+  - 应用隐藏
+  - 交管12123 Hide
+  - Zuper
+  - Rootcloak
+  - 忽略建行警告
+  - 建行杀手
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
