@@ -441,10 +441,53 @@
   - VCAMSX
   - VCAM
   - CamSwap
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
+- [微博](https://pan.baidu.com/s/1YRISc-nIw2EJRtUA0x0l5w?pwd=6666)
+  - 微博猪手
+  - MyXposed：微博轻享版
+  - 这真轻享：微博轻享版
+- [状态栏歌词](https://pan.baidu.com/s/1nG1WG96mpfRaKX9PVdznjA?pwd=6666)
+- [Tim小助手](https://pan.baidu.com/s/1Wr1Kk1bN4aDLIKjdMjwCUQ?pwd=6666)：对Tim,QQ进行的扩展优化的Xposed模块
+- [QQ](https://pan.baidu.com/s/1OljRTNqRUtSAlCT_93sOdA?pwd=6666)
+  - QAuxiliary
+  - QFun
+  - QStory
+  - Serendipity
+  - TCQT
+  - TSBattery：省电
+  - XAutoDaily：各种签到
+  - ⚠️⚠️ 以下模块已是上古产物，早已无法使用，这里仅做备份
+  - QNotified
+  - QQ瘦身
+  - QX模块
+  - ColorQQ2
+  - HentaiQ
+  - FuckQQ
+  - Q++模块
+  - QQ Repeater
+  - MDQQ
+  - QQ Concern
+  - QQHelper
+  - QQCleaner Lite
+  - QQ净化
+  - QQUnrecalled
+  - QQHook
+  - QQ复读机
+  - QQ刷屏
+  - QQ助手
+  - QQ斗图神器
+  - QScript
+  - QQ默认字体气泡
+  - Sp群管
+  - SpQQ机器人
+  - QTool
+  - 小彩豆
+  - 啊呜模块
+  - 去除QQ下拉小程序
+  - 绿逗模块安装器
+  - 爱的魔力转圈圈
+  - 微信QQ防撤回
+  - 自定义DIY名片
+  - 花Q
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
