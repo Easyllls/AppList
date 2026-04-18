@@ -501,6 +501,21 @@
   - 皮皮虾Hook
   - 皮友猪手
 - [网易云音乐](https://pan.baidu.com/s/1BZ-kR_6kIhZwOViah_LzCg?pwd=6666)
+  - 杜比大喇叭
+  - 杜比大喇叭β
+  - 杜比大喇叭RC
+  - 网抑叼毛云
+  - CoolMeVIP
+  - UnblockMusic Pro
+  - 云村清洁工
+  - 云音乐扩展
+  - 云音乐频谱助手
+  - 网易云-圆角优化模块
+  - 网易云专辑封面禁旋转
+  - 网易云音乐插件
+  - MusicNotification
+  - 音效增强器
+  - 音量增强器
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
