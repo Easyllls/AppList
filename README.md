@@ -649,6 +649,7 @@
 - [剪切板增强](https://pan.baidu.com/s/1bnTBvJ2fi9qO0PapAWFurw?pwd=6666)
   - 原生剪贴板：高级剪切板管理器
   - 全局复制XP：复制任意界面的文字
+  - 剪贴板过滤器：通过正则过滤APP写入剪贴板的内容，只过滤写入，防止各种口令、奇奇怪怪的字符串强x剪贴板。目前只支持有XSharedPreferences的xposed框架，比如lsposed。
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
