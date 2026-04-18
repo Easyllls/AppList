@@ -417,15 +417,15 @@
   - NoWakeLock：控制 Android 唤醒锁的应用程序
   - Activity启动链管理：拦截 App 跳转并提供选择控制
   - 禁止卸载：禁止卸载应用与清除应用数据
-  - 应用管理：
-  - Thanox：
+  - 应用管理：和Thanox类似，同一个开发者早期开发的应用，免费，安卓10以下使用
+  - Thanox：系统管理工具，在系统隐私和系统优化方便提供了便利的功能。包含应用的权限管理，后台启动管理，后台运行管理，以及强大的情景模式和独特新奇的移花接木功能。
   - App Settings 重生版
   - App Locale 2：应用语言设置
   - Dia：基于对话框取消开发
   - 对话框取消：取消各种应用内弹窗，以及其他增强
   - AllTrans：应用翻译
   - XPrivacyLua Pro
-  - XPrivacyLua
+  - XPrivacyLua：强大的权限管理
   - X Messenger Privacy
   - 隐私助手
 - [标题](链接)
