@@ -428,8 +428,8 @@
   - XPrivacyLua：强大的权限管理
   - X Messenger Privacy
   - 隐私助手
-- [标题](链接)
-- [标题](链接)
+- [伪DC调光](https://pan.baidu.com/s/1mNtCxuXanZymwY8MRRMIog?pwd=6666)：通过软件增益为部分 OLED 屏幕在低亮度下启用类DC调光方式
+- [NoStorageRestrict](https://pan.baidu.com/s/1WBD5-b3vVyEzGiE0xv8NWQ?pwd=6666)：移除通过 SAF 选择文件夹时的限制
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
