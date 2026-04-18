@@ -4,6 +4,8 @@
 
 **本列表源于个人兴趣爱好收集整理，包含各种 Android、Android TV、Windows 应用，以及 Xposed 和 Magisk 模块。本列表长期更新。**
 
+**部分应用早已停更，甚至无法使用，这里仅做备份，无需反馈**
+
 [QQ频道](https://pd.qq.com/s/akqek6a90?b=9)
 
 ## 🚧 施工中
@@ -273,7 +275,6 @@
   - Auto NFC：仅适用于MIUI，进入/退出 刷卡页面时自动 开启/关闭 NFC
   - BetterMiuiExpress
   - ChiMi：MIUI系统优化
-  - DIY NFC卡面图片：自定义MIUI/HyperOS/ColorOS NFC卡片的卡面
   - MiuiFcmFix
   - ForegroundPin：贴边小窗强制前台
   - MaxFreeForm：为各种 MIUI / HyperOS 设备解除多小窗限制
@@ -319,6 +320,7 @@
   - MIUI净化
   - MIUiThemePatcher
   - MIUI9 Root25秒解除限制
+- [DIY NFC卡面图片](https://pan.baidu.com/s/1MrTEtZmc95I39ZhycSNG5Q?pwd=6666)：自定义MIUI/HyperOS/ColorOS NFC卡片的卡面
 - [fcmfix](https://pan.baidu.com/s/1MtwOanTAnDIBcx8pdt8Icg?pwd=6666)：让fcm/gcm唤醒未启动的应用进行发送通知
 - [贴吧TS](https://pan.baidu.com/s/1aU2Rn4pvS01izHHlvnn52A?pwd=6666)：提供修改百度贴吧底栏等个性化功能
 - [知了](https://pan.baidu.com/s/1wi7w-D9BDPAlpSNZUPh2Sg?pwd=6666)：知乎功能扩展与增强模块
@@ -388,7 +390,25 @@
   - Fuck AD
   - AdClose
   - 地主不看广告：欢乐斗地主跳过广告
-- [标题](链接)
+- [抖音](https://pan.baidu.com/s/1U0qnF5x5J68AJFoAaYYCaw?pwd=6666)：
+  - Freedom+：依赖LSPosed运行的抖音增强模块
+  - 逗音小手
+  - 抖+
+  - Woodpecker
+  - Dyoo
+  - DestinyImml
+  - AdAway
+  - Dove
+  - DYHook
+  - LanFeng
+  - 抖音+
+  - 抖音伴侣
+  - Freedom
+  - X抖音
+  - 抖音助手
+  - 抖音大师
+  - 抖音插件
+  - DYImmModule
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
