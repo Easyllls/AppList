@@ -489,7 +489,12 @@
   - 微信QQ防撤回
   - 自定义DIY名片
   - 花Q
-- [标题](链接)
+- [钉钉](https://pan.baidu.com/s/1Jw15ctEfi9JwwYZsP9coHA?pwd=6666)：
+  - 锤锤
+  - 钉钉助手
+  - 钉钉增强
+  - 钉钉红包
+  - dingPass
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
