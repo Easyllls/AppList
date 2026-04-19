@@ -257,6 +257,7 @@
   - IsleNotify：让HyperOS的通知接入灵动岛
   - HyperIsland-为澎湃 OS3 打造的超级岛进度通知增强模块
   - SetoHook：适用于HyperOS的系统增强工具
+  - Fingerprint Cataloge：自定义指纹图标和动画。支持创建、上传、导入并应用自定义指纹图标。
   - Hyper Helper：适用于 HyperOS 的轻量级增强模块
   - CustoMIUIzer：MIUI系统增强与优化模块
     - CustoMIUIzer：模块包含各种 mod，可为您的 MIUI 设备提供附加功能。主要针对 Android 9-10 上的 MIUI 10-12.5。不保证 Mod 在任何其他版本上完全正常工作，尤其是较低的 MIUI 版本。
