@@ -259,8 +259,8 @@
   - SetoHook：适用于HyperOS的系统增强工具
   - Hyper Helper：适用于 HyperOS 的轻量级增强模块
   - CustoMIUIzer：MIUI系统增强与优化模块
-    - CustoMIUIzer
-    - CustoMIUIzerMod：适配MIUI14
+    - CustoMIUIzer：模块包含各种 mod，可为您的 MIUI 设备提供附加功能。主要针对 Android 9-10 上的 MIUI 10-12.5。不保证 Mod 在任何其他版本上完全正常工作，尤其是较低的 MIUI 版本。
+    - CustoMIUIzerMod：本项目将专注于基于 Android 11 的 MIUI 系统，特别是 MIUI 12.5 和 13。
     - Pengeek（米客）：基于CustoMIUIzer，适配MIUI与HyperOS定制与增强模块
   - MIUI QOL-此模块改善了在 MIUI 以及 HyperOS 的日常使用体验
   - MiPush Enhance：小米Push增强模块
