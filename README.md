@@ -245,7 +245,7 @@
 
 - [三星 One UI 专用](https://pan.baidu.com/s/1nIL8NyMfki0wkLkODCH4QQ?pwd=6666)
   - KnoxPatch：在已 Root 的三星设备上恢复官方应用和部分功能
-  - One UI X：释放三星 One UI 的无限可能
+  - One UI X：释放三星 One UI 的无限可能，旨在提供高度可定制的系统体验，解除烦人的限制，并为状态栏、快捷设置以及系统自带应用注入强大的增强功能。
 - [浏览器增强](https://pan.baidu.com/s/1l9nfpBGGSPwg1JeUE3HXEw?pwd=6666)
   - ChromePie：给 Chrome 浏览器加 Pie 菜单
   - ChromeXt：向基于 Chromium 和基于 WebView 的浏览器添加 UserScript 和 DevTools 支持。
