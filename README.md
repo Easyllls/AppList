@@ -250,7 +250,7 @@
   - ChromePie：给 Chrome 浏览器加 Pie 菜单
   - ChromeXt：向基于 Chromium 和基于 WebView 的浏览器添加 UserScript 和 DevTools 支持。
   - BetterVia：解除 Via 浏览器白名单限制
-  - EdgeX：Edge 浏览器增强
+  - EdgeX：Edge 浏览器增强，通过 UI 调整和功能改进来增强您的浏览体验。隐藏状态栏、移除地址栏底边距、长按更多按钮回顶部、长按新标签页按钮原地加载、设置新标签页 URL、支持外部下载
 - [Punch-hole Download Progress](https://pan.baidu.com/s/1L5t9rSr55tvs0-5Mn_3hEQ?pwd=6666)：在摄像头开孔周围以动画圆环的形式显示下载进度。
 - [MIUI｜HyperOS](https://pan.baidu.com/s/15UPhTPhCzEF9RF3MnK2p9g?pwd=6666)：以下模块仅适用于小米设备
   - HyperCeiler：HyperOS/MIUI 增强模块
