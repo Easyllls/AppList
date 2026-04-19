@@ -64,7 +64,7 @@
   - IFW Enhance TIW：第三方修改版
 - [性能控制（内核调整）](https://pan.baidu.com/s/1Mkc_UNUvCqucVZHcG9lf5g?pwd=6666)
   - Lynx：内核调整，适用于想要提高 Android 性能的用户，特别是游戏玩家并关注电池消耗。
-  - - Uperf：Android用户态性能控制器
+  - Uperf：Android用户态性能控制器
   - CPU Max Frequency Limiter：CPU最大频率限制器，支持主流SoC
   - FDE.AI
   - MAGNETAR：设备性能优化器-旨在在每个使用场景中提供最佳体验
