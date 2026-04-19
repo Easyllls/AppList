@@ -85,7 +85,7 @@
   - PIFB：轻量版
 - [Zygisk Assistant](https://pan.baidu.com/s/1ZLN5t_9JKBYVVYWDOKb4bg?pwd=6666)：通过在用户模式下卸载可疑挂载来隐藏 Root。
 - [Clipboard Whitelist](https://pan.baidu.com/s/1ayPMiP8E3sYAADqFecJFkg?pwd=6666)：剪切板白名单，允许应用在后台访问剪贴板
-- - [游戏线程优化](https://pan.baidu.com/s/1945bXVGUd4vmJ2TS8D9Ddg?pwd=6666)
+- [游戏线程优化](https://pan.baidu.com/s/1945bXVGUd4vmJ2TS8D9Ddg?pwd=6666)
   - A-SOUL Games Optimization：通过优化线程放置提升游戏性能。
   - AsoulOpt：游戏线程优化
 - [音频优化与控制](https://pan.baidu.com/s/1ZfQC6v5asCdPxCORi4mB5g?pwd=6666)
