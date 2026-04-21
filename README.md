@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/Easyllls/AppList/refs/heads/main/icon/ai.png" 
+    src="https://raw.githubusercontent.com/Easyllls/AppList/main/icon/ai.png" 
     alt="Applist" 
     style="max-width: 100%; height: auto;" 
   />
