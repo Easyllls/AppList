@@ -1,6 +1,14 @@
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Easyllls/AppList/refs/heads/main/icon/ai.png" 
+    alt="Applist" 
+    style="max-width: 100%; height: auto;" 
+  />
+</p>
+
 <div align="center">
 
-# AppList
+# Applist
 
 **本列表源于个人兴趣爱好收集整理，包含各种 Android、Android TV、Windows 应用，以及 Xposed 和 Magisk 模块。本列表长期更新。**
 
