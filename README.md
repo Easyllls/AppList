@@ -25,6 +25,8 @@
 <details>
 <summary>📱 <strong>Android</strong></summary>
 
+- [TTS（语音合成）](https://pan.baidu.com/s/1qII2fC1pMc0Q3sAiNCoC1Q?pwd=6666)
+  - CloneTTS：运行在安卓系统本地的文字转语音 (TTS) 原生引擎。它可以让您在手机上离线克隆所需的声音，并直接使用这个声音来朗读书籍或长文本。无需联网，所有推理计算均在本地完成。
 - [视频播放器](https://pan.baidu.com/s/1HVohGvJoB88U60hQju1JXw?pwd=6666)
   - mpx：以隐私为优先、基于 Flutter 构建的本地媒体播放器。
 - [音乐播放器](https://pan.baidu.com/s/1__Kw4CupE5uEGIv-fiiu5Q?pwd=6666)
@@ -967,6 +969,7 @@
 - [MyKeymap](https://pan.baidu.com/s/1O2AyHjgAzyQsVYsFm9IX0w?pwd=6666)：基于 AutoHotkey 的键盘映射工具
 - [TTS（语音合成）](https://pan.baidu.com/s/1HpJPOAzXq7VS8H4k_vezQg?pwd=6666)
   - TTS-Vue：微软语音合成工具，将文本转为语音
+  - Voicebox：语音合成工作室 语音克隆、文本转语音、音效处理、语音应用开发
 - [O&O ShutUp10++](https://pan.baidu.com/s/177kO1jhZVujM91Rq5JA7eg?pwd=6666)：适用于 Windows 10 和 11 的免费反间谍工具
 - [Extab](https://pan.baidu.com/s/1ZaNuHt2tVrM8IrTa41TrPQ?pwd=6666)：多标签页资源管理器
 - [Nilesoft Shell](https://pan.baidu.com/s/1rhETan7CbKY7yW_XmCh4kA?pwd=6666)：文件资源管理器上下文菜单管理器
