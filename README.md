@@ -263,6 +263,8 @@
   - EdgeX：Edge 浏览器增强，通过 UI 调整和功能改进来增强您的浏览体验。隐藏状态栏、移除地址栏底边距、长按更多按钮回顶部、长按新标签页按钮原地加载、设置新标签页 URL、支持外部下载
 - [Punch-hole Download Progress](https://pan.baidu.com/s/1L5t9rSr55tvs0-5Mn_3hEQ?pwd=6666)：在摄像头开孔周围以动画圆环的形式显示下载进度。
 - [MIUI｜HyperOS](https://pan.baidu.com/s/15UPhTPhCzEF9RF3MnK2p9g?pwd=6666)：以下模块仅适用于小米设备
+  - HyperLyric：依托安卓实时通知和小米焦点通知，实现歌词上岛效果的软件，让澎湃3设备体验灵动岛歌词
+  - YourMIUI：优化 MIUI 系统中各种不友好功能的模块
   - HyperCeiler：HyperOS/MIUI 增强模块
   - IsleNotify：让HyperOS的通知接入灵动岛
   - HyperIsland-为澎湃 OS3 打造的超级岛进度通知增强模块
