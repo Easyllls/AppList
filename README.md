@@ -133,7 +133,7 @@
   - GengChao🔥快充模块⚡(二改)：5000mA超高电流充电，实测充电器输出最高可达37.5W，持续功率维持在30W左右(旗舰版修复无线充电功能)，同时在非充电状态下快充模块保持低性能开销运行
 - [MIUI｜HyperOS](https://pan.baidu.com/s/1kGIzA5I-qyqQ7fvIdwIrKA?pwd=6666)：以下模块仅适用于小米设备
   - Modded Security Center：增强 HyperOS 安全中心，基于 Android 14 及以上的 ROM，需要先安装 RemoveApkProtection 模块
-  - Modded Theme Manager：解锁 HyperOS 的完整主题自定义功能，包括多主题服务器、高级主题、AI 壁纸、第三方导入、超级图标/小部件和低端功能。请务必同时使用 App Vault mod，以确保高级小部件正常工作。使用国行版ROM的用户需要先刷入 Apk-Protection-Patch 模块。Magisk delta 可能不兼容。
+  - Modded Theme Manager：解锁 HyperOS 的完整主题自定义功能，包括多主题服务器、高级主题、AI 壁纸、第三方导入、超级图标/小部件和低端功能。请务必同时使用 App Vault mod，以确保高级小部件正常工作。使用国行版ROM的用户需要先刷入 RemoveApkProtection 模块。Magisk delta 可能不兼容。
   - HyperOS App Vault：增强型 HyperOS 应用库，解锁小部件、高端设备功能、模糊调整和滚动动画。需要刷入 RemoveApkProtection 模块，兼容KernelSU
   - Monet Project：为 MIUI 和 HyperOS 带来Material You主题
   - HyperOptimize：通过优化系统参数，禁用应用程序和系统进程来减少功耗和内存消耗。
