@@ -545,13 +545,13 @@
   - 红薯猪手
   - 小红书+
 - [微信](https://pan.baidu.com/s/19gJIzQ_eb321uYIJz3PrNQ?pwd=6666)
-  - WAuxiliary
-  - NewMiko
-  - FunBox
-  - FingerPay
-  - FkWeChat
-  - I'm Pad
-  - WeChat Pad
+  - WAuxiliary：防撤回等
+  - NewMiko：各种增强功能
+  - FunBox：表情包及其他
+  - FingerPay：指纹支付
+  - FkWeChat：各种增强
+  - I'm Pad：平板模式
+  - WeChat Pad：平板模式
   - WeChatTablet：平板模式
   - 闰​二​月
   - 面纱
