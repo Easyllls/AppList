@@ -60,7 +60,7 @@
 <details>
 <summary>🎭 <strong>Magisk Module（大部分已兼容 KernelSU、APatch）</strong></summary>
 
-- [RemoveApkProtection](https://pan.baidu.com/s/1vXMviun2n0m5mJW-9dHvlQ?pwd=6666)：移除 AOSP 及各类 OEM ROM 签名校验限制
+- [RemoveApkProtection](https://pan.baidu.com/s/1vXMviun2n0m5mJW-9dHvlQ?pwd=6666)：移除 AOSP 及各类 OEM ROM 签名校验限制，支持 Android 13+ 的原生或定制 ROM（如 HyperOS、ColorOS 等）
 - [OpenList](https://pan.baidu.com/s/1y5D91JNMwFTwoxeltrBPjA?pwd=6666)：将 OpenList 文件服务器集成到安卓系统中以系统化方式运行
 - [TEESimulator](https://pan.baidu.com/s/1yoGK0B3UaGfXi5vpi2XoBQ?pwd=6666)：用于安卓设备硬件支持密钥对及密钥证明的软件模拟方案
 - [Bypasser](https://pan.baidu.com/s/1PAc8COtXJMmqubJIbmefEA?pwd=6666)：用于绕过与 TMLP 相关的 Android 环境检测模块
