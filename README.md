@@ -37,11 +37,11 @@
 - [应用与进程管理管理](https://pan.baidu.com/s/1N8wyTsxhncj2mRG1tEoTwQ?pwd=6666)
   - Shappky：一款使用 Shizuku 或 Root 权限来停止后台应用的工具
 - [Shizuku及其工具集](https://pan.baidu.com/s/11GpcRDfzVe0Wnu-qBN44hw?pwd=6666)
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Shizuku：无需解锁设备调用具有Root权限的系统API
+  - Shizuku thedjchi：这是 Shizuku 的一个分支版本（Fork）
+  - ShizuTools：包含许多通过 Shizuku 控制 Android 系统的工具
+  - Extendroid：一个具备桌面级多窗口与远程访问能力的多任务管理器
+  - ShizuWall：由 Shizuku 驱动的轻量级高效防火墙方案
 - [标题](链接)
 
 </details>
