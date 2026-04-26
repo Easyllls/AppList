@@ -34,7 +34,8 @@
 - [深度休眠与勿扰模式](https://pan.baidu.com/s/1tgeBCQkACd5FdFpYsMMJBw?pwd=6666)
   - Flip 2 DND：通过翻转手机切换“勿扰模式”
   - Auto Sleep：按计划自动运行，同时也提供快速设置开关，方便手动一键启用或关闭。深度睡眠模式
-- [标题](链接)
+- [应用与进程管理管理](https://pan.baidu.com/s/1N8wyTsxhncj2mRG1tEoTwQ?pwd=6666)
+  - Shappky：一款使用 Shizuku 或 Root 权限来停止后台应用的工具
 - [标题](链接)
 - [标题](链接)
 
