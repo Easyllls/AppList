@@ -42,7 +42,6 @@
   - ShizuTools：包含许多通过 Shizuku 控制 Android 系统的工具
   - Extendroid：一个具备桌面级多窗口与远程访问能力的多任务管理器
   - ShizuWall：由 Shizuku 驱动的轻量级高效防火墙方案
-- [标题](链接)
 
 </details>
 
