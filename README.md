@@ -31,7 +31,9 @@
   - mpx：以隐私为优先、基于 Flutter 构建的本地媒体播放器。
 - [音乐播放器](https://pan.baidu.com/s/1__Kw4CupE5uEGIv-fiiu5Q?pwd=6666)
   - MobiMusic：多平台聚合音乐播放器
-- [Flip 2 DND](https://pan.baidu.com/s/1dEKZjlmf-3Kt0Xcz5jH88A?pwd=6666)：通过翻转手机切换“勿扰模式”
+- [深度休眠与勿扰模式](https://pan.baidu.com/s/1dEKZjlmf-3Kt0Xcz5jH88A?pwd=6666)
+  - Flip 2 DND：通过翻转手机切换“勿扰模式”
+  - Auto Sleep：按计划自动运行，同时也提供快速设置开关，方便手动一键启用或关闭。深度睡眠模式
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
