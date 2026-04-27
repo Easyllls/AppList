@@ -38,10 +38,12 @@
   - MobiMusic：多平台聚合音乐播放器
   - PixelPlayer：一款功能丰富的 Material Design 3 风格音乐播放器
   - Phonograph Plus：本地 Material Design 音乐播放器
-- [深度休眠与勿扰模式](https://pan.baidu.com/s/1tgeBCQkACd5FdFpYsMMJBw?pwd=6666)
+- [深度休眠与保持运行](https://pan.baidu.com/s/1tgeBCQkACd5FdFpYsMMJBw?pwd=6666)
   - Flip 2 DND：通过翻转手机切换“勿扰模式”
   - Auto Sleep：按计划自动运行，同时也提供快速设置开关，方便手动一键启用或关闭。深度睡眠模式
   - EnforceDoze：在屏幕关闭后立即启用 Doze 模式，并关闭运动传感器以获得最佳电池续航
+  - FakeStandby：在屏幕关闭时仍然保持应用运行
+  - Extinguish：在屏幕关闭时运行任何 Android 应用程序，就如同屏幕打开时一样
 - [应用与进程管理](https://pan.baidu.com/s/1N8wyTsxhncj2mRG1tEoTwQ?pwd=6666)
   - Shappky：一款使用 Shizuku 或 Root 权限来停止后台应用的工具
 - [Shizuku及其工具集](https://pan.baidu.com/s/11GpcRDfzVe0Wnu-qBN44hw?pwd=6666)
