@@ -45,6 +45,13 @@
   - Install with Options：使用 Shizuku 在设备上安装 APK 的简单应用（带高级选项）
   - Shizuku 安装器：一个无需Root权限的第三方应用安装器
   - Nrfr：免 Root 修改系统内的运营商配置参数
+- [广告拦截](https://pan.baidu.com/s/1-ru29N55aZQDI2IYJk63mw?pwd=6666)
+  - TrackerControl：监控并控制追踪器和广告
+  - BlockAds：一款免费开源的基于本地网络的广告拦截器
+  - AdAway：适用于安卓设备的开源 Hosts 文件管理应用
+  - AdGuard Home Manager：使用 Flutter 创建的 AdGuard Home 管理客户端
+  - AdGuard：独一无二且无需Root的广告拦截程序
+
 
 </details>
 
