@@ -177,6 +177,7 @@
   - PiliPro：使用Flutter开发的BiliBili第三方客户端
   - PiliPlus：使用Flutter开发的BiliBili第三方客户端
   - bilimiao：设计优雅功能完善的第三方哔哩哔哩客户端
+  - BILIBILIAS：哔哩哔哩视频缓存的辅助工具，一键解析缓存
 - [文件同步](https://pan.baidu.com/s/1V_1jSetHTQFGcClGZcYQrQ?pwd=6666)
   - Easy Sync：以简单的方式，将你的手机文件与 WebDAV 服务器进行同步
   - Round Sync：适用于安卓设备的文件同步应用
@@ -245,6 +246,16 @@
   - Cleaner：质感设计的清理应用
 - [地图与导航](https://pan.baidu.com/s/1p2eseJI_ifCcq5ioxtrFeQ?pwd=6666)
   - Trail Sense：完全离线的全功能导航应用
+  - 高德地图
+    - 10.25.0.1191_20211229［小米12定制］［64位］
+    - 12.03.60.3016_120302_魅族20 Pro定制版
+  - 百度地图
+    - 10.9.1_882_三星定制版
+    - 10.9.1_882_三星Note10+5G定制版
+    - 10.21.0_955 [小米12定制] [64位]
+    - 15.12.22_1148_红米定制版
+    - 15.12.22_1148_MIUI定制版
+    - 15.12.22_1148_真我定制版
 - [内核工具](https://pan.baidu.com/s/17olkRiq_-RYlCHTIIzEB2g?pwd=6666)
   - Kernel Flasher：用于刷写、备份和恢复内核的安卓应用
   - RvKernel Manager：适用于 Android 12 + 的Material 3 设计的内核管理器
@@ -308,7 +319,7 @@
 - [密码管理器](https://pan.baidu.com/s/16S9SsFgeFf5OzXgMe8ZWkg?pwd=6666)
   - KeePassDX：轻量级的安卓密码管理器
   - Keepass2Android：适用于 Android 的密码管理应用
-- [邮件](https://pan.baidu.com/s/1_LyLVXBUa5ba-w8iEkAxQA?pwd=6666	3776910178)
+- [邮件](https://pan.baidu.com/s/1_LyLVXBUa5ba-w8iEkAxQA?pwd=6666)
   - Thunderbird：免费开源，注重隐私的电子邮件客户端
 - [壁纸](https://pan.baidu.com/s/17150iLn8pcqCN-1jaGJSlw?pwd=6666)
   - 黑客帝国动态壁纸：带有矩阵效果的免费动态壁纸
@@ -349,8 +360,15 @@
 - [快捷方式](https://pan.baidu.com/s/1s71XHEA6EI4SC4JIBwv1KA?pwd=6666)
   - HTTP 快捷方式：创建触发任意 HTTP 请求的主屏幕快捷方式
   - Anywhere：将常用的页面整理到一个文件夹，支持添加到桌面
-- [标题](链接)
-- [标题](链接)
+- [网盘](https://pan.baidu.com/s/1ukf46qV0iT-gLU2ZRdyz1g?pwd=6666)
+  - 蓝云：第三方蓝奏云APP简约、实用、强大
+  - 百度网盘三星定制版
+  - 小白云盘
+  - 小白云盘：强大的云盘工具（目前支持阿里云盘）安卓TV、手机、平板、投影仪及PC
+- [TVBOX](https://pan.baidu.com/s/1OR1TuA7E2nGQMLm1N5jVfg?pwd=6666)
+  - 影迷
+  - TVBOX助手：多功能的TVBox助手应用
+  - 影视
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
