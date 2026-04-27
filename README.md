@@ -37,6 +37,9 @@
   - 小喵Player：基于MPV，支持Anime4K超分功能等多功能的安卓本地播放器
   - AfuseKt：强大的媒体管理工具 支持自动刮削海报墙的视频播放器
   - Cinetry：聚合多媒体服务器的播放器，服务器一键切换，多服务器数据聚合搜索
+  - MX Player：强大的视频播放器，支持几乎所有音视频格式，支持硬件加速和多种字幕。
+  - Kazumi：基于自定义规则的跨平台番剧采集APP，支持弹幕、实时超分辨率等
+  - Ghosten Player：支持播放网盘与本地文件并自动生成海报墙的视频播放器
 - [音乐播放器](https://pan.baidu.com/s/1__Kw4CupE5uEGIv-fiiu5Q?pwd=6666)
   - MobiMusic：多平台聚合音乐播放器
   - PixelPlayer：一款功能丰富的 Material Design 3 风格音乐播放器
@@ -45,6 +48,9 @@
   - 拟声：拟物风的跨平台音视频播放器
   - 青听音乐：免费无广告的本地音乐播放器
   - Booming Music：现代化、功能丰富的 Material 3 风格 Android 音乐播放器
+  - Retro Music：界面美观、功能丰富且支持高度自定义的本地音乐播放器。
+  - AlgerMusicPlayer：跨平台的第三方网易云音乐播放器、本地服务、桌面歌词等
+  - Listen 1：支持多平台音乐播放和搜索的移动音乐 App
 - [深度休眠与保持运行](https://pan.baidu.com/s/1tgeBCQkACd5FdFpYsMMJBw?pwd=6666)
   - Flip 2 DND：通过翻转手机切换“勿扰模式”
   - Auto Sleep：按计划自动运行，同时也提供快速设置开关，方便手动一键启用或关闭。深度睡眠模式
@@ -82,6 +88,8 @@
   - MGC相机：稳定的 GCam 改版 可在大多数设备上运行，并拥有更多专业调节选项
   - Open Camera：功能丰富的相机应用程序
   - Alibi：将你的手机用作行车记录仪，在需要时保存最近 30 分钟的视频
+  - AGC相机：在任何安卓设备上使用完整功能的第三方Google相机
+  - AGC ToolKit Pro-照片编辑器和AGC相机配置下载器
 - [OpenList](https://pan.baidu.com/s/1iTqxnAYf0VUM76nrzcnZCA?pwd=6666)
   - OpenList Mobile：基于 Flutter 开发的 OpenList 移动应用
   - openlist：跨平台 GUI 客户端 + 内置OpenList服务端的应用
@@ -98,6 +106,7 @@
 - [笔记](https://pan.baidu.com/s/1YvFpVoLJuxCvEBBrFfWMvw?pwd=6666)
   - Material Notes：简单的本地存储的 Material Design 风格笔记应用
   - InkRoot：基于 Memos 系统打造的第三方极简笔记应用
+  - Another Notes：适用于 Android 的开源笔记应用
 - [自动化工具](https://pan.baidu.com/s/18CbZNYWt2JcYiOSSu_xYUw?pwd=6666)
   - vFlow：可视化工作流自动化工具
   - OP Auto Clicker：功能齐全的自动点击器
@@ -150,9 +159,13 @@
   - Anx Reader：开源、跨平台的电子书阅读器，集成了阅读同步、笔记、AI 辅助翻译与思维导图等智能功能
   - 阅读MD：使用MD3设计的阅读3.0
   - Readest：现代化、功能丰富的电子书阅读器，提供跨平台无缝访问
+  - MuPDF viewer：轻量、高性能的PDF文档查看工具
+  - Librera Pro：惊人的阅读器，易于使用和高度可配置的应用程序，可读取所有书籍
+  - 阅读：可以自定义来源的网络内容阅读工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
 - [Morse](https://pan.baidu.com/s/1SCsEDpFXpegdtMxsl6LKfg?pwd=6666)：实时将文本与摩斯密码相互转换
 - [文本与代码编辑](https://pan.baidu.com/s/1ekhPw30BXEGDQfVh67UW6Q?pwd=6666)
   - Acode：可扩展、功能强大且开源的文本与代码编辑器
+  - Squircle CE：免费开源、轻量级多语言代码编辑器
 - [HTTP on Fire](https://pan.baidu.com/s/1B3BFeo2SfBN6R8es4b5FmA?pwd=6666)：无代码 Android HTTP 服务器与设备管理器
 - [输入法](https://pan.baidu.com/s/1_RMBhMMNHmtviSxxZbw5fA?pwd=6666)
   - 言犀键盘：基于 AI 的智能语音输入法 | 让语音输入更自然、更高效（后改名 说点啥）
