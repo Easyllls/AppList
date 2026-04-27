@@ -28,6 +28,7 @@
 - [TTS（语音合成）](https://pan.baidu.com/s/1qII2fC1pMc0Q3sAiNCoC1Q?pwd=6666)
   - CloneTTS：运行在安卓系统本地的文字转语音 (TTS) 原生引擎。它可以让您在手机上离线克隆所需的声音，并直接使用这个声音来朗读书籍或长文本。无需联网，所有推理计算均在本地完成。
   - MultiTTS：离线的文本转语音工具 支持多种语音引擎 接近真人发音
+  - TTS Server：适用于安卓设备的TTS语音朗读应用
 - [视频播放器](https://pan.baidu.com/s/1HVohGvJoB88U60hQju1JXw?pwd=6666)
   - mpx：以隐私为优先、基于 Flutter 构建的本地媒体播放器。
   - mpvEx：基于 mpv构建的美观的安卓媒体播放器
@@ -43,6 +44,7 @@
   - Ghosten Player：支持播放网盘与本地文件并自动生成海报墙的视频播放器
   - XPlayer：支持各种视频 音频格式的万能媒体播放器
   - mpvKt：基于 mpv-android 的 Android 媒体播放器
+  - nPlayer：具有强大的流播放和各种便利功能的视频播放器
 - [音乐播放器](https://pan.baidu.com/s/1__Kw4CupE5uEGIv-fiiu5Q?pwd=6666)
   - MobiMusic：多平台聚合音乐播放器
   - PixelPlayer：一款功能丰富的 Material Design 3 风格音乐播放器
@@ -154,6 +156,7 @@
   - Prism File Explorer：现代、功能丰富且轻量级的 Android 文件管理器
   - 文件管理器+：快捷，易用, 功能丰富，管理云存储的文件管理应用
   - Fossify File Manager：尊重隐私和安全的便捷文件管理应用
+  - MiXplorer：集成云端存储、Root 模式的全功能文件管理器。
 - [下载工具](https://pan.baidu.com/s/1OTJLuLL0XXQmqquCs5UFiA?pwd=6666)
   - AB Download Manager：高颜值且高速的下载管理器
   - qBitController：能从 Android 设备中远程控制 qBittorrent 的软件
@@ -162,6 +165,8 @@
   - Advanced Download Manager：强大的安卓多线程下载工具
   - Gopeed：支持多平台、多协议的高速下载工具
   - tTorrent：功能强大的BT客户端
+  - Flud：简单美观的BitTorrent安卓客户端
+  - LibreTorrent：免费、开源、功能齐全的 Android torrent 客户端
 - [WebToApp](https://pan.baidu.com/s/1H7jl8WO6NSNYsFmh5RurQw?pwd=6666)：将任意网站或媒体转换为安卓软件
 - [GameResChange](https://pan.baidu.com/s/1Vqs5-T9BsL0YeMrBpmsmnA?pwd=6666)：更改任意应用或游戏的分辨率
 - [哔哩哔哩](https://pan.baidu.com/s/1a7cnf5kJ4fadW2SJD4OGzA?pwd=6666)
@@ -179,6 +184,7 @@
   - DrawAnywhere：可以让你在屏幕的任意地方上绘图的安卓软件
   - Paint：可以用不同颜色自由绘画并导出作品的画板应用
   - Image Toolbox：多功能强大的的图像编辑工具
+  - 照片编辑器：轻巧但功能强大的图像编辑应用
 - [文件传输与FTP](https://pan.baidu.com/s/1WDzhnqRx1qsYzl7diAoYnQ?pwd=6666)
   - LANDrop：跨平台局域网文件传输工具
   - WiFi FTP Server：简单易用的FTP服务器
@@ -253,7 +259,7 @@
   - aShell You：Material You 重新设计的 aShell
 - [硬件查看与测试](https://pan.baidu.com/s/12hkwAV7qg2_BMXJhoWyTgA?pwd=6666)
   - DevCheck：功能强大的 Android 设备硬件和系统信息检测工具
-  - 
+  - AIDA64：硬件和软件信息查看工具
 - [通知管理](https://pan.baidu.com/s/1Wr0VIeJRhOPG1E_1FpyWYQ?pwd=6666)
   - BuzzKill：功能强大且高度可定制的通知管理工具
 - [RSS](https://pan.baidu.com/s/1qf_13dAVgUqoOWGH4wqFLg?pwd=6666)
@@ -275,10 +281,15 @@
 - [解压缩](https://pan.baidu.com/s/1lxBjX7oe6AhX_Ncruqi1xg?pwd=6666)
   - ZipXtract：完全开源的解压缩应用程序
   - RAR：功能齐全且简单易用的解压缩工具
+  - ZArchiver：专业且易于使用的的解压缩应用
 - [相册](https://pan.baidu.com/s/1Po4KLUrn-nojx5pvEvZ0nA?pwd=6666)
   - Photos：漂亮的安卓照片应用
+  - QuickPic：基于快图浏览开发的相册应用，支持 Android8+
+  - Fossify Gallery：功能强大的相册应用 支持照片与视频基本的编辑功能
+  - Gallery：使用 Jetpack Compose 制作的轻量级媒体库应用程序
 - [截屏](https://pan.baidu.com/s/1qVV2lOmHARys0ySHJYcjRQ?pwd=6666)
   - 屏幕截图磁贴：从快速设置面板快速截取屏幕截图
+  - Snapmod：更好用的带壳截图生成器
 - [耳机助手](https://pan.baidu.com/s/1ZGJB51QDS5jxmJw0iSPvug?pwd=6666)
   - Mi Buds M8：第三方的小米蓝牙耳机助手 支持刷入固件
 - [密码管理器](https://pan.baidu.com/s/16S9SsFgeFf5OzXgMe8ZWkg?pwd=6666)
@@ -288,6 +299,7 @@
   - Thunderbird：免费开源，注重隐私的电子邮件客户端
 - [壁纸](https://pan.baidu.com/s/17150iLn8pcqCN-1jaGJSlw?pwd=6666)
   - 黑客帝国动态壁纸：带有矩阵效果的免费动态壁纸
+  - Paperize：开源、 Material 3 设计的动态壁纸更换应用
 - [垃圾电话拦截](https://pan.baidu.com/s/1iENQJhKzfskDP5b5kvS5Rw?pwd=6666)：Android 电话/短信拦截器
 - [安卓设备运行环境检测（Root检测）](https://pan.baidu.com/s/1AYD7QWPJyKxCeOuwG9VI6Q?pwd=6666)
   - 密钥认证：生成、保存、加载、解析和验证 Android 密钥和 ID 证明数据
@@ -300,14 +312,25 @@
   - VideoGuru：功能齐全强大的免费视频编辑器
 - [手势](https://pan.baidu.com/s/1pnFClX7hxf6pSh7N0gEsVQ?pwd=6666)
   - MyGesture：快速、智能的分边缘导航手势
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
+- [手电筒](https://pan.baidu.com/s/1d7PHsi3SWh3CKMciBNsWUw?pwd=6666)
+  - FlashDim：适用于 Android 13+ 具有调光功能的现代手电筒应用
+- [应用冻结与隐藏](https://pan.baidu.com/s/1RsrReq1R7JJwKOxg_jaF4A?pwd=6666)
+  - 雹：用于冻结 Android 应用的自由软件
+- [NFC](https://pan.baidu.com/s/1dWC13VdEUw-QQnTEDAkpXg?pwd=6666)
+  - NFC Tools PRO：功能强大的NFC辅助工具，读取写入数据以及自动化任务
+  - NFC Tasks：创建和执行NFC自动化任务
+- [多开](https://pan.baidu.com/s/1V8flr7JLlzxmB1d0hWgzlQ?pwd=6666)
+  - Shelter：利用“工作配置文件”功能提供一个独立的隔离空间
+- [魔法分享](https://pan.baidu.com/s/18UXemegjihJMbCMJaFGrcA?pwd=6666)：帮你快速地分享Web中的内容和图片
+- [远程桌面](https://pan.baidu.com/s/1YcE1aLxycnFzrs9RR4bHYA?pwd=6666)
+  - RustDesk：开源的跨平台远程桌面应用
+- [听书](https://pan.baidu.com/s/10_U9fZHYIF2uIciM2xajsg?pwd=6666)
+  - 我的听书：免费的聚合听书App
+  - 小梨听书：有广告但资源不少
+- [电池工具](https://pan.baidu.com/s/1f6pog5u7-GyeNpvsFmq2kQ?pwd=6666)
+  - Battery Guru：监控手机的电池使用情况并估计其当前的健康状况
+  - AccuBattery：安卓设备的电池监控与检测应用
+  - 
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
