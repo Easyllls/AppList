@@ -394,7 +394,7 @@
   - 
 - [桌面](https://pan.baidu.com/s/1RUn0yUp5gyzNmQCxOfTIbQ?pwd=6666)
 - [小米定制版](https://pan.baidu.com/s/1vV-xFlVTLXy5fxOveSmwZw?pwd=6666)：各种小米手机内置应用
-- [ArchiveMaster](https://pan.baidu.com/s/1kg44pzJOMfImC8UpHTV0Ww?pwd=6666)
+- [ArchiveMaster](https://pan.baidu.com/s/1kg44pzJOMfImC8UpHTV0Ww?pwd=6666)：一套协助用户对文件进行处理、管理、备份、同步的工具集
 
 </details>
 
