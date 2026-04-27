@@ -27,6 +27,7 @@
 
 - [TTS（语音合成）](https://pan.baidu.com/s/1qII2fC1pMc0Q3sAiNCoC1Q?pwd=6666)
   - CloneTTS：运行在安卓系统本地的文字转语音 (TTS) 原生引擎。它可以让您在手机上离线克隆所需的声音，并直接使用这个声音来朗读书籍或长文本。无需联网，所有推理计算均在本地完成。
+  - MultiTTS：离线的文本转语音工具 支持多种语音引擎 接近真人发音
 - [视频播放器](https://pan.baidu.com/s/1HVohGvJoB88U60hQju1JXw?pwd=6666)
   - mpx：以隐私为优先、基于 Flutter 构建的本地媒体播放器。
   - mpvEx：基于 mpv构建的美观的安卓媒体播放器
@@ -200,6 +201,8 @@
 - [文本与代码编辑](https://pan.baidu.com/s/1ekhPw30BXEGDQfVh67UW6Q?pwd=6666)
   - Acode：可扩展、功能强大且开源的文本与代码编辑器
   - Squircle CE：免费开源、轻量级多语言代码编辑器
+  - Karbon：强大开源的文本与代码编辑起
+  - QuickEdit：高效、稳定和全功能文本与代码编辑器
 - [HTTP on Fire](https://pan.baidu.com/s/1B3BFeo2SfBN6R8es4b5FmA?pwd=6666)：无代码 Android HTTP 服务器与设备管理器
 - [输入法](https://pan.baidu.com/s/1_RMBhMMNHmtviSxxZbw5fA?pwd=6666)
   - 言犀键盘：基于 AI 的智能语音输入法 | 让语音输入更自然、更高效（后改名 说点啥）
