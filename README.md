@@ -52,7 +52,11 @@
   - AdGuard Home Manager：使用 Flutter 创建的 AdGuard Home 管理客户端
   - AdGuard：独一无二且无需Root的广告拦截程序
   - DNSNet：轻量的基于 DNS 的 Android 内容拦截工具
-
+- [录屏](https://pan.baidu.com/s/15hYYK4fJG_a_BfKoy20A4A?pwd=6666)
+  - Screen Recorder：一个干净、原生 One UI 风格的屏幕录制应用
+- [录音](https://pan.baidu.com/s/1z6u_RKGY3WXxGfIb9vhmag?pwd=6666)
+  - RecordMaster：一个Pixel风格的录音机应用
+  - Recording Studio：适用于安卓设备的录音机应用
 
 </details>
 
