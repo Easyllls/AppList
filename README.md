@@ -29,8 +29,12 @@
   - CloneTTS：运行在安卓系统本地的文字转语音 (TTS) 原生引擎。它可以让您在手机上离线克隆所需的声音，并直接使用这个声音来朗读书籍或长文本。无需联网，所有推理计算均在本地完成。
 - [视频播放器](https://pan.baidu.com/s/1HVohGvJoB88U60hQju1JXw?pwd=6666)
   - mpx：以隐私为优先、基于 Flutter 构建的本地媒体播放器。
+  - mpvEx：基于 mpv构建的美观的安卓媒体播放器
+  - One Player：fork自 Next Player 项目，并新增应用内语言切换、设置备份恢复以及 ASS 字幕特效支持。
+  - Next Player：适用于安卓设备的简单且易于使用的本地视频播放器
 - [音乐播放器](https://pan.baidu.com/s/1__Kw4CupE5uEGIv-fiiu5Q?pwd=6666)
   - MobiMusic：多平台聚合音乐播放器
+  - PixelPlayer：一款功能丰富的 Material Design 3 风格音乐播放器
 - [深度休眠与勿扰模式](https://pan.baidu.com/s/1tgeBCQkACd5FdFpYsMMJBw?pwd=6666)
   - Flip 2 DND：通过翻转手机切换“勿扰模式”
   - Auto Sleep：按计划自动运行，同时也提供快速设置开关，方便手动一键启用或关闭。深度睡眠模式
@@ -56,6 +60,13 @@
   - Screen Recorder：一个干净、原生 One UI 风格的屏幕录制应用
   - RecordMaster：一个Pixel风格的录音机应用
   - Recording Studio：适用于安卓设备的录音机应用
+- [相机](https://pan.baidu.com/s/10twrXbnc5c0gliThabwZrA?pwd=6666)
+  - 
+  - 
+  - 
+- [OpenList](https://pan.baidu.com/s/1iTqxnAYf0VUM76nrzcnZCA?pwd=6666)
+  - OpenList Mobile：基于 Flutter 开发的 OpenList 移动应用
+  - openlist：跨平台 GUI 客户端 + 内置OpenList服务端的应用
 
 </details>
 
