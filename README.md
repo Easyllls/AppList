@@ -32,9 +32,11 @@
   - mpvEx：基于 mpv构建的美观的安卓媒体播放器
   - One Player：fork自 Next Player 项目，并新增应用内语言切换、设置备份恢复以及 ASS 字幕特效支持。
   - Next Player：适用于安卓设备的简单且易于使用的本地视频播放器
+  - Aniyomi：功能齐全的自定义动漫播放器与漫画阅读器
 - [音乐播放器](https://pan.baidu.com/s/1__Kw4CupE5uEGIv-fiiu5Q?pwd=6666)
   - MobiMusic：多平台聚合音乐播放器
   - PixelPlayer：一款功能丰富的 Material Design 3 风格音乐播放器
+  - Phonograph Plus：本地 Material Design 音乐播放器
 - [深度休眠与勿扰模式](https://pan.baidu.com/s/1tgeBCQkACd5FdFpYsMMJBw?pwd=6666)
   - Flip 2 DND：通过翻转手机切换“勿扰模式”
   - Auto Sleep：按计划自动运行，同时也提供快速设置开关，方便手动一键启用或关闭。深度睡眠模式
@@ -67,6 +69,8 @@
 - [OpenList](https://pan.baidu.com/s/1iTqxnAYf0VUM76nrzcnZCA?pwd=6666)
   - OpenList Mobile：基于 Flutter 开发的 OpenList 移动应用
   - openlist：跨平台 GUI 客户端 + 内置OpenList服务端的应用
+- [IPTV](https://pan.baidu.com/s/1dhO4Hr8V_Ttkazqygmg-Uw?pwd=6666)
+  - Fred TV：开源的自定义 IPTV 播放器
 
 </details>
 
