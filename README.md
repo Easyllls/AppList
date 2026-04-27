@@ -42,6 +42,7 @@
   - Phonograph Plus：本地 Material Design 音乐播放器
   - CuteMusic：既可爱又强大的本地音乐播放器
   - 拟声：拟物风的跨平台音视频播放器
+  - 青听音乐：免费无广告的本地音乐播放器
 - [深度休眠与保持运行](https://pan.baidu.com/s/1tgeBCQkACd5FdFpYsMMJBw?pwd=6666)
   - Flip 2 DND：通过翻转手机切换“勿扰模式”
   - Auto Sleep：按计划自动运行，同时也提供快速设置开关，方便手动一键启用或关闭。深度睡眠模式
@@ -90,6 +91,7 @@
   - YoWindow：以真实动态景观为核心的可视化天气应用
 - [笔记](https://pan.baidu.com/s/1YvFpVoLJuxCvEBBrFfWMvw?pwd=6666)
   - Material Notes：简单的本地存储的 Material Design 风格笔记应用
+  - InkRoot：基于 Memos 系统打造的第三方极简笔记应用
 - [自动化工具](https://pan.baidu.com/s/18CbZNYWt2JcYiOSSu_xYUw?pwd=6666)
   - vFlow：可视化工作流自动化工具
 - [Hypatia](https://pan.baidu.com/s/1kVvIjmzynGCZj-2zwHLkyQ?pwd=6666)：实时恶意软件扫描器
@@ -131,9 +133,27 @@
   - anyapk：在你自己的设备上安装任何 APK
 - [小说与文档阅读器](6666	https://pan.baidu.com/s/1xF6NE5SP1xnUBolFW9Pd1Q?pwd=6666)
   - Anx Reader：开源、跨平台的电子书阅读器，集成了阅读同步、笔记、AI 辅助翻译与思维导图等智能功能
+  - 阅读MD：使用MD3设计的阅读3.0
 - [Morse](https://pan.baidu.com/s/1SCsEDpFXpegdtMxsl6LKfg?pwd=6666)：实时将文本与摩斯密码相互转换
 - [文本与代码编辑](https://pan.baidu.com/s/1ekhPw30BXEGDQfVh67UW6Q?pwd=6666)
   - Acode：可扩展、功能强大且开源的文本与代码编辑器
+- [HTTP on Fire](https://pan.baidu.com/s/1B3BFeo2SfBN6R8es4b5FmA?pwd=6666)：无代码 Android HTTP 服务器与设备管理器
+- [输入法](https://pan.baidu.com/s/1_RMBhMMNHmtviSxxZbw5fA?pwd=6666)
+  - 言犀键盘：基于 AI 的智能语音输入法 | 让语音输入更自然、更高效（后改名 说点啥）
+- [通知日历同步](https://pan.baidu.com/s/1MMoYCMA-2VbGhdTfFT7srQ?pwd=6666)：通过监听通知，将事件登记到您的日历中
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+
+
+
+
+
+
+
 
 </details>
 
