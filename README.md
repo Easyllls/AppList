@@ -36,6 +36,7 @@
   - NeoPlayer：OpenList + MPV 播放器组合方案
   - 小喵Player：基于MPV，支持Anime4K超分功能等多功能的安卓本地播放器
   - AfuseKt：强大的媒体管理工具 支持自动刮削海报墙的视频播放器
+  - Cinetry：聚合多媒体服务器的播放器，服务器一键切换，多服务器数据聚合搜索
 - [音乐播放器](https://pan.baidu.com/s/1__Kw4CupE5uEGIv-fiiu5Q?pwd=6666)
   - MobiMusic：多平台聚合音乐播放器
   - PixelPlayer：一款功能丰富的 Material Design 3 风格音乐播放器
@@ -43,6 +44,7 @@
   - CuteMusic：既可爱又强大的本地音乐播放器
   - 拟声：拟物风的跨平台音视频播放器
   - 青听音乐：免费无广告的本地音乐播放器
+  - Booming Music：现代化、功能丰富的 Material 3 风格 Android 音乐播放器
 - [深度休眠与保持运行](https://pan.baidu.com/s/1tgeBCQkACd5FdFpYsMMJBw?pwd=6666)
   - Flip 2 DND：通过翻转手机切换“勿扰模式”
   - Auto Sleep：按计划自动运行，同时也提供快速设置开关，方便手动一键启用或关闭。深度睡眠模式
@@ -72,6 +74,7 @@
   - Screen Recorder：一个干净、原生 One UI 风格的屏幕录制应用
   - RecordMaster：一个Pixel风格的录音机应用
   - Recording Studio：适用于安卓设备的录音机应用
+  - Audionyx：通过蓝牙设备实时录制和播放音频的应用。
 - [相机](https://pan.baidu.com/s/10twrXbnc5c0gliThabwZrA?pwd=6666)
   - Intruder Selfie：在每次屏幕被解锁时，使用前置摄像头悄悄拍摄并记录精确时间戳
   - Libre Camera：使用 Flutter 和 Dart 编写的相机应用
@@ -104,6 +107,7 @@
   - Flappy Bird：飞扬的小鸟复刻版，在还原原版游戏体验的同时引入了一系列增强功能
 - [计算器](https://pan.baidu.com/s/1HvhwlFORNB1OhZyQPPmZ0A?pwd=6666)
   - Calculator You：外观精美、用于解决日常简单计算需求的计算器应用。
+  - OpenCalc：简单而美观的安卓计算器
 - [Keep Alive](https://pan.baidu.com/s/1oLoyk9XKtipn7Pp9afTySw?pwd=6666)：在你设定的时间内未使用设备时，自动通知他人。
 - [FFShare](https://pan.baidu.com/s/1nBtnnd0pjeB7C_GA2JuHZw?pwd=6666)：在分享之前通过 FFmpeg 对图片、视频和音频文件进行压缩处理
 - [漫画阅读器](https://pan.baidu.com/s/1NjlofTXhHmdiobPqDGKjxQ?pwd=6666)
@@ -111,6 +115,7 @@
 - [文件管理器](https://pan.baidu.com/s/1mzjlBVEKDoYpIXOcUaLQiw?pwd=6666)
   - File Navigator：高效、直观的方式来组织和管理设备中的文件
   - File Commander：功能丰富、支持多存储位置、带有隐私保护和转换功能的安卓文件管理器
+  - Prism File Explorer：现代、功能丰富且轻量级的 Android 文件管理器
 - [下载工具](https://pan.baidu.com/s/1OTJLuLL0XXQmqquCs5UFiA?pwd=6666)
   - AB Download Manager：高颜值且高速的下载管理器
 - [WebToApp](https://pan.baidu.com/s/1H7jl8WO6NSNYsFmh5RurQw?pwd=6666)：将任意网站或媒体转换为安卓软件
@@ -133,12 +138,15 @@
 - [KDE Connect](https://pan.baidu.com/s/1y8EL0sMU9bhe9AcokYg_9g?pwd=6666)：通过无线网络将智能手机与计算机连接，从而实现多种设备间的互动和控制
 - [浏览器](https://pan.baidu.com/s/1HjtLqCkVjC-RSnUxmjLujg?pwd=6666)
   - Iceraven：基于 Firefox 内核开发的高度自定义的浏览器 支持扩展
+  - Ultimatum：基于 Chromium 开发的一个浏览器分支，桌面级插件体验
 - [Dhizuku](https://pan.baidu.com/s/1sODmVeweK3TMT_zx50ZLXQ?pwd=6666)：可以将设备所有者权限共享给其他应用的工具
 - [应用安装器](https://pan.baidu.com/s/1fNNTj0DUyx4vSkiSjH5lHQ?pwd=6666)
   - anyapk：在你自己的设备上安装任何 APK
+  - InstallerX Revived：现代且功能强大的安卓应用安装器
 - [小说与文档阅读器](https://pan.baidu.com/s/1xF6NE5SP1xnUBolFW9Pd1Q?pwd=6666)
   - Anx Reader：开源、跨平台的电子书阅读器，集成了阅读同步、笔记、AI 辅助翻译与思维导图等智能功能
   - 阅读MD：使用MD3设计的阅读3.0
+  - Readest：现代化、功能丰富的电子书阅读器，提供跨平台无缝访问
 - [Morse](https://pan.baidu.com/s/1SCsEDpFXpegdtMxsl6LKfg?pwd=6666)：实时将文本与摩斯密码相互转换
 - [文本与代码编辑](https://pan.baidu.com/s/1ekhPw30BXEGDQfVh67UW6Q?pwd=6666)
   - Acode：可扩展、功能强大且开源的文本与代码编辑器
@@ -154,14 +162,23 @@
 - [文档扫描](https://pan.baidu.com/s/1jgxIoxs_VQPnLnmZHTPTCg?pwd=6666)
   - FairScan：适用于安卓设备的文档扫描应用
 - [Habit-Maker](https://pan.baidu.com/s/1Ozy8FeOK6PFPPx4i6wp93w?pwd=6666)：基于奖励机制的 Android 习惯跟踪器。
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
+- [垃圾清理](https://pan.baidu.com/s/1a2OtUKrcdHSXWLifm4aJrQ?pwd=6666)
+  - LTE 清除器：简单而纯粹的安卓设备清理工具
+- [地图与导航](https://pan.baidu.com/s/1p2eseJI_ifCcq5ioxtrFeQ?pwd=6666)
+  - Trail Sense：完全离线的全功能导航应用
+- [内核工具](https://pan.baidu.com/s/17olkRiq_-RYlCHTIIzEB2g?pwd=6666)
+  - Kernel Flasher：用于刷写、备份和恢复内核的安卓应用
+  - RvKernel Manager：适用于 Android 12 + 的Material 3 设计的内核管理器
+- [时钟与闹钟](https://pan.baidu.com/s/1txPKO92RNBs5hHoH1IxrEw?pwd=6666)
+  - Chrono：现代化且功能强大的Android时钟、闹钟、计时器与秒表应用
+- [系统工具](https://pan.baidu.com/s/1J0Z9Yh72_7gxvUH80MB09g?pwd=6666)
+  - 强力清理：界面美观、功能丰富的系统监控工具
+  - QuickSE：在已 root 的 Android 设备上即时检查与切换 SELinux 状态
+- [路由器助手](https://pan.baidu.com/s/1HK4KkdfJoyW8CF7q0ivtoQ?pwd=6666)
+  - LuCI Mobile：远程管理您的 OpenWrt 路由器，监控客户端、接口和运行状态。
+- [Mousedroid](https://pan.baidu.com/s/1qXwPL3FZ3Moud-Hdt4WUeg?pwd=6666)：用你的安卓手机当作鼠标和键盘使用
+- [模块管理器](https://pan.baidu.com/s/1lb_snPi-Z9jc1jzPzGr9wA?pwd=6666)：Magisk、KernelSU、APatch模块管理器
+  - WebUI X：统一管理Root模块WebUI的管理器。
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
