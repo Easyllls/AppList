@@ -76,6 +76,9 @@
   - Intruder Selfie：在每次屏幕被解锁时，使用前置摄像头悄悄拍摄并记录精确时间戳
   - Libre Camera：使用 Flutter 和 Dart 编写的相机应用
   - SnapSafe：以保护你的照片为核心目标的相机应用
+  - MGC相机：稳定的 GCam 改版 可在大多数设备上运行，并拥有更多专业调节选项
+  - Open Camera：功能丰富的相机应用程序
+  - Alibi：将你的手机用作行车记录仪，在需要时保存最近 30 分钟的视频
 - [OpenList](https://pan.baidu.com/s/1iTqxnAYf0VUM76nrzcnZCA?pwd=6666)
   - OpenList Mobile：基于 Flutter 开发的 OpenList 移动应用
   - openlist：跨平台 GUI 客户端 + 内置OpenList服务端的应用
@@ -119,7 +122,9 @@
   - Easy Sync：以简单的方式，将你的手机文件与 WebDAV 服务器进行同步
 - [AI与Agent](https://pan.baidu.com/s/1W6EhYjihT6qzQLYNvMTf8Q?pwd=6666)
   - Operit AI：功能完备的AI智能助手应用，完全独立运行，拥有强大的工具调用能力
-  Chatbox：跨平台 AI 客户端，支持多种大语言模型与本地部署
+  - Chatbox：跨平台 AI 客户端，支持多种大语言模型与本地部署
+  - Local Dream：在移动设备上使用 Stable Diffusion 图像生成模型
+  - RikkaHub：开源的安卓多模型 AI 聊天客户端，可统一管理、切换和使用多个大语言模型服务
 - [照片编辑](https://pan.baidu.com/s/1VcO20GqtwsEgzfzzKI3EcQ?pwd=6666)
   - DrawAnywhere：可以让你在屏幕的任意地方上绘图的安卓软件
   - Paint：可以用不同颜色自由绘画并导出作品的画板应用
@@ -141,20 +146,36 @@
 - [输入法](https://pan.baidu.com/s/1_RMBhMMNHmtviSxxZbw5fA?pwd=6666)
   - 言犀键盘：基于 AI 的智能语音输入法 | 让语音输入更自然、更高效（后改名 说点啥）
 - [通知日历同步](https://pan.baidu.com/s/1MMoYCMA-2VbGhdTfFT7srQ?pwd=6666)：通过监听通知，将事件登记到您的日历中
+- [虚拟机与模拟器](https://pan.baidu.com/s/1uIATcaTqSkEnVg3Qx2zKqQ?pwd=6666)
+  - Eden：基于 Yuzu 的开源分支（fork）的 Switch 模拟器
+- [应用备份](https://pan.baidu.com/s/1TbR-s5-n6KPxyJE-ZE1APQ?pwd=6666)
+  - Restoid：现代化的、基于 root 权限的 Android 备份工具
+  - Syncthing-Fork：完全去中心化、加密、安全 的 Android 文件同步工具
+- [文档扫描](https://pan.baidu.com/s/1jgxIoxs_VQPnLnmZHTPTCg?pwd=6666)
+  - FairScan：适用于安卓设备的文档扫描应用
+- [Habit-Maker](https://pan.baidu.com/s/1Ozy8FeOK6PFPPx4i6wp93w?pwd=6666)：基于奖励机制的 Android 习惯跟踪器。
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
-
-
-
-
-
-
-
-
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
 </details>
 
 <details>
