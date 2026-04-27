@@ -151,6 +151,12 @@
   - Fossify File Manager：尊重隐私和安全的便捷文件管理应用
 - [下载工具](https://pan.baidu.com/s/1OTJLuLL0XXQmqquCs5UFiA?pwd=6666)
   - AB Download Manager：高颜值且高速的下载管理器
+  - qBitController：能从 Android 设备中远程控制 qBittorrent 的软件
+  - 1DM+：功能强大的 Android 下载管理器
+  - Seal：简单的 Android 视频/音频下载器，遵循 Material Design 3 设计规范
+  - Advanced Download Manager：强大的安卓多线程下载工具
+  - Gopeed：支持多平台、多协议的高速下载工具
+  - tTorrent：功能强大的BT客户端
 - [WebToApp](https://pan.baidu.com/s/1H7jl8WO6NSNYsFmh5RurQw?pwd=6666)：将任意网站或媒体转换为安卓软件
 - [GameResChange](https://pan.baidu.com/s/1Vqs5-T9BsL0YeMrBpmsmnA?pwd=6666)：更改任意应用或游戏的分辨率
 - [哔哩哔哩](https://pan.baidu.com/s/1a7cnf5kJ4fadW2SJD4OGzA?pwd=6666)
@@ -167,6 +173,7 @@
 - [照片编辑](https://pan.baidu.com/s/1VcO20GqtwsEgzfzzKI3EcQ?pwd=6666)
   - DrawAnywhere：可以让你在屏幕的任意地方上绘图的安卓软件
   - Paint：可以用不同颜色自由绘画并导出作品的画板应用
+  - Image Toolbox：多功能强大的的图像编辑工具
 - [文件传输与FTP](https://pan.baidu.com/s/1WDzhnqRx1qsYzl7diAoYnQ?pwd=6666)
   - LANDrop：跨平台局域网文件传输工具
   - WiFi FTP Server：简单易用的FTP服务器
@@ -226,6 +233,7 @@
 - [遥控](https://pan.baidu.com/s/18lTdLS-jCl-iiPrKnGv3Vw?pwd=6666)
   - ADB Remote ATV：基于 ADB Shell 命令的安卓TV遥控器
   - 蓝牙遥控器：将您的智能手机变成Android TV的蓝牙遥控器
+  - 酷控智能遥控：简单好用的万能遥控
 - [ADB工具](https://pan.baidu.com/s/1XWJiDI5AmxA0SeGsHMF5Sw?pwd=6666)
   - 甲壳虫ADB助手：面向安卓设备 ADB 调试工具
   - WADBS：无线调试快捷开关
@@ -250,6 +258,7 @@
 - [翻译](https://pan.baidu.com/s/1Vq4mcBg4gRgGNUMz-rAJow?pwd=6666)
   - TranslateYou：专注隐私的翻译应用程序，采用MD3设计
   - 瞬译：强大的屏幕实时翻译应用程序
+  - Bubble Translate：功能强大的屏幕翻译应用
 - [解压缩](https://pan.baidu.com/s/1lxBjX7oe6AhX_Ncruqi1xg?pwd=6666)
   - ZipXtract：完全开源的解压缩应用程序
   - RAR：功能齐全且简单易用的解压缩工具
@@ -266,7 +275,8 @@
 - [壁纸](https://pan.baidu.com/s/17150iLn8pcqCN-1jaGJSlw?pwd=6666)
   - 黑客帝国动态壁纸：带有矩阵效果的免费动态壁纸
 - [垃圾电话拦截](https://pan.baidu.com/s/1iENQJhKzfskDP5b5kvS5Rw?pwd=6666)：Android 电话/短信拦截器
-- [标题](链接)
+- [安卓设备运行环境检测（Root检测）](https://pan.baidu.com/s/1AYD7QWPJyKxCeOuwG9VI6Q?pwd=6666)
+  - 密钥认证：生成、保存、加载、解析和验证 Android 密钥和 ID 证明数据
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
