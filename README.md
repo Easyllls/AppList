@@ -34,6 +34,7 @@
   - Next Player：适用于安卓设备的简单且易于使用的本地视频播放器
   - Aniyomi：功能齐全的自定义动漫播放器与漫画阅读器
   - NeoPlayer：OpenList + MPV 播放器组合方案
+  - 小喵Player：基于MPV，支持Anime4K超分功能等多功能的安卓本地播放器
 - [音乐播放器](https://pan.baidu.com/s/1__Kw4CupE5uEGIv-fiiu5Q?pwd=6666)
   - MobiMusic：多平台聚合音乐播放器
   - PixelPlayer：一款功能丰富的 Material Design 3 风格音乐播放器
@@ -85,6 +86,10 @@
   - YoWindow：以真实动态景观为核心的可视化天气应用
 - [笔记](https://pan.baidu.com/s/1YvFpVoLJuxCvEBBrFfWMvw?pwd=6666)
   - Material Notes：简单的本地存储的 Material Design 风格笔记应用
+- [自动化工具](https://pan.baidu.com/s/18CbZNYWt2JcYiOSSu_xYUw?pwd=6666)
+  - vFlow：可视化工作流自动化工具
+- [Hypatia](https://pan.baidu.com/s/1kVvIjmzynGCZj-2zwHLkyQ?pwd=6666)：实时恶意软件扫描器
+- [BoostX](https://pan.baidu.com/s/1Fe2EKl1Eu0Zu8Run1cGfRg?pwd=6666)：极简音量增强器
 
 </details>
 
