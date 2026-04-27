@@ -46,6 +46,7 @@
   - Extinguish：在屏幕关闭时运行任何 Android 应用程序，就如同屏幕打开时一样
 - [应用与进程管理](https://pan.baidu.com/s/1N8wyTsxhncj2mRG1tEoTwQ?pwd=6666)
   - Shappky：一款使用 Shizuku 或 Root 权限来停止后台应用的工具
+  - Running Services Monitor：监控你 Android 设备上正在运行的服务
 - [Shizuku及其工具集](https://pan.baidu.com/s/11GpcRDfzVe0Wnu-qBN44hw?pwd=6666)
   - Shizuku：无需解锁设备调用具有Root权限的系统API
   - Shizuku thedjchi：这是 Shizuku 的一个分支版本（Fork）
