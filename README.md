@@ -78,6 +78,8 @@
   - Shappky：一款使用 Shizuku 或 Root 权限来停止后台应用的工具
   - Running Services Monitor：监控你 Android 设备上正在运行的服务
   - Package Manager：功能强大的应用程序，用于管理系统和用户应用，同时支持安装各种安装包
+  - LibChecker：查看并分析 App 使用的第三方库的应用。
+  - Blocker：安卓应用组件管理
 - [Shizuku及其工具集](https://pan.baidu.com/s/11GpcRDfzVe0Wnu-qBN44hw?pwd=6666)
   - Shizuku：无需解锁设备调用具有Root权限的系统API
   - Shizuku thedjchi：这是 Shizuku 的一个分支版本（Fork）
@@ -157,6 +159,7 @@
   - 文件管理器+：快捷，易用, 功能丰富，管理云存储的文件管理应用
   - Fossify File Manager：尊重隐私和安全的便捷文件管理应用
   - MiXplorer：集成云端存储、Root 模式的全功能文件管理器。
+  - 质感文件：开源的 Material Design 文件管理器，适用于 Android 5.0+。
 - [下载工具](https://pan.baidu.com/s/1OTJLuLL0XXQmqquCs5UFiA?pwd=6666)
   - AB Download Manager：高颜值且高速的下载管理器
   - qBitController：能从 Android 设备中远程控制 qBittorrent 的软件
@@ -173,8 +176,10 @@
   - BiliPai：现代化的 Bilibili 第三方 Android 客户端
   - PiliPro：使用Flutter开发的BiliBili第三方客户端
   - PiliPlus：使用Flutter开发的BiliBili第三方客户端
+  - bilimiao：设计优雅功能完善的第三方哔哩哔哩客户端
 - [文件同步](https://pan.baidu.com/s/1V_1jSetHTQFGcClGZcYQrQ?pwd=6666)
   - Easy Sync：以简单的方式，将你的手机文件与 WebDAV 服务器进行同步
+  - Round Sync：适用于安卓设备的文件同步应用
 - [AI与Agent](https://pan.baidu.com/s/1W6EhYjihT6qzQLYNvMTf8Q?pwd=6666)
   - Operit AI：功能完备的AI智能助手应用，完全独立运行，拥有强大的工具调用能力
   - Chatbox：跨平台 AI 客户端，支持多种大语言模型与本地部署
@@ -185,9 +190,13 @@
   - Paint：可以用不同颜色自由绘画并导出作品的画板应用
   - Image Toolbox：多功能强大的的图像编辑工具
   - 照片编辑器：轻巧但功能强大的图像编辑应用
+  - Retouch：只需轻轻一按即可从图像中删除不需要的对象。
+  - 元数据清除器：照片元数据删除应用程序
 - [文件传输与FTP](https://pan.baidu.com/s/1WDzhnqRx1qsYzl7diAoYnQ?pwd=6666)
   - LANDrop：跨平台局域网文件传输工具
   - WiFi FTP Server：简单易用的FTP服务器
+  - LocalSend：在本地网络上安全地与附近设备共享文件和消息，无需互联网连接。
+  - primitive ftpd：简单的FTP和SFTP服务器。
 - [设备管理与控制](https://pan.baidu.com/s/1y8EL0sMU9bhe9AcokYg_9g?pwd=6666)
   - KDE Connect：通过无线网络将智能手机与计算机连接，从而实现多种设备间的互动和控制
   - 简朴-通过网页管理你的手机！访问文件、联系人、视频、音乐等内容
@@ -233,6 +242,7 @@
 - [Habit-Maker](https://pan.baidu.com/s/1Ozy8FeOK6PFPPx4i6wp93w?pwd=6666)：基于奖励机制的 Android 习惯跟踪器。
 - [垃圾清理](https://pan.baidu.com/s/1a2OtUKrcdHSXWLifm4aJrQ?pwd=6666)
   - LTE 清除器：简单而纯粹的安卓设备清理工具
+  - Cleaner：质感设计的清理应用
 - [地图与导航](https://pan.baidu.com/s/1p2eseJI_ifCcq5ioxtrFeQ?pwd=6666)
   - Trail Sense：完全离线的全功能导航应用
 - [内核工具](https://pan.baidu.com/s/17olkRiq_-RYlCHTIIzEB2g?pwd=6666)
@@ -244,6 +254,7 @@
   - 强力清理：界面美观、功能丰富的系统监控工具
   - QuickSE：在已 root 的 Android 设备上即时检查与切换 SELinux 状态
   - RAM Calc：强大的 RAM 内存监视和优化应用。
+  - KonaBess：Snapdragon系列GPU频率表&电压表调整（需要Root）
 - [路由器助手](https://pan.baidu.com/s/1HK4KkdfJoyW8CF7q0ivtoQ?pwd=6666)
   - LuCI Mobile：远程管理您的 OpenWrt 路由器，监控客户端、接口和运行状态。
 - [Mousedroid](https://pan.baidu.com/s/1qXwPL3FZ3Moud-Hdt4WUeg?pwd=6666)：用你的安卓手机当作鼠标和键盘使用
@@ -318,11 +329,13 @@
   - FlashDim：适用于 Android 13+ 具有调光功能的现代手电筒应用
 - [应用冻结与隐藏](https://pan.baidu.com/s/1RsrReq1R7JJwKOxg_jaF4A?pwd=6666)
   - 雹：用于冻结 Android 应用的自由软件
+  - Amarok：一键隐藏隐私文件与应用
 - [NFC](https://pan.baidu.com/s/1dWC13VdEUw-QQnTEDAkpXg?pwd=6666)
   - NFC Tools PRO：功能强大的NFC辅助工具，读取写入数据以及自动化任务
   - NFC Tasks：创建和执行NFC自动化任务
 - [多开](https://pan.baidu.com/s/1V8flr7JLlzxmB1d0hWgzlQ?pwd=6666)
   - Shelter：利用“工作配置文件”功能提供一个独立的隔离空间
+  - 炼妖壶：功能强大的应用双开工具
 - [魔法分享](https://pan.baidu.com/s/18UXemegjihJMbCMJaFGrcA?pwd=6666)：帮你快速地分享Web中的内容和图片
 - [远程桌面](https://pan.baidu.com/s/1YcE1aLxycnFzrs9RR4bHYA?pwd=6666)
   - RustDesk：开源的跨平台远程桌面应用
