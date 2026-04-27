@@ -35,11 +35,13 @@
   - Aniyomi：功能齐全的自定义动漫播放器与漫画阅读器
   - NeoPlayer：OpenList + MPV 播放器组合方案
   - 小喵Player：基于MPV，支持Anime4K超分功能等多功能的安卓本地播放器
+  - AfuseKt：强大的媒体管理工具 支持自动刮削海报墙的视频播放器
 - [音乐播放器](https://pan.baidu.com/s/1__Kw4CupE5uEGIv-fiiu5Q?pwd=6666)
   - MobiMusic：多平台聚合音乐播放器
   - PixelPlayer：一款功能丰富的 Material Design 3 风格音乐播放器
   - Phonograph Plus：本地 Material Design 音乐播放器
   - CuteMusic：既可爱又强大的本地音乐播放器
+  - 拟声：拟物风的跨平台音视频播放器
 - [深度休眠与保持运行](https://pan.baidu.com/s/1tgeBCQkACd5FdFpYsMMJBw?pwd=6666)
   - Flip 2 DND：通过翻转手机切换“勿扰模式”
   - Auto Sleep：按计划自动运行，同时也提供快速设置开关，方便手动一键启用或关闭。深度睡眠模式
@@ -70,9 +72,9 @@
   - RecordMaster：一个Pixel风格的录音机应用
   - Recording Studio：适用于安卓设备的录音机应用
 - [相机](https://pan.baidu.com/s/10twrXbnc5c0gliThabwZrA?pwd=6666)
-  - 
-  - 
-  - 
+  - Intruder Selfie：在每次屏幕被解锁时，使用前置摄像头悄悄拍摄并记录精确时间戳
+  - Libre Camera：使用 Flutter 和 Dart 编写的相机应用
+  - SnapSafe：以保护你的照片为核心目标的相机应用
 - [OpenList](https://pan.baidu.com/s/1iTqxnAYf0VUM76nrzcnZCA?pwd=6666)
   - OpenList Mobile：基于 Flutter 开发的 OpenList 移动应用
   - openlist：跨平台 GUI 客户端 + 内置OpenList服务端的应用
@@ -80,6 +82,7 @@
   - Fred TV：开源的自定义 IPTV 播放器
   - Astronia：适用于安卓设备的 M3U8 播放器
   - FCLiveTool：直播源预览+下载
+  - M3U-一款现代化的 Android 流媒体播放器
 - [Traffic Light](https://pan.baidu.com/s/1JYb3CCv7ORHzOW8nO479ng?pwd=6666)：在保障隐私的前提下，跟踪你的网络和数据使用情况
 - [BetterCounter](https://pan.baidu.com/s/1QUASCbg4uWBLH-vuK-F2zw?pwd=6666)：简单易用的习惯追踪每日计数器
 - [Script Runner for Termux](https://pan.baidu.com/s/14qhnLP3hS6Jj2hd6oDfuJA?pwd=6666)：通过 Termux 管理、编写和执行脚本的安全 Android 桥接工具
@@ -102,11 +105,35 @@
   - venera：支持阅读本地及网络漫画的漫画阅读器
 - [文件管理器](https://pan.baidu.com/s/1mzjlBVEKDoYpIXOcUaLQiw?pwd=6666)
   - File Navigator：高效、直观的方式来组织和管理设备中的文件
+  - File Commander：功能丰富、支持多存储位置、带有隐私保护和转换功能的安卓文件管理器
 - [下载工具](https://pan.baidu.com/s/1OTJLuLL0XXQmqquCs5UFiA?pwd=6666)
   - AB Download Manager：高颜值且高速的下载管理器
 - [WebToApp](https://pan.baidu.com/s/1H7jl8WO6NSNYsFmh5RurQw?pwd=6666)：将任意网站或媒体转换为安卓软件
-
-
+- [GameResChange](https://pan.baidu.com/s/1Vqs5-T9BsL0YeMrBpmsmnA?pwd=6666)：更改任意应用或游戏的分辨率
+- [哔哩哔哩](https://pan.baidu.com/s/1a7cnf5kJ4fadW2SJD4OGzA?pwd=6666)
+  - BiliPai：现代化的 Bilibili 第三方 Android 客户端
+  - PiliPro：使用Flutter开发的BiliBili第三方客户端
+- [文件同步](https://pan.baidu.com/s/1V_1jSetHTQFGcClGZcYQrQ?pwd=6666)
+  - Easy Sync：以简单的方式，将你的手机文件与 WebDAV 服务器进行同步
+- [AI与Agent](https://pan.baidu.com/s/1W6EhYjihT6qzQLYNvMTf8Q?pwd=6666)
+  - Operit AI：功能完备的AI智能助手应用，完全独立运行，拥有强大的工具调用能力
+  Chatbox：跨平台 AI 客户端，支持多种大语言模型与本地部署
+- [照片编辑](https://pan.baidu.com/s/1VcO20GqtwsEgzfzzKI3EcQ?pwd=6666)
+  - DrawAnywhere：可以让你在屏幕的任意地方上绘图的安卓软件
+  - Paint：可以用不同颜色自由绘画并导出作品的画板应用
+- [文件传输](https://pan.baidu.com/s/1WDzhnqRx1qsYzl7diAoYnQ?pwd=6666)
+  - LANDrop：跨平台局域网文件传输工具
+- [KDE Connect](https://pan.baidu.com/s/1y8EL0sMU9bhe9AcokYg_9g?pwd=6666)：通过无线网络将智能手机与计算机连接，从而实现多种设备间的互动和控制
+- [浏览器](https://pan.baidu.com/s/1HjtLqCkVjC-RSnUxmjLujg?pwd=6666)
+  - Iceraven：基于 Firefox 内核开发的高度自定义的浏览器 支持扩展
+- [Dhizuku](https://pan.baidu.com/s/1sODmVeweK3TMT_zx50ZLXQ?pwd=6666)：可以将设备所有者权限共享给其他应用的工具
+- [应用安装器](https://pan.baidu.com/s/1fNNTj0DUyx4vSkiSjH5lHQ?pwd=6666)
+  - anyapk：在你自己的设备上安装任何 APK
+- [小说与文档阅读器](6666	https://pan.baidu.com/s/1xF6NE5SP1xnUBolFW9Pd1Q?pwd=6666)
+  - Anx Reader：开源、跨平台的电子书阅读器，集成了阅读同步、笔记、AI 辅助翻译与思维导图等智能功能
+- [Morse](https://pan.baidu.com/s/1SCsEDpFXpegdtMxsl6LKfg?pwd=6666)：实时将文本与摩斯密码相互转换
+- [文本与代码编辑](https://pan.baidu.com/s/1ekhPw30BXEGDQfVh67UW6Q?pwd=6666)
+  - Acode：可扩展、功能强大且开源的文本与代码编辑器
 
 </details>
 
