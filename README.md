@@ -51,6 +51,7 @@
   - AdAway：适用于安卓设备的开源 Hosts 文件管理应用
   - AdGuard Home Manager：使用 Flutter 创建的 AdGuard Home 管理客户端
   - AdGuard：独一无二且无需Root的广告拦截程序
+  - DNSNet：轻量的基于 DNS 的 Android 内容拦截工具
 
 
 </details>
