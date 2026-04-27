@@ -41,6 +41,8 @@
   - MX Player：强大的视频播放器，支持几乎所有音视频格式，支持硬件加速和多种字幕。
   - Kazumi：基于自定义规则的跨平台番剧采集APP，支持弹幕、实时超分辨率等
   - Ghosten Player：支持播放网盘与本地文件并自动生成海报墙的视频播放器
+  - XPlayer：支持各种视频 音频格式的万能媒体播放器
+  - mpvKt：基于 mpv-android 的 Android 媒体播放器
 - [音乐播放器](https://pan.baidu.com/s/1__Kw4CupE5uEGIv-fiiu5Q?pwd=6666)
   - MobiMusic：多平台聚合音乐播放器
   - PixelPlayer：一款功能丰富的 Material Design 3 风格音乐播放器
@@ -119,6 +121,7 @@
   - YoWindow：以真实动态景观为核心的可视化天气应用
   - Weather Master：开源功能强大且设计精美的天气应用
   - Weather M8：简单高效的天气预报
+  - 小米天气(Play版)：一站式获取当前温度、降雨预报和空气质量指数
 - [笔记](https://pan.baidu.com/s/1YvFpVoLJuxCvEBBrFfWMvw?pwd=6666)
   - Material Notes：简单的本地存储的 Material Design 风格笔记应用
   - InkRoot：基于 Memos 系统打造的第三方极简笔记应用
@@ -214,6 +217,9 @@
 - [应用备份](https://pan.baidu.com/s/1TbR-s5-n6KPxyJE-ZE1APQ?pwd=6666)
   - Restoid：现代化的、基于 root 权限的 Android 备份工具
   - Syncthing-Fork：完全去中心化、加密、安全 的 Android 文件同步工具
+  - 数据备份：免费开源的数据备份应用
+  - AppDash：使用漂亮而现代的 UI 轻松管理和备份您的应用程序
+  - Swift Backup：适用于Android设备的简单，快速，智能的备份解决方案
 - [文档扫描](https://pan.baidu.com/s/1jgxIoxs_VQPnLnmZHTPTCg?pwd=6666)
   - FairScan：适用于安卓设备的文档扫描应用
 - [Habit-Maker](https://pan.baidu.com/s/1Ozy8FeOK6PFPPx4i6wp93w?pwd=6666)：基于奖励机制的 Android 习惯跟踪器。
@@ -236,6 +242,7 @@
 - [模块管理器](https://pan.baidu.com/s/1lb_snPi-Z9jc1jzPzGr9wA?pwd=6666)：Magisk、KernelSU、APatch模块管理器
   - WebUI X：统一管理Root模块WebUI的管理器。
   - KsuWebUI：KernelSU WebUI的独立App实现
+  - MMRL：用于管理 Magisk、KernelSU 和 APatch 模块的终极管理器
 - [遥控](https://pan.baidu.com/s/18lTdLS-jCl-iiPrKnGv3Vw?pwd=6666)
   - ADB Remote ATV：基于 ADB Shell 命令的安卓TV遥控器
   - 蓝牙遥控器：将您的智能手机变成Android TV的蓝牙遥控器
@@ -276,6 +283,7 @@
   - Mi Buds M8：第三方的小米蓝牙耳机助手 支持刷入固件
 - [密码管理器](https://pan.baidu.com/s/16S9SsFgeFf5OzXgMe8ZWkg?pwd=6666)
   - KeePassDX：轻量级的安卓密码管理器
+  - Keepass2Android：适用于 Android 的密码管理应用
 - [邮件](https://pan.baidu.com/s/1_LyLVXBUa5ba-w8iEkAxQA?pwd=6666	3776910178)
   - Thunderbird：免费开源，注重隐私的电子邮件客户端
 - [壁纸](https://pan.baidu.com/s/17150iLn8pcqCN-1jaGJSlw?pwd=6666)
@@ -285,9 +293,13 @@
   - 密钥认证：生成、保存、加载、解析和验证 Android 密钥和 ID 证明数据
 - [LiveBoot](https://pan.baidu.com/s/1xn2Wvaewwgsfnz1_UgwSAg?pwd=6666)：修改安卓设备的启动画面，类似于“Matrix 数字雨”效果
 - [Rays](https://pan.baidu.com/s/1EFgnI_607MxoCvD2OiLYqA?pwd=6666)：在本地记录、查找、管理表情包的工具
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
+- [Apk编辑](https://pan.baidu.com/s/10FZx1vScNtuqlvAhRsYOcA?pwd=6666)
+  - AntiSplit M：拆分应用合并
+  - 
+- [视频编辑](https://pan.baidu.com/s/1bGNda0yPAMJHexPL3iKq-w?pwd=6666)
+  - VideoGuru：功能齐全强大的免费视频编辑器
+- [手势](https://pan.baidu.com/s/1pnFClX7hxf6pSh7N0gEsVQ?pwd=6666)
+  - MyGesture：快速、智能的分边缘导航手势
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
