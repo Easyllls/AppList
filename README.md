@@ -72,6 +72,7 @@
 - [应用与进程管理](https://pan.baidu.com/s/1N8wyTsxhncj2mRG1tEoTwQ?pwd=6666)
   - Shappky：一款使用 Shizuku 或 Root 权限来停止后台应用的工具
   - Running Services Monitor：监控你 Android 设备上正在运行的服务
+  - Package Manager：功能强大的应用程序，用于管理系统和用户应用
 - [Shizuku及其工具集](https://pan.baidu.com/s/11GpcRDfzVe0Wnu-qBN44hw?pwd=6666)
   - Shizuku：无需解锁设备调用具有Root权限的系统API
   - Shizuku thedjchi：这是 Shizuku 的一个分支版本（Fork）
@@ -157,9 +158,12 @@
 - [照片编辑](https://pan.baidu.com/s/1VcO20GqtwsEgzfzzKI3EcQ?pwd=6666)
   - DrawAnywhere：可以让你在屏幕的任意地方上绘图的安卓软件
   - Paint：可以用不同颜色自由绘画并导出作品的画板应用
-- [文件传输](https://pan.baidu.com/s/1WDzhnqRx1qsYzl7diAoYnQ?pwd=6666)
+- [文件传输与FTP](https://pan.baidu.com/s/1WDzhnqRx1qsYzl7diAoYnQ?pwd=6666)
   - LANDrop：跨平台局域网文件传输工具
-- [KDE Connect](https://pan.baidu.com/s/1y8EL0sMU9bhe9AcokYg_9g?pwd=6666)：通过无线网络将智能手机与计算机连接，从而实现多种设备间的互动和控制
+  - WiFi FTP Server：简单易用的FTP服务器
+- [设备管理与控制](https://pan.baidu.com/s/1y8EL0sMU9bhe9AcokYg_9g?pwd=6666)
+  - KDE Connect：通过无线网络将智能手机与计算机连接，从而实现多种设备间的互动和控制
+  - 简朴-通过网页管理你的手机！访问文件、联系人、视频、音乐等内容
 - [浏览器](https://pan.baidu.com/s/1HjtLqCkVjC-RSnUxmjLujg?pwd=6666)
   - Iceraven：基于 Firefox 内核开发的高度自定义的浏览器 支持扩展
   - Ultimatum：基于 Chromium 开发的一个浏览器分支，桌面级插件体验
@@ -202,19 +206,31 @@
 - [系统工具](https://pan.baidu.com/s/1J0Z9Yh72_7gxvUH80MB09g?pwd=6666)
   - 强力清理：界面美观、功能丰富的系统监控工具
   - QuickSE：在已 root 的 Android 设备上即时检查与切换 SELinux 状态
+  - RAM Calc：强大的 RAM 内存监视和优化应用。
 - [路由器助手](https://pan.baidu.com/s/1HK4KkdfJoyW8CF7q0ivtoQ?pwd=6666)
   - LuCI Mobile：远程管理您的 OpenWrt 路由器，监控客户端、接口和运行状态。
 - [Mousedroid](https://pan.baidu.com/s/1qXwPL3FZ3Moud-Hdt4WUeg?pwd=6666)：用你的安卓手机当作鼠标和键盘使用
 - [模块管理器](https://pan.baidu.com/s/1lb_snPi-Z9jc1jzPzGr9wA?pwd=6666)：Magisk、KernelSU、APatch模块管理器
   - WebUI X：统一管理Root模块WebUI的管理器。
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
+- [遥控](https://pan.baidu.com/s/18lTdLS-jCl-iiPrKnGv3Vw?pwd=6666)
+  - ADB Remote ATV：基于 ADB Shell 命令的安卓TV遥控器
+  - 
+- [ADB工具](https://pan.baidu.com/s/1XWJiDI5AmxA0SeGsHMF5Sw?pwd=6666)
+  - 甲壳虫ADB助手：面向安卓设备 ADB 调试工具
+  - WADBS：无线调试快捷开关
+  - aShell You：Material You 重新设计的 aShell
+- [硬件查看与测试](https://pan.baidu.com/s/12hkwAV7qg2_BMXJhoWyTgA?pwd=6666)
+  - DevCheck：功能强大的 Android 设备硬件和系统信息检测工具
+  - 
+- [通知管理](https://pan.baidu.com/s/1Wr0VIeJRhOPG1E_1FpyWYQ?pwd=6666)
+  - BuzzKill：功能强大且高度可定制的通知管理工具
+- [RSS](https://pan.baidu.com/s/1qf_13dAVgUqoOWGH4wqFLg?pwd=6666)
+  - PodAura：集 RSS 订阅、媒体下载和播放于一体的 Android 播客应用
+  - 
+- [DSU Sideloader](https://pan.baidu.com/s/17GxT703_7aCgBSsQDoIJzA?pwd=6666)：通过 安卓的 DSU 功能轻松安装 GSI。
+- [Sefirah](https://pan.baidu.com/s/1BVi1tQZXJyINfJInAQtPGQ?pwd=6666)：在 Windows PC 和 Android 设备之间无缝共享剪贴板和通知
+- [网络与WiFi工具](https://pan.baidu.com/s/1opn0eMB4-G_ApNo2_KOVmg?pwd=6666)
+  - Find my IP：查看并记录我的IP地址，支持IPv4和IPv6
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
