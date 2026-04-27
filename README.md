@@ -100,6 +100,7 @@
   - InkRoot：基于 Memos 系统打造的第三方极简笔记应用
 - [自动化工具](https://pan.baidu.com/s/18CbZNYWt2JcYiOSSu_xYUw?pwd=6666)
   - vFlow：可视化工作流自动化工具
+  - OP Auto Clicker：功能齐全的自动点击器
 - [Hypatia](https://pan.baidu.com/s/1kVvIjmzynGCZj-2zwHLkyQ?pwd=6666)：实时恶意软件扫描器
 - [BoostX](https://pan.baidu.com/s/1Fe2EKl1Eu0Zu8Run1cGfRg?pwd=6666)：极简音量增强器
 - [游戏](https://pan.baidu.com/s/1AQs19tKsl6NU3csoVu9iLQ?pwd=6666)
@@ -108,6 +109,7 @@
 - [计算器](https://pan.baidu.com/s/1HvhwlFORNB1OhZyQPPmZ0A?pwd=6666)
   - Calculator You：外观精美、用于解决日常简单计算需求的计算器应用。
   - OpenCalc：简单而美观的安卓计算器
+  - 多功能计算器：计算器解决生活中所有计算问题
 - [Keep Alive](https://pan.baidu.com/s/1oLoyk9XKtipn7Pp9afTySw?pwd=6666)：在你设定的时间内未使用设备时，自动通知他人。
 - [FFShare](https://pan.baidu.com/s/1nBtnnd0pjeB7C_GA2JuHZw?pwd=6666)：在分享之前通过 FFmpeg 对图片、视频和音频文件进行压缩处理
 - [漫画阅读器](https://pan.baidu.com/s/1NjlofTXhHmdiobPqDGKjxQ?pwd=6666)
@@ -116,6 +118,7 @@
   - File Navigator：高效、直观的方式来组织和管理设备中的文件
   - File Commander：功能丰富、支持多存储位置、带有隐私保护和转换功能的安卓文件管理器
   - Prism File Explorer：现代、功能丰富且轻量级的 Android 文件管理器
+  - 文件管理器+：快捷，易用, 功能丰富，管理云存储的文件管理应用
 - [下载工具](https://pan.baidu.com/s/1OTJLuLL0XXQmqquCs5UFiA?pwd=6666)
   - AB Download Manager：高颜值且高速的下载管理器
 - [WebToApp](https://pan.baidu.com/s/1H7jl8WO6NSNYsFmh5RurQw?pwd=6666)：将任意网站或媒体转换为安卓软件
