@@ -122,6 +122,7 @@
   - Material Notes：简单的本地存储的 Material Design 风格笔记应用
   - InkRoot：基于 Memos 系统打造的第三方极简笔记应用
   - Another Notes：适用于 Android 的开源笔记应用
+  - 侠客日记：使用MAUI Blazor 构建的开源、跨平台的本地日记app
 - [自动化工具](https://pan.baidu.com/s/18CbZNYWt2JcYiOSSu_xYUw?pwd=6666)
   - vFlow：可视化工作流自动化工具
   - OP Auto Clicker：功能齐全的自动点击器
@@ -202,9 +203,11 @@
 - [HTTP on Fire](https://pan.baidu.com/s/1B3BFeo2SfBN6R8es4b5FmA?pwd=6666)：无代码 Android HTTP 服务器与设备管理器
 - [输入法](https://pan.baidu.com/s/1_RMBhMMNHmtviSxxZbw5fA?pwd=6666)
   - 言犀键盘：基于 AI 的智能语音输入法 | 让语音输入更自然、更高效（后改名 说点啥）
+  - 雨燕输入法：简洁、实用、轻快的中文输入法
 - [通知日历同步](https://pan.baidu.com/s/1MMoYCMA-2VbGhdTfFT7srQ?pwd=6666)：通过监听通知，将事件登记到您的日历中
 - [虚拟机与模拟器](https://pan.baidu.com/s/1uIATcaTqSkEnVg3Qx2zKqQ?pwd=6666)
   - Eden：基于 Yuzu 的开源分支（fork）的 Switch 模拟器
+  - Vectras VM：随时随地运行各种操作系统
 - [应用备份](https://pan.baidu.com/s/1TbR-s5-n6KPxyJE-ZE1APQ?pwd=6666)
   - Restoid：现代化的、基于 root 权限的 Android 备份工具
   - Syncthing-Fork：完全去中心化、加密、安全 的 Android 文件同步工具
@@ -277,8 +280,8 @@
 - [垃圾电话拦截](https://pan.baidu.com/s/1iENQJhKzfskDP5b5kvS5Rw?pwd=6666)：Android 电话/短信拦截器
 - [安卓设备运行环境检测（Root检测）](https://pan.baidu.com/s/1AYD7QWPJyKxCeOuwG9VI6Q?pwd=6666)
   - 密钥认证：生成、保存、加载、解析和验证 Android 密钥和 ID 证明数据
-- [标题](链接)
-- [标题](链接)
+- [LiveBoot](https://pan.baidu.com/s/1xn2Wvaewwgsfnz1_UgwSAg?pwd=6666)：修改安卓设备的启动画面，类似于“Matrix 数字雨”效果
+- [Rays](https://pan.baidu.com/s/1EFgnI_607MxoCvD2OiLYqA?pwd=6666)：在本地记录、查找、管理表情包的工具
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
