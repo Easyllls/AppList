@@ -33,6 +33,7 @@
   - One Player：fork自 Next Player 项目，并新增应用内语言切换、设置备份恢复以及 ASS 字幕特效支持。
   - Next Player：适用于安卓设备的简单且易于使用的本地视频播放器
   - Aniyomi：功能齐全的自定义动漫播放器与漫画阅读器
+  - NeoPlayer：OpenList + MPV 播放器组合方案
 - [音乐播放器](https://pan.baidu.com/s/1__Kw4CupE5uEGIv-fiiu5Q?pwd=6666)
   - MobiMusic：多平台聚合音乐播放器
   - PixelPlayer：一款功能丰富的 Material Design 3 风格音乐播放器
@@ -71,6 +72,10 @@
   - openlist：跨平台 GUI 客户端 + 内置OpenList服务端的应用
 - [IPTV](https://pan.baidu.com/s/1dhO4Hr8V_Ttkazqygmg-Uw?pwd=6666)
   - Fred TV：开源的自定义 IPTV 播放器
+  
+- [Traffic Light](https://pan.baidu.com/s/1JYb3CCv7ORHzOW8nO479ng?pwd=6666)：在保障隐私的前提下，跟踪你的网络和数据使用情况
+- [BetterCounter](https://pan.baidu.com/s/1QUASCbg4uWBLH-vuK-F2zw?pwd=6666)：简单易用的习惯追踪每日计数器
+- [Script Runner for Termux](https://pan.baidu.com/s/14qhnLP3hS6Jj2hd6oDfuJA?pwd=6666)：通过 Termux 管理、编写和执行脚本的安全 Android 桥接工具
 
 </details>
 
