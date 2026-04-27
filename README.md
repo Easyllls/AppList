@@ -72,7 +72,7 @@
 - [应用与进程管理](https://pan.baidu.com/s/1N8wyTsxhncj2mRG1tEoTwQ?pwd=6666)
   - Shappky：一款使用 Shizuku 或 Root 权限来停止后台应用的工具
   - Running Services Monitor：监控你 Android 设备上正在运行的服务
-  - Package Manager：功能强大的应用程序，用于管理系统和用户应用
+  - Package Manager：功能强大的应用程序，用于管理系统和用户应用，同时支持安装各种安装包
 - [Shizuku及其工具集](https://pan.baidu.com/s/11GpcRDfzVe0Wnu-qBN44hw?pwd=6666)
   - Shizuku：无需解锁设备调用具有Root权限的系统API
   - Shizuku thedjchi：这是 Shizuku 的一个分支版本（Fork）
@@ -116,6 +116,8 @@
 - [Script Runner for Termux](https://pan.baidu.com/s/14qhnLP3hS6Jj2hd6oDfuJA?pwd=6666)：通过 Termux 管理、编写和执行脚本的安全 Android 桥接工具
 - [天气](https://pan.baidu.com/s/1tYStC0dsQroktWHBxU8h8A?pwd=6666)
   - YoWindow：以真实动态景观为核心的可视化天气应用
+  - Weather Master：开源功能强大且设计精美的天气应用
+  - Weather M8：简单高效的天气预报
 - [笔记](https://pan.baidu.com/s/1YvFpVoLJuxCvEBBrFfWMvw?pwd=6666)
   - Material Notes：简单的本地存储的 Material Design 风格笔记应用
   - InkRoot：基于 Memos 系统打造的第三方极简笔记应用
@@ -123,6 +125,11 @@
 - [自动化工具](https://pan.baidu.com/s/18CbZNYWt2JcYiOSSu_xYUw?pwd=6666)
   - vFlow：可视化工作流自动化工具
   - OP Auto Clicker：功能齐全的自动点击器
+  - Klick'r：基于图像检测的自动点击器
+  - 李跳跳：帮助用户自动点击按钮，跳过各种弹窗（附300+自定义规则）
+  - GKD：基于无障碍，高级选择器，订阅规则的自定义屏幕点击App
+  - SKIP：自动跳过APP开屏广告
+  - Autox.js：安卓平台上的JavaScript自动化工具
 - [Hypatia](https://pan.baidu.com/s/1kVvIjmzynGCZj-2zwHLkyQ?pwd=6666)：实时恶意软件扫描器
 - [BoostX](https://pan.baidu.com/s/1Fe2EKl1Eu0Zu8Run1cGfRg?pwd=6666)：极简音量增强器
 - [游戏](https://pan.baidu.com/s/1AQs19tKsl6NU3csoVu9iLQ?pwd=6666)
@@ -141,6 +148,7 @@
   - File Commander：功能丰富、支持多存储位置、带有隐私保护和转换功能的安卓文件管理器
   - Prism File Explorer：现代、功能丰富且轻量级的 Android 文件管理器
   - 文件管理器+：快捷，易用, 功能丰富，管理云存储的文件管理应用
+  - Fossify File Manager：尊重隐私和安全的便捷文件管理应用
 - [下载工具](https://pan.baidu.com/s/1OTJLuLL0XXQmqquCs5UFiA?pwd=6666)
   - AB Download Manager：高颜值且高速的下载管理器
 - [WebToApp](https://pan.baidu.com/s/1H7jl8WO6NSNYsFmh5RurQw?pwd=6666)：将任意网站或媒体转换为安卓软件
@@ -148,6 +156,7 @@
 - [哔哩哔哩](https://pan.baidu.com/s/1a7cnf5kJ4fadW2SJD4OGzA?pwd=6666)
   - BiliPai：现代化的 Bilibili 第三方 Android 客户端
   - PiliPro：使用Flutter开发的BiliBili第三方客户端
+  - PiliPlus：使用Flutter开发的BiliBili第三方客户端
 - [文件同步](https://pan.baidu.com/s/1V_1jSetHTQFGcClGZcYQrQ?pwd=6666)
   - Easy Sync：以简单的方式，将你的手机文件与 WebDAV 服务器进行同步
 - [AI与Agent](https://pan.baidu.com/s/1W6EhYjihT6qzQLYNvMTf8Q?pwd=6666)
@@ -167,6 +176,7 @@
 - [浏览器](https://pan.baidu.com/s/1HjtLqCkVjC-RSnUxmjLujg?pwd=6666)
   - Iceraven：基于 Firefox 内核开发的高度自定义的浏览器 支持扩展
   - Ultimatum：基于 Chromium 开发的一个浏览器分支，桌面级插件体验
+  - IronFox：基于 Firefox 的安全、注重隐私的安卓网络浏览器
 - [Dhizuku](https://pan.baidu.com/s/1sODmVeweK3TMT_zx50ZLXQ?pwd=6666)：可以将设备所有者权限共享给其他应用的工具
 - [应用安装器](https://pan.baidu.com/s/1fNNTj0DUyx4vSkiSjH5lHQ?pwd=6666)
   - anyapk：在你自己的设备上安装任何 APK
@@ -212,9 +222,10 @@
 - [Mousedroid](https://pan.baidu.com/s/1qXwPL3FZ3Moud-Hdt4WUeg?pwd=6666)：用你的安卓手机当作鼠标和键盘使用
 - [模块管理器](https://pan.baidu.com/s/1lb_snPi-Z9jc1jzPzGr9wA?pwd=6666)：Magisk、KernelSU、APatch模块管理器
   - WebUI X：统一管理Root模块WebUI的管理器。
+  - KsuWebUI：KernelSU WebUI的独立App实现
 - [遥控](https://pan.baidu.com/s/18lTdLS-jCl-iiPrKnGv3Vw?pwd=6666)
   - ADB Remote ATV：基于 ADB Shell 命令的安卓TV遥控器
-  - 
+  - 蓝牙遥控器：将您的智能手机变成Android TV的蓝牙遥控器
 - [ADB工具](https://pan.baidu.com/s/1XWJiDI5AmxA0SeGsHMF5Sw?pwd=6666)
   - 甲壳虫ADB助手：面向安卓设备 ADB 调试工具
   - WADBS：无线调试快捷开关
@@ -231,12 +242,69 @@
 - [Sefirah](https://pan.baidu.com/s/1BVi1tQZXJyINfJInAQtPGQ?pwd=6666)：在 Windows PC 和 Android 设备之间无缝共享剪贴板和通知
 - [网络与WiFi工具](https://pan.baidu.com/s/1opn0eMB4-G_ApNo2_KOVmg?pwd=6666)
   - Find my IP：查看并记录我的IP地址，支持IPv4和IPv6
+  - NetGuard：简单的方法来阻止每个应用访问互联网
+  - 小米WiFi助手：管理小米路由器
+  - WiFiAnalyzer：免费开源的WiFi分析仪 优化Wi-Fi网络
+- [终端模拟器](https://pan.baidu.com/s/1zO7zWhwXyJrkdNgmbQsU4w?pwd=6666)
+  - ReTerminal：简单的安卓终端模拟器
+- [翻译](https://pan.baidu.com/s/1Vq4mcBg4gRgGNUMz-rAJow?pwd=6666)
+  - TranslateYou：专注隐私的翻译应用程序，采用MD3设计
+  - 瞬译：强大的屏幕实时翻译应用程序
+- [解压缩](https://pan.baidu.com/s/1lxBjX7oe6AhX_Ncruqi1xg?pwd=6666)
+  - ZipXtract：完全开源的解压缩应用程序
+  - RAR：功能齐全且简单易用的解压缩工具
+- [相册](https://pan.baidu.com/s/1Po4KLUrn-nojx5pvEvZ0nA?pwd=6666)
+  - Photos：漂亮的安卓照片应用
+- [截屏](https://pan.baidu.com/s/1qVV2lOmHARys0ySHJYcjRQ?pwd=6666)
+  - 屏幕截图磁贴：从快速设置面板快速截取屏幕截图
+- [耳机助手](https://pan.baidu.com/s/1ZGJB51QDS5jxmJw0iSPvug?pwd=6666)
+  - Mi Buds M8：第三方的小米蓝牙耳机助手 支持刷入固件
+- [密码管理器](https://pan.baidu.com/s/16S9SsFgeFf5OzXgMe8ZWkg?pwd=6666)
+  - KeePassDX：轻量级的安卓密码管理器
+- [邮件](https://pan.baidu.com/s/1_LyLVXBUa5ba-w8iEkAxQA?pwd=6666	3776910178)
+  - Thunderbird：免费开源，注重隐私的电子邮件客户端
+- [壁纸](https://pan.baidu.com/s/17150iLn8pcqCN-1jaGJSlw?pwd=6666)
+  - 黑客帝国动态壁纸：带有矩阵效果的免费动态壁纸
+- [垃圾电话拦截](https://pan.baidu.com/s/1iENQJhKzfskDP5b5kvS5Rw?pwd=6666)：Android 电话/短信拦截器
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+- [标题](链接)
+
 </details>
 
 <details>
