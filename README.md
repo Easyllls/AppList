@@ -41,6 +41,7 @@
 - [深度休眠与勿扰模式](https://pan.baidu.com/s/1tgeBCQkACd5FdFpYsMMJBw?pwd=6666)
   - Flip 2 DND：通过翻转手机切换“勿扰模式”
   - Auto Sleep：按计划自动运行，同时也提供快速设置开关，方便手动一键启用或关闭。深度睡眠模式
+  - EnforceDoze：在屏幕关闭后立即启用 Doze 模式，并关闭运动传感器以获得最佳电池续航
 - [应用与进程管理](https://pan.baidu.com/s/1N8wyTsxhncj2mRG1tEoTwQ?pwd=6666)
   - Shappky：一款使用 Shizuku 或 Root 权限来停止后台应用的工具
 - [Shizuku及其工具集](https://pan.baidu.com/s/11GpcRDfzVe0Wnu-qBN44hw?pwd=6666)
@@ -72,10 +73,15 @@
   - openlist：跨平台 GUI 客户端 + 内置OpenList服务端的应用
 - [IPTV](https://pan.baidu.com/s/1dhO4Hr8V_Ttkazqygmg-Uw?pwd=6666)
   - Fred TV：开源的自定义 IPTV 播放器
+  - Astronia：适用于安卓设备的 M3U8 播放器
   
 - [Traffic Light](https://pan.baidu.com/s/1JYb3CCv7ORHzOW8nO479ng?pwd=6666)：在保障隐私的前提下，跟踪你的网络和数据使用情况
 - [BetterCounter](https://pan.baidu.com/s/1QUASCbg4uWBLH-vuK-F2zw?pwd=6666)：简单易用的习惯追踪每日计数器
 - [Script Runner for Termux](https://pan.baidu.com/s/14qhnLP3hS6Jj2hd6oDfuJA?pwd=6666)：通过 Termux 管理、编写和执行脚本的安全 Android 桥接工具
+- [天气](https://pan.baidu.com/s/1tYStC0dsQroktWHBxU8h8A?pwd=6666)
+  - YoWindow：以真实动态景观为核心的可视化天气应用
+- [笔记](https://pan.baidu.com/s/1YvFpVoLJuxCvEBBrFfWMvw?pwd=6666)
+  - Material Notes：简单的本地存储的 Material Design 风格笔记应用
 
 </details>
 
