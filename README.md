@@ -42,6 +42,9 @@
   - ShizuTools：包含许多通过 Shizuku 控制 Android 系统的工具
   - Extendroid：一个具备桌面级多窗口与远程访问能力的多任务管理器
   - ShizuWall：由 Shizuku 驱动的轻量级高效防火墙方案
+  - Install with Options：使用 Shizuku 在设备上安装 APK 的简单应用（带高级选项）
+  - Shizuku 安装器：一个无需Root权限的第三方应用安装器
+  - Nrfr：免 Root 修改系统内的运营商配置参数
 
 </details>
 
