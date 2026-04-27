@@ -199,6 +199,8 @@
 - [应用安装器](https://pan.baidu.com/s/1fNNTj0DUyx4vSkiSjH5lHQ?pwd=6666)
   - anyapk：在你自己的设备上安装任何 APK
   - InstallerX Revived：现代且功能强大的安卓应用安装器
+  - R-安装组件：快速、安全且易于使用的组件安装服务
+  - SAI：适用于安卓平台的拆分应用安装器
 - [小说与文档阅读器](https://pan.baidu.com/s/1xF6NE5SP1xnUBolFW9Pd1Q?pwd=6666)
   - Anx Reader：开源、跨平台的电子书阅读器，集成了阅读同步、笔记、AI 辅助翻译与思维导图等智能功能
   - 阅读MD：使用MD3设计的阅读3.0
@@ -331,7 +333,9 @@
   - Battery Guru：监控手机的电池使用情况并估计其当前的健康状况
   - AccuBattery：安卓设备的电池监控与检测应用
   - 
-- [标题](链接)
+- [快捷方式](https://pan.baidu.com/s/1s71XHEA6EI4SC4JIBwv1KA?pwd=6666)
+  - HTTP 快捷方式：创建触发任意 HTTP 请求的主屏幕快捷方式
+  - Anywhere：将常用的页面整理到一个文件夹，支持添加到桌面
 - [标题](链接)
 - [标题](链接)
 - [标题](链接)
