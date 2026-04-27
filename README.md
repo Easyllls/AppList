@@ -126,6 +126,7 @@
   - Weather Master：开源功能强大且设计精美的天气应用
   - Weather M8：简单高效的天气预报
   - 小米天气(Play版)：一站式获取当前温度、降雨预报和空气质量指数
+  - Breezy Weather：设计精美的 Material Design 天气应用程序
 - [笔记](https://pan.baidu.com/s/1YvFpVoLJuxCvEBBrFfWMvw?pwd=6666)
   - Material Notes：简单的本地存储的 Material Design 风格笔记应用
   - InkRoot：基于 Memos 系统打造的第三方极简笔记应用
@@ -178,9 +179,11 @@
   - PiliPlus：使用Flutter开发的BiliBili第三方客户端
   - bilimiao：设计优雅功能完善的第三方哔哩哔哩客户端
   - BILIBILIAS：哔哩哔哩视频缓存的辅助工具，一键解析缓存
+  - PiliPala：使用Flutter开发的BiliBili第三方客户端。目前支持Android、iOS
 - [文件同步](https://pan.baidu.com/s/1V_1jSetHTQFGcClGZcYQrQ?pwd=6666)
   - Easy Sync：以简单的方式，将你的手机文件与 WebDAV 服务器进行同步
   - Round Sync：适用于安卓设备的文件同步应用
+  - FolderSync Pro：在云存储和Android设备之间同步文件
 - [AI与Agent](https://pan.baidu.com/s/1W6EhYjihT6qzQLYNvMTf8Q?pwd=6666)
   - Operit AI：功能完备的AI智能助手应用，完全独立运行，拥有强大的工具调用能力
   - Chatbox：跨平台 AI 客户端，支持多种大语言模型与本地部署
@@ -205,6 +208,7 @@
   - Iceraven：基于 Firefox 内核开发的高度自定义的浏览器 支持扩展
   - Ultimatum：基于 Chromium 开发的一个浏览器分支，桌面级插件体验
   - IronFox：基于 Firefox 的安全、注重隐私的安卓网络浏览器
+  - Kiwi Browser：基于Chromium内核开发的浏览器，支持插件
 - [Dhizuku](https://pan.baidu.com/s/1sODmVeweK3TMT_zx50ZLXQ?pwd=6666)：可以将设备所有者权限共享给其他应用的工具
 - [应用安装器](https://pan.baidu.com/s/1fNNTj0DUyx4vSkiSjH5lHQ?pwd=6666)
   - anyapk：在你自己的设备上安装任何 APK
@@ -218,6 +222,7 @@
   - MuPDF viewer：轻量、高性能的PDF文档查看工具
   - Librera Pro：惊人的阅读器，易于使用和高度可配置的应用程序，可读取所有书籍
   - 阅读：可以自定义来源的网络内容阅读工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+  - 静读天下：具有丰富功能的本地电子书阅读器和电子书文档管理。
 - [Morse](https://pan.baidu.com/s/1SCsEDpFXpegdtMxsl6LKfg?pwd=6666)：实时将文本与摩斯密码相互转换
 - [文本与代码编辑](https://pan.baidu.com/s/1ekhPw30BXEGDQfVh67UW6Q?pwd=6666)
   - Acode：可扩展、功能强大且开源的文本与代码编辑器
@@ -244,6 +249,7 @@
 - [垃圾清理](https://pan.baidu.com/s/1a2OtUKrcdHSXWLifm4aJrQ?pwd=6666)
   - LTE 清除器：简单而纯粹的安卓设备清理工具
   - Cleaner：质感设计的清理应用
+  - SD Maid SE：强大的安卓垃圾清理工具
 - [地图与导航](https://pan.baidu.com/s/1p2eseJI_ifCcq5ioxtrFeQ?pwd=6666)
   - Trail Sense：完全离线的全功能导航应用
   - 高德地图
@@ -273,6 +279,7 @@
   - WebUI X：统一管理Root模块WebUI的管理器。
   - KsuWebUI：KernelSU WebUI的独立App实现
   - MMRL：用于管理 Magisk、KernelSU 和 APatch 模块的终极管理器
+  - MRepo：开源的第三方Magisk与KernelSU模块管理器，支持自定义仓库
 - [遥控](https://pan.baidu.com/s/18lTdLS-jCl-iiPrKnGv3Vw?pwd=6666)
   - ADB Remote ATV：基于 ADB Shell 命令的安卓TV遥控器
   - 蓝牙遥控器：将您的智能手机变成Android TV的蓝牙遥控器
@@ -369,27 +376,25 @@
   - 影迷
   - TVBOX助手：多功能的TVBox助手应用
   - 影视
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
-- [标题](链接)
+- [直播](https://pan.baidu.com/s/1mlfsCHEHWH9wzUFf0g1_Kg?pwd=6666)
+  - 纯粹直播：第三方聚合多平台直播播放器 支持多平台
+  - Simple Live：跨平台的聚合直播软件
+- [投屏](https://pan.baidu.com/s/12PlW8cRDo6lJZB8cgJxuvA?pwd=6666)
+  - BubbleUPnP：将所有媒体流式传输到您家中的各种设备。
+  - Web Video Caster：将网络视频投射到电视上
+- [Updater](https://pan.baidu.com/s/1MskJBnFsILpuiku5m6D1Mg?pwd=6666)：获取小米设备的HyperOS/MIUI更新信息
+- [灵动岛](https://pan.baidu.com/s/1k5wJog_W7Q6-OaXBPjBFpA?pwd=6666)
+- [Play应用集](https://pan.baidu.com/s/1f38AFP8TPUS7T_LbdlBMNw?pwd=6666)
+  - 微信
+  - 支付宝
+- [Audionyx](https://pan.baidu.com/s/1e6OuPKKD3K-OL2E9KyLvJw?pwd=6666)
+- [KonaBess](https://pan.baidu.com/s/11ZIO7iC0Zjfne2aWf4Y5iA?pwd=6666)
+- [虚拟定位](https://pan.baidu.com/s/1EcwRL0EuSeTp6bs_0v_qIA?pwd=6666)
+  - 
+  - 
+- [桌面](https://pan.baidu.com/s/1RUn0yUp5gyzNmQCxOfTIbQ?pwd=6666)
+- [小米定制版](https://pan.baidu.com/s/1vV-xFlVTLXy5fxOveSmwZw?pwd=6666)：各种小米手机内置应用
+- [ArchiveMaster](https://pan.baidu.com/s/1kg44pzJOMfImC8UpHTV0Ww?pwd=6666)
 
 </details>
 
