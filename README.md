@@ -51,6 +51,18 @@
   - Retro Music：界面美观、功能丰富且支持高度自定义的本地音乐播放器。
   - AlgerMusicPlayer：跨平台的第三方网易云音乐播放器、本地服务、桌面歌词等
   - Listen 1：支持多平台音乐播放和搜索的移动音乐 App
+  - Phocid：适用于 安卓11+ 的现代离线音乐播放器
+  - APlayer：简洁、功能强大的安卓本地音乐播放器
+  - Symphony：轻量级、优雅的音乐播放器
+  - MusicFree：插件化、定制化、无广告的免费音乐播放器
+  - LX Music：落雪音乐助手一个免费开源的音乐播放器
+  - Auxio：简单、理性的安卓本地音乐播放器
+  - AIMP：不错的本地音乐播放器
+  - Salt Player：设计精美且优秀的本地音乐播放器（椒盐音乐）
+  - Poweramp：适用于安卓系统的专业音乐播放器Frolomuse-一款设计精美免费强大的本地音乐播放器
+  - 索尼音乐：优秀的本地音乐播放器 支持所有Android4.2+设备
+  - AppRhyme：使用Flutter和Rust构建的开源音乐软件
+  - Frolomuse：设计精美免费强大的本地音乐播放器
 - [深度休眠与保持运行](https://pan.baidu.com/s/1tgeBCQkACd5FdFpYsMMJBw?pwd=6666)
   - Flip 2 DND：通过翻转手机切换“勿扰模式”
   - Auto Sleep：按计划自动运行，同时也提供快速设置开关，方便手动一键启用或关闭。深度睡眠模式
