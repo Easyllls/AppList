@@ -39,6 +39,7 @@
   - MobiMusic：多平台聚合音乐播放器
   - PixelPlayer：一款功能丰富的 Material Design 3 风格音乐播放器
   - Phonograph Plus：本地 Material Design 音乐播放器
+  - CuteMusic：既可爱又强大的本地音乐播放器
 - [深度休眠与保持运行](https://pan.baidu.com/s/1tgeBCQkACd5FdFpYsMMJBw?pwd=6666)
   - Flip 2 DND：通过翻转手机切换“勿扰模式”
   - Auto Sleep：按计划自动运行，同时也提供快速设置开关，方便手动一键启用或关闭。深度睡眠模式
@@ -78,7 +79,7 @@
 - [IPTV](https://pan.baidu.com/s/1dhO4Hr8V_Ttkazqygmg-Uw?pwd=6666)
   - Fred TV：开源的自定义 IPTV 播放器
   - Astronia：适用于安卓设备的 M3U8 播放器
-  
+  - FCLiveTool：直播源预览+下载
 - [Traffic Light](https://pan.baidu.com/s/1JYb3CCv7ORHzOW8nO479ng?pwd=6666)：在保障隐私的前提下，跟踪你的网络和数据使用情况
 - [BetterCounter](https://pan.baidu.com/s/1QUASCbg4uWBLH-vuK-F2zw?pwd=6666)：简单易用的习惯追踪每日计数器
 - [Script Runner for Termux](https://pan.baidu.com/s/14qhnLP3hS6Jj2hd6oDfuJA?pwd=6666)：通过 Termux 管理、编写和执行脚本的安全 Android 桥接工具
@@ -90,6 +91,22 @@
   - vFlow：可视化工作流自动化工具
 - [Hypatia](https://pan.baidu.com/s/1kVvIjmzynGCZj-2zwHLkyQ?pwd=6666)：实时恶意软件扫描器
 - [BoostX](https://pan.baidu.com/s/1Fe2EKl1Eu0Zu8Run1cGfRg?pwd=6666)：极简音量增强器
+- [游戏](https://pan.baidu.com/s/1AQs19tKsl6NU3csoVu9iLQ?pwd=6666)
+  - Block Drop：使用 Flutter 构建的现代版俄罗斯方块克隆游戏
+  - Flappy Bird：飞扬的小鸟复刻版，在还原原版游戏体验的同时引入了一系列增强功能
+- [计算器](https://pan.baidu.com/s/1HvhwlFORNB1OhZyQPPmZ0A?pwd=6666)
+  - Calculator You：外观精美、用于解决日常简单计算需求的计算器应用。
+- [Keep Alive](https://pan.baidu.com/s/1oLoyk9XKtipn7Pp9afTySw?pwd=6666)：在你设定的时间内未使用设备时，自动通知他人。
+- [FFShare](https://pan.baidu.com/s/1nBtnnd0pjeB7C_GA2JuHZw?pwd=6666)：在分享之前通过 FFmpeg 对图片、视频和音频文件进行压缩处理
+- [漫画阅读器](https://pan.baidu.com/s/1NjlofTXhHmdiobPqDGKjxQ?pwd=6666)
+  - venera：支持阅读本地及网络漫画的漫画阅读器
+- [文件管理器](https://pan.baidu.com/s/1mzjlBVEKDoYpIXOcUaLQiw?pwd=6666)
+  - File Navigator：高效、直观的方式来组织和管理设备中的文件
+- [下载工具](https://pan.baidu.com/s/1OTJLuLL0XXQmqquCs5UFiA?pwd=6666)
+  - AB Download Manager：高颜值且高速的下载管理器
+- [WebToApp](https://pan.baidu.com/s/1H7jl8WO6NSNYsFmh5RurQw?pwd=6666)：将任意网站或媒体转换为安卓软件
+
+
 
 </details>
 
