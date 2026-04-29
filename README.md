@@ -233,6 +233,7 @@
 - [输入法](https://pan.baidu.com/s/1_RMBhMMNHmtviSxxZbw5fA?pwd=6666)
   - 言犀键盘：基于 AI 的智能语音输入法 | 让语音输入更自然、更高效（后改名 说点啥）
   - 雨燕输入法：简洁、实用、轻快的中文输入法
+  - 小企鹅输入法：一个支持插件扩展、多语言输入引擎（如 Rime）、离线使用且高度可定制的开源 Android 输入法。
 - [通知日历同步](https://pan.baidu.com/s/1MMoYCMA-2VbGhdTfFT7srQ?pwd=6666)：通过监听通知，将事件登记到您的日历中
 - [虚拟机与模拟器](https://pan.baidu.com/s/1uIATcaTqSkEnVg3Qx2zKqQ?pwd=6666)
   - Eden：基于 Yuzu 的开源分支（fork）的 Switch 模拟器
@@ -295,7 +296,7 @@
   - BuzzKill：功能强大且高度可定制的通知管理工具
 - [RSS](https://pan.baidu.com/s/1qf_13dAVgUqoOWGH4wqFLg?pwd=6666)
   - PodAura：集 RSS 订阅、媒体下载和播放于一体的 Android 播客应用
-  - 
+  - Feeder：很棒的自由/开源 RSS 阅读器
 - [DSU Sideloader](https://pan.baidu.com/s/17GxT703_7aCgBSsQDoIJzA?pwd=6666)：通过 安卓的 DSU 功能轻松安装 GSI。
 - [Sefirah](https://pan.baidu.com/s/1BVi1tQZXJyINfJInAQtPGQ?pwd=6666)：在 Windows PC 和 Android 设备之间无缝共享剪贴板和通知
 - [网络与WiFi工具](https://pan.baidu.com/s/1opn0eMB4-G_ApNo2_KOVmg?pwd=6666)
