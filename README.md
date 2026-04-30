@@ -183,6 +183,7 @@
   - Easy Sync：以简单的方式，将你的手机文件与 WebDAV 服务器进行同步
   - Round Sync：适用于安卓设备的文件同步应用
   - FolderSync Pro：在云存储和Android设备之间同步文件
+  - Syncthing-Fork：完全去中心化、加密、安全 的 Android 文件同步工具
 - [AI与Agent](https://pan.baidu.com/s/1W6EhYjihT6qzQLYNvMTf8Q?pwd=6666)
   - Operit AI：功能完备的AI智能助手应用，完全独立运行，拥有强大的工具调用能力
   - Chatbox：跨平台 AI 客户端，支持多种大语言模型与本地部署
@@ -239,10 +240,13 @@
   - Vectras VM：随时随地运行各种操作系统
 - [应用备份](https://pan.baidu.com/s/1TbR-s5-n6KPxyJE-ZE1APQ?pwd=6666)
   - Restoid：现代化的、基于 root 权限的 Android 备份工具
-  - Syncthing-Fork：完全去中心化、加密、安全 的 Android 文件同步工具
   - 数据备份：免费开源的数据备份应用
   - AppDash：使用漂亮而现代的 UI 轻松管理和备份您的应用程序
   - Swift Backup：适用于Android设备的简单，快速，智能的备份解决方案
+  - 钛备份：安卓应用备份神器，可以不更新了，目前仅支持安卓10以下系统
+  - Neo Backup
+  - Alpha 备份
+  - Migrate
 - [文档扫描](https://pan.baidu.com/s/1jgxIoxs_VQPnLnmZHTPTCg?pwd=6666)
   - FairScan：适用于安卓设备的文档扫描应用
 - [Habit-Maker](https://pan.baidu.com/s/1Ozy8FeOK6PFPPx4i6wp93w?pwd=6666)：基于奖励机制的 Android 习惯跟踪器。
