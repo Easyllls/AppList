@@ -1215,6 +1215,7 @@
   - ClawX：OpenClaw AI 智能体的桌面客户端
   - Chatbox：一个 AI 模型桌面客户端，支持 ChatGPT、Claude、Google Gemini、Ollama 等主流模型
   - Apt：高效便捷的AI解决方案，集成多种最新AI模型
+  - Cherry Studio：一款支持多个大语言模型（LLM）服务商的桌面客户端
 - [Aictionary](https://pan.baidu.com/s/1v-D4jKIn_uKsXvUOUGg5wg?pwd=6666)：快速、简洁的桌面词典应用
 - [垃圾清理](https://pan.baidu.com/s/1ZzH1xk8E1DO6j23ms34aTA?pwd=6666)
   - Windows Cleaner：免费、功能强大的 Windows 系统清理工具
