@@ -1210,7 +1210,7 @@
   - BrowserOS：基于 Chromium 的开源 AI 浏览器，在本地原生运行 AI Agent
 - [OCR](https://pan.baidu.com/s/1C1EmcsA9CQptsBNkE28AvA?pwd=6666)
   - PillOCR：基于大模型api接近无感的OCR工具。
-- [Ai](https://pan.baidu.com/s/11TZc-ftKdezzzQCdQlqCdQ?pwd=6666)
+- [Ai与Agent](https://pan.baidu.com/s/11TZc-ftKdezzzQCdQlqCdQ?pwd=6666)
   - Everywhere：桌面交互式 AI 助手 支持多模型调用并能直接理解屏幕上的内容
   - ClawX：OpenClaw AI 智能体的桌面客户端
   - Chatbox：一个 AI 模型桌面客户端，支持 ChatGPT、Claude、Google Gemini、Ollama 等主流模型
