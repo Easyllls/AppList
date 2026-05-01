@@ -625,6 +625,7 @@
 - [三星 One UI 专用](https://pan.baidu.com/s/1nIL8NyMfki0wkLkODCH4QQ?pwd=6666)
   - KnoxPatch：在已 Root 的三星设备上恢复官方应用和部分功能
   - One UI X：释放三星 One UI 的无限可能，旨在提供高度可定制的系统体验，解除烦人的限制，并为状态栏、快捷设置以及系统自带应用注入强大的增强功能。
+  - OneDesign：OneUI 8.0 自定义增强框架，在系统级别对多个应用进行定制，提供本地化支持、功能增强和系统优化。支持：Android 16+ (OneUI 8.0+)
 - [浏览器增强](https://pan.baidu.com/s/1l9nfpBGGSPwg1JeUE3HXEw?pwd=6666)
   - ChromePie：给 Chrome 浏览器加 Pie 菜单
   - ChromeXt：向基于 Chromium 和基于 WebView 的浏览器添加 UserScript 和 DevTools 支持。
@@ -721,7 +722,9 @@
 - [支付宝 InstallB 模块](https://pan.baidu.com/s/1ZzvmFLqkn9L0IACiJUkiKw?pwd=6666)：为支付宝支付界面提供黑色钻石会员级视觉效果或完全自定义的个性化皮肤。
 - [核心破解](https://pan.baidu.com/s/1OAmcunIFKLeNmHiS-W9hRg?pwd=6666)：禁用 Android 签名验证
 - [指纹支付](https://pan.baidu.com/s/1DYt8r6HJPrWW4wF_Pf_AOw?pwd=6666)：让常用应用在支持指纹识别的设备上使用指纹支付，支持京东 淘宝 支付宝 微信 云闪付
-- [启用截图](https://pan.baidu.com/s/1Yph_79jaXG0AviN9u9PuEA?pwd=6666)：解除Android设备的某些应用截屏限制
+- [启用截图](https://pan.baidu.com/s/1Yph_79jaXG0AviN9u9PuEA?pwd=6666)
+  - 启用截图：解除Android设备的某些应用截屏限制
+  - HideScreen：在截图录屏中隐藏屏幕内容为透明，即跳过内容合成
 - [自动化工具](https://pan.baidu.com/s/1UBwSZvVHnz7YER4xOu0gtw?pwd=6666)
   - Xposed Edge Pro：功能强大的按键与手势映射、各种自动化任务
   - ShortX：各种自动任务
