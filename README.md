@@ -45,6 +45,7 @@
   - XPlayer：支持各种视频 音频格式的万能媒体播放器
   - mpvKt：基于 mpv-android 的 Android 媒体播放器
   - nPlayer：具有强大的流播放和各种便利功能的视频播放器
+  - Flux：该应用可以将你的本地媒体文件整理成一个美观的媒体库，并提供一个还算“好看”的播放器。
 - [音乐播放器](https://pan.baidu.com/s/1__Kw4CupE5uEGIv-fiiu5Q?pwd=6666)
   - MobiMusic：多平台聚合音乐播放器
   - PixelPlayer：一款功能丰富的 Material Design 3 风格音乐播放器
@@ -179,6 +180,7 @@
   - bilimiao：设计优雅功能完善的第三方哔哩哔哩客户端
   - BILIBILIAS：哔哩哔哩视频缓存的辅助工具，一键解析缓存
   - PiliPala：使用Flutter开发的BiliBili第三方客户端。目前支持Android、iOS
+  - JKVideo：高颜值第三方 B 站 React Native 客户端
 - [文件同步](https://pan.baidu.com/s/1V_1jSetHTQFGcClGZcYQrQ?pwd=6666)
   - Easy Sync：以简单的方式，将你的手机文件与 WebDAV 服务器进行同步
   - Round Sync：适用于安卓设备的文件同步应用
