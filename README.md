@@ -763,7 +763,7 @@
   - Device ID Masker Lite
   - Android Faker
 - [隐藏应用列表](https://pan.baidu.com/s/1AtMLxiFXKezqI0eeWDkDsA?pwd=6666)
-  - 隐藏应用列表
+  - 隐藏应用列表（HMA）
   - HMAL：第三方修改版HMA
   - 隐秘空间
 - [我不是开发者](https://pan.baidu.com/s/1fqQN51z6-RgIZdx7wGXOPw?pwd=6666)：隐藏开发者模式、USB 调试和无线调试。
