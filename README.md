@@ -1141,7 +1141,7 @@
 - [HFS](https://pan.baidu.com/s/10R8T8JQ5dTea2vlj5rbsFQ?pwd=6666)：一个 Web 文件服务器 通过虚拟文件系统，可以共享文件夹、单个文件
 - [Openlist](https://pan.baidu.com/s/1y7JZM4sQPSoszNM7QQsKNg?pwd=6666)：Openlist桌面客户端
 - [Rufus](https://pan.baidu.com/s/1Hr9PyNzpdOw4E34nO5wSoA?pwd=6666)：一个用于格式化和创建可启动 USB 闪存驱动器的实用工具
-- [视频播放器](https://pan.baidu.com/s/14F6BqVXV-Pwg9HZWbgkFNQ?pwd=6666)：
+- [视频播放器](https://pan.baidu.com/s/14F6BqVXV-Pwg9HZWbgkFNQ?pwd=6666)
   - zyfun：原zyplayer，网络资源播放器，需要自备订阅
   - PotPlayer：Windows平台最优秀的影音全能格式播放器
   - Kazumi：基于自定义规则的跨平台番剧采集APP，支持弹幕、实时超分辨率等
