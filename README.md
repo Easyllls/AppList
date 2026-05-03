@@ -192,6 +192,7 @@
   - Local Dream：在移动设备上使用 Stable Diffusion 图像生成模型
   - RikkaHub：开源的安卓多模型 AI 聊天客户端，可统一管理、切换和使用多个大语言模型服务
   - AnyClaw：在 Android 上整合 OpenClaw + Codex + Claude Code。一个 APK，三个 AI Agent。
+  - Google AI Edge Gallery：展示设备端机器学习 / 生成式 AI（GenAI）应用案例的展示库，并允许用户在本地直接体验和使用这些模型。
 - [照片编辑](https://pan.baidu.com/s/1VcO20GqtwsEgzfzzKI3EcQ?pwd=6666)
   - DrawAnywhere：可以让你在屏幕的任意地方上绘图的安卓软件
   - Paint：可以用不同颜色自由绘画并导出作品的画板应用
