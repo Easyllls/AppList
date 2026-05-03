@@ -25,6 +25,7 @@
 <details>
 <summary>📱 <strong>Android</strong></summary>
 
+- [Su Fei](https://pan.baidu.com/s/1CQdfxzqnuNVHE1hYCqmEgg?pwd=6666)：基于 Material 3 设计规范的极简中国传统诗词应用。它不只是一个工具，更是一个宁静的数字阅读空间
 - [TTS（语音合成）](https://pan.baidu.com/s/1qII2fC1pMc0Q3sAiNCoC1Q?pwd=6666)
   - CloneTTS：运行在安卓系统本地的文字转语音 (TTS) 原生引擎。它可以让您在手机上离线克隆所需的声音，并直接使用这个声音来朗读书籍或长文本。无需联网，所有推理计算均在本地完成。
   - MultiTTS：离线的文本转语音工具 支持多种语音引擎 接近真人发音
@@ -46,7 +47,8 @@
   - mpvKt：基于 mpv-android 的 Android 媒体播放器
   - nPlayer：具有强大的流播放和各种便利功能的视频播放器
   - Flux：该应用可以将你的本地媒体文件整理成一个美观的媒体库，并提供一个还算“好看”的播放器。
-  - Shiru：个人动漫库管理软件，可实时观看和追踪您的收藏。轻巧、强大、速度飞快。无需等待！
+  - Shiru：个人动漫库管理软件，可实时观看和追踪您的收藏。轻巧、强大、速度飞快。无需等待
+  - mpv：基于 libmpv 的安卓视频播放器
 - [音乐播放器](https://pan.baidu.com/s/1__Kw4CupE5uEGIv-fiiu5Q?pwd=6666)
   - MobiMusic：多平台聚合音乐播放器
   - PixelPlayer：一款功能丰富的 Material Design 3 风格音乐播放器
