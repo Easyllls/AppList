@@ -46,6 +46,7 @@
   - mpvKt：基于 mpv-android 的 Android 媒体播放器
   - nPlayer：具有强大的流播放和各种便利功能的视频播放器
   - Flux：该应用可以将你的本地媒体文件整理成一个美观的媒体库，并提供一个还算“好看”的播放器。
+  - Shiru：个人动漫库管理软件，可实时观看和追踪您的收藏。轻巧、强大、速度飞快。无需等待！
 - [音乐播放器](https://pan.baidu.com/s/1__Kw4CupE5uEGIv-fiiu5Q?pwd=6666)
   - MobiMusic：多平台聚合音乐播放器
   - PixelPlayer：一款功能丰富的 Material Design 3 风格音乐播放器
@@ -1149,6 +1150,7 @@
   - Screenbox：基于 LibVLC 的通用 Windows 平台媒体播放器
   - Cinetry：网络资源播放器，支持iptv、alist、openlist、webdav、cms、emby、jellyfin等自定义订阅
   - VLC：强大的本地视频播放器
+  - Shiru：个人动漫库管理软件，可实时观看和追踪您的收藏。轻巧、强大、速度飞快。无需等待！
 - [直播](https://pan.baidu.com/s/1FhP1q49YWUyNg4CU2HiOBQ?pwd=6666)
   - DTV-多平台直播轻量化桌面客户端，支持抖音、虎牙、快手、哔哩哔哩
   - Simple Live：跨平台的聚合直播软件
