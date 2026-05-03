@@ -123,7 +123,7 @@
 - [Script Runner for Termux](https://pan.baidu.com/s/14qhnLP3hS6Jj2hd6oDfuJA?pwd=6666)：通过 Termux 管理、编写和执行脚本的安全 Android 桥接工具
 - [天气](https://pan.baidu.com/s/1tYStC0dsQroktWHBxU8h8A?pwd=6666)
   - YoWindow：以真实动态景观为核心的可视化天气应用
-  - Weather Master：开源功能强大且设计精美的天气应用
+  - Weather Master：开源功能强大且设计精美仿 Google Pixel 天气应用
   - Weather M8：简单高效的天气预报
   - 小米天气(Play版)：一站式获取当前温度、降雨预报和空气质量指数
   - Breezy Weather：设计精美的 Material Design 天气应用程序
