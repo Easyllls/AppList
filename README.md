@@ -25,7 +25,8 @@
 <details>
 <summary>📱 <strong>Android</strong></summary>
 
-- [日历](链接)
+- [日历](https://pan.baidu.com/s/1pw-Mmdmp2XjCpRXuiOyprQ?pwd=6666)
+  - KashCal：一款以隐私为核心的 Android 日历应用，支持 iCloud 与 CalDAV 原生同步，整合本地、订阅和联系人日历，并提供离线使用与无追踪的安全体验
 - [Su Fei](https://pan.baidu.com/s/1CQdfxzqnuNVHE1hYCqmEgg?pwd=6666)：基于 Material 3 设计规范的极简中国传统诗词应用。它不只是一个工具，更是一个宁静的数字阅读空间
 - [TTS（语音合成）](https://pan.baidu.com/s/1qII2fC1pMc0Q3sAiNCoC1Q?pwd=6666)
   - CloneTTS：运行在安卓系统本地的文字转语音 (TTS) 原生引擎。它可以让您在手机上离线克隆所需的声音，并直接使用这个声音来朗读书籍或长文本。无需联网，所有推理计算均在本地完成。
@@ -332,6 +333,7 @@
   - Fossify Gallery：功能强大的相册应用 支持照片与视频基本的编辑功能
   - Gallery：使用 Jetpack Compose 制作的轻量级媒体库应用程序（后改名 ReFra）
   - 索尼相册
+  - 图库：轻量、智能且快速的照片与视频图库应用
 - [截屏](https://pan.baidu.com/s/1qVV2lOmHARys0ySHJYcjRQ?pwd=6666)
   - 屏幕截图磁贴：从快速设置面板快速截取屏幕截图
   - Snapmod：更好用的带壳截图生成器
