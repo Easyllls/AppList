@@ -25,6 +25,7 @@
 <details>
 <summary>📱 <strong>Android</strong></summary>
 
+- [日历](链接)
 - [Su Fei](https://pan.baidu.com/s/1CQdfxzqnuNVHE1hYCqmEgg?pwd=6666)：基于 Material 3 设计规范的极简中国传统诗词应用。它不只是一个工具，更是一个宁静的数字阅读空间
 - [TTS（语音合成）](https://pan.baidu.com/s/1qII2fC1pMc0Q3sAiNCoC1Q?pwd=6666)
   - CloneTTS：运行在安卓系统本地的文字转语音 (TTS) 原生引擎。它可以让您在手机上离线克隆所需的声音，并直接使用这个声音来朗读书籍或长文本。无需联网，所有推理计算均在本地完成。
