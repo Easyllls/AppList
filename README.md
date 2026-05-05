@@ -266,6 +266,7 @@
   - Migrate
 - [文档扫描](https://pan.baidu.com/s/1jgxIoxs_VQPnLnmZHTPTCg?pwd=6666)
   - FairScan：适用于安卓设备的文档扫描应用
+  - OSS文档扫描：将您的移动设备变成强大的文档扫描仪
 - [Habit-Maker](https://pan.baidu.com/s/1Ozy8FeOK6PFPPx4i6wp93w?pwd=6666)：基于奖励机制的 Android 习惯跟踪器。
 - [垃圾清理](https://pan.baidu.com/s/1a2OtUKrcdHSXWLifm4aJrQ?pwd=6666)
   - LTE 清除器：简单而纯粹的安卓设备清理工具
