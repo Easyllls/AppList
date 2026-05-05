@@ -25,6 +25,14 @@
 <details>
 <summary>📱 <strong>Android</strong></summary>
 
+- [二维码与条码](https://pan.baidu.com/s/1v7QVbSmXDYU7WxyPNdCIIQ?pwd=6666)
+  - 条码扫描器
+  - 艺术创意二维码
+  - 二维码生成器加logo
+  - 二维码生成器
+  - QR码扫描
+  - QR Scanner
+  - Qart
 - [日历](https://pan.baidu.com/s/1pw-Mmdmp2XjCpRXuiOyprQ?pwd=6666)
   - KashCal：一款以隐私为核心的 Android 日历应用，支持 iCloud 与 CalDAV 原生同步，整合本地、订阅和联系人日历，并提供离线使用与无追踪的安全体验
 - [Su Fei](https://pan.baidu.com/s/1CQdfxzqnuNVHE1hYCqmEgg?pwd=6666)：基于 Material 3 设计规范的极简中国传统诗词应用。它不只是一个工具，更是一个宁静的数字阅读空间
