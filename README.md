@@ -1178,6 +1178,7 @@
 - [哔哩哔哩（第三方）](https://pan.baidu.com/s/1--ro9xh-wucNedmfdPupNg?pwd=6666)
   - 哔哩助理：基于 Windows App SDK 和 AI 构建的 BiliBili 第三方应用
   - wiliwili：专为手柄用户设计的第三方 B站 客户端
+  - PiliPlus：使用Flutter开发的BiliBili第三方客户端
 - [微信辅助工具](https://pan.baidu.com/s/1h4l-oEb7NG1ELCqvIDS-Pw?pwd=6666)
   - WechatRealFriends：微信好友关系一键检测，基于微信ipad协议，看看有没有朋友偷偷删掉或者拉黑你
   - RevokeMsgPatcher：消息防撤回，多开
