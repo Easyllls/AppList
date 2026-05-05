@@ -26,11 +26,11 @@
 <summary>📱 <strong>Android</strong></summary>
 
 - [二维码与条码](https://pan.baidu.com/s/1v7QVbSmXDYU7WxyPNdCIIQ?pwd=6666)
-  - 条码扫描器
+  - 条码扫描器：用于扫描和生成条形码
+  - QR码扫描：二维码扫描与生成
   - 艺术创意二维码
   - 二维码生成器加logo
   - 二维码生成器
-  - QR码扫描
   - QR Scanner
   - Qart
 - [日历](https://pan.baidu.com/s/1pw-Mmdmp2XjCpRXuiOyprQ?pwd=6666)
