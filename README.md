@@ -132,6 +132,9 @@
   - Astronia：适用于安卓设备的 M3U8 播放器
   - FCLiveTool：直播源预览+下载
   - M3U-一款现代化的 Android 流媒体播放器
+  - IPTV Pro
+  - 极简TV
+  - Televizo
 - [BetterCounter](https://pan.baidu.com/s/1QUASCbg4uWBLH-vuK-F2zw?pwd=6666)：简单易用的习惯追踪每日计数器
 - [Script Runner for Termux](https://pan.baidu.com/s/14qhnLP3hS6Jj2hd6oDfuJA?pwd=6666)：通过 Termux 管理、编写和执行脚本的安全 Android 桥接工具
 - [天气](https://pan.baidu.com/s/1tYStC0dsQroktWHBxU8h8A?pwd=6666)
@@ -1085,6 +1088,7 @@
 - [IPTV](https://pan.baidu.com/s/1FqmhAooEflR2aPt3n_jl-Q?pwd=6666)
   - 我的电视：电视直播
   - WebView 电视：基于 腾讯X5 WebView 开发的电视直播App
+  - OTT Navigator：IPTV 播放与管理工具
   - 电视直播
   - 壹米｜电视
   - M3U
