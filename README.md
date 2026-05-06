@@ -305,15 +305,14 @@
   - KsuWebUI：KernelSU WebUI的独立App实现
   - MMRL：用于管理 Magisk、KernelSU 和 APatch 模块的终极管理器
   - MRepo：开源的第三方Magisk与KernelSU模块管理器，支持自定义仓库
-- [遥控](https://pan.baidu.com/s/18lTdLS-jCl-iiPrKnGv3Vw?pwd=6666)
-  - ADB Remote ATV：基于 ADB Shell 命令的安卓TV遥控器
-  - 蓝牙遥控器：将您的智能手机变成Android TV的蓝牙遥控器
-  - 酷控智能遥控：简单好用的万能遥控
-- [ADB工具](https://pan.baidu.com/s/1XWJiDI5AmxA0SeGsHMF5Sw?pwd=6666)
+- [ADB工具与遥控](https://pan.baidu.com/s/1XWJiDI5AmxA0SeGsHMF5Sw?pwd=6666)
   - 甲壳虫ADB助手：面向安卓设备 ADB 调试工具
   - WADBS：无线调试快捷开关
   - aShell You：Material You 重新设计的 aShell
   - atvTools：Android TV 用户的必备工具
+  - ADB Remote ATV：基于 ADB Shell 命令的安卓TV遥控器
+  - 蓝牙遥控器：将您的智能手机变成Android TV的蓝牙遥控器
+  - 酷控智能遥控：简单好用的万能遥控
 - [硬件查看与测试](https://pan.baidu.com/s/12hkwAV7qg2_BMXJhoWyTgA?pwd=6666)
   - DevCheck：功能强大的 Android 设备硬件和系统信息检测工具
   - AIDA64：硬件和软件信息查看工具
