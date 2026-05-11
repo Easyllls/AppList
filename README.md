@@ -25,6 +25,7 @@
 <details>
 <summary>📱 <strong>Android</strong></summary>
 
+- [澎湃工具箱](https://pan.baidu.com/s/1QnOwuSS6P4uYyxS5xozh1Q?pwd=6666)：专为小米及红米用户打造的第三方系统增强工具，内置硬件检测，性能优化，个性化定制，隐私保护，实用工具
 - [二维码与条码](https://pan.baidu.com/s/1v7QVbSmXDYU7WxyPNdCIIQ?pwd=6666)
   - 条码扫描器：用于扫描和生成条形码
   - QR码扫描：二维码扫描与生成
@@ -1277,6 +1278,7 @@
   - TinyTask：人人都能实现自动化
   - OP Auto Clicker：非常实用、安全的鼠标自动点击工具
   - MouseClickTool：简单好用的鼠标连点器
+  - Actus Auto Clicker：内置自动点击器、录制回放、识图点击三大技能。适合游戏挂机、办公表单、重复操作和自动化流程，开箱即用
 - [Glow](https://pan.baidu.com/s/1MNuD23wz7f1xSjR08JV2Tw?pwd=6666)：功能强大的系统、硬件分析工具
 - [Hosts](https://pan.baidu.com/s/1viluA1C_ZklqU0SDhoUluA?pwd=6666)
   - SwitchHosts：管理、切换多个 hosts 方案的工具
