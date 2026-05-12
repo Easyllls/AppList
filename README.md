@@ -830,6 +830,7 @@
   - AnyWebView：它尝试检测所有系统WebView并将它们添加到开发人员选项->WebView实现列表中。
   - WebViewDebugHook
 - [应用管理](https://pan.baidu.com/s/130LDcrJdyT6Yn9W8250gIQ?pwd=6666)
+  - DPIS：用于按应用独立调整显示参数（虚拟宽度 + 字体大小），在不改变全局系统显示设置的前提下，优化单一应用观感
   - NoWakeLock：控制 Android 唤醒锁的应用程序
   - Activity启动链管理：拦截 App 跳转并提供选择控制
   - 禁止卸载：禁止卸载应用与清除应用数据
@@ -1149,6 +1150,8 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
+- [刷机工具](https://pan.baidu.com/s/1pGxhyaSRR0jhXCanhJCNjA?pwd=6666)
+  - 刷机匣：GeekFlashTool 是一款免费的图形化综合刷机工具，侧重于深度刷机功能
 - [下载工具](https://pan.baidu.com/s/1uwkePgEAIIWvGGYEYuGo7A?pwd=6666)：各种下载工具合集
   - Internet Download Manager：十分强大好用的多线程下载工具
   - Neat Download Manager：优秀免费的多线程网络下载工具
