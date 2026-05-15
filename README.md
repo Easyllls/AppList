@@ -25,6 +25,7 @@
 <details>
 <summary>📱 <strong>Android</strong></summary>
 
+- [照度测量仪](https://pan.baidu.com/s/1ehNJLdKE1gbbbVbLrSLC4A?pwd=6666)：
 - [澎湃工具箱](https://pan.baidu.com/s/1QnOwuSS6P4uYyxS5xozh1Q?pwd=6666)：专为小米及红米用户打造的第三方系统增强工具，内置硬件检测，性能优化，个性化定制，隐私保护，实用工具
 - [二维码与条码](https://pan.baidu.com/s/1v7QVbSmXDYU7WxyPNdCIIQ?pwd=6666)
   - 条码扫描器：用于扫描和生成条形码
