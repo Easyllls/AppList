@@ -363,6 +363,12 @@
 - [垃圾电话拦截](https://pan.baidu.com/s/1iENQJhKzfskDP5b5kvS5Rw?pwd=6666)：Android 电话/短信拦截器
 - [安卓设备运行环境检测（Root检测）](https://pan.baidu.com/s/1AYD7QWPJyKxCeOuwG9VI6Q?pwd=6666)
   - 密钥认证：生成、保存、加载、解析和验证 Android 密钥和 ID 证明数据
+  - 应用列表检测器
+  - Yet Another SafetyNet Attestation Checker
+  - Native Detector
+  - Momo
+  - Magisk检测应用
+  - Applist Detector
 - [LiveBoot](https://pan.baidu.com/s/1xn2Wvaewwgsfnz1_UgwSAg?pwd=6666)：修改安卓设备的启动画面，类似于“Matrix 数字雨”效果
 - [Rays](https://pan.baidu.com/s/1EFgnI_607MxoCvD2OiLYqA?pwd=6666)：在本地记录、查找、管理表情包的工具
 - [Apk编辑](https://pan.baidu.com/s/10FZx1vScNtuqlvAhRsYOcA?pwd=6666)
