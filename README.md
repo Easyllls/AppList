@@ -816,6 +816,8 @@
   - AdClose
   - 地主不看广告：欢乐斗地主跳过广告
 - [抖音](https://pan.baidu.com/s/1U0qnF5x5J68AJFoAaYYCaw?pwd=6666)：
+  - Dyyds
+  - YuePanel
   - Freedom+：依赖LSPosed运行的抖音增强模块
   - 逗音小手
   - 抖+
