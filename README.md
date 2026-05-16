@@ -324,6 +324,7 @@
 - [RSS](https://pan.baidu.com/s/1qf_13dAVgUqoOWGH4wqFLg?pwd=6666)
   - PodAura：集 RSS 订阅、媒体下载和播放于一体的 Android 播客应用
   - Feeder：很棒的自由/开源 RSS 阅读器
+  - FeedMe：简洁但功能齐全的离线RSS阅读器
 - [DSU Sideloader](https://pan.baidu.com/s/17GxT703_7aCgBSsQDoIJzA?pwd=6666)：通过 安卓的 DSU 功能轻松安装 GSI。
 - [Sefirah](https://pan.baidu.com/s/1BVi1tQZXJyINfJInAQtPGQ?pwd=6666)：在 Windows PC 和 Android 设备之间无缝共享剪贴板和通知
 - [网络与WiFi工具](https://pan.baidu.com/s/1opn0eMB4-G_ApNo2_KOVmg?pwd=6666)
@@ -375,7 +376,7 @@
 - [Rays](https://pan.baidu.com/s/1EFgnI_607MxoCvD2OiLYqA?pwd=6666)：在本地记录、查找、管理表情包的工具
 - [Apk编辑](https://pan.baidu.com/s/10FZx1vScNtuqlvAhRsYOcA?pwd=6666)
   - AntiSplit M：拆分应用合并
-  - 
+  - Apktool M：安卓应用安装包（apk）反编译应用
 - [视频编辑](https://pan.baidu.com/s/1bGNda0yPAMJHexPL3iKq-w?pwd=6666)
   - VideoGuru：功能齐全强大的免费视频编辑器
 - [手势](https://pan.baidu.com/s/1pnFClX7hxf6pSh7N0gEsVQ?pwd=6666)
