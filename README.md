@@ -761,6 +761,7 @@
   - Xposed Edge Pro：功能强大的按键与手势映射、各种自动化任务
   - ShortX：各种自动任务
 - [蚂蚁森林助手](https://pan.baidu.com/s/1LDiIPGr7yEhCfafRtZ3BVw?pwd=6666)
+  - 芝麻粒-AG：仅支持安卓16，lsp api101
   - 芝麻粒-TK-Alpha
   - 芝麻粒-GR
   - 女神逆天版
