@@ -652,6 +652,7 @@
 <details>
 <summary>🛠 <strong>Xposed Module</strong></summary>
 
+- [YuePanel](https://pan.baidu.com/s/1BpNwsJqAY_YIkedSxR7SgA?pwd=6666)：微信,QQ,抖音功能增强模块
 - [三星 One UI 专用](https://pan.baidu.com/s/1nIL8NyMfki0wkLkODCH4QQ?pwd=6666)
   - KnoxPatch：在已 Root 的三星设备上恢复官方应用和部分功能
   - One UI X：释放三星 One UI 的无限可能，旨在提供高度可定制的系统体验，解除烦人的限制，并为状态栏、快捷设置以及系统自带应用注入强大的增强功能。
