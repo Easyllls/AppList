@@ -91,6 +91,7 @@
   - FakeStandby：在屏幕关闭时仍然保持应用运行
   - Extinguish：在屏幕关闭时运行任何 Android 应用程序，就如同屏幕打开时一样
 - [应用与进程管理](https://pan.baidu.com/s/1N8wyTsxhncj2mRG1tEoTwQ?pwd=6666)
+  - Thor：功能强大的安卓应用管理与安装工具，支持安装、卸载、冻结、批量操作及多种权限模式（Root/Shizuku/Dhizuku）。
   - Shappky：一款使用 Shizuku 或 Root 权限来停止后台应用的工具
   - Running Services Monitor：监控你 Android 设备上正在运行的服务
   - Package Manager：功能强大的应用程序，用于管理系统和用户应用，同时支持安装各种安装包
@@ -1163,6 +1164,8 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
+- [Office助手](https://pan.baidu.com/s/1ulazm39WHmXw4WFn9G82bg?pwd=6666)
+  - Office Installer+：一键安装、更新、激活、卸载 Office 全家桶
 - [刷机工具](https://pan.baidu.com/s/1pGxhyaSRR0jhXCanhJCNjA?pwd=6666)
   - 刷机匣：GeekFlashTool 是一款免费的图形化综合刷机工具，侧重于深度刷机功能
 - [下载工具](https://pan.baidu.com/s/1uwkePgEAIIWvGGYEYuGo7A?pwd=6666)：各种下载工具合集
