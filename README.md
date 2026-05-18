@@ -402,7 +402,7 @@
 - [电池工具](https://pan.baidu.com/s/1f6pog5u7-GyeNpvsFmq2kQ?pwd=6666)
   - Battery Guru：监控手机的电池使用情况并估计其当前的健康状况
   - AccuBattery：安卓设备的电池监控与检测应用
-  - 
+  - BatteryCalibrate：校准电池 需要 Root
 - [快捷方式](https://pan.baidu.com/s/1s71XHEA6EI4SC4JIBwv1KA?pwd=6666)
   - HTTP 快捷方式：创建触发任意 HTTP 请求的主屏幕快捷方式
   - Anywhere：将常用的页面整理到一个文件夹，支持添加到桌面
@@ -560,7 +560,9 @@
   - 深度休眠：息屏后自动进入休眠状态，配置文件在模块目录/mod/deep.sh。
   - 自动墓碑后台(白名单版)：类似IOS墓碑后台机制，切换程序后上一个APP将自动进入墓碑۩，识别小窗，音频app不墓碑。设置文件在：/data/adb/modules/mubei/mb/。
   - 息屏后台管理：Crond计时器只做计时。分层控制功能包含：Doze打盹，息屏待机，墓碑模式，Froce联APPAPP,可防止被后台唤醒，支持添加自定义shell脚本。不依赖系统组件，独立运行，兼容安卓4.0到安卓12+。
-- [存储空间隔离](https://pan.baidu.com/s/1PFwNjR8aVF1PHS7jaqDnAQ?pwd=6666)：优雅地解决“坏应用”滥用存储权限的问题
+- [存储空间隔离](https://pan.baidu.com/s/1PFwNjR8aVF1PHS7jaqDnAQ?pwd=6666)
+  - 存储空间隔离：优雅地解决“坏应用”滥用存储权限的问题
+  - 存储重定向 X：通过Zygisk Hook拦截应用文件访问并执行重定向
 - [动态刷新率](https://pan.baidu.com/s/1e_VdXgTrMD6oaj-WAfHnVA?pwd=6666)：动态调整屏幕刷新率
   - Dfps
   - fas-rs
