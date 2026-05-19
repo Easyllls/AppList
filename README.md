@@ -382,6 +382,9 @@
   - VideoGuru：功能齐全强大的免费视频编辑器
 - [手势](https://pan.baidu.com/s/1pnFClX7hxf6pSh7N0gEsVQ?pwd=6666)
   - MyGesture：快速、智能的分边缘导航手势
+  - 流体手势导航
+  - 微动手势
+  - Edge Gestures
 - [手电筒](https://pan.baidu.com/s/1d7PHsi3SWh3CKMciBNsWUw?pwd=6666)
   - FlashDim：适用于 Android 13+ 具有调光功能的现代手电筒应用
 - [应用冻结与隐藏](https://pan.baidu.com/s/1RsrReq1R7JJwKOxg_jaF4A?pwd=6666)
