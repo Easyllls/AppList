@@ -25,6 +25,9 @@
 <details>
 <summary>📱 <strong>Android</strong></summary>
 
+- [运动与步数管理](https://pan.baidu.com/s/1VsZcvtryJoEtMxKNWsgMuw?pwd=6666)
+  - 小米步数管理：小米设备步数自定义
+  - Stepsy：简洁轻量级计步器应用
 - [照度测量仪](https://pan.baidu.com/s/1ehNJLdKE1gbbbVbLrSLC4A?pwd=6666)：通过手机内置的光线传感器，实时测量环境光照强度，并提供专业的照度计算功能，帮助用户科学规划照明方案。
 - [澎湃工具箱](https://pan.baidu.com/s/1QnOwuSS6P4uYyxS5xozh1Q?pwd=6666)：专为小米及红米用户打造的第三方系统增强工具，内置硬件检测，性能优化，个性化定制，隐私保护，实用工具
 - [二维码与条码](https://pan.baidu.com/s/1v7QVbSmXDYU7WxyPNdCIIQ?pwd=6666)
