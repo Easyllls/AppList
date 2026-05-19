@@ -156,6 +156,8 @@
   - 侠客日记：使用MAUI Blazor 构建的开源、跨平台的本地日记app
 - [自动化工具](https://pan.baidu.com/s/18CbZNYWt2JcYiOSSu_xYUw?pwd=6666)
   - vFlow：可视化工作流自动化工具
+  - MacroDroid
+  - Tasker
   - OP Auto Clicker：功能齐全的自动点击器
   - Klick'r：基于图像检测的自动点击器
   - 李跳跳：帮助用户自动点击按钮，跳过各种弹窗（附300+自定义规则）
