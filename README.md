@@ -767,6 +767,7 @@
 - [自动化工具](https://pan.baidu.com/s/1UBwSZvVHnz7YER4xOu0gtw?pwd=6666)
   - Xposed Edge Pro：功能强大的按键与手势映射、各种自动化任务
   - ShortX：各种自动任务
+  - EdgeX：支持了大部分Xposed Edge功能
 - [蚂蚁森林助手](https://pan.baidu.com/s/1LDiIPGr7yEhCfafRtZ3BVw?pwd=6666)
   - 芝麻粒-AG：仅支持安卓16，lsp api101
   - 芝麻粒-TK-Alpha
@@ -824,6 +825,7 @@
   - AdClose
   - 地主不看广告：欢乐斗地主跳过广告
 - [抖音](https://pan.baidu.com/s/1U0qnF5x5J68AJFoAaYYCaw?pwd=6666)：
+  - 抖增：抖音离线缓存增强模块
   - Dyyds
   - YuePanel
   - Freedom+：依赖LSPosed运行的抖音增强模块
