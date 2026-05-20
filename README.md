@@ -103,6 +103,7 @@
 - [Shizuku及其工具集](https://pan.baidu.com/s/11GpcRDfzVe0Wnu-qBN44hw?pwd=6666)
   - Shizuku：无需解锁设备调用具有Root权限的系统API
   - Shizuku thedjchi：这是 Shizuku 的一个分支版本（Fork）
+  - AppVaultX：由 Shizuku 驱动的高性能应用管理
   - ShizuTools：包含许多通过 Shizuku 控制 Android 系统的工具
   - Extendroid：一个具备桌面级多窗口与远程访问能力的多任务管理器
   - ShizuWall：由 Shizuku 驱动的轻量级高效防火墙方案
@@ -1346,6 +1347,7 @@
   - Notepad ++
 - [截屏与录屏](https://pan.baidu.com/s/1Pam5tZV_JdJD8giJM958yQ?pwd=6666)
   - SunnyCapturer：简洁且漂亮的截图工具，支持图片翻译和OCR
+  - Recordly：屏幕录制器和编辑器，适合制作操作讲解、演示、产品视频等内容
   - Flameshot：功能强大且易于使用的截图软件
   - ScreenCapture：轻量、功能丰富的截图程序
   - X-Snip：小巧、轻量、功能丰富的截图工具
