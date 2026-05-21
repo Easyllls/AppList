@@ -327,6 +327,10 @@
   - DevCheck：功能强大的 Android 设备硬件和系统信息检测工具
   - AIDA64：硬件和软件信息查看工具
   - SD Card Test：测试存储卡真实读写速度，并识别存储类型
+  - Castro
+  - CPU X
+  - CPU-Z
+  - 隐秘参数
 - [通知管理](https://pan.baidu.com/s/1Wr0VIeJRhOPG1E_1FpyWYQ?pwd=6666)
   - BuzzKill：功能强大且高度可定制的通知管理工具
 - [RSS](https://pan.baidu.com/s/1qf_13dAVgUqoOWGH4wqFLg?pwd=6666)
