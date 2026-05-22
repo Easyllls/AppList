@@ -671,6 +671,7 @@
 <details>
 <summary>🛠 <strong>Xposed Module</strong></summary>
 
+- [WIfikeyXposed](https://pan.baidu.com/s/1jWUclHxplANnZ0DIBzyTgQ?pwd=6666)：WiFi万能钥匙的 Xposed 模块，提供本地 SVIP 永久解锁、全模块去广告、底栏/工具栏精简等功能
 - [YuePanel](https://pan.baidu.com/s/1BpNwsJqAY_YIkedSxR7SgA?pwd=6666)：微信,QQ,抖音功能增强模块
 - [三星 One UI 专用](https://pan.baidu.com/s/1nIL8NyMfki0wkLkODCH4QQ?pwd=6666)
   - KnoxPatch：在已 Root 的三星设备上恢复官方应用和部分功能
