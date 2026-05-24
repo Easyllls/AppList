@@ -46,6 +46,7 @@
   - MultiTTS：离线的文本转语音工具 支持多种语音引擎 接近真人发音
   - TTS Server：适用于安卓设备的TTS语音朗读应用
 - [视频播放器](https://pan.baidu.com/s/1HVohGvJoB88U60hQju1JXw?pwd=6666)
+  - Only Player：基于原版 Next Player 项目，并新增：应用内语言切换、设置备份与恢复、ASS 字幕特效支持、SMB播放等功能
   - mpx：以隐私为优先、基于 Flutter 构建的本地媒体播放器。
   - mpvEx：基于 mpv构建的美观的安卓媒体播放器
   - One Player：fork自 Next Player 项目，并新增应用内语言切换、设置备份恢复以及 ASS 字幕特效支持。
@@ -1183,6 +1184,8 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
+- [文件比较与同步](https://pan.baidu.com/s/1bSznk5ArzN5YbxGKlWLJzA?pwd=6666)
+  - Beyond Compare：数据比较与同步工具，可用于比较文件夹、文本文件、图片和表格，高效查看差异，并可靠地合并修改内容。以及在多设备之间同步内容
 - [Office助手](https://pan.baidu.com/s/1ulazm39WHmXw4WFn9G82bg?pwd=6666)
   - Office Installer+：一键安装、更新、激活、卸载 Office 全家桶
 - [刷机工具](https://pan.baidu.com/s/1pGxhyaSRR0jhXCanhJCNjA?pwd=6666)
