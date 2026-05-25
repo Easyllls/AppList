@@ -421,6 +421,14 @@
 - [快捷方式](https://pan.baidu.com/s/1s71XHEA6EI4SC4JIBwv1KA?pwd=6666)
   - HTTP 快捷方式：创建触发任意 HTTP 请求的主屏幕快捷方式
   - Anywhere：将常用的页面整理到一个文件夹，支持添加到桌面
+  - 更多快捷方式
+  - 快速打开活动
+  - 创建快捷方式
+  - Tiles
+  - Sesame
+  - Quick Settings
+  - Activity Manager
+  - App Shortcut Maker
 - [网盘](https://pan.baidu.com/s/1ukf46qV0iT-gLU2ZRdyz1g?pwd=6666)
   - 蓝云：第三方蓝奏云APP简约、实用、强大
   - 百度网盘三星定制版
