@@ -348,6 +348,7 @@
   - 小米WiFi助手：管理小米路由器
   - WiFiAnalyzer：免费开源的WiFi分析仪 优化Wi-Fi网络
   - Traffic Light：在保障隐私的前提下，跟踪你的网络和数据使用情况
+  - Speedtest：网络测速
 - [终端模拟器](https://pan.baidu.com/s/1zO7zWhwXyJrkdNgmbQsU4w?pwd=6666)
   - ReTerminal：简单的安卓终端模拟器
 - [翻译](https://pan.baidu.com/s/1Vq4mcBg4gRgGNUMz-rAJow?pwd=6666)
