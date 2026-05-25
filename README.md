@@ -25,6 +25,8 @@
 <details>
 <summary>📱 <strong>Android</strong></summary>
 
+- [效率与生产力](https://pan.baidu.com/s/1y0ebgDtNjHyNFs97c0U1Xg?pwd=6666)
+  - Flux：围绕灵活工作区与可自定义空间构建，让你能够整理笔记、日记、任务、事件等内容，并随着个人使用习惯不断调整与扩展自己的管理系统。
 - [运动与步数管理](https://pan.baidu.com/s/1VsZcvtryJoEtMxKNWsgMuw?pwd=6666)
   - 小米步数管理：小米设备步数自定义
   - Stepsy：简洁轻量级计步器应用
@@ -1109,6 +1111,7 @@
 <summary>🔒 <strong>免Root框架</strong></summary>
 
 - [免Root框架](https://pan.baidu.com/s/1xJaSIewQDCyRagTCJGwV9A?pwd=6666)：无需Root权限即可体验部分Xposed模块，以下是文件列表
+  - AxManager：基于 ADB 的非 Root 安卓模块与系统管理平台
   - LSPatch
   - LSPatch（JingMatrix）
   - NPatch
