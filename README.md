@@ -16,7 +16,7 @@
 
 [QQ频道](https://pd.qq.com/s/akqek6a90?b=9)
 
-## 🚧 施工中
+## 🚧 更新中 🚧
 
 </div>
 
