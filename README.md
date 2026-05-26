@@ -636,7 +636,7 @@
 - [青龙面板](https://pan.baidu.com/s/18l_UKRDJ_jl5WfgZt0zS-w?pwd=6666)：面板访问：127.0.0.1:5700，ip:127.0.0.1，用户:root，密码:123456
 - [移除提示隐私](https://pan.baidu.com/s/1RT7i1bLmde_jurzVjUpCwg?pwd=6666)：移除状态栏的隐私提示和相机/麦克风占用图标
 - [Android 12 扩展模块](https://pan.baidu.com/s/1XpPB3EKM9XWFA9rjEfDGmw?pwd=6666)：启用并自定义 Android 12 隐藏功能
-- [AOSP Mods](https://pan.baidu.com/s/1n_tsXHHpMs8EPU5HqB0qpw?pwd=6666)：以下模块仅支持 Pixel / AOSP 类定制 ROM
+- [AOSP 定制](https://pan.baidu.com/s/1n_tsXHHpMs8EPU5HqB0qpw?pwd=6666)：以下模块仅支持 Pixel / AOSP 类定制 ROM
   - AOSP Mods：用于在基于AOSP的ROM上在SystemUI上进行自定义的基于Magisk的模块。部分功能需要Xposed，支持Android 12 +
   - Iconify：个性化定制应用，可让你轻松自定义 Android 12 及以上设备的界面外观。你可以修改图标、颜色、形状，甚至通知栏样式，打造更符合自己风格的系统界面。
 - [无障碍服务守护](https://pan.baidu.com/s/1yr5yTKS5nyPRQtVDqipsQQ?pwd=6666)：开机自动开启且实时保护无障碍服务,防止应用意外关闭导致无障碍服务连同关闭.
