@@ -1168,7 +1168,7 @@
   - Emotn UI
   - ATV Launcher
 - [文件管理器](https://pan.baidu.com/s/1HgIwfWjtjVRSKjy8IbOitA?pwd=6666)
-  - Fluffy
+  - Fluffy：快速、现代的文件管理器，支持强大的压缩包功能，并拥有 适配 Android TV 的友好界面
 - [浏览器](https://pan.baidu.com/s/1j4fZxCvmbbAwJaF9Um2uHQ?pwd=6666)
   - Browser：带广告拦截浏览器
   - TV Bro: 电视网络浏览器
