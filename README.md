@@ -182,7 +182,6 @@
 - [漫画阅读器](https://pan.baidu.com/s/1NjlofTXhHmdiobPqDGKjxQ?pwd=6666)
   - venera：支持阅读本地及网络漫画的漫画阅读器
 - [文件管理器](https://pan.baidu.com/s/1mzjlBVEKDoYpIXOcUaLQiw?pwd=6666)
-  - Prism File Explorer：现代化、功能丰富且轻量级的文件管理器
   - File Navigator：高效、直观的方式来组织和管理设备中的文件
   - File Commander：功能丰富、支持多存储位置、带有隐私保护和转换功能的安卓文件管理器
   - Prism File Explorer：现代、功能丰富且轻量级的 Android 文件管理器
@@ -190,6 +189,15 @@
   - Fossify File Manager：尊重隐私和安全的便捷文件管理应用
   - MiXplorer：集成云端存储、Root 模式的全功能文件管理器。
   - 质感文件：开源的 Material Design 文件管理器，适用于 Android 5.0+。
+  - 流舟文件
+  - Solid Explorer
+  - RE管理器
+  - NP管理器
+  - MT管理器
+  - FX Explorer
+  - ES文件浏览器
+  - AnExplorer
+  - Amaze
 - [下载工具](https://pan.baidu.com/s/1OTJLuLL0XXQmqquCs5UFiA?pwd=6666)
   - AB Download Manager：高颜值且高速的下载管理器
   - qBitController：能从 Android 设备中远程控制 qBittorrent 的软件
