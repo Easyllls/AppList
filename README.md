@@ -1167,7 +1167,8 @@
   - LM Ultimate：安卓电视 盒子桌面管理工具
   - Emotn UI
   - ATV Launcher
-- [Fluffy](https://pan.baidu.com/s/1HgIwfWjtjVRSKjy8IbOitA?pwd=6666)：文件管理器  
+- [文件管理器](https://pan.baidu.com/s/1HgIwfWjtjVRSKjy8IbOitA?pwd=6666)
+  - Fluffy
 - [浏览器](https://pan.baidu.com/s/1j4fZxCvmbbAwJaF9Um2uHQ?pwd=6666)
   - Browser：带广告拦截浏览器
   - TV Bro: 电视网络浏览器
