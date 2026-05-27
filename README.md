@@ -189,7 +189,7 @@
   - Fossify File Manager：尊重隐私和安全的便捷文件管理应用
   - MiXplorer：集成云端存储、Root 模式的全功能文件管理器。
   - 质感文件：开源的 Material Design 文件管理器，适用于 Android 5.0+。
-  - 流舟文件
+  - 流舟文件：简单高效地管理本地和云端文件，SMB/FTP/FTPS/USB/OTG
   - Solid Explorer
   - RE管理器
   - NP管理器
