@@ -1208,6 +1208,8 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
+- [PDF工具](https://pan.baidu.com/s/1EfJxCpdju0_MP_6C4s5ieQ?pwd=6666)
+  - PDF Arranger：PDF Arranger 是一个基于 Python GTK 的小型应用程序，可帮助用户通过交互式、直观的图形界面来合并、拆分 PDF 文档，并对页面进行旋转、裁剪和重新排序。它是 pikepdf 的图形前端。
 - [文件比较与同步](https://pan.baidu.com/s/1bSznk5ArzN5YbxGKlWLJzA?pwd=6666)
   - Beyond Compare：数据比较与同步工具，可用于比较文件夹、文本文件、图片和表格，高效查看差异，并可靠地合并修改内容。以及在多设备之间同步内容
 - [Office助手](https://pan.baidu.com/s/1ulazm39WHmXw4WFn9G82bg?pwd=6666)
