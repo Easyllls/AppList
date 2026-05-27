@@ -182,6 +182,7 @@
 - [漫画阅读器](https://pan.baidu.com/s/1NjlofTXhHmdiobPqDGKjxQ?pwd=6666)
   - venera：支持阅读本地及网络漫画的漫画阅读器
 - [文件管理器](https://pan.baidu.com/s/1mzjlBVEKDoYpIXOcUaLQiw?pwd=6666)
+  - Prism File Explorer：现代化、功能丰富且轻量级的文件管理器
   - File Navigator：高效、直观的方式来组织和管理设备中的文件
   - File Commander：功能丰富、支持多存储位置、带有隐私保护和转换功能的安卓文件管理器
   - Prism File Explorer：现代、功能丰富且轻量级的 Android 文件管理器
