@@ -1439,6 +1439,7 @@
 - [Win11Debloat](https://pan.baidu.com/s/15EHwla5HgJ1xqkl8JtdVFg?pwd=6666)：Win10/11系统优化脚本，卸载预装应用 禁用遥测等
 - [各种第三方网盘](https://pan.baidu.com/s/1DbJRr55fd-Nth5LI9QfC1g?pwd=6666)
   - 小白云盘：强大的云盘工具（目前支持阿里、夸克）
+  - 小白羊网盘：第三方阿里云盘
 
 </details>
 
