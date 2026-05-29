@@ -372,7 +372,7 @@
   - Photos：漂亮的安卓照片应用
   - QuickPic：基于快图浏览开发的相册应用，支持 Android8+
   - Fossify Gallery：功能强大的相册应用 支持照片与视频基本的编辑功能
-  - Gallery：使用 Jetpack Compose 制作的轻量级媒体库应用程序（后改名 ReFra）
+  - Gallery（ReFra）：使用 Jetpack Compose 制作的轻量级媒体库应用程序（后改名 ReFra）
   - 索尼相册
   - 图库：轻量、智能且快速的照片与视频图库应用
 - [截屏](https://pan.baidu.com/s/1qVV2lOmHARys0ySHJYcjRQ?pwd=6666)
