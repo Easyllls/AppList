@@ -444,7 +444,6 @@
 - [网盘](https://pan.baidu.com/s/1ukf46qV0iT-gLU2ZRdyz1g?pwd=6666)
   - 蓝云：第三方蓝奏云APP简约、实用、强大
   - 百度网盘三星定制版
-  - 小白云盘
   - 小白云盘：强大的云盘工具（目前支持阿里云盘）安卓TV、手机、平板、投影仪及PC
 - [TVBOX](https://pan.baidu.com/s/1OR1TuA7E2nGQMLm1N5jVfg?pwd=6666)
   - 影迷
@@ -1180,7 +1179,6 @@
 - [浏览器](https://pan.baidu.com/s/1j4fZxCvmbbAwJaF9Um2uHQ?pwd=6666)
   - Browser：带广告拦截浏览器
   - TV Bro: 电视网络浏览器
-- [小白云盘](https://pan.baidu.com/s/1l6pUPZhyaBYkg3eG0oP09w?pwd=6666)：强大的云盘工具，目前支持阿里、夸克
 - [Gemby](https://pan.baidu.com/s/1c1Wru2QBt7f9qBj9bxCNaQ?pwd=6666)：基于 MPV 内核的简约 Emby 客户端
 - [播放器](https://pan.baidu.com/s/1VKfU7L8IRBm5iJVGkpoa2g?pwd=6666)：各种第三方网络播放器
   - HuYa：虎牙和抖音TV客户端
