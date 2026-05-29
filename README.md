@@ -1309,6 +1309,7 @@
   - TrayChrome：基于 WPF 和 WebView2 的轻量级托盘浏览器
   - Supermium：基于 Chromium 的浏览器分支，支持 Manifest V2 扩展
   - BrowserOS：基于 Chromium 的开源 AI 浏览器，在本地原生运行 AI Agent
+  - chrome installer：Chrome浏览器离线安装包
 - [OCR](https://pan.baidu.com/s/1C1EmcsA9CQptsBNkE28AvA?pwd=6666)
   - PillOCR：基于大模型api接近无感的OCR工具。
 - [Ai与Agent](https://pan.baidu.com/s/11TZc-ftKdezzzQCdQlqCdQ?pwd=6666)
