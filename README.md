@@ -276,6 +276,8 @@
   - 雨燕输入法：简洁、实用、轻快的中文输入法
   - 小企鹅输入法：一个支持插件扩展、多语言输入引擎（如 Rime）、离线使用且高度可定制的开源 Android 输入法。
   - HeliBoard：注重隐私且可定制的开源键盘，基于AOSP/OpenBoard。它不需要互联网权限，因此完全离线使用。
+  - GBoard：Google键盘
+  - 百度输入法：各种定制版
 - [通知日历同步](https://pan.baidu.com/s/1MMoYCMA-2VbGhdTfFT7srQ?pwd=6666)：通过监听通知，将事件登记到您的日历中
 - [虚拟机与模拟器](https://pan.baidu.com/s/1uIATcaTqSkEnVg3Qx2zKqQ?pwd=6666)
   - Eden：基于 Yuzu 的开源分支（fork）的 Switch 模拟器
