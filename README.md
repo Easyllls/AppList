@@ -278,6 +278,7 @@
   - HeliBoard：注重隐私且可定制的开源键盘，基于AOSP/OpenBoard。它不需要互联网权限，因此完全离线使用。
   - GBoard：Google键盘
   - 百度输入法：各种定制版
+  - LeanType-一个开源、AI增强的输入法
 - [通知日历同步](https://pan.baidu.com/s/1MMoYCMA-2VbGhdTfFT7srQ?pwd=6666)：通过监听通知，将事件登记到您的日历中
 - [虚拟机与模拟器](https://pan.baidu.com/s/1uIATcaTqSkEnVg3Qx2zKqQ?pwd=6666)
   - Eden：基于 Yuzu 的开源分支（fork）的 Switch 模拟器
