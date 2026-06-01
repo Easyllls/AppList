@@ -1255,7 +1255,9 @@
   - DTV-多平台直播轻量化桌面客户端，支持抖音、虎牙、快手、哔哩哔哩
   - Simple Live：跨平台的聚合直播软件
   - pure live
-- [翻译](https://pan.baidu.com/s/1Tz73wMxZ812oziSDWq3Cew?pwd=6666)
+- [翻译与OCR](https://pan.baidu.com/s/1Tz73wMxZ812oziSDWq3Cew?pwd=6666)
+  - STranslate：即用即走的翻译、OCR工具「插件系统」
+  - PillOCR：基于大模型api接近无感的OCR工具。
   - DocuTranslate：基于大语言模型的轻量级本地文件翻译工具
 - [Block-Ads](https://pan.baidu.com/s/1p6pARVSBq4tJMcym7D5Qxg?pwd=6666)：禁止垃圾进程运行
 - [CTM工具](https://pan.baidu.com/s/1QpHic3vBtGBhteRB3IumyQ?pwd=6666)：适用于 Windows 10 与 11 的桌面美化与系统优化工具
@@ -1315,8 +1317,6 @@
   - Supermium：基于 Chromium 的浏览器分支，支持 Manifest V2 扩展
   - BrowserOS：基于 Chromium 的开源 AI 浏览器，在本地原生运行 AI Agent
   - chrome installer：Chrome浏览器离线安装包
-- [OCR](https://pan.baidu.com/s/1C1EmcsA9CQptsBNkE28AvA?pwd=6666)
-  - PillOCR：基于大模型api接近无感的OCR工具。
 - [Ai与Agent](https://pan.baidu.com/s/11TZc-ftKdezzzQCdQlqCdQ?pwd=6666)
   - Everywhere：桌面交互式 AI 助手 支持多模型调用并能直接理解屏幕上的内容
   - ClawX：OpenClaw AI 智能体的桌面客户端
