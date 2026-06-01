@@ -246,6 +246,7 @@
   - KDE Connect：通过无线网络将智能手机与计算机连接，从而实现多种设备间的互动和控制
   - PlainApp：通过网页管理你的手机！访问文件、联系人、视频、音乐等内容
 - [浏览器](https://pan.baidu.com/s/1HjtLqCkVjC-RSnUxmjLujg?pwd=6666)
+  - Elixir Browser：基于 Chromium 的 Android 浏览器，完全支持扩展
   - Iceraven：基于 Firefox 内核开发的高度自定义的浏览器 支持扩展
   - Ultimatum：基于 Chromium 开发的一个浏览器分支，桌面级插件体验
   - IronFox：基于 Firefox 的安全、注重隐私的安卓网络浏览器
