@@ -935,6 +935,7 @@
   - 墨·状态栏歌词
 - [Tim小助手](https://pan.baidu.com/s/1Wr1Kk1bN4aDLIKjdMjwCUQ?pwd=6666)：对Tim,QQ进行的扩展优化的Xposed模块
 - [QQ](https://pan.baidu.com/s/1OljRTNqRUtSAlCT_93sOdA?pwd=6666)
+  - Elaris：轻量级QQ净化模块，功能不多，好在够用、够轻量
   - QAuxiliary
   - QQHook：QQNT 绕过环境检测模块，防止冻结/踢下线。
   - QFun
