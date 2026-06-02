@@ -1031,7 +1031,7 @@
   - VAvatar
   - wxrecordread
   - WExpt
-  - WeKit
+  - WeKit：微信增强模块，现在已有社区继续维护并保持开源
   - 去他妈的微信信息流
   - 你才长按复制访问
   - X（微X3.0）
