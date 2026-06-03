@@ -455,6 +455,10 @@
   - 影迷
   - TVBOX助手：多功能的TVBox助手应用
   - 影视
+  - 影视+
+  - OK影视
+  - XMBOX
+  - EasyBox
 - [直播](https://pan.baidu.com/s/1mlfsCHEHWH9wzUFf0g1_Kg?pwd=6666)
   - 纯粹直播：第三方聚合多平台直播播放器 支持多平台
   - Simple Live：跨平台的聚合直播软件
