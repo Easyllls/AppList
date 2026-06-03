@@ -68,6 +68,7 @@
   - Shiru：个人动漫库管理软件，可实时观看和追踪您的收藏。轻巧、强大、速度飞快。无需等待
   - mpv：基于 libmpv 的安卓视频播放器
 - [音乐播放器](https://pan.baidu.com/s/1__Kw4CupE5uEGIv-fiiu5Q?pwd=6666)
+  - Rhythm：以隐私为核心的安卓音乐播放器，拥有精美的 Material 3 Expressive 界面
   - MobiMusic：多平台聚合音乐播放器
   - PixelPlayer：一款功能丰富的 Material Design 3 风格音乐播放器
   - Phonograph Plus：本地 Material Design 音乐播放器
@@ -1223,6 +1224,8 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
+- [工具箱](https://pan.baidu.com/s/1uaeHAUwSzBV-pYGfVPNB7Q?pwd=6666)
+  - Rubick：插件化桌面端效率工具箱
 - [PDF工具](https://pan.baidu.com/s/1EfJxCpdju0_MP_6C4s5ieQ?pwd=6666)
   - PDF Arranger：PDF Arranger 是一个基于 Python GTK 的小型应用程序，可帮助用户通过交互式、直观的图形界面来合并、拆分 PDF 文档，并对页面进行旋转、裁剪和重新排序。它是 pikepdf 的图形前端。
 - [文件比较与同步](https://pan.baidu.com/s/1bSznk5ArzN5YbxGKlWLJzA?pwd=6666)
