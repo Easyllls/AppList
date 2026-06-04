@@ -261,6 +261,7 @@
   - SAI：适用于安卓平台的拆分应用安装器
   - Thor：功能强大的安卓应用管理与安装工具，支持安装、卸载、冻结、批量操作及多种权限模式（Root/Shizuku/Dhizuku）。
   - Install with Options：使用 Shizuku 在设备上安装 APK 的简单应用（带高级选项）
+  - InstallerX
 - [小说与文档阅读器](https://pan.baidu.com/s/1xF6NE5SP1xnUBolFW9Pd1Q?pwd=6666)
   - Anx Reader：开源、跨平台的电子书阅读器，集成了阅读同步、笔记、AI 辅助翻译与思维导图等智能功能
   - 阅读MD：使用MD3设计的阅读3.0
