@@ -254,10 +254,13 @@
   - Kiwi Browser：基于Chromium内核开发的浏览器，支持插件
 - [Dhizuku](https://pan.baidu.com/s/1sODmVeweK3TMT_zx50ZLXQ?pwd=6666)：可以将设备所有者权限共享给其他应用的工具
 - [应用安装器](https://pan.baidu.com/s/1fNNTj0DUyx4vSkiSjH5lHQ?pwd=6666)
+  - Universal Installer：现代化的 Android 软件包管理器，可以处理系统自带安装器无法完成的任务。它支持安装 APK、APK+、APKS、XAPK、APKM（包括拆分 APK 和 OBB 文件）、从网址下载软件包、管理已安装应用，并通过 Root、Shizuku 静默安装等更多功能
   - anyapk：在你自己的设备上安装任何 APK
   - InstallerX Revived：现代且功能强大的安卓应用安装器
   - R-安装组件：快速、安全且易于使用的组件安装服务
   - SAI：适用于安卓平台的拆分应用安装器
+  - Thor：功能强大的安卓应用管理与安装工具，支持安装、卸载、冻结、批量操作及多种权限模式（Root/Shizuku/Dhizuku）。
+  - Install with Options：使用 Shizuku 在设备上安装 APK 的简单应用（带高级选项）
 - [小说与文档阅读器](https://pan.baidu.com/s/1xF6NE5SP1xnUBolFW9Pd1Q?pwd=6666)
   - Anx Reader：开源、跨平台的电子书阅读器，集成了阅读同步、笔记、AI 辅助翻译与思维导图等智能功能
   - 阅读MD：使用MD3设计的阅读3.0
@@ -302,6 +305,7 @@
   - LTE 清除器：简单而纯粹的安卓设备清理工具
   - Cleaner：质感设计的清理应用
   - SD Maid SE：强大的安卓垃圾清理工具
+  - SD Maid
 - [地图与导航](https://pan.baidu.com/s/1p2eseJI_ifCcq5ioxtrFeQ?pwd=6666)
   - Trail Sense：完全离线的全功能导航应用
   - 高德地图
@@ -1334,6 +1338,7 @@
   - Cherry Studio：一款支持多个大语言模型（LLM）服务商的桌面客户端
 - [Aictionary](https://pan.baidu.com/s/1v-D4jKIn_uKsXvUOUGg5wg?pwd=6666)：快速、简洁的桌面词典应用
 - [垃圾清理](https://pan.baidu.com/s/1ZzH1xk8E1DO6j23ms34aTA?pwd=6666)
+  - BleachBit：免费且开源的系统清理工具，旨在释放磁盘空间并保护隐私。
   - Windows Cleaner：免费、功能强大的 Windows 系统清理工具
   - Wise AD Cleaner：功能强大、易于使用的广告清理工具
   - CCleaner：专业的系统清理软件、隐私保护工具和电脑优化工具。
