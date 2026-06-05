@@ -263,6 +263,7 @@
   - Install with Options：使用 Shizuku 在设备上安装 APK 的简单应用（带高级选项）
   - InstallerX
 - [小说与文档阅读器](https://pan.baidu.com/s/1xF6NE5SP1xnUBolFW9Pd1Q?pwd=6666)
+  - ReadAny：一款 AI 驱动的电子书阅读器，支持智能对话、语义搜索、标注笔记与知识管理。
   - Anx Reader：开源、跨平台的电子书阅读器，集成了阅读同步、笔记、AI 辅助翻译与思维导图等智能功能
   - 阅读MD：使用MD3设计的阅读3.0
   - Readest：现代化、功能丰富的电子书阅读器，提供跨平台无缝访问
@@ -438,6 +439,7 @@
   - 我的听书：免费的聚合听书App
   - 小梨听书：有广告但资源不少
 - [电池工具](https://pan.baidu.com/s/1f6pog5u7-GyeNpvsFmq2kQ?pwd=6666)
+  - Battery Charge Limiter（BCL）：Android 电池充电管理工具，支持在 root 权限下设置充电开始/停止时间、电压阈值，并提供自定义配置与小组件控制。
   - Battery Guru：监控手机的电池使用情况并估计其当前的健康状况
   - AccuBattery：安卓设备的电池监控与检测应用
   - BatteryCalibrate：校准电池 需要 Root
@@ -1434,6 +1436,7 @@
 - [BiliNote](https://pan.baidu.com/s/1djQmza2RNqLisDewF3B36w?pwd=6666)：AI 视频笔记生成工具 让 AI 为你的视频做笔记
 - [No!! MeiryoUI](https://pan.baidu.com/s/1W_ysiEuj1dWT4FU40t7z3g?pwd=6666)：用于 Windows 8.1/10/11 系统的字体设置工具
 - [小说与文档](https://pan.baidu.com/s/1ETPPahRS0QfzDNFjaJDAkQ?pwd=6666)
+  - ReadAny：一款 AI 驱动的电子书阅读器，支持智能对话、语义搜索、标注笔记与知识管理。
   - Calibre：功能强大且易于使用的电子书管理器
   - Readest：EPUB 和 PDF 电子书阅读器，专为深度沉浸式阅读而打造。
   - Anx reader：强大、优雅、功能丰富的电子书阅读器，重新定义您的数字阅读之旅
