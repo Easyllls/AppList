@@ -371,6 +371,7 @@
   - WiFiAnalyzer：免费开源的WiFi分析仪 优化Wi-Fi网络
   - Traffic Light（红绿灯）：在保障隐私的前提下，跟踪你的网络和数据使用情况
   - Speedtest：网络测速
+  - ProxyPin：抓包
 - [终端模拟器](https://pan.baidu.com/s/1zO7zWhwXyJrkdNgmbQsU4w?pwd=6666)
   - ReTerminal：简单的安卓终端模拟器
 - [翻译](https://pan.baidu.com/s/1Vq4mcBg4gRgGNUMz-rAJow?pwd=6666)
@@ -1236,6 +1237,8 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
+- [网络工具](https://pan.baidu.com/s/1iuCAcGl04i_v_jcCXY8aFA?pwd=6666)
+  - ProxyPin：抓包
 - [QQ辅助工具](https://pan.baidu.com/s/1aQRQY0JP7SLycYeRVK7aJQ?pwd=6666)
   - QQ Chat Exporter（NapCat）：QQ聊天记录、表情包导出工具 | 自动化提取图片/文字/图片消息，支持TXT/JSON导出，高效备份，支持NT QQ
 - [工具箱](https://pan.baidu.com/s/1uaeHAUwSzBV-pYGfVPNB7Q?pwd=6666)
