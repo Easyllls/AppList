@@ -67,6 +67,7 @@
   - Flux：该应用可以将你的本地媒体文件整理成一个美观的媒体库，并提供一个还算“好看”的播放器。
   - Shiru：个人动漫库管理软件，可实时观看和追踪您的收藏。轻巧、强大、速度飞快。无需等待
   - mpv：基于 libmpv 的安卓视频播放器
+  - 是你的益达：基于规则的视频播放器
 - [音乐播放器](https://pan.baidu.com/s/1__Kw4CupE5uEGIv-fiiu5Q?pwd=6666)
   - Rhythm：以隐私为核心的安卓音乐播放器，拥有精美的 Material 3 Expressive 界面
   - MobiMusic：多平台聚合音乐播放器
