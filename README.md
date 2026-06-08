@@ -91,6 +91,7 @@
   - 索尼音乐：优秀的本地音乐播放器 支持所有Android4.2+设备
   - AppRhyme：使用Flutter和Rust构建的开源音乐软件
   - Frolomuse：设计精美免费强大的本地音乐播放器
+  - OpenSpot：音乐播放与下载
 - [深度休眠与保持运行](https://pan.baidu.com/s/1tgeBCQkACd5FdFpYsMMJBw?pwd=6666)
   - Flip 2 DND：通过翻转手机切换“勿扰模式”
   - Auto Sleep：按计划自动运行，同时也提供快速设置开关，方便手动一键启用或关闭。深度睡眠模式
