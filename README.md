@@ -1236,6 +1236,8 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
+- [QQ辅助工具](https://pan.baidu.com/s/1aQRQY0JP7SLycYeRVK7aJQ?pwd=6666)
+  - QQ Chat Exporter（NapCat）：QQ聊天记录、表情包导出工具 | 自动化提取图片/文字/图片消息，支持TXT/JSON导出，高效备份，支持NT QQ
 - [工具箱](https://pan.baidu.com/s/1uaeHAUwSzBV-pYGfVPNB7Q?pwd=6666)
   - Rubick：插件化桌面端效率工具箱
 - [PDF工具](https://pan.baidu.com/s/1EfJxCpdju0_MP_6C4s5ieQ?pwd=6666)
