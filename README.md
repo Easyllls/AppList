@@ -25,6 +25,7 @@
 <details>
 <summary>📱 <strong>Android</strong></summary>
 
+- [MKM](https://pan.baidu.com/s/1SFLutnQGC2uSc9oPP-0nBQ?pwd=6666)：轻量级安卓内核调控与系统监控工具
 - [效率与生产力](https://pan.baidu.com/s/1y0ebgDtNjHyNFs97c0U1Xg?pwd=6666)
   - Flux：围绕灵活工作区与可自定义空间构建，让你能够整理笔记、日记、任务、事件等内容，并随着个人使用习惯不断调整与扩展自己的管理系统。
 - [运动与步数管理](https://pan.baidu.com/s/1VsZcvtryJoEtMxKNWsgMuw?pwd=6666)
@@ -872,6 +873,7 @@
   - 隐藏应用列表（HMA）
   - HMAL：第三方修改版HMA
   - 隐秘空间
+  - HMA OSS：隐藏你的应用列表、设置、安装包管理器等。它是 HMA 的一个分支
 - [我不是开发者](https://pan.baidu.com/s/1fqQN51z6-RgIZdx7wGXOPw?pwd=6666)：隐藏开发者模式、USB 调试和无线调试。
 - [隐藏无障碍模式](https://pan.baidu.com/s/1K6QCudTPPfBCue5pSJEh7g?pwd=6666)
   - 非残！：使用xposed hook假装自己没有使用无障碍服务
