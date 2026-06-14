@@ -338,6 +338,7 @@
   - LuCI Mobile：远程管理您的 OpenWrt 路由器，监控客户端、接口和运行状态。
 - [Mousedroid](https://pan.baidu.com/s/1qXwPL3FZ3Moud-Hdt4WUeg?pwd=6666)：用你的安卓手机当作鼠标和键盘使用
 - [模块管理器](https://pan.baidu.com/s/1lb_snPi-Z9jc1jzPzGr9wA?pwd=6666)：Magisk、KernelSU、APatch模块管理器
+  - KsuWebUI：KernelSU WebUI的独立App实现（第三方fork）
   - WebUI X：统一管理Root模块WebUI的管理器。
   - KsuWebUI：KernelSU WebUI的独立App实现
   - MMRL：用于管理 Magisk、KernelSU 和 APatch 模块的终极管理器
@@ -1422,6 +1423,7 @@
   - Notepad Next：轻量级、跨平台的开源文本编辑器
   - Notepad ++
 - [截屏与录屏](https://pan.baidu.com/s/1Pam5tZV_JdJD8giJM958yQ?pwd=6666)
+  - PixPin：快速灵活的截图、录屏、OCR 工具
   - SunnyCapturer：简洁且漂亮的截图工具，支持图片翻译和OCR
   - Recordly：屏幕录制器和编辑器，适合制作操作讲解、演示、产品视频等内容
   - Flameshot：功能强大且易于使用的截图软件
