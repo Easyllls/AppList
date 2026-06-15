@@ -1255,6 +1255,7 @@
   - Office Installer+：一键安装、更新、激活、卸载 Office 全家桶
 - [刷机工具](https://pan.baidu.com/s/1pGxhyaSRR0jhXCanhJCNjA?pwd=6666)
   - 刷机匣：GeekFlashTool 是一款免费的图形化综合刷机工具，侧重于深度刷机功能
+  - 柚坛工具箱：Android、OpenHarmony 玩机用户、ROM 开发者和刷机爱好者的一站式搞机工具箱，集成了 ADB、Fastboot、刷机、Root、应用管理、分区管理、投屏等大量功能，
 - [下载工具](https://pan.baidu.com/s/1uwkePgEAIIWvGGYEYuGo7A?pwd=6666)：各种下载工具合集
   - Internet Download Manager：十分强大好用的多线程下载工具
   - Neat Download Manager：优秀免费的多线程网络下载工具
