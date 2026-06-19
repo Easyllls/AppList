@@ -381,6 +381,7 @@
   - TranslateYou：专注隐私的翻译应用程序，采用MD3设计
   - 瞬译：强大的屏幕实时翻译应用程序
   - Bubble Translate：功能强大的屏幕翻译应用
+  - PlayTranslate：专为语言学习者和休闲玩家打造的实时游戏翻译应用
 - [解压缩](https://pan.baidu.com/s/1lxBjX7oe6AhX_Ncruqi1xg?pwd=6666)
   - ZipXtract：完全开源的解压缩应用程序
   - RAR：功能齐全且简单易用的解压缩工具
@@ -1441,6 +1442,7 @@
   - EcoPaste
   - QuickClipboard
   - Ditto
+  - TieZ：基于 Tauri 的跨平台剪贴板管理器
 - [相册与图片浏览](https://pan.baidu.com/s/1bxxVQQ6BfsbEx4B8TW_IgA?pwd=6666)
   - Honeyview：快速轻量的图片查看器 支持设置无边框浏览
   - PicView：快速、免费且完全可定制的图片查看器。
