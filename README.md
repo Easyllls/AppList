@@ -48,6 +48,10 @@
   - CloneTTS：运行在安卓系统本地的文字转语音 (TTS) 原生引擎。它可以让您在手机上离线克隆所需的声音，并直接使用这个声音来朗读书籍或长文本。无需联网，所有推理计算均在本地完成。
   - MultiTTS：离线的文本转语音工具 支持多种语音引擎 接近真人发音
   - TTS Server：适用于安卓设备的TTS语音朗读应用
+- [剪切板](https://pan.baidu.com/s/1SjzcHwKa9xQ9uMX7Nd-jnw?pwd=6666)
+  - 剪切板专业版
+  - 全局复制
+  - Clipboard
 - [视频播放器](https://pan.baidu.com/s/1HVohGvJoB88U60hQju1JXw?pwd=6666)
   - Only Player：基于原版 Next Player 项目，并新增：应用内语言切换、设置备份与恢复、ASS 字幕特效支持、SMB播放等功能
   - mpx：以隐私为优先、基于 Flutter 构建的本地媒体播放器。
