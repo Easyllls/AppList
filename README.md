@@ -25,6 +25,7 @@
 <details>
 <summary>📱 <strong>Android</strong></summary>
 
+- [Duplicates Cleaner](https://pan.baidu.com/s/1SCuRMBgdShdEZ6T0wlwqGw?pwd=6666)：以最简单的方式查找和清除重复文件
 - [MKM](https://pan.baidu.com/s/1SFLutnQGC2uSc9oPP-0nBQ?pwd=6666)：轻量级安卓内核调控与系统监控工具
 - [效率与生产力](https://pan.baidu.com/s/1y0ebgDtNjHyNFs97c0U1Xg?pwd=6666)
   - Flux：围绕灵活工作区与可自定义空间构建，让你能够整理笔记、日记、任务、事件等内容，并随着个人使用习惯不断调整与扩展自己的管理系统。
@@ -1255,6 +1256,7 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
+- [N.E.K.O.](https://pan.baidu.com/s/1JFw7ILMoJSLP7N-48FR9WA?pwd=6666)：一只会主动找你玩的桌面 AI 猫娘。它是一个有现实时间感知、会主动找你、记得你、也能动手帮你的「数字生命」。
 - [网络工具](https://pan.baidu.com/s/1iuCAcGl04i_v_jcCXY8aFA?pwd=6666)
   - ProxyPin：抓包
 - [QQ辅助工具](https://pan.baidu.com/s/1aQRQY0JP7SLycYeRVK7aJQ?pwd=6666)
