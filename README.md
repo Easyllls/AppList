@@ -1190,6 +1190,8 @@
 <details>
 <summary>📺 <strong>Android TV</strong></summary>
 
+- [BlockAds](https://pan.baidu.com/s/1gaEtm46JIraGW9igvLblnQ?pwd=6666)
+- [通用安装程序](https://pan.baidu.com/s/1M1D_F6eAnosONcVXFRhr-w?pwd=6666)
 - [IPTV](https://pan.baidu.com/s/1FqmhAooEflR2aPt3n_jl-Q?pwd=6666)
   - 我的电视：电视直播
   - WebView 电视：基于 腾讯X5 WebView 开发的电视直播App
