@@ -1458,6 +1458,7 @@
   - Ditto
   - TieZ：基于 Tauri 的跨平台剪贴板管理器
 - [相册与图片浏览](https://pan.baidu.com/s/1bxxVQQ6BfsbEx4B8TW_IgA?pwd=6666)
+  - ImageGlass：一款快速、开源、现代化的图片查看器，支持 90 多种图片格式（包括 WEBP、GIF、SVG、AVIF、JXL、HEIC 等）
   - Honeyview：快速轻量的图片查看器 支持设置无边框浏览
   - PicView：快速、免费且完全可定制的图片查看器。
   - BandiView：Honeyview的继任者
