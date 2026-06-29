@@ -708,6 +708,7 @@
 <summary>🎯 <strong>KernelSU Module</strong></summary>
 
 - [元模块（Metamodule）](https://pan.baidu.com/s/10AM8hknM2Lo2iJ1TScserw?pwd=6666)：用于给 KernelSU 提供 systemless 挂载能力
+  - Hybrid Mount：通过统一的策略引擎，将模块文件合并到 Android 分区，并支持三种挂载后端：OverlayFS，Magic Mount，Kasumi，内置 SolidJS WebUI
   - Magic Mount：使用 Magic Mount 为 KernelSU 提供“系统挂载能力”的底层元模块
 - [SUSFS FOR KERNELSU](https://pan.baidu.com/s/1AvZU4qvHb6OUU1Do2uD1xw?pwd=6666)：为 KernelSU 提供附加 Root 隐藏服务 的模块
 - [Systemless Hosts](https://pan.baidu.com/s/14A39YFuddywUkHbMmA9-9Q?pwd=6666)：在 KernelSU 和 APatch 上使用 AdAway 等依赖 Hosts 运行的应用所需的必要模块
