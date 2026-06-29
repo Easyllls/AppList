@@ -733,6 +733,7 @@
 <details>
 <summary>🛠 <strong>Xposed Module</strong></summary>
 
+- [MiPushFramework](https://pan.baidu.com/s/1R69evCVpfmYEcesAtcorGg?pwd=6666)：在非 MIUI 系统上使用接近 MIUI 的小米系统级推送
 - [FuseHide](https://pan.baidu.com/s/130nXZGn1yXVxzzeotETopA?pwd=6666)：通过 Hook Android 的 MediaProvider/FUSE 文件系统层，实现对指定应用隐藏存储目录和文件
 - [PureDuPan](https://pan.baidu.com/s/1WAyvmRlVjpDquOJW1gxo9Q?pwd=6666)：百度网盘净化模块，用于屏蔽广告弹窗、简化界面、定制部分页面元素，并提供谨慎可选的性能优化项。
 - [WIfikeyXposed](https://pan.baidu.com/s/1jWUclHxplANnZ0DIBzyTgQ?pwd=6666)：WiFi万能钥匙的 Xposed 模块，提供本地 SVIP 永久解锁、全模块去广告、底栏/工具栏精简等功能
