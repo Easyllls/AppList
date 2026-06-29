@@ -1308,7 +1308,9 @@
 - [硬件监控资源监控](https://pan.baidu.com/s/1AbgEAxhd6BNya91NXvTLMw?pwd=6666)
   - LiteMonitor：轻量、可定制的开源桌面硬件监控软件并支持任务栏显示，支持更换皮肤。
   - TrafficMonitor：系统信息监控悬浮窗软件，并支持任务栏显示，支持更换皮肤。
-- [Defendnot](https://pan.baidu.com/s/1ZYvQ4PwCLOR-8sEgFhGqVA?pwd=6666)：通过 WSC API 来禁用 Windows Defender
+- [Defender工具](https://pan.baidu.com/s/1ZYvQ4PwCLOR-8sEgFhGqVA?pwd=6666)
+  - Defender Control：Windows Defender 禁用工具。可在 Windows 10 和 Windows 11 上使用
+  - Defendnot：通过 WSC API 来禁用 Windows Defender
 - [Process Lasso](https://pan.baidu.com/s/1NzdgEkdiqk7Fs-xJM5sCXQ?pwd=6666)：实时 CPU 优化和进程自动化管理
 - [解压缩](https://pan.baidu.com/s/1IHSnkkc1p2EFMw9G-cEA2g?pwd=6666)
   - NanaZip：面向现代 Windows 体验的开源解压缩文件管理器
