@@ -1256,6 +1256,7 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
+- [Lan Mouse](https://pan.baidu.com/s/1JmmW4P2xfNRzqz5OzMveFA?pwd=6666)：它允许你使用一套鼠标和键盘同时操作多台电脑，也被称为软件 KVM 切换器
 - [N.E.K.O.](https://pan.baidu.com/s/1JFw7ILMoJSLP7N-48FR9WA?pwd=6666)：一只会主动找你玩的桌面 AI 猫娘。它是一个有现实时间感知、会主动找你、记得你、也能动手帮你的「数字生命」。
 - [网络工具](https://pan.baidu.com/s/1iuCAcGl04i_v_jcCXY8aFA?pwd=6666)
   - ProxyPin：抓包
