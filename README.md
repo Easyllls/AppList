@@ -1289,7 +1289,6 @@
   - qBittorrent：跨平台的 BitTorrent 客户端
 - [HFS](https://pan.baidu.com/s/10R8T8JQ5dTea2vlj5rbsFQ?pwd=6666)：一个 Web 文件服务器 通过虚拟文件系统，可以共享文件夹、单个文件
 - [Openlist](https://pan.baidu.com/s/1y7JZM4sQPSoszNM7QQsKNg?pwd=6666)：Openlist桌面客户端
-- [Rufus](https://pan.baidu.com/s/1Hr9PyNzpdOw4E34nO5wSoA?pwd=6666)：一个用于格式化和创建可启动 USB 闪存驱动器的实用工具
 - [视频播放器](https://pan.baidu.com/s/14F6BqVXV-Pwg9HZWbgkFNQ?pwd=6666)
   - zyfun：原zyplayer，网络资源播放器，需要自备订阅
   - PotPlayer：Windows平台最优秀的影音全能格式播放器
@@ -1359,7 +1358,10 @@
   - Memory Cleaner 重制版：删除强制联网更新，并添加目前windows已有的所有清理内存方法。
   - WinMemoryCleaner：RAM清理工具，利用原生Windows功能优化内存区域。
 - [WSL](https://pan.baidu.com/s/1fLdSBoIDyVezU9j4QZpPxQ?pwd=6666)：在 Windows 上运行 Linux 命令行工具、实用程序和应用程序
-- [EasyRC](https://pan.baidu.com/s/164_QO9sKijXea71VlktZ3A?pwd=6666)：非常好用的一键全自动重装系统工具
+- [装机工具](https://pan.baidu.com/s/164_QO9sKijXea71VlktZ3A?pwd=6666)：
+  - EasyRC：非常好用的一键全自动重装系统工具
+  - FirPE：干净纯粹的第三方WinPE维护系统
+  - Rufus：一个用于格式化和创建可启动 USB 闪存驱动器的实用工具
 - [ACE-KILLER](https://pan.baidu.com/s/1Egool9ISkZJOZcGiPO5CoA?pwd=6666)：腾讯游戏进程优化工具
 - [浏览器](https://pan.baidu.com/s/1m2TVIDQiGosYhKsB609eTg?pwd=6666)
   - LibreWolf：基于 Firefox 的独立定制浏览器，专注于隐私、安全和用户自由
