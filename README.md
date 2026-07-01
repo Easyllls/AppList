@@ -1484,7 +1484,9 @@
 - [Atlas](https://pan.baidu.com/s/1qq-tNQxK7zC6zO1f_Yp3tA?pwd=6666)：开源且轻量的 Windows 修改脚本，旨在优化性能、隐私和可用性
 - [WSA PacMan](https://pan.baidu.com/s/1lcVOMWHAjRU0_MnKzLrbnQ?pwd=6666)：Windows子系统 (WSA) 的 GUI 包安装和管理器
 - [AIDA64](https://pan.baidu.com/s/1fu_LDiAZwAk4RtH5DeaIxQ?pwd=6666)：功能强大的系统诊断和基准测试工具，
-- [ContextMenuManager](https://pan.baidu.com/s/1GHYoQ40k3UpnRTYt221JaQ?pwd=6666)：右键菜单管理程序
+- [右键菜单管理程序](https://pan.baidu.com/s/1GHYoQ40k3UpnRTYt221JaQ?pwd=6666)
+  - ContextMenuManager
+  - Context Menu Manager Plus：右键菜单管理并拦截第三方向你的右键菜单里塞垃圾内容
 - [OFGB](https://pan.baidu.com/s/1Y2_sYKZSdJXGkybk3ETN7Q?pwd=6666)：一键关闭Windows11中的所有广告
 - [钉钉](https://pan.baidu.com/s/1EUKtJoV9LfKG26Fkue5CTQ?pwd=6666)
   - DingTalkRevokeMsgPatcher：钉钉消息防撤回补丁
