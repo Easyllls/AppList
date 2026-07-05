@@ -257,6 +257,7 @@
   - KDE Connect：通过无线网络将智能手机与计算机连接，从而实现多种设备间的互动和控制
   - PlainApp：通过网页管理你的手机！访问文件、联系人、视频、音乐等内容
 - [浏览器](https://pan.baidu.com/s/1HjtLqCkVjC-RSnUxmjLujg?pwd=6666)
+  - Helium：一款完全开源的实验性 Android 浏览器，基于 Chromium 构建，支持浏览器扩展程序，基于 GrapheneOS 的 Vanadium 项目构建；同时参考了 imput 的 Helium 项目。
   - Elixir Browser：基于 Chromium 的 Android 浏览器，完全支持扩展
   - Iceraven：基于 Firefox 内核开发的高度自定义的浏览器 支持扩展
   - Ultimatum：基于 Chromium 开发的一个浏览器分支，桌面级插件体验
