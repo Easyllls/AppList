@@ -1046,6 +1046,7 @@
   - 红薯猪手
   - 小红书+
 - [微信](https://pan.baidu.com/s/19gJIzQ_eb321uYIJz3PrNQ?pwd=6666)
+  - InkHide：用于保护隐私，将指定联系人设置为“密友”，并在微信各处隐藏其存在。打开微信 → 我 → 设置 → 更多 → 关怀模式 长按「开启」
   - 微信 Agent：运行在微信内的个人 AI 助手模块
   - WAuxiliary：防撤回等
   - NewMiko：各种增强功能
