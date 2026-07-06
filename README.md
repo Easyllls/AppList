@@ -76,6 +76,7 @@
   - mpv：基于 libmpv 的安卓视频播放器
   - 是你的益达：基于规则的视频播放器
 - [音乐播放器](https://pan.baidu.com/s/1__Kw4CupE5uEGIv-fiiu5Q?pwd=6666)
+  - MusicFree：基于原版优化的插件化音乐播放器，本版本基于原版 v0.6.1，主要改进包括：新增更多音源支持（8种音质），增强下载功能（通知、命名、标签），优化个性化设置，修复多个已知问题
   - NeriPlayer (音理音理!)：简易多平台音频聚合流媒体播放器
   - Rhythm：以隐私为核心的安卓音乐播放器，拥有精美的 Material 3 Expressive 界面
   - MobiMusic：多平台聚合音乐播放器
