@@ -416,6 +416,7 @@
   - Paperize：开源、 Material 3 设计的动态壁纸更换应用
 - [垃圾电话拦截](https://pan.baidu.com/s/1iENQJhKzfskDP5b5kvS5Rw?pwd=6666)：Android 电话/短信拦截器
 - [安卓设备运行环境检测（Root检测）](https://pan.baidu.com/s/1AYD7QWPJyKxCeOuwG9VI6Q?pwd=6666)
+  - 春秋 Native Check：安卓原生环境完整性检测
   - 密钥认证：生成、保存、加载、解析和验证 Android 密钥和 ID 证明数据
   - 应用列表检测器
   - Yet Another SafetyNet Attestation Checker
@@ -1274,6 +1275,7 @@
 - [QQ辅助工具](https://pan.baidu.com/s/1aQRQY0JP7SLycYeRVK7aJQ?pwd=6666)
   - QQ Chat Exporter（NapCat）：QQ聊天记录、表情包导出工具 | 自动化提取图片/文字/图片消息，支持TXT/JSON导出，高效备份，支持NT QQ
 - [工具箱](https://pan.baidu.com/s/1uaeHAUwSzBV-pYGfVPNB7Q?pwd=6666)
+  - 图吧工具箱 WinUI 3：图吧工具箱的重构版 - 基于 WinUI 3 / .NET 10 全新打造，更现代化的PC硬件检测与系统维护工具集。收录 82 款专业工具，一键启动，完全免费离线运行。
   - Rubick：插件化桌面端效率工具箱
 - [PDF工具](https://pan.baidu.com/s/1EfJxCpdju0_MP_6C4s5ieQ?pwd=6666)
   - PDF Arranger：PDF Arranger 是一个基于 Python GTK 的小型应用程序，可帮助用户通过交互式、直观的图形界面来合并、拆分 PDF 文档，并对页面进行旋转、裁剪和重新排序。它是 pikepdf 的图形前端。
@@ -1503,6 +1505,7 @@
 - [MyComputerManager](https://pan.baidu.com/s/1X6FcMYuRAAl3Tgj8WPPgLA?pwd=6666)：删除此电脑里“多余”的快捷方式
 - [MyKeymap](https://pan.baidu.com/s/1O2AyHjgAzyQsVYsFm9IX0w?pwd=6666)：基于 AutoHotkey 的键盘映射工具
 - [TTS（语音合成）](https://pan.baidu.com/s/1HpJPOAzXq7VS8H4k_vezQg?pwd=6666)
+  - Handy：免费、开源、可扩展，并且完全离线运行的语音转文字应用
   - TTS-Vue：微软语音合成工具，将文本转为语音
   - Voicebox：语音合成工作室 语音克隆、文本转语音、音效处理、语音应用开发
 - [O&O ShutUp10++](https://pan.baidu.com/s/177kO1jhZVujM91Rq5JA7eg?pwd=6666)：适用于 Windows 10 和 11 的免费反间谍工具
