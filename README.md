@@ -591,8 +591,8 @@
   - FileClear for ZW：全自动进行深度垃圾清理、广告毒瘤(含腾讯X5内核)屏蔽、系统优化加速的模块
   - clear the blacklist：crond 清理黑名单列表
   - Cache Cleaner-彩銘羽：Xposed模块+Magisk模块一起用
-- [AdGuardHome](https://pan.baidu.com/s/1FkDzIaCg7FpjSsWJa9Q7KQ?pwd=6666)：让AdGuardHome运行在安卓设备上的模块，以下是几个开发者的版本
-  - AdGuard Home For Android：是一个将 AdGuard Home 集成到 Android Root 系统中的 Magisk/KernelSU 模块，让手机直接运行本地 DNS 广告过滤服务，实现全局去广告和隐私保护。
+- [AdGuardHome](https://pan.baidu.com/s/1FkDzIaCg7FpjSsWJa9Q7KQ?pwd=6666)：将 AdGuard Home 集成到 Android Root 系统中的 Magisk/KernelSU 模块，让手机直接运行本地 DNS 广告过滤服务，实现全局去广告和隐私保护。
+  - AdGuard Home For Android
   - twoone3（自用）
   - top大佬(酷安)
   - CHIZI-0618（推荐）
