@@ -1268,6 +1268,7 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
+- [ExplorerPatcher](https://pan.baidu.com/s/18lGTJZPiIhYjRRiYitLPxg?pwd=6666)：Windows11 界面增强工具，通过恢复 Windows 10/经典 Windows 的资源管理器、任务栏、开始菜单等组件，让 Windows 11 拥有更熟悉、更高效的操作体验，同时提供丰富的个性化自定义选项。
 - [WinUtil](https://pan.baidu.com/s/15XR-j07a9N7JCL0v9LQ_BQ?pwd=6666)：一套精心整合的 Windows 系统维护工具（PowerShell脚本），可快速安装常用软件、精简系统、优化各项设置、排查并修复常见问题，以及配置 Windows 更新。建议每次全新安装 Windows 后都运行一次。
 - [鼠标键盘控制](https://pan.baidu.com/s/1JmmW4P2xfNRzqz5OzMveFA?pwd=6666)
   - Lan Mouse：它允许你使用一套鼠标和键盘同时操作多台电脑，也被称为软件 KVM 切换器
