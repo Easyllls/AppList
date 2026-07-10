@@ -78,6 +78,7 @@
   - mpv：基于 libmpv 的安卓视频播放器
   - 是你的益达：基于规则的视频播放器
 - [音乐播放器](https://pan.baidu.com/s/1__Kw4CupE5uEGIv-fiiu5Q?pwd=6666)
+  - Rhythm：一个支持插件扩展的 Android 音乐播放器
   - MusicFree：基于原版优化的插件化音乐播放器，本版本基于原版 v0.6.1，主要改进包括：新增更多音源支持（8种音质），增强下载功能（通知、命名、标签），优化个性化设置，修复多个已知问题
   - NeriPlayer (音理音理!)：简易多平台音频聚合流媒体播放器
   - Rhythm：以隐私为核心的安卓音乐播放器，拥有精美的 Material 3 Expressive 界面
@@ -339,6 +340,7 @@
   - Kernel Flasher：用于刷写、备份和恢复内核的安卓应用
   - RvKernel Manager：适用于 Android 12 + 的Material 3 设计的内核管理器
 - [时钟与闹钟](https://pan.baidu.com/s/1txPKO92RNBs5hHoH1IxrEw?pwd=6666)
+  - QRAlarm：扫码才能关闭的闹钟应用
   - Chrono：现代化且功能强大的Android时钟、闹钟、计时器与秒表应用
 - [系统工具](https://pan.baidu.com/s/1J0Z9Yh72_7gxvUH80MB09g?pwd=6666)
   - 强力清理：界面美观、功能丰富的系统监控工具
@@ -589,7 +591,8 @@
   - FileClear for ZW：全自动进行深度垃圾清理、广告毒瘤(含腾讯X5内核)屏蔽、系统优化加速的模块
   - clear the blacklist：crond 清理黑名单列表
   - Cache Cleaner-彩銘羽：Xposed模块+Magisk模块一起用
-- [AdGuardHome](https://pan.baidu.com/s/1FkDzIaCg7FpjSsWJa9Q7KQ?pwd=6666)：让AdGuardHome运行在安卓设备上的模块，以下是三个开发者的版本
+- [AdGuardHome](https://pan.baidu.com/s/1FkDzIaCg7FpjSsWJa9Q7KQ?pwd=6666)：让AdGuardHome运行在安卓设备上的模块，以下是几个开发者的版本
+  - AdGuard Home For Android：是一个将 AdGuard Home 集成到 Android Root 系统中的 Magisk/KernelSU 模块，让手机直接运行本地 DNS 广告过滤服务，实现全局去广告和隐私保护。
   - twoone3（自用）
   - top大佬(酷安)
   - CHIZI-0618（推荐）
@@ -853,6 +856,7 @@
   - 启用截图：解除Android设备的某些应用截屏限制
   - HideScreen：在截图录屏中隐藏屏幕内容为透明，即跳过内容合成
 - [自动化工具](https://pan.baidu.com/s/1UBwSZvVHnz7YER4xOu0gtw?pwd=6666)
+  - Xposed Edge Pro：强大的安卓全局手势、按键映射与自动化控制模块（第三方修改版，支持Android16+）
   - Xposed Edge Pro：功能强大的按键与手势映射、各种自动化任务
   - ShortX：各种自动任务
   - EdgeX：支持了大部分Xposed Edge功能
@@ -1171,6 +1175,8 @@
 - [无障碍-Daemon](https://pan.baidu.com/s/111BHRIbGvYyXAiT6t-3Z4w?pwd=6666)：锁定应用的无障碍辅助权限
 - [音量控制器](https://pan.baidu.com/s/1bg8P7EUtQdGZWzqyagekwA?pwd=6666)：单独控制指定应用的音量，支持哔哩哔哩、QQ音乐、网易云音乐、酷狗、酷我、Aplayer、喜马拉雅
 - [剪切板增强](https://pan.baidu.com/s/1bnTBvJ2fi9qO0PapAWFurw?pwd=6666)
+  - 剪贴板过滤器：通过正则过滤APP写入剪贴板的内容，只过滤写入，防止各种口令、奇奇怪怪的字符串强x剪贴板。目前只支持有XSharedPreferences的xposed框架，比如lsposed。
+  - XposedSmsCode：识别短信验证码并将验证码拷贝到剪切板，亦可以自动输入验证码
   - 原生剪贴板：高级剪切板管理器
   - 全局复制XP：复制任意界面的文字
   - 剪贴板过滤器：通过正则过滤APP写入剪贴板的内容，只过滤写入，防止各种口令、奇奇怪怪的字符串强x剪贴板。目前只支持有XSharedPreferences的xposed框架，比如lsposed。
