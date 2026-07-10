@@ -25,6 +25,8 @@
 <details>
 <summary>📱 <strong>Android</strong></summary>
 
+- [工具箱](https://pan.baidu.com/s/13gKGibneMX7PlD8InkR_Sg?pwd=6666)
+  - 紫罗兰Box：一款Android玩机工具箱
 - [WiFi Password Manager](https://pan.baidu.com/s/13gKGibneMX7PlD8InkR_Sg?pwd=6666)：基于 Shizuku 或 Root 权限的 WiFi 密码管理器
 - [Duplicates Cleaner](https://pan.baidu.com/s/1SCuRMBgdShdEZ6T0wlwqGw?pwd=6666)：以最简单的方式查找和清除重复文件
 - [MKM](https://pan.baidu.com/s/1SFLutnQGC2uSc9oPP-0nBQ?pwd=6666)：轻量级安卓内核调控与系统监控工具
@@ -1285,6 +1287,7 @@
 - [Office助手](https://pan.baidu.com/s/1ulazm39WHmXw4WFn9G82bg?pwd=6666)
   - Office Installer+：一键安装、更新、激活、卸载 Office 全家桶
 - [刷机工具](https://pan.baidu.com/s/1pGxhyaSRR0jhXCanhJCNjA?pwd=6666)
+  - 紫罗兰工具箱：面向Android开发的多功能刷机工具箱。支持小米、真我、一加、OPPO等机型线刷。
   - 刷机匣：GeekFlashTool 是一款免费的图形化综合刷机工具，侧重于深度刷机功能
   - 柚坛工具箱：Android、OpenHarmony 玩机用户、ROM 开发者和刷机爱好者的一站式搞机工具箱，集成了 ADB、Fastboot、刷机、Root、应用管理、分区管理、投屏等大量功能，
 - [下载工具](https://pan.baidu.com/s/1uwkePgEAIIWvGGYEYuGo7A?pwd=6666)：各种下载工具合集
