@@ -25,7 +25,7 @@
 <details>
 <summary>📱 <strong>Android</strong></summary>
 
-- [工具箱](https://pan.baidu.com/s/13gKGibneMX7PlD8InkR_Sg?pwd=6666)
+- [工具箱](https://pan.baidu.com/s/1RGmFbaJEvx4S7YAvagCbdg?pwd=6666)
   - 紫罗兰Box：一款Android玩机工具箱
 - [WiFi Password Manager](https://pan.baidu.com/s/13gKGibneMX7PlD8InkR_Sg?pwd=6666)：基于 Shizuku 或 Root 权限的 WiFi 密码管理器
 - [Duplicates Cleaner](https://pan.baidu.com/s/1SCuRMBgdShdEZ6T0wlwqGw?pwd=6666)：以最简单的方式查找和清除重复文件
