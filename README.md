@@ -1327,6 +1327,8 @@
   - LiteMonitor：轻量、可定制的开源桌面硬件监控软件并支持任务栏显示，支持更换皮肤。
   - TrafficMonitor：系统信息监控悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [Defender工具](https://pan.baidu.com/s/1ZYvQ4PwCLOR-8sEgFhGqVA?pwd=6666)
+  - DefenderUI：让 Microsoft Defender 更强大的图形管理工具
+  - Defender Remover：用于彻底移除 Windows Defender 的工具
   - Defender Control：Windows Defender 禁用工具。可在 Windows 10 和 Windows 11 上使用
   - Defendnot：通过 WSC API 来禁用 Windows Defender
 - [Process Lasso](https://pan.baidu.com/s/1NzdgEkdiqk7Fs-xJM5sCXQ?pwd=6666)：实时 CPU 优化和进程自动化管理
