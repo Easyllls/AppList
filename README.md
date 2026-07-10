@@ -1268,6 +1268,7 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
+- [FxSound](https://pan.baidu.com/s/1w3DzbjGl4m-YzDr1twDfqw?pwd=6666)：音频增强软件，通过实时音频处理技术改善系统声音效果，支持均衡器（EQ）、低音增强、音量提升、虚拟环绕等功能，让音乐、游戏、电影和语音通话拥有更清晰、更饱满的听感。兼容 Windows 7/10/11。
 - [ExplorerPatcher](https://pan.baidu.com/s/18lGTJZPiIhYjRRiYitLPxg?pwd=6666)：Windows11 界面增强工具，通过恢复 Windows 10/经典 Windows 的资源管理器、任务栏、开始菜单等组件，让 Windows 11 拥有更熟悉、更高效的操作体验，同时提供丰富的个性化自定义选项。
 - [WinUtil](https://pan.baidu.com/s/15XR-j07a9N7JCL0v9LQ_BQ?pwd=6666)：一套精心整合的 Windows 系统维护工具（PowerShell脚本），可快速安装常用软件、精简系统、优化各项设置、排查并修复常见问题，以及配置 Windows 更新。建议每次全新安装 Windows 后都运行一次。
 - [鼠标键盘控制](https://pan.baidu.com/s/1JmmW4P2xfNRzqz5OzMveFA?pwd=6666)
