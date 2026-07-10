@@ -1275,6 +1275,7 @@
 - [N.E.K.O.](https://pan.baidu.com/s/1JFw7ILMoJSLP7N-48FR9WA?pwd=6666)：一只会主动找你玩的桌面 AI 猫娘。它是一个有现实时间感知、会主动找你、记得你、也能动手帮你的「数字生命」。
 - [网络工具](https://pan.baidu.com/s/1iuCAcGl04i_v_jcCXY8aFA?pwd=6666)
   - ProxyPin：抓包
+  - SmartPing：一个综合性网络质量(PING)检测工具，支持正/反向PING绘图、互PING拓扑绘图与报警、全国PING延迟地图与在线检测工具等功能
 - [QQ辅助工具](https://pan.baidu.com/s/1aQRQY0JP7SLycYeRVK7aJQ?pwd=6666)
   - QQ Chat Exporter（NapCat）：QQ聊天记录、表情包导出工具 | 自动化提取图片/文字/图片消息，支持TXT/JSON导出，高效备份，支持NT QQ
 - [工具箱](https://pan.baidu.com/s/1uaeHAUwSzBV-pYGfVPNB7Q?pwd=6666)
