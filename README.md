@@ -78,6 +78,7 @@
   - mpv：基于 libmpv 的安卓视频播放器
   - 是你的益达：基于规则的视频播放器
 - [音乐播放器](https://pan.baidu.com/s/1__Kw4CupE5uEGIv-fiiu5Q?pwd=6666)
+  - Songloft：面向个人用户的自托管工具，定位为帮助用户管理自己合法拥有的音乐文件。本项目自 v2.0 起由 MiMusic 更名为 Songloft
   - Rhythm：一个支持插件扩展的 Android 音乐播放器
   - MusicFree：基于原版优化的插件化音乐播放器，本版本基于原版 v0.6.1，主要改进包括：新增更多音源支持（8种音质），增强下载功能（通知、命名、标签），优化个性化设置，修复多个已知问题
   - NeriPlayer (音理音理!)：简易多平台音频聚合流媒体播放器
@@ -174,6 +175,7 @@
   - Another Notes：适用于 Android 的开源笔记应用
   - 侠客日记：使用MAUI Blazor 构建的开源、跨平台的本地日记app
 - [自动化工具](https://pan.baidu.com/s/18CbZNYWt2JcYiOSSu_xYUw?pwd=6666)
+  - FingerLike：简单的基于 Flutter 构建的鼠标连点器
   - vFlow：可视化工作流自动化工具
   - MacroDroid
   - Tasker
@@ -1363,6 +1365,7 @@
 - [AppDataCleaner](https://pan.baidu.com/s/10ROWVgwkzvwPSUW64vjzjQ?pwd=6666)：appdata 文件夹清理工具
 - [RunCat](https://pan.baidu.com/s/1_TsfYHsO5LdbfAVscKhbQA?pwd=6666)：在您的任务栏上显示一个跟随CPU负载奔跑的小猫
 - [音乐播放器](https://pan.baidu.com/s/1BMeRmGMVdgTHQtZjwQCDNA?pwd=6666)
+  - Songloft：面向个人用户的自托管工具，定位为帮助用户管理自己合法拥有的音乐文件。本项目自 v2.0 起由 MiMusic 更名为 Songloft
   - AlgerMusicPlayer：第三方网易云音乐播放器、本地服务、桌面歌词等
   - MusicBox：高颜值、插件化的本地音乐播放器
   - LZF Music：简洁、美观、功能强大的本地与私有云音乐解决方案
@@ -1432,6 +1435,7 @@
   - CrossDesk
   - RustDesk
 - [自动化工具](https://pan.baidu.com/s/19mnt4CbFnEwXRw17tWNR3Q?pwd=6666)
+  - FingerLike：简单的基于 Flutter 构建的鼠标连点器
   - 点点精灵：专业的 Windows 自动化操作软件
   - zTasker：强大的 自动任务 工具，无需编程即可设置复杂的自动化流程
   - RMT：按键宏工具，让用户通过简单配置即可实现多种自动化操作
