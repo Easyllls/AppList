@@ -423,6 +423,8 @@
   - Paperize：开源、 Material 3 设计的动态壁纸更换应用
 - [垃圾电话拦截](https://pan.baidu.com/s/1iENQJhKzfskDP5b5kvS5Rw?pwd=6666)：Android 电话/短信拦截器
 - [安卓设备运行环境检测（Root检测）](https://pan.baidu.com/s/1AYD7QWPJyKxCeOuwG9VI6Q?pwd=6666)
+  - Play Integrity API Checker：通过 Play 完整性 API 获取有关您的设备完整性的信息
+  - 小骨检测：为游戏而开发的设备环境检测软件
   - 春秋 Native Check：安卓原生环境完整性检测
   - 密钥认证：生成、保存、加载、解析和验证 Android 密钥和 ID 证明数据
   - 应用列表检测器
