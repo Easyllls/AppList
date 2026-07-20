@@ -45,10 +45,12 @@
   - 二维码生成器
   - QR Scanner
   - Qart
-- [日历](https://pan.baidu.com/s/1pw-Mmdmp2XjCpRXuiOyprQ?pwd=6666)
+- [日历与倒数日](https://pan.baidu.com/s/1pw-Mmdmp2XjCpRXuiOyprQ?pwd=6666)
+  - Reminder：一款简洁的安卓纪念日/倒数日管理应用，支持倒数与正数两种模式，帮助你轻松掌握重要日期。应用完全使用 Jetpack Compose 构建。
   - KashCal：一款以隐私为核心的 Android 日历应用，支持 iCloud 与 CalDAV 原生同步，整合本地、订阅和联系人日历，并提供离线使用与无追踪的安全体验
 - [Su Fei](https://pan.baidu.com/s/1CQdfxzqnuNVHE1hYCqmEgg?pwd=6666)：基于 Material 3 设计规范的极简中国传统诗词应用。它不只是一个工具，更是一个宁静的数字阅读空间
 - [TTS（语音合成）](https://pan.baidu.com/s/1qII2fC1pMc0Q3sAiNCoC1Q?pwd=6666)
+  - Supertonic TTS：一款面向 Android 的高性能本地离线文本转语音（TTS）系统。它采用 Supertonic ONNX 模型，能够完全在设备端进行高质量语音合成，无需联网即可使用，兼顾隐私保护与可用性。
   - CloneTTS：运行在安卓系统本地的文字转语音 (TTS) 原生引擎。它可以让您在手机上离线克隆所需的声音，并直接使用这个声音来朗读书籍或长文本。无需联网，所有推理计算均在本地完成。
   - MultiTTS：离线的文本转语音工具 支持多种语音引擎 接近真人发音
   - TTS Server：适用于安卓设备的TTS语音朗读应用
@@ -57,6 +59,9 @@
   - 全局复制
   - Clipboard
 - [视频播放器](https://pan.baidu.com/s/1HVohGvJoB88U60hQju1JXw?pwd=6666)
+  - 弹弹play 概念版 ：一个本地视频播放器，是弹弹play系列应用安卓平台的实现，致力于视频+弹幕的播放，为您带来愉悦的观影体验。
+  - oneAnime：使用 flutter 开发的 Anime1 第三方客户端, 一款简洁清爽无广告的看番软件。界面符合 Material You 规范。除了番剧，还有弹幕 (～￣▽￣)～
+  - NipaPlay-Reload：一个现代化的跨平台本地视频播放器，支持 Windows、macOS、Linux、Android 和 iOS。集成了弹幕显示、多格式字幕支持、多音频轨道切换，新番查看等功能，支持挂载Emby/Jellyfin媒体库。采用 Flutter +rust开发，提供统一的用户体验。
   - Only Player：基于原版 Next Player 项目，并新增：应用内语言切换、设置备份与恢复、ASS 字幕特效支持、SMB播放等功能
   - mpx：以隐私为优先、基于 Flutter 构建的本地媒体播放器。
   - mpvEx：基于 mpv构建的美观的安卓媒体播放器
@@ -78,6 +83,7 @@
   - mpv：基于 libmpv 的安卓视频播放器
   - 是你的益达：基于规则的视频播放器
 - [音乐播放器](https://pan.baidu.com/s/1__Kw4CupE5uEGIv-fiiu5Q?pwd=6666)
+  - 留声机：一款采用 Media3 和 Material Design 构建、遵循 Android 官方设计标准的简洁可靠音乐播放器。
   - Songloft：面向个人用户的自托管工具，定位为帮助用户管理自己合法拥有的音乐文件。本项目自 v2.0 起由 MiMusic 更名为 Songloft
   - Rhythm：一个支持插件扩展的 Android 音乐播放器
   - MusicFree：基于原版优化的插件化音乐播放器，本版本基于原版 v0.6.1，主要改进包括：新增更多音源支持（8种音质），增强下载功能（通知、命名、标签），优化个性化设置，修复多个已知问题
@@ -197,6 +203,7 @@
 - [Keep Alive](https://pan.baidu.com/s/1oLoyk9XKtipn7Pp9afTySw?pwd=6666)：在你设定的时间内未使用设备时，自动通知他人。
 - [FFShare](https://pan.baidu.com/s/1nBtnnd0pjeB7C_GA2JuHZw?pwd=6666)：在分享之前通过 FFmpeg 对图片、视频和音频文件进行压缩处理
 - [漫画阅读器](https://pan.baidu.com/s/1NjlofTXhHmdiobPqDGKjxQ?pwd=6666)
+  - Komikku：一个免费且开源的漫画阅读器，基于 TachiyomiSY 与 Mihon/Tachiyomi 开发。
   - venera：支持阅读本地及网络漫画的漫画阅读器
 - [文件管理器](https://pan.baidu.com/s/1mzjlBVEKDoYpIXOcUaLQiw?pwd=6666)
   - File Navigator：高效、直观的方式来组织和管理设备中的文件
@@ -367,6 +374,7 @@
   - 蓝牙遥控器：将您的智能手机变成Android TV的蓝牙遥控器
   - 酷控智能遥控：简单好用的万能遥控
 - [硬件查看与测试](https://pan.baidu.com/s/12hkwAV7qg2_BMXJhoWyTgA?pwd=6666)
+  - CPU Info：提供有关设备硬件和软件的信息。
   - DevCheck：功能强大的 Android 设备硬件和系统信息检测工具
   - AIDA64：硬件和软件信息查看工具
   - SD Card Test：测试存储卡真实读写速度，并识别存储类型
@@ -753,6 +761,7 @@
 <details>
 <summary>🛠 <strong>Xposed Module</strong></summary>
 
+- [ADB X](https://pan.baidu.com/s/1AQLJVBPcK4HOVZ8BFJKG0Q?pwd=6666)：基于 Xposed/LSPosed 的 Android 无线 ADB 增强模块，可固定无线调试端口、获取配对码、管理可信 WiFi，并实现连接指定 WiFi 自动开启/关闭无线调试。
 - [MiPushFramework](https://pan.baidu.com/s/1R69evCVpfmYEcesAtcorGg?pwd=6666)：在非 MIUI 系统上使用接近 MIUI 的小米系统级推送
 - [FuseHide](https://pan.baidu.com/s/130nXZGn1yXVxzzeotETopA?pwd=6666)：通过 Hook Android 的 MediaProvider/FUSE 文件系统层，实现对指定应用隐藏存储目录和文件
 - [PureDuPan](https://pan.baidu.com/s/1WAyvmRlVjpDquOJW1gxo9Q?pwd=6666)：百度网盘净化模块，用于屏蔽广告弹窗、简化界面、定制部分页面元素，并提供谨慎可选的性能优化项。
@@ -769,6 +778,7 @@
   - EdgeX：Edge 浏览器增强，通过 UI 调整和功能改进来增强您的浏览体验。隐藏状态栏、移除地址栏底边距、长按更多按钮回顶部、长按新标签页按钮原地加载、设置新标签页 URL、支持外部下载
 - [Punch-hole Download Progress](https://pan.baidu.com/s/1L5t9rSr55tvs0-5Mn_3hEQ?pwd=6666)：在摄像头开孔周围以动画圆环的形式显示下载进度。
 - [MIUI｜HyperOS](https://pan.baidu.com/s/15UPhTPhCzEF9RF3MnK2p9g?pwd=6666)：以下模块仅适用于小米设备
+  - 云备份助手：通过 Xposed 模块虚拟小米智能存储设备，将小米备份 App 的 DFS 存储流程重定向到自建 SMB 或 WebDAV 服务，实现备份与恢复数据的云端存储
   - 澎湃OS剪贴板补全：修复 HyperOS 3.0第三方输入法无法读取系统剪贴板历史内容的问题
   - HyperLyric：依托安卓实时通知和小米焦点通知，实现歌词上岛效果的软件，让澎湃3设备体验灵动岛歌词
   - YourMIUI：优化 MIUI 系统中各种不友好功能的模块
