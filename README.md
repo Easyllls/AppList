@@ -500,6 +500,11 @@
   - 微信
   - 支付宝
 - [虚拟定位](https://pan.baidu.com/s/1EcwRL0EuSeTp6bs_0v_qIA?pwd=6666)
+  - Fake Location
+  - Fake GPS Pro
+  - 虚拟定位
+  - 影梭
+  - FakeLocation
 - [桌面](https://pan.baidu.com/s/1RUn0yUp5gyzNmQCxOfTIbQ?pwd=6666)
   - Kvaesitso：搜索型桌面
 - [小米定制版](https://pan.baidu.com/s/1vV-xFlVTLXy5fxOveSmwZw?pwd=6666)：各种小米手机内置应用
