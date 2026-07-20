@@ -1291,6 +1291,14 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
+- [Project Graph](https://pan.baidu.com/s/1CYL8Ahi5fnKJkjq7A_4A5g?pwd=6666)：一款功能丰富、高效易用的桌面级节点图绘制工具。它支持快速创建多种类型的图表，帮助用户在头脑风暴、教学设计、项目规划等场景中快速构思并直观呈现。
+- [游戏](https://pan.baidu.com/s/1H8c7ojH4_K1dCPbNX4orRw?pwd=6666)
+  - preserve-cd：是作者 skywind3000 发起的一个绝版游戏保护工程（Preserve-CD），把近 200 款濒临消失的 DOS 和早期 Windows 经典游戏整理成两张 CD 镜像，让这些游戏能够长期保存和再次运行。 
+- [MinerU](https://pan.baidu.com/s/1YNkYAWMtdEwiKe32vUfoqg?pwd=6666)：一款文档解析工具，可将 PDF、图片以及 DOCX、PPTX、XLSX 转化为机器可读格式（如 Markdown、JSON），便于后续检索、抽取与二次处理。 
+- [Windows优化工具](https://pan.baidu.com/s/1TiJ1cBmiiDn0pAxzH3dx7Q?pwd=6666)
+  - Dism++：一款集 系统清理、优化、备份、还原、镜像管理、软件管理 于一体的 Windows 高级维护工具。相比传统系统工具，它提供了更直观的 GUI 界面，让用户无需输入复杂命令即可管理 Windows 底层组件。
+  - Drive Icon Manager：一键轻松删除Windows平台“此电脑”及“资源管理器侧边栏”中的第三方图标，使你不再受无用的网盘图标影响。
+- [ChatLab](https://pan.baidu.com/s/1bFM5qM_O2OVxg_ngqXMKAQ?pwd=6666)：专注于聊天记录分析的本地化应用。通过 AI Agent 和灵活的 SQL 引擎，你可以自由地分析你的聊天记录数据。目前支持WhatsApp, LINE, QQ, Discord, Instagram, Telegram, iMessage, and Google Chat. Coming next: Messenger and KakaoTalk.
 - [PointerStick](https://pan.baidu.com/s/1iw94tbWuK5DEHmOHfVs7nw?pwd=6666)：演示辅助工具，可在鼠标指针旁显示一个醒目的虚拟指示棒（Pointer Stick），帮助观众快速定位鼠标位置，特别适合会议演示、课堂教学、直播录屏和大屏展示。
 - [FxSound](https://pan.baidu.com/s/1w3DzbjGl4m-YzDr1twDfqw?pwd=6666)：音频增强软件，通过实时音频处理技术改善系统声音效果，支持均衡器（EQ）、低音增强、音量提升、虚拟环绕等功能，让音乐、游戏、电影和语音通话拥有更清晰、更饱满的听感。兼容 Windows 7/10/11。
 - [ExplorerPatcher](https://pan.baidu.com/s/18lGTJZPiIhYjRRiYitLPxg?pwd=6666)：Windows11 界面增强工具，通过恢复 Windows 10/经典 Windows 的资源管理器、任务栏、开始菜单等组件，让 Windows 11 拥有更熟悉、更高效的操作体验，同时提供丰富的个性化自定义选项。
@@ -1298,8 +1306,11 @@
 - [鼠标键盘控制](https://pan.baidu.com/s/1JmmW4P2xfNRzqz5OzMveFA?pwd=6666)
   - Lan Mouse：它允许你使用一套鼠标和键盘同时操作多台电脑，也被称为软件 KVM 切换器
   - Deskflow：在多台电脑之间共享一套键盘和鼠标
-- [N.E.K.O.](https://pan.baidu.com/s/1JFw7ILMoJSLP7N-48FR9WA?pwd=6666)：一只会主动找你玩的桌面 AI 猫娘。它是一个有现实时间感知、会主动找你、记得你、也能动手帮你的「数字生命」。
+- [桌面宠物.](https://pan.baidu.com/s/1JFw7ILMoJSLP7N-48FR9WA?pwd=6666)
+  - N.E.K.O：一只会主动找你玩的桌面 AI 猫娘。它是一个有现实时间感知、会主动找你、记得你、也能动手帮你的「数字生命」。
+  - BongoCat：一个开源跨平台互动桌宠，让一只可爱的猫咪根据你的键盘、鼠标和游戏操作实时动作，并支持自定义模型，是程序员、玩家和直播用户的桌面陪伴工具。 
 - [网络工具](https://pan.baidu.com/s/1iuCAcGl04i_v_jcCXY8aFA?pwd=6666)
+  - HypoMux：专为 Windows 平台打造的多网卡带宽叠加工具。无需复杂配置，一键聚合多网卡（有线、Wi-Fi网卡、手机热点等），实现物理级多线下载与叠加网速。
   - ProxyPin：抓包
   - SmartPing：一个综合性网络质量(PING)检测工具，支持正/反向PING绘图、互PING拓扑绘图与报警、全国PING延迟地图与在线检测工具等功能
 - [QQ辅助工具](https://pan.baidu.com/s/1aQRQY0JP7SLycYeRVK7aJQ?pwd=6666)
@@ -1318,6 +1329,7 @@
   - 刷机匣：GeekFlashTool 是一款免费的图形化综合刷机工具，侧重于深度刷机功能
   - 柚坛工具箱：Android、OpenHarmony 玩机用户、ROM 开发者和刷机爱好者的一站式搞机工具箱，集成了 ADB、Fastboot、刷机、Root、应用管理、分区管理、投屏等大量功能，
 - [下载工具](https://pan.baidu.com/s/1uwkePgEAIIWvGGYEYuGo7A?pwd=6666)：各种下载工具合集
+  - So Novel：一款通用的网页内容处理与导出工具，它致力于帮助用户高效地从网页中提取结构化信息，并将其灵活导出为 EPUB、TXT、PDF 等多种标准电子文档格式。适用于学习采集、格式转换、电子书制作等场景。
   - XiaDown（下蛋）：在线音乐播放器，也是一款支持双引擎下载的视频下载工具。
   - Internet Download Manager：十分强大好用的多线程下载工具
   - Neat Download Manager：优秀免费的多线程网络下载工具
@@ -1332,6 +1344,7 @@
 - [HFS](https://pan.baidu.com/s/10R8T8JQ5dTea2vlj5rbsFQ?pwd=6666)：一个 Web 文件服务器 通过虚拟文件系统，可以共享文件夹、单个文件
 - [Openlist](https://pan.baidu.com/s/1y7JZM4sQPSoszNM7QQsKNg?pwd=6666)：Openlist桌面客户端
 - [视频播放器](https://pan.baidu.com/s/14F6BqVXV-Pwg9HZWbgkFNQ?pwd=6666)
+  - LLPlayer：专注于字幕功能的视频播放器，提供双字幕显示、AI 字幕生成、实时翻译、单词查询等语言学习相关功能，普通播放器中通常没有这些功能。
   - zyfun：原zyplayer，网络资源播放器，需要自备订阅
   - PotPlayer：Windows平台最优秀的影音全能格式播放器
   - Kazumi：基于自定义规则的跨平台番剧采集APP，支持弹幕、实时超分辨率等
@@ -1494,6 +1507,8 @@
   - Notepad Next：轻量级、跨平台的开源文本编辑器
   - Notepad ++
 - [截屏与录屏](https://pan.baidu.com/s/1Pam5tZV_JdJD8giJM958yQ?pwd=6666)
+  - Cap：Loom 的开源替代方案。它提供快速屏幕录制、精致的本地编辑、即时分享链接、评论、转录文本、数据分析、团队工作区、自定义域名、自定义 S3 存储，以及完整的自托管能力，让你在需要时拥有完全控制权。
+  - ShareX：免费且开源的 Windows 截图、屏幕录制、文件分享以及生产力应用。它专为需要快速屏幕捕获、强大的截图编辑、自动化分享、自定义上传目标以及丰富实用功能的用户设计，并将这些功能集成在一个轻量级桌面应用中。
   - PixPin：快速灵活的截图、录屏、OCR 工具
   - SunnyCapturer：简洁且漂亮的截图工具，支持图片翻译和OCR
   - Recordly：屏幕录制器和编辑器，适合制作操作讲解、演示、产品视频等内容
