@@ -470,6 +470,7 @@
 - [听书](https://pan.baidu.com/s/10_U9fZHYIF2uIciM2xajsg?pwd=6666)
   - 我的听书：免费的聚合听书App
   - 小梨听书：有广告但资源不少
+  - 章鱼听书：界面不错，无广告，就是两天必须用夸克网盘获取激活码
 - [电池工具](https://pan.baidu.com/s/1f6pog5u7-GyeNpvsFmq2kQ?pwd=6666)
   - Battery Charge Limiter（BCL）：Android 电池充电管理工具，支持在 root 权限下设置充电开始/停止时间、电压阈值，并提供自定义配置与小组件控制。
   - Battery Guru：监控手机的电池使用情况并估计其当前的健康状况
