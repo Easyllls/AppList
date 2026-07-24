@@ -12,13 +12,13 @@
 
 **本列表源于个人兴趣爱好收集整理，包含各种 Android、Android TV、Windows 应用，以及 Xposed 和 Magisk 模块。本列表长期更新。**
 
-**部分应用早已停更，甚至无法使用，这里仅做备份，无需反馈**
-
-[QQ频道](https://pd.qq.com/s/akqek6a90?b=9)
+<img src="https://raw.githubusercontent.com/Easyllls/AppList/refs/heads/main/icon/qq.png" width="20" height="20" valign="middle"> [QQ频道](https://pd.qq.com/s/akqek6a90?b=9)
 
 <img src="https://raw.githubusercontent.com/Easyllls/AppList/refs/heads/main/icon/bd.png" width="20" height="20" valign="middle"> [百度网盘](https://pan.baidu.com/s/1NhRycJCVJHVo4ilZbqQiug?pwd=6666)｜<img src="https://raw.githubusercontent.com/Easyllls/AppList/refs/heads/main/icon/kk.png" width="20" height="20" valign="middle"> [夸克网盘](https://pan.quark.cn/s/6f920ff59e21?pwd=gUEh)｜<img src="https://raw.githubusercontent.com/Easyllls/AppList/refs/heads/main/icon/xl.png" width="20" height="20" valign="middle"> [迅雷网盘](https://pan.xunlei.com/s/VOu2aMA8QqLR0IsFoc_kTXqjA1?pwd=5em6#)
 
 ## 🚧 更新中 🚧
+
+**部分应用早已停更，甚至无法使用，这里仅做备份，无需反馈**
 
 </div>
 
