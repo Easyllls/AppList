@@ -870,7 +870,9 @@
   - Bili调速
   - BAuxiliary
 - [支付宝 InstallB 模块](https://pan.baidu.com/s/1ZzvmFLqkn9L0IACiJUkiKw?pwd=6666)：为支付宝支付界面提供黑色钻石会员级视觉效果或完全自定义的个性化皮肤。
-- [核心破解](https://pan.baidu.com/s/1OAmcunIFKLeNmHiS-W9hRg?pwd=6666)：禁用 Android 签名验证
+- [核心破解](https://pan.baidu.com/s/1OAmcunIFKLeNmHiS-W9hRg?pwd=6666)
+  - 核心破解：禁用 Android 签名验证
+  - Core Patch N（核心破解 N）：Core Patch N 是官方推出的 Core Patch 后继版本。
 - [指纹支付](https://pan.baidu.com/s/1DYt8r6HJPrWW4wF_Pf_AOw?pwd=6666)：让常用应用在支持指纹识别的设备上使用指纹支付，支持京东 淘宝 支付宝 微信 云闪付
 - [启用截图](https://pan.baidu.com/s/1Yph_79jaXG0AviN9u9PuEA?pwd=6666)
   - 启用截图：解除Android设备的某些应用截屏限制
@@ -939,9 +941,11 @@
   - Fuck AD
   - AdClose
   - 地主不看广告：欢乐斗地主跳过广告
-- [抖音](https://pan.baidu.com/s/1U0qnF5x5J68AJFoAaYYCaw?pwd=6666)：
+- [抖音](https://pan.baidu.com/s/1U0qnF5x5J68AJFoAaYYCaw?pwd=6666)
+  - 抖柚：为抖音添加一些优化体验的小功能
+  - GiveMeFire：抖音续火
   - 抖增：抖音离线缓存增强模块
-  - Dyyds
+  - Dyyds（推荐）
   - YuePanel
   - Freedom+：依赖LSPosed运行的抖音增强模块
   - 逗音小手
@@ -998,7 +1002,9 @@
   - 酒域-歌词获取：通过Hook获取音乐软件的歌词，提供给其他模块\软件使用
   - 词幕：提供系统通知栏歌词扩展功能。使用非常简单，只需要安装激活后并重启，微调设置就可以使用了
   - 墨·状态栏歌词
-- [Tim小助手](https://pan.baidu.com/s/1Wr1Kk1bN4aDLIKjdMjwCUQ?pwd=6666)：对Tim,QQ进行的扩展优化的Xposed模块
+- [TIM助手](https://pan.baidu.com/s/1Wr1Kk1bN4aDLIKjdMjwCUQ?pwd=6666)
+  - tim小助手：对Tim,QQ进行的扩展优化的Xposed模块
+  - TAssistant：以促进 TIM体验 为主的 Xposed 模块
 - [QQ](https://pan.baidu.com/s/1OljRTNqRUtSAlCT_93sOdA?pwd=6666)
   - Elaris：轻量级QQ净化模块，功能不多，好在够用、够轻量
   - QAuxiliary
@@ -1010,7 +1016,7 @@
   - TCQT
   - TSBattery：省电
   - XAutoDaily：各种签到
-  - 模了个块
+  - 模了个块：QQ/TIM增强模块
   - QNotified
   - QQ瘦身
   - QX模块
