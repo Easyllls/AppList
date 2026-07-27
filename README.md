@@ -84,6 +84,7 @@
   - Shiru：个人动漫库管理软件，可实时观看和追踪您的收藏。轻巧、强大、速度飞快。无需等待
   - mpv：基于 libmpv 的安卓视频播放器
   - 是你的益达：基于规则的视频播放器
+  - 纯纯看番：使用 Compose 开发的 Android 看番软件，支持多番剧源
 - [音乐播放器](https://pan.baidu.com/s/1__Kw4CupE5uEGIv-fiiu5Q?pwd=6666)
   - 留声机：一款采用 Media3 和 Material Design 构建、遵循 Android 官方设计标准的简洁可靠音乐播放器。
   - Songloft：面向个人用户的自托管工具，定位为帮助用户管理自己合法拥有的音乐文件。本项目自 v2.0 起由 MiMusic 更名为 Songloft
