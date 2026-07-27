@@ -1363,8 +1363,10 @@
   - PotPlayer：Windows平台最优秀的影音全能格式播放器
   - Kazumi：基于自定义规则的跨平台番剧采集APP，支持弹幕、实时超分辨率等
   - Screenbox：基于 LibVLC 的通用 Windows 平台媒体播放器
+  - NipaPlay：一个现代化的跨平台本地视频播放器，支持 Windows、macOS、Linux、Android 和 iOS。集成了弹幕显示、多格式字幕支持、多音频轨道切换，新番查看等功能，支持挂载Emby/Jellyfin媒体库。采用 Flutter +rust开发，提供统一的用户体验。
   - Cinetry：网络资源播放器，支持iptv、alist、openlist、webdav、cms、emby、jellyfin等自定义订阅
   - VLC：强大的本地视频播放器
+  - PiliPlus：使用Flutter开发的BiliBili第三方客户端
   - Shiru：个人动漫库管理软件，可实时观看和追踪您的收藏。轻巧、强大、速度飞快。无需等待！
 - [直播](https://pan.baidu.com/s/1FhP1q49YWUyNg4CU2HiOBQ?pwd=6666)
   - DTV-多平台直播轻量化桌面客户端，支持抖音、虎牙、快手、哔哩哔哩
