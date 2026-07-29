@@ -513,6 +513,7 @@
 - [Play应用集](https://pan.baidu.com/s/1f38AFP8TPUS7T_LbdlBMNw?pwd=6666)
   - 微信
   - 支付宝
+  - 京东
 - [虚拟定位](https://pan.baidu.com/s/1EcwRL0EuSeTp6bs_0v_qIA?pwd=6666)
   - Fake Location
   - Fake GPS Pro
