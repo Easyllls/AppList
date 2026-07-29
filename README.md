@@ -663,6 +663,7 @@
   - fas-rs
   - afps
 - [微信](https://pan.baidu.com/s/183KJpbmqHHa5ftKV_XWukw?pwd=6666)
+  - WeChat Monet Pro：适用于微信的莫奈取色模块，提供 Monet 基础主题、经典气泡、现代圆角、半透明 Monet Pro 和底栏样式；仅适配 Play 版本 8.0.72。
   - 微信进程清理：息屏清理不必要的进程以降低内存占用
   - 微信莫奈取色模块：为微信开启莫奈取色
   - WAuxvZygisk
