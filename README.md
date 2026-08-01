@@ -577,7 +577,7 @@
   - Uperf Game Turbo
   - XYCtouch：智能优化图像渲染帧延迟 | 降低触控延迟 | 优化缓冲减少渲染丢帧
   - YAKT
-- [Zygisk](https://pan.baidu.com/s/1JbcDVYAe3Ot-9ZtFzvkyYA?pwd=6666)：第三方 Zygisk 实现，可替代Magisk自身的Zygisk和让KernelSU、APatch加载Zygisk模块
+- [Zygisk](https://pan.baidu.com/s/1JbcDVYAe3Ot-9ZtFzvkyYA?pwd=6666) [夸克](https://pan.quark.cn/s/287ece0f48ed?pwd=Djbq) [迅雷](https://pan.xunlei.com/s/VOyxEgDSyJShggD7-pvKLz96A1?pwd=qtdy#)：第三方 Zygisk 实现，可替代Magisk自身的Zygisk和让KernelSU、APatch加载Zygisk模块
   - Zygisk Next
   - ReZygisk
   - NeoZygisk
