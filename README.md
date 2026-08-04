@@ -228,7 +228,8 @@
   - ES文件浏览器
   - AnExplorer
   - Amaze
-- [下载工具](https://pan.baidu.com/s/1OTJLuLL0XXQmqquCs5UFiA?pwd=6666)
+- [下载工具](https://pan.baidu.com/s/1OTJLuLL0XXQmqquCs5UFiA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzB1vZiNksW0WYLTLRmwx7EA1?pwd=89j9#) [夸克](https://pan.quark.cn/s/e001eb707afe?pwd=GhnP)
+  - Ghost Downloader：AI 驱动的新一代跨平台多协议 Fluent Design 并发下载器
   - AB Download Manager：高颜值且高速的下载管理器
   - qBitController：能从 Android 设备中远程控制 qBittorrent 的软件
   - 1DM+：功能强大的 Android 下载管理器
@@ -1354,7 +1355,8 @@
   - 紫罗兰工具箱：面向Android开发的多功能刷机工具箱。支持小米、真我、一加、OPPO等机型线刷。
   - 刷机匣：GeekFlashTool 是一款免费的图形化综合刷机工具，侧重于深度刷机功能
   - 柚坛工具箱：Android、OpenHarmony 玩机用户、ROM 开发者和刷机爱好者的一站式搞机工具箱，集成了 ADB、Fastboot、刷机、Root、应用管理、分区管理、投屏等大量功能，
-- [下载工具](https://pan.baidu.com/s/1uwkePgEAIIWvGGYEYuGo7A?pwd=6666)：各种下载工具合集
+- [下载工具](https://pan.baidu.com/s/1uwkePgEAIIWvGGYEYuGo7A?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzB1GHvoeFydZJOPvAr7kVFA1?pwd=y5w9#) [夸克](https://pan.quark.cn/s/dea640ec514e?pwd=L7vD)：各种下载工具合集
+  - Ghost Downloader：AI 驱动的新一代跨平台多协议 Fluent Design 并发下载器
   - So Novel：一款通用的网页内容处理与导出工具，它致力于帮助用户高效地从网页中提取结构化信息，并将其灵活导出为 EPUB、TXT、PDF 等多种标准电子文档格式。适用于学习采集、格式转换、电子书制作等场景。
   - XiaDown（下蛋）：在线音乐播放器，也是一款支持双引擎下载的视频下载工具。
   - Internet Download Manager：十分强大好用的多线程下载工具
