@@ -553,6 +553,7 @@
 <details>
 <summary>🎭 <strong>Magisk Module（大部分已兼容 KernelSU、APatch）</strong></summary>
 
+- [mountify](https://pan.baidu.com/s/1a8qv6HJ64Kg3HJpwoLeoTw?pwd=6666)：基于 OverlayFS 的全局挂载模块
 - [TS Enhancer Extreme](https://pan.baidu.com/s/1EF9bw_jzvhvntxLT0m3FPw?pwd=6666)：提升TrickyStore的使用体验,同时极致隐藏由解锁引导加载程序产生的相关检测点
 - [RemoveApkProtection](https://pan.baidu.com/s/1vXMviun2n0m5mJW-9dHvlQ?pwd=6666)：移除 AOSP 及各类 OEM ROM 签名校验限制，支持 Android 13+ 的原生或定制 ROM（如 HyperOS、ColorOS 等）
 - [OpenList](https://pan.baidu.com/s/1y5D91JNMwFTwoxeltrBPjA?pwd=6666)：将 OpenList 文件服务器集成到安卓系统中以系统化方式运行
