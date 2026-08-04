@@ -61,9 +61,9 @@
   - 剪切板专业版
   - 全局复制
   - Clipboard
-- [视频播放器](https://pan.baidu.com/s/1HVohGvJoB88U60hQju1JXw?pwd=6666)
+- [视频播放器](https://pan.baidu.com/s/1HVohGvJoB88U60hQju1JXw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzAfkfenHxtG0IxS7bqVXKGA1?pwd=s3yw#) [夸克](https://pan.quark.cn/s/a0a20e3f695a?pwd=vrBR)
   - 弹弹play 概念版 ：一个本地视频播放器，是弹弹play系列应用安卓平台的实现，致力于视频+弹幕的播放，为您带来愉悦的观影体验。
-  - oneAnime：使用 flutter 开发的 Anime1 第三方客户端, 一款简洁清爽无广告的看番软件。界面符合 Material You 规范。除了番剧，还有弹幕 (～￣▽￣)～
+  - oneAnime：使用 flutter 开发的 Anime1 第三方客户端, 一款简洁清爽无广告的看番软件。界面符合 Material You 规范。除了番剧，还有弹幕
   - NipaPlay-Reload：一个现代化的跨平台本地视频播放器，支持 Windows、macOS、Linux、Android 和 iOS。集成了弹幕显示、多格式字幕支持、多音频轨道切换，新番查看等功能，支持挂载Emby/Jellyfin媒体库。采用 Flutter +rust开发，提供统一的用户体验。
   - Only Player：基于原版 Next Player 项目，并新增：应用内语言切换、设置备份与恢复、ASS 字幕特效支持、SMB播放等功能
   - mpx：以隐私为优先、基于 Flutter 构建的本地媒体播放器。
