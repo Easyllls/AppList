@@ -496,6 +496,7 @@
   - 百度网盘三星定制版
   - 小白云盘：强大的云盘工具（目前支持阿里云盘）安卓TV、手机、平板、投影仪及PC
 - [TVBOX](https://pan.baidu.com/s/1OR1TuA7E2nGQMLm1N5jVfg?pwd=6666)
+  - NewBox
   - 影迷
   - TVBOX助手：多功能的TVBox助手应用
   - 影视
@@ -1285,6 +1286,7 @@
 - [视频播放器](https://pan.baidu.com/s/1b3qjrq0OWnYNHZhOghBGKA?pwd=6666)
   - Ghosten Player：支持播放网盘与本地文件并自动生成海报墙的视频播放
 - [TVbox](https://pan.baidu.com/s/1_7_gD39SXqXpyJTD4LoRzg?pwd=6666)：tvbox通常需要自备订阅，否则就是个空壳
+  - NewBox
   - CatBox
   - TVBox q215613905：原版
   - TVBox takagen99：原版开发版
