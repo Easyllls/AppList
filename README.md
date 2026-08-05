@@ -565,7 +565,7 @@
 - [NavTweaks](https://pan.baidu.com/s/1Kfz2zIsZbjlZu3nNnKjDBw?pwd=6666)：自定义 Android 10–15 的导航栏外观
 - [GhostGMS](https://pan.baidu.com/s/186OFg21sm1dFKe17ejjVQQ?pwd=6666)：优化 Google 移动服务（GMS），提升续航、隐私与性能
 - [IntegrityBox](https://pan.baidu.com/s/1N8BdJsPD_HjV5lNUg2oYTQ?pwd=6666)：一个完整的 Play Integrity 兼容性与系统信号管理工具包
-- [Frosty](https://pan.baidu.com/s/1VCqmtDRcmKMmX7DXqHctXg?pwd=6666)：冻结与省电模块
+- [Frosty](https://pan.baidu.com/s/1VCqmtDRcmKMmX7DXqHctXg?pwd=6666)：通过冻结 GMS 服务、应用系统级 Doze 增强以及自动化息屏行为来优化电池续航。你可以通过 WebUI 配置所有内容。
 - [Shamiko](https://pan.baidu.com/s/1BGXvS2lbqRtcp6uVCm7mHQ?pwd=6666)：在Zygisk模式下更好的隐藏Root
 - [InternalBrowserRedirect](https://pan.baidu.com/s/1mSHEY00KRmkSjeEVvqSJRg?pwd=6666)：强制应用内链接用外部浏览器打开 支持自定义规则
 - [IFW Enhance](https://pan.baidu.com/s/1qx3AXEMleMrwQFYAu7tExw?pwd=6666)：意图（分享菜单）清理 阻止烦人的多余 Intent
