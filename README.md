@@ -254,7 +254,8 @@
   - Round Sync：适用于安卓设备的文件同步应用
   - FolderSync Pro：在云存储和Android设备之间同步文件
   - Syncthing-Fork：完全去中心化、加密、安全 的 Android 文件同步工具
-- [AI与Agent](https://pan.baidu.com/s/1W6EhYjihT6qzQLYNvMTf8Q?pwd=6666)
+- [AI与Agent](https://pan.baidu.com/s/1W6EhYjihT6qzQLYNvMTf8Q?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzLkOk1wWWe6ZRRljTvzslyA1?pwd=33d6#) [夸克](https://pan.quark.cn/s/bb0a0084491d?pwd=tyVx)
+  - Agora：BYOK LLM 客户端 多大型接入点、智能代理工作流程、远程设备控制
   - Operit AI：功能完备的AI智能助手应用，完全独立运行，拥有强大的工具调用能力
   - Chatbox：跨平台 AI 客户端，支持多种大语言模型与本地部署
   - Local Dream：在移动设备上使用 Stable Diffusion 图像生成模型
@@ -781,7 +782,8 @@
 - [PureDuPan](https://pan.baidu.com/s/1WAyvmRlVjpDquOJW1gxo9Q?pwd=6666)：百度网盘净化模块，用于屏蔽广告弹窗、简化界面、定制部分页面元素，并提供谨慎可选的性能优化项。
 - [WIfikeyXposed](https://pan.baidu.com/s/1jWUclHxplANnZ0DIBzyTgQ?pwd=6666)：WiFi万能钥匙的 Xposed 模块，提供本地 SVIP 永久解锁、全模块去广告、底栏/工具栏精简等功能
 - [YuePanel](https://pan.baidu.com/s/1BpNwsJqAY_YIkedSxR7SgA?pwd=6666)：微信,QQ,抖音功能增强模块
-- [三星 One UI 专用](https://pan.baidu.com/s/1nIL8NyMfki0wkLkODCH4QQ?pwd=6666)
+- [三星 One UI 专用](https://pan.baidu.com/s/1nIL8NyMfki0wkLkODCH4QQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzLkKU_kf5-8LF9MKbmjmHYA1?pwd=k3nf#) [夸克](https://pan.quark.cn/s/fddd2f7f53e2?pwd=SLxh)
+  - OneLab：三星 One UI 功能扩展与折叠屏应用适配模块
   - KnoxPatch：在已 Root 的三星设备上恢复官方应用和部分功能
   - One UI X：释放三星 One UI 的无限可能，旨在提供高度可定制的系统体验，解除烦人的限制，并为状态栏、快捷设置以及系统自带应用注入强大的增强功能。
   - OneDesign：OneUI 8.0 自定义增强框架，在系统级别对多个应用进行定制，提供本地化支持、功能增强和系统优化。支持：Android 16+ (OneUI 8.0+)
