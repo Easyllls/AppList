@@ -34,6 +34,7 @@
 - [Duplicates Cleaner](https://pan.baidu.com/s/1SCuRMBgdShdEZ6T0wlwqGw?pwd=6666)：以最简单的方式查找和清除重复文件
 - [MKM](https://pan.baidu.com/s/1SFLutnQGC2uSc9oPP-0nBQ?pwd=6666)：轻量级安卓内核调控与系统监控工具
 - [效率与生产力](https://pan.baidu.com/s/1y0ebgDtNjHyNFs97c0U1Xg?pwd=6666)
+  - WHPH：全面的生产力应用，帮助您在所有设备上管理任务、建立习惯和优化时间。
   - Flux：围绕灵活工作区与可自定义空间构建，让你能够整理笔记、日记、任务、事件等内容，并随着个人使用习惯不断调整与扩展自己的管理系统。
 - [运动与步数管理](https://pan.baidu.com/s/1VsZcvtryJoEtMxKNWsgMuw?pwd=6666)
   - 小米步数管理：小米设备步数自定义
