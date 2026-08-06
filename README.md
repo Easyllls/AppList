@@ -936,7 +936,7 @@
   - Guise
   - Device ID Masker Lite
   - Android Faker
-- [隐藏应用列表](https://pan.baidu.com/s/1AtMLxiFXKezqI0eeWDkDsA?pwd=6666)
+- [隐藏应用列表](https://pan.baidu.com/s/1AtMLxiFXKezqI0eeWDkDsA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzN-hNm4nkZ-2DPEQSBHbA0A1?pwd=9ssx#) [夸克](https://pan.quark.cn/s/00d4a0d3a728?pwd=87Rb)
   - 隐藏应用列表（HMA）
   - HMAL：第三方修改版HMA
   - 隐秘空间
