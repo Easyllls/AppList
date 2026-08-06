@@ -33,7 +33,7 @@
 - [WiFi Password Manager](https://pan.baidu.com/s/13gKGibneMX7PlD8InkR_Sg?pwd=6666)：基于 Shizuku 或 Root 权限的 WiFi 密码管理器
 - [Duplicates Cleaner](https://pan.baidu.com/s/1SCuRMBgdShdEZ6T0wlwqGw?pwd=6666)：以最简单的方式查找和清除重复文件
 - [MKM](https://pan.baidu.com/s/1SFLutnQGC2uSc9oPP-0nBQ?pwd=6666)：轻量级安卓内核调控与系统监控工具
-- [效率与生产力](https://pan.baidu.com/s/1y0ebgDtNjHyNFs97c0U1Xg?pwd=6666)
+- [效率与生产力](https://pan.baidu.com/s/1y0ebgDtNjHyNFs97c0U1Xg?pwd=6666) [夸克](https://pan.quark.cn/s/7f822d6cfa89?pwd=RM2K) [迅雷](https://pan.xunlei.com/s/VOzMurU5kVPbabQfE7zoZAEXA1?pwd=vnr6#)
   - WHPH：全面的生产力应用，帮助您在所有设备上管理任务、建立习惯和优化时间。
   - Flux：围绕灵活工作区与可自定义空间构建，让你能够整理笔记、日记、任务、事件等内容，并随着个人使用习惯不断调整与扩展自己的管理系统。
 - [运动与步数管理](https://pan.baidu.com/s/1VsZcvtryJoEtMxKNWsgMuw?pwd=6666)
@@ -558,6 +558,7 @@
 <details>
 <summary>🎭 <strong>Magisk Module（大部分已兼容 KernelSU、APatch）</strong></summary>
 
+- [HMA-OSS Zygisk](https://pan.baidu.com/s/1xvrea67wY2oJ-_duQbWd1A?pwd=6666) [夸克](https://pan.quark.cn/s/8a96ce0c0673?pwd=7yX6) [迅雷](https://pan.xunlei.com/s/VOzMuw8-nKSKAGZ-dNLTYDyKA1?pwd=aeiq#)：用于隐藏你的应用列表、设置等内容的 Zygisk 模块，HMA-OSS Zygisk 是 HMA-OSS 的 Zygisk 实现版本，目标是让 HMA-OSS 不再依赖 LSPosed/Xposed，而是直接通过 Zygisk 注入 Android 应用进程，相比 HMA-OSS，它更轻、更隐蔽
 - [mountify](https://pan.baidu.com/s/1a8qv6HJ64Kg3HJpwoLeoTw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzB0Ft0E8NieAbl9mIEIGeIA1?pwd=s7e2#) [夸克](https://pan.quark.cn/s/04eeded8a161?pwd=btdG)：基于 OverlayFS 的全局挂载模块
 - [TS Enhancer Extreme](https://pan.baidu.com/s/1EF9bw_jzvhvntxLT0m3FPw?pwd=6666)：提升TrickyStore的使用体验,同时极致隐藏由解锁引导加载程序产生的相关检测点
 - [RemoveApkProtection](https://pan.baidu.com/s/1vXMviun2n0m5mJW-9dHvlQ?pwd=6666)：移除 AOSP 及各类 OEM ROM 签名校验限制，支持 Android 13+ 的原生或定制 ROM（如 HyperOS、ColorOS 等）
