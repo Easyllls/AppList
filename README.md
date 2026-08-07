@@ -539,16 +539,16 @@
 <details>
 <summary>🔓 <strong>Root管理器</strong></summary>
 
-- [Magisk](https://pan.baidu.com/s/1q9nEYRGGC0klg_3FocqWlQ?pwd=6666)
+- [Magisk](https://pan.baidu.com/s/1q9nEYRGGC0klg_3FocqWlQ?pwd=6666) [夸克](https://pan.quark.cn/s/2dc1c04c3c62?pwd=1jNa) [迅雷](https://pan.xunlei.com/s/VOzSI5J2kf5-8LF9MKbqKfyMA1?pwd=g6f7#)
   - 稳定版
   - Canray
   - Alpha
-- [KernelSU](https://pan.baidu.com/s/1xhaWmtz4fNxiiFMKkIBtLg?pwd=6666)
+- [KernelSU](https://pan.baidu.com/s/1xhaWmtz4fNxiiFMKkIBtLg?pwd=6666) [夸克](https://pan.quark.cn/s/2dc1c04c3c62?pwd=1jNa) [迅雷](https://pan.xunlei.com/s/VOzSI1XiiGP3pHAXU-omc39MA1?pwd=rgqy#)
   - SukiSU Ultra
   - ReSukiSU
   - KernelSU Next
   - KernelSU
-- [APatch](https://pan.baidu.com/s/1qv7tFBrWMOwLiCDCLFOG8Q?pwd=6666)
+- [APatch](https://pan.baidu.com/s/1qv7tFBrWMOwLiCDCLFOG8Q?pwd=6666) [夸克](https://pan.quark.cn/s/2dc1c04c3c62?pwd=1jNa) [迅雷](https://pan.xunlei.com/s/VOzSI2FzBWpIoyayU4Wgg9orA1?pwd=g95m#)
   - APatch
   - APatch Next
 - [SuperSU](https://pan.baidu.com/s/1qeNx805k-HWanyc-SFG5PA?pwd=6666)：最早的Root管理器，兼容安卓7及以下设备
