@@ -563,7 +563,7 @@
 - [TS Enhancer Extreme](https://pan.baidu.com/s/1EF9bw_jzvhvntxLT0m3FPw?pwd=6666)：提升TrickyStore的使用体验,同时极致隐藏由解锁引导加载程序产生的相关检测点
 - [RemoveApkProtection](https://pan.baidu.com/s/1vXMviun2n0m5mJW-9dHvlQ?pwd=6666)：移除 AOSP 及各类 OEM ROM 签名校验限制，支持 Android 13+ 的原生或定制 ROM（如 HyperOS、ColorOS 等）
 - [OpenList](https://pan.baidu.com/s/1y5D91JNMwFTwoxeltrBPjA?pwd=6666)：将 OpenList 文件服务器集成到安卓系统中以系统化方式运行
-- [TEESimulator](https://pan.baidu.com/s/1yoGK0B3UaGfXi5vpi2XoBQ?pwd=6666)
+- [TEESimulator](https://pan.baidu.com/s/1yoGK0B3UaGfXi5vpi2XoBQ?pwd=6666) [夸克](https://pan.quark.cn/s/42dad4b4bc6a?pwd=cdGF) [迅雷](https://pan.xunlei.com/s/VOzk_of2MpdvvhGgCOpch1gsA1?pwd=2i6x#)
   - TEESimulator：用于安卓设备硬件支持密钥对及密钥证明的软件模拟方案
   - TEESimulator-RS：这是一个基于 TEESimulator 的分支版本，加入了原生 Rust 证书生成、密钥持久化，以及符合 AOSP 标准的认证（attestation）行为设计。
 - [Bypasser](https://pan.baidu.com/s/1PAc8COtXJMmqubJIbmefEA?pwd=6666)：用于绕过与 TMLP 相关的 Android 环境检测模块
