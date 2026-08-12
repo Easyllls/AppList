@@ -28,6 +28,8 @@
 <details>
 <summary>📱 <strong>Android</strong></summary>
 
+- [各种第三方客户端](https://pan.baidu.com/s/1_XH2nwKMuLisoZmZe7d9Cw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzpRjtftNeEsDVIDr0_PGHaA1?pwd=qxuh#) [夸克](https://pan.quark.cn/s/eb041b3e0dba?pwd=X8dC)
+  - 知乎++：注重隐私和无广告的第三方开源知乎客户端，独创本地推荐算法，把内容推荐完全放在本地进行，为您提供和筛选高质量内容
 - [工具箱](https://pan.baidu.com/s/1RGmFbaJEvx4S7YAvagCbdg?pwd=6666)
   - 紫罗兰Box：一款Android玩机工具箱
 - [WiFi Password Manager](https://pan.baidu.com/s/13gKGibneMX7PlD8InkR_Sg?pwd=6666)：基于 Shizuku 或 Root 权限的 WiFi 密码管理器
@@ -751,7 +753,8 @@
 <details>
 <summary>🎯 <strong>KernelSU Module</strong></summary>
 
-- [元模块（Metamodule）](https://pan.baidu.com/s/10AM8hknM2Lo2iJ1TScserw?pwd=6666)：用于给 KernelSU 提供 systemless 挂载能力
+- [元模块（Metamodule）](https://pan.baidu.com/s/10AM8hknM2Lo2iJ1TScserw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzpRbnpUmD3DOYTibMol580A1?pwd=dyaj#) [夸克](https://pan.quark.cn/s/365046816db1?pwd=Uiu6)：用于给 KernelSU 提供 systemless 挂载能力
+  - Magic Mount-rs：面向 KernelSU / APatch 的 Magic Mount 元模块，使用 Rust 实现 Systemless Mount，为其他模块提供统一的系统文件挂载与覆盖能力，无需直接修改系统分区。
   - Hybrid Mount：通过统一的策略引擎，将模块文件合并到 Android 分区，并支持三种挂载后端：OverlayFS，Magic Mount，Kasumi，内置 SolidJS WebUI
   - Magic Mount：使用 Magic Mount 为 KernelSU 提供“系统挂载能力”的底层元模块
 - [SUSFS FOR KERNELSU](https://pan.baidu.com/s/1AvZU4qvHb6OUU1Do2uD1xw?pwd=6666)：为 KernelSU 提供附加 Root 隐藏服务 的模块
