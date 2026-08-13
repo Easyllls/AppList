@@ -783,7 +783,7 @@
 <details>
 <summary>🛠 <strong>Xposed Module</strong></summary>
 
-- [飞书助手](https://pan.baidu.com/s/14EE4Vi1VigbkBT_9Dm3jbA?pwd=6666)
+- [飞书助手](https://pan.baidu.com/s/14EE4Vi1VigbkBT_9Dm3jbA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzvOIRG2Il5b6HbWXOirIHnA1?pwd=wska#) [夸克](https://pan.quark.cn/s/53ab55940a0c?pwd=SWX1)
   - fuck lark：飞书增强 (防撤回 + 离职统计 + 资料归档
 - [ADB X](https://pan.baidu.com/s/1AQLJVBPcK4HOVZ8BFJKG0Q?pwd=6666)：基于 Xposed/LSPosed 的 Android 无线 ADB 增强模块，可固定无线调试端口、获取配对码、管理可信 WiFi，并实现连接指定 WiFi 自动开启/关闭无线调试。
 - [MiPushFramework](https://pan.baidu.com/s/1R69evCVpfmYEcesAtcorGg?pwd=6666)：在非 MIUI 系统上使用接近 MIUI 的小米系统级推送
