@@ -1026,6 +1026,7 @@
   - tim小助手：对Tim,QQ进行的扩展优化的Xposed模块
   - TAssistant：以促进 TIM体验 为主的 Xposed 模块
 - [QQ](https://pan.baidu.com/s/1OljRTNqRUtSAlCT_93sOdA?pwd=6666)
+  - Miss-QQ农场
   - Elaris：轻量级QQ净化模块，功能不多，好在够用、够轻量
   - QAuxiliary
   - QQHook：QQNT 绕过环境检测模块，防止冻结/踢下线。
