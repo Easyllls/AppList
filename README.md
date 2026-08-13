@@ -279,6 +279,27 @@
   - WiFi FTP Server：简单易用的FTP服务器
   - LocalSend：在本地网络上安全地与附近设备共享文件和消息，无需互联网连接。
   - primitive ftpd：简单的FTP和SFTP服务器。
+  - FTP Express Pro
+  - WiFile
+  - Turbo客户端
+  - TShot DEBUG
+  - TrebleShot
+  - Sweech
+  - SuperBeam
+  - FTP Server
+  - Snapdrop
+  - HTTP on Fire
+  - FtpCafe
+  - FTP Share
+  - ShareMe
+  - InShare
+  - MX Share
+  - 章鱼快传
+  - 爱传送
+  - 超级分享
+  - 极助手
+  - 无线临FTP服务器
+  - 文件闪传Pro
 - [设备管理与控制](https://pan.baidu.com/s/1y8EL0sMU9bhe9AcokYg_9g?pwd=6666)
   - KDE Connect：通过无线网络将智能手机与计算机连接，从而实现多种设备间的互动和控制
   - PlainApp：通过网页管理你的手机！访问文件、联系人、视频、音乐等内容
