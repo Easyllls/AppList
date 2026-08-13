@@ -788,7 +788,8 @@
 - [FuseHide](https://pan.baidu.com/s/130nXZGn1yXVxzzeotETopA?pwd=6666) [夸克](https://pan.quark.cn/s/7b96ba259198?pwd=sb8M) [迅雷](https://pan.xunlei.com/s/VOzSKaDZ9vdBRZZidx9K_lbxA1?pwd=i3ia#)：通过 Hook Android 的 MediaProvider/FUSE 文件系统层，实现对指定应用隐藏存储目录和文件
 - [PureDuPan](https://pan.baidu.com/s/1WAyvmRlVjpDquOJW1gxo9Q?pwd=6666)：百度网盘净化模块，用于屏蔽广告弹窗、简化界面、定制部分页面元素，并提供谨慎可选的性能优化项。
 - [WIfikeyXposed](https://pan.baidu.com/s/1jWUclHxplANnZ0DIBzyTgQ?pwd=6666)：WiFi万能钥匙的 Xposed 模块，提供本地 SVIP 永久解锁、全模块去广告、底栏/工具栏精简等功能
-- [YuePanel](https://pan.baidu.com/s/1BpNwsJqAY_YIkedSxR7SgA?pwd=6666)：微信,QQ,抖音功能增强模块
+- [YuePanel](https://pan.baidu.com/s/1BpNwsJqAY_YIkedSxR7SgA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOztAQrDnY2QAiah1tJW4DPOA1?pwd=bcng#)
+[夸克](https://pan.quark.cn/s/be541ca62faf?pwd=tKKy)：微信,QQ,抖音功能增强模块
 - [三星 One UI 专用](https://pan.baidu.com/s/1nIL8NyMfki0wkLkODCH4QQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzLkKU_kf5-8LF9MKbmjmHYA1?pwd=k3nf#) [夸克](https://pan.quark.cn/s/fddd2f7f53e2?pwd=SLxh)
   - OneLab：三星 One UI 功能扩展与折叠屏应用适配模块
   - KnoxPatch：在已 Root 的三星设备上恢复官方应用和部分功能
@@ -902,7 +903,7 @@
   - Xposed Edge Pro：功能强大的按键与手势映射、各种自动化任务
   - ShortX：各种自动任务
   - EdgeX：支持了大部分Xposed Edge功能
-- [蚂蚁森林助手](https://pan.baidu.com/s/1LDiIPGr7yEhCfafRtZ3BVw?pwd=6666)
+- [蚂蚁森林](https://pan.baidu.com/s/1LDiIPGr7yEhCfafRtZ3BVw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOztC2pmvT1xNRekArwVR_0FA1?pwd=44en#) [夸克](https://pan.quark.cn/s/ecd7eb67661e?pwd=FTL5)
   - 芝麻粒-AG：仅支持安卓16，lsp api101
   - 芝麻粒-TK-Alpha
   - 芝麻粒-GR
@@ -961,7 +962,7 @@
   - Fuck AD
   - AdClose
   - 地主不看广告：欢乐斗地主跳过广告
-- [抖音](https://pan.baidu.com/s/1U0qnF5x5J68AJFoAaYYCaw?pwd=6666)
+- [抖音](https://pan.baidu.com/s/1U0qnF5x5J68AJFoAaYYCaw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOztCDV5Wqf0p4dxwfYNUAerA1?pwd=ire3#) [夸克](https://pan.quark.cn/s/2ba856e4a4c5?pwd=hCMg)
   - 抖柚：为抖音添加一些优化体验的小功能
   - GiveMeFire：抖音续火
   - 抖增：抖音离线缓存增强模块
@@ -1025,7 +1026,7 @@
 - [TIM助手](https://pan.baidu.com/s/1Wr1Kk1bN4aDLIKjdMjwCUQ?pwd=6666)
   - tim小助手：对Tim,QQ进行的扩展优化的Xposed模块
   - TAssistant：以促进 TIM体验 为主的 Xposed 模块
-- [QQ](https://pan.baidu.com/s/1OljRTNqRUtSAlCT_93sOdA?pwd=6666)
+- [QQ](https://pan.baidu.com/s/1OljRTNqRUtSAlCT_93sOdA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzt9coL7-Du2AB1bIP4CdEhA1?pwd=jtmi#) [夸克](https://pan.quark.cn/s/ae6d9c20052e?pwd=YbZS)
   - Miss-QQ农场
   - Elaris：轻量级QQ净化模块，功能不多，好在够用、够轻量
   - QAuxiliary
@@ -1101,7 +1102,7 @@
   - 红薯自动
   - 红薯猪手
   - 小红书+
-- [微信](https://pan.baidu.com/s/19gJIzQ_eb321uYIJz3PrNQ?pwd=6666)
+- [微信](https://pan.baidu.com/s/19gJIzQ_eb321uYIJz3PrNQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzt9eZU47t0DRLz38Ioz211A1?pwd=zb22#) [夸克](https://pan.quark.cn/s/c3b8965b11f9?pwd=bk4r)
   - WCX：提供美化主题、聊天增强、隐私防护、AI 自动回复等丰富的功能定制能力。
   - Hchat：功能增强、插件
   - Wtonec：微信/QQ 语音增强、文字转语音与语音包模块
