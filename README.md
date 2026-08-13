@@ -274,7 +274,7 @@
   - 照片编辑器：轻巧但功能强大的图像编辑应用
   - Retouch：只需轻轻一按即可从图像中删除不需要的对象。
   - 元数据清除器：照片元数据删除应用程序
-- [文件传输与FTP](https://pan.baidu.com/s/1WDzhnqRx1qsYzl7diAoYnQ?pwd=6666)
+- [文件传输与FTP](https://pan.baidu.com/s/1WDzhnqRx1qsYzl7diAoYnQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzvZkQq05nq69AH1-6qcplSA1?pwd=gs8u#) [夸克](https://pan.quark.cn/s/9b29e7ff6ce3?pwd=rNwQ)
   - LANDrop：跨平台局域网文件传输工具
   - WiFi FTP Server：简单易用的FTP服务器
   - LocalSend：在本地网络上安全地与附近设备共享文件和消息，无需互联网连接。
@@ -523,7 +523,7 @@
   - Web Video Caster：将网络视频投射到电视上
 - [Updater](https://pan.baidu.com/s/1MskJBnFsILpuiku5m6D1Mg?pwd=6666)：获取小米设备的HyperOS/MIUI更新信息
 - [灵动岛](https://pan.baidu.com/s/1k5wJog_W7Q6-OaXBPjBFpA?pwd=6666)
-- [Play应用集](https://pan.baidu.com/s/1f38AFP8TPUS7T_LbdlBMNw?pwd=6666)
+- [Play应用集](https://pan.baidu.com/s/1f38AFP8TPUS7T_LbdlBMNw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzvZoPug20V47g_BONOLNOQA1?pwd=64j6#) [夸克](https://pan.quark.cn/s/7bf13097a9c7?pwd=SZqP)
   - 微信
   - 支付宝
   - 京东
@@ -1431,7 +1431,7 @@
   - RevokeMsgPatcher：消息防撤回，多开
   - WechatDataBackup：聊天记录备份，分析
   - Clean My PC Wechat：自动删除微信缓存数据
-- [局域网文件传输](https://pan.baidu.com/s/14YOdEhiQf_8-lc23mDxVvg?pwd=6666)
+- [局域网文件传输](https://pan.baidu.com/s/14YOdEhiQf_8-lc23mDxVvg?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzvYHcexyfW02Ye0RxuvmBFA1?pwd=hir2#) [夸克](https://pan.quark.cn/s/f1cfdaf7f281?pwd=1Q6a)
   - Transok：一个高效的局域网文件共享工具
   - LocalSend：无需互联网，与附近设备共享文件
   - LANDrop：跨平台局域网文件传输工具
