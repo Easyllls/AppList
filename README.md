@@ -765,7 +765,7 @@
 <details>
 <summary>🛠 <strong>Xposed Framework</strong></summary>
 
-- [LSPosed](https://pan.baidu.com/s/1tVytETarI7m8uebnvwSnaA?pwd=6666)
+- [LSPosed](https://pan.baidu.com/s/1tVytETarI7m8uebnvwSnaA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOztDjiYb7w6DqVlxxKI6bCBA1?pwd=gp85#) [夸克](https://pan.quark.cn/s/0ceaa79ab2c8?pwd=Gy4P)
   - LSPosed
   - LSPosed - Irena
   - ReLSPosed
