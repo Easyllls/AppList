@@ -639,7 +639,7 @@
   - 充电控制：控制电流,保持高速充电状态.
   - 充电加速：尽可能的让手机满血快充。配置文件在/data/adb/turbo-charge/option.txt
   - GengChao🔥快充模块⚡(二改)：5000mA超高电流充电，实测充电器输出最高可达37.5W，持续功率维持在30W左右(旗舰版修复无线充电功能)，同时在非充电状态下快充模块保持低性能开销运行
-- [MIUI｜HyperOS](https://pan.baidu.com/s/1kGIzA5I-qyqQ7fvIdwIrKA?pwd=6666)：以下模块仅适用于小米设备
+- [MIUI｜HyperOS](https://pan.baidu.com/s/1kGIzA5I-qyqQ7fvIdwIrKA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzvQCs_yHI3b2xiXKrYD4rhA1?pwd=abz7#) [夸克](https://pan.quark.cn/s/df4935c64241?pwd=Ee3w)：以下模块仅适用于小米设备
   - HyperOS Launcher：增强版 HyperOS 启动器，带来改进的模糊效果、部件支持、堆叠最近应用、Dock 背景以及多种自定义选项，提供更精致的用户体验。已针对所有设备优化，实现更流畅的性能和更多功能。
   - Modded Security Center：增强 HyperOS 安全中心，基于 Android 14 及以上的 ROM，需要先安装 RemoveApkProtection 模块
   - Modded Theme Manager：解锁 HyperOS 的完整主题自定义功能，包括多主题服务器、高级主题、AI 壁纸、第三方导入、超级图标/小部件和低端功能。请务必同时使用 App Vault mod，以确保高级小部件正常工作。使用国行版ROM的用户需要先刷入 RemoveApkProtection 模块。Magisk delta 可能不兼容。
