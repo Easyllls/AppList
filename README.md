@@ -28,6 +28,7 @@
 <details>
 <summary>📱 <strong>Android</strong></summary>
 
+- [Torrent Search](https://pan.baidu.com/s/1XBGto84g5_VkIJ9-TGyzrA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP--yS0aMQ_1GARObUPQQOVWA1?pwd=khwb#) [夸克](https://pan.quark.cn/s/3f0c94487e56?pwd=1Ei9)：一款可跨多个资源提供商搜索种子的 Android 应用，速度快、信息详细，并提供丰富的操作功能。
 - [各种第三方客户端](https://pan.baidu.com/s/1_XH2nwKMuLisoZmZe7d9Cw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzpRjtftNeEsDVIDr0_PGHaA1?pwd=qxuh#) [夸克](https://pan.quark.cn/s/eb041b3e0dba?pwd=X8dC)
   - 知乎++：注重隐私和无广告的第三方开源知乎客户端，独创本地推荐算法，把内容推荐完全放在本地进行，为您提供和筛选高质量内容
 - [工具箱](https://pan.baidu.com/s/1RGmFbaJEvx4S7YAvagCbdg?pwd=6666)
