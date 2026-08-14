@@ -906,7 +906,7 @@
 - [fcmfix](https://pan.baidu.com/s/1MtwOanTAnDIBcx8pdt8Icg?pwd=6666)：让fcm/gcm唤醒未启动的应用进行发送通知
 - [贴吧TS](https://pan.baidu.com/s/1aU2Rn4pvS01izHHlvnn52A?pwd=6666)：提供修改百度贴吧底栏等个性化功能
 - [知了](https://pan.baidu.com/s/1wi7w-D9BDPAlpSNZUPh2Sg?pwd=6666)：知乎功能扩展与增强模块
-- [哔哩哔哩](https://pan.baidu.com/s/16t1zGYA-Ula9z1j12-z1YA?pwd=6666)
+- [哔哩哔哩](https://pan.baidu.com/s/16t1zGYA-Ula9z1j12-z1YA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-0ELlCcvqiuxoUIlQXdOAoA1?pwd=9qmv#) [夸克](https://pan.quark.cn/s/9d1e3e3749d5?pwd=GUZi)
   - BiliPartFix：哔哩哔哩7.4.0（7040300）的兼容性修复模块，基于 libxposed Modern API 102。修复内容：恢复部分新式动态详情页的评论请求；在旧客户端中展示新式图文评论，并支持查看完整图片列表；恢复 EVA3/Opus 专栏的正文、图片和分隔内容；恢复“小站图文”动态详情页的标题、正文和图片；修复部分 UGC 合集被错误路由后无法正常进行分 P 播放的问题。
   - BiliFix White：哔哩哔哩国际版已经停更并下架一段，app内部分功能已失效。本模块目的是修复一些当前无法正常的功能，同时增加一些本地化功能，满足日常使用。
   - bili hook：哔哩哔哩7.4.0（7040300）的画质解锁与去广告模块，基于 libxposed Modern API 102。
