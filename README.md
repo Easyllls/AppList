@@ -1055,6 +1055,7 @@
   - tim小助手：对Tim,QQ进行的扩展优化的Xposed模块
   - TAssistant：以促进 TIM体验 为主的 Xposed 模块
 - [QQ](https://pan.baidu.com/s/1OljRTNqRUtSAlCT_93sOdA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzt9coL7-Du2AB1bIP4CdEhA1?pwd=jtmi#) [夸克](https://pan.quark.cn/s/ae6d9c20052e?pwd=YbZS)
+  - QQ Recall Guard：QQ 9.2.60（versionCode 13010，arm64-v8a）的 LSPosed 防撤回模块，基于 libxposed Modern API 102。
   - Miss-QQ农场
   - Elaris：轻量级QQ净化模块，功能不多，好在够用、够轻量
   - QAuxiliary
@@ -1131,6 +1132,7 @@
   - 红薯猪手
   - 小红书+
 - [微信](https://pan.baidu.com/s/19gJIzQ_eb321uYIJz3PrNQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzt9eZU47t0DRLz38Ioz211A1?pwd=zb22#) [夸克](https://pan.quark.cn/s/c3b8965b11f9?pwd=bk4r)
+  - 微信防撤回（8.0.69）：微信 8.0.69（versionCode 3022）的 LSPosed 防撤回模块，基于 libxposed Modern API 102。
   - WCX：提供美化主题、聊天增强、隐私防护、AI 自动回复等丰富的功能定制能力。
   - Hchat：功能增强、插件
   - Wtonec：微信/QQ 语音增强、文字转语音与语音包模块
