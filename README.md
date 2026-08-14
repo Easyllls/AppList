@@ -465,7 +465,7 @@
   - 黑客帝国动态壁纸：带有矩阵效果的免费动态壁纸
   - Paperize：开源、 Material 3 设计的动态壁纸更换应用
 - [垃圾电话拦截](https://pan.baidu.com/s/1iENQJhKzfskDP5b5kvS5Rw?pwd=6666)：Android 电话/短信拦截器
-- [安卓设备运行环境检测（Root检测）](https://pan.baidu.com/s/1AYD7QWPJyKxCeOuwG9VI6Q?pwd=6666)
+- [安卓设备运行环境检测（Root检测）](https://pan.baidu.com/s/1AYD7QWPJyKxCeOuwG9VI6Q?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-07gmB2pX0zuT8O6KWVEQDA1?pwd=5xfv#) [夸克](https://pan.quark.cn/s/ada61b91d15e?pwd=xwkN)
   - Play Integrity API Checker：通过 Play 完整性 API 获取有关您的设备完整性的信息
   - 小骨检测：为游戏而开发的设备环境检测软件
   - 春秋 Native Check：安卓原生环境完整性检测
@@ -945,7 +945,7 @@
   - XQE·雨季
   - VoltX
   - ACEnergy2
-- [上帝模式](https://pan.baidu.com/s/1YQVzGR8TPgymaVNpdOqBnQ?pwd=6666)：移除应用中你不想看到的界面
+- [上帝模式](https://pan.baidu.com/s/1YQVzGR8TPgymaVNpdOqBnQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-07pRkaSAUaH732f6bXcpvA1?pwd=2tx6#) [夸克](https://pan.quark.cn/s/8b3a62a79660?pwd=B6CV)：移除应用中你不想看到的界面
   - 上帝模式（原版）
   - 上帝模式Pro：在任意应用中修改或屏蔽你不喜欢的UI元素（第三方分支）
 - [存储空间隔离](https://pan.baidu.com/s/1-MxLWwV05LPz1ylgRPHfgQ?pwd=6666)
