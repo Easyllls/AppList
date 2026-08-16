@@ -976,7 +976,7 @@
 - [我不是开发者](https://pan.baidu.com/s/1fqQN51z6-RgIZdx7wGXOPw?pwd=6666)：隐藏开发者模式、USB 调试和无线调试。
 - [隐藏无障碍模式](https://pan.baidu.com/s/1K6QCudTPPfBCue5pSJEh7g?pwd=6666)
   - 非残！：使用xposed hook假装自己没有使用无障碍服务
-- [进程管理](https://pan.baidu.com/s/1PJjIMMpfZqftWpicu-Upgg?pwd=6666)
+- [进程管理](https://pan.baidu.com/s/1PJjIMMpfZqftWpicu-Upgg?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-AK-euULJGZA291J4EemGJA1?pwd=g796#) [夸克](https://pan.quark.cn/s/258e2a2bd697?pwd=J44K)
   - 不死鸟：通过修改进程的 MaxOomAdj 实现应用进程保活
   - NoActive：通过Hook系统框架实现Android墓碑
   - AppRetention：通过 Hook 系统 kill 逻辑 来实现 后台保活
