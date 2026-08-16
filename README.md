@@ -957,7 +957,7 @@
   - XInternalSD
   - SD重定向
   - NoLitter
-- [硬件参数模拟](https://pan.baidu.com/s/1oDYGszee3QaMhLT2VUEocA?pwd=6666)：针对指定应用模拟设备部分参数信息
+- [硬件参数模拟](https://pan.baidu.com/s/1oDYGszee3QaMhLT2VUEocA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-AKVqT5fntxZ9YIs50Nr8RA1?pwd=ppz6#) [夸克](https://pan.quark.cn/s/27a89f50a0f2?pwd=5zcQ)：针对指定应用模拟设备部分参数信息
   - 隐私保护器
   - 设备修改器2.0测试版
   - DeviceChanger
