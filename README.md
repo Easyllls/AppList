@@ -1257,7 +1257,8 @@
   - NekoSMS：基于表达式的短信拦截器
 - [无障碍-Daemon](https://pan.baidu.com/s/111BHRIbGvYyXAiT6t-3Z4w?pwd=6666)：锁定应用的无障碍辅助权限
 - [音量控制器](https://pan.baidu.com/s/1bg8P7EUtQdGZWzqyagekwA?pwd=6666)：单独控制指定应用的音量，支持哔哩哔哩、QQ音乐、网易云音乐、酷狗、酷我、Aplayer、喜马拉雅
-- [剪切板增强](https://pan.baidu.com/s/1bnTBvJ2fi9qO0PapAWFurw?pwd=6666)
+- [剪切板增强](https://pan.baidu.com/s/1bnTBvJ2fi9qO0PapAWFurw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-9BJ85MQ_1GARObUPXTxzvA1?pwd=rg9m#) [夸克](https://pan.quark.cn/s/05461dd989d5?pwd=Fw6s)
+  - SyncClipboard-通过 SyncClipboard Server、WebDAV 或 S3 兼容存储在多设备之间同步剪贴板内容。
   - 剪贴板过滤器：通过正则过滤APP写入剪贴板的内容，只过滤写入，防止各种口令、奇奇怪怪的字符串强x剪贴板。目前只支持有XSharedPreferences的xposed框架，比如lsposed。
   - XposedSmsCode：识别短信验证码并将验证码拷贝到剪切板，亦可以自动输入验证码
   - 原生剪贴板：高级剪切板管理器
