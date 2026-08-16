@@ -9,8 +9,7 @@
 <div align="center">
 
 # Applist
-![Profile Views](https://komarev.com/ghpvc/?username=Easyllls&color=blue)
-
+![Profile Views](https://komarev.com/ghpvc/?username=Easyllls&color=blue)｜![GitHub stars](https://img.shields.io/github/stars/Easyllls/AppList?style=flat-square)
 **本列表源于个人兴趣爱好收集整理，包含各种 Android、Android TV、Windows 应用，以及 Xposed 和 Magisk 模块。本列表长期更新。**
 
 <img src="https://raw.githubusercontent.com/Easyllls/AppList/refs/heads/main/icon/qq.png" width="20" height="20" valign="middle"> [QQ频道](https://pd.qq.com/s/akqek6a90?b=9)
