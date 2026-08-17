@@ -238,7 +238,7 @@
   - qBitController：能从 Android 设备中远程控制 qBittorrent 的软件
   - 1DM+：功能强大的 Android 下载管理器
   - Seal：简单的 Android 视频/音频下载器，遵循 Material Design 3 设计规范
-  - Advanced Download Manager：强大的安卓多线程下载工具
+  - Advanced Download Manager（ADM）：强大的安卓多线程下载工具
   - Gopeed：支持多平台、多协议的高速下载工具
   - tTorrent：功能强大的BT客户端
   - Flud：简单美观的BitTorrent安卓客户端
