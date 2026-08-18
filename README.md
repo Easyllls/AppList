@@ -215,7 +215,7 @@
 - [漫画阅读器](https://pan.baidu.com/s/1NjlofTXhHmdiobPqDGKjxQ?pwd=6666)
   - Komikku：一个免费且开源的漫画阅读器，基于 TachiyomiSY 与 Mihon/Tachiyomi 开发。
   - venera：支持阅读本地及网络漫画的漫画阅读器
-- [文件管理器](https://pan.baidu.com/s/1mzjlBVEKDoYpIXOcUaLQiw?pwd=6666)
+- [文件管理器](https://pan.baidu.com/s/1mzjlBVEKDoYpIXOcUaLQiw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-JvQOQtpVWfi2n3ypW0zVtA1?pwd=nbnw#) [夸克](https://pan.quark.cn/s/adbbf82433e5?pwd=kpNY)
   - File Navigator：高效、直观的方式来组织和管理设备中的文件
   - File Commander：功能丰富、支持多存储位置、带有隐私保护和转换功能的安卓文件管理器
   - Prism File Explorer：现代、功能丰富且轻量级的 Android 文件管理器
@@ -476,9 +476,9 @@
   - Applist Detector
 - [LiveBoot](https://pan.baidu.com/s/1xn2Wvaewwgsfnz1_UgwSAg?pwd=6666)：修改安卓设备的启动画面，类似于“Matrix 数字雨”效果
 - [Rays](https://pan.baidu.com/s/1EFgnI_607MxoCvD2OiLYqA?pwd=6666)：在本地记录、查找、管理表情包的工具
-- [Apk编辑](https://pan.baidu.com/s/10FZx1vScNtuqlvAhRsYOcA?pwd=6666)
+- [Apk编辑](https://pan.baidu.com/s/10FZx1vScNtuqlvAhRsYOcA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-JvRCugZJ3ZIwfWBC8acjtA1?pwd=ewkz#) [夸克](https://pan.quark.cn/s/173d88baa0af?pwd=vSg3)
   - AntiSplit M：拆分应用合并
-  - Apktool M：安卓应用安装包（apk）反编译应用
+  - Apktool M：安卓应用安装包（apk）反编译应用。适合开发者、翻译者、以及高级用户使用。它无需 Root 权限，就能对 Android 安装包进行多种操作，包括查看源码、编辑、签名和翻译。
 - [视频编辑](https://pan.baidu.com/s/1bGNda0yPAMJHexPL3iKq-w?pwd=6666)
   - VideoGuru：功能齐全强大的免费视频编辑器
 - [手势](https://pan.baidu.com/s/1pnFClX7hxf6pSh7N0gEsVQ?pwd=6666)
@@ -535,8 +535,8 @@
   - OK影视
   - XMBOX
   - EasyBox
-- [直播](https://pan.baidu.com/s/1mlfsCHEHWH9wzUFf0g1_Kg?pwd=6666)
-  - 纯粹直播：第三方聚合多平台直播播放器 支持多平台
+- [直播](https://pan.baidu.com/s/1mlfsCHEHWH9wzUFf0g1_Kg?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-JvPc0_CiQL3rrUuEJuYWEA1?pwd=4cm2#) [夸克](https://pan.quark.cn/s/d62ffdf1bf47?pwd=6K7G)
+  - 纯粹直播（Pure Live）：聚合多个第三方直播平台，并支持自定义直播源：Bilibili、虎牙直播（Huya）、斗鱼直播（Douyu）、快手（Kuaishou）、抖音（Douyin）、网易 CC 直播、Twitch、SOOP Live、自定义 M3U / M3U8 直播源
   - Simple Live：跨平台的聚合直播软件
 - [投屏](https://pan.baidu.com/s/12PlW8cRDo6lJZB8cgJxuvA?pwd=6666)
   - BubbleUPnP：将所有媒体流式传输到您家中的各种设备。
