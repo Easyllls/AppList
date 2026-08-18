@@ -963,7 +963,7 @@
   - 应用变量
   - Twig
   - 应用伪装
-  - Guise
+  - Guise（Reborn）：Guise 的社区维护续作，是一个按应用运行环境伪装模块。它只对用户在 Guise 中明确勾选并同步到 LSPosed 作用域的目标应用生效。
   - Device ID Masker Lite
   - Android Faker
 - [隐藏应用列表](https://pan.baidu.com/s/1AtMLxiFXKezqI0eeWDkDsA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzN-hNm4nkZ-2DPEQSBHbA0A1?pwd=9ssx#) [夸克](https://pan.quark.cn/s/00d4a0d3a728?pwd=87Rb)
