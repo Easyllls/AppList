@@ -538,6 +538,10 @@
 - [直播](https://pan.baidu.com/s/1mlfsCHEHWH9wzUFf0g1_Kg?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-JvPc0_CiQL3rrUuEJuYWEA1?pwd=4cm2#) [夸克](https://pan.quark.cn/s/d62ffdf1bf47?pwd=6K7G)
   - 纯粹直播（Pure Live）：聚合多个第三方直播平台，并支持自定义直播源：Bilibili、虎牙直播（Huya）、斗鱼直播（Douyu）、快手（Kuaishou）、抖音（Douyin）、网易 CC 直播、Twitch、SOOP Live、自定义 M3U / M3U8 直播源
   - Simple Live：跨平台的聚合直播软件
+  - ASeam
+  - iceliveviewer
+  - JustLive
+  - Z直播
 - [投屏](https://pan.baidu.com/s/12PlW8cRDo6lJZB8cgJxuvA?pwd=6666)
   - BubbleUPnP：将所有媒体流式传输到您家中的各种设备。
   - Web Video Caster：将网络视频投射到电视上
