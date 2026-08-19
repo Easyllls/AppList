@@ -1059,6 +1059,7 @@
 - [QQ](https://pan.baidu.com/s/1OljRTNqRUtSAlCT_93sOdA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzt9coL7-Du2AB1bIP4CdEhA1?pwd=jtmi#) [夸克](https://pan.quark.cn/s/ae6d9c20052e?pwd=YbZS)
   - QQ Recall Guard：QQ 9.2.60（versionCode 13010，arm64-v8a）的 LSPosed 防撤回模块，基于 libxposed Modern API 102。
   - Miss-QQ农场
+  - Miss-QQ宠物
   - Elaris：轻量级QQ净化模块，功能不多，好在够用、够轻量
   - QAuxiliary
   - QQHook：QQNT 绕过环境检测模块，防止冻结/踢下线。
