@@ -347,7 +347,7 @@
 - [虚拟机与模拟器](https://pan.baidu.com/s/1uIATcaTqSkEnVg3Qx2zKqQ?pwd=6666)
   - Eden：基于 Yuzu 的开源分支（fork）的 Switch 模拟器
   - Vectras VM：随时随地运行各种操作系统
-- [应用备份](https://pan.baidu.com/s/1TbR-s5-n6KPxyJE-ZE1APQ?pwd=6666)
+- [应用备份](https://pan.baidu.com/s/1TbR-s5-n6KPxyJE-ZE1APQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-OPK7mnqWXX4-7l8jp25FeA1?pwd=ytcc#) [夸克](https://pan.quark.cn/s/d551ba94ce5e?pwd=TG4H)
   - Restoid：现代化的、基于 root 权限的 Android 备份工具
   - 数据备份：免费开源的数据备份应用
   - AppDash：使用漂亮而现代的 UI 轻松管理和备份您的应用程序
