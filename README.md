@@ -808,6 +808,8 @@
 <details>
 <summary>🛠 <strong>Xposed Module</strong></summary>
 
+- [K（红果短剧）](https://pan.baidu.com/s/155nSeFt9sIZuyrrR-GQcJA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-OL7MUCatTHv8QfM1QbDwiA1?pwd=idtr#) [夸克](https://pan.quark.cn/s/e9f5ca648716?pwd=bjLv)：红果短剧客户端界面精简与体验增强模块。支持通过模块内置设置面板自由自定义多种沉浸式观影体验、手势拦截、自动最高画质及体验优化功能。
+- [SwiftBackupPrem](https://pan.baidu.com/s/1bluTIUaLbXj-4JZMUB3vtg?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-OL82b9OFw9u9ams4zBMBSA1?pwd=biep#) [夸克](https://pan.quark.cn/s/4f888f0a938d?pwd=2F7H)： 解锁 Swift Backup 高级功能并实现隔离的自定义 Firebase 后端集成。
 - [飞书助手](https://pan.baidu.com/s/14EE4Vi1VigbkBT_9Dm3jbA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzvOIRG2Il5b6HbWXOirIHnA1?pwd=wska#) [夸克](https://pan.quark.cn/s/53ab55940a0c?pwd=SWX1)
   - fuck lark：飞书增强 (防撤回 + 离职统计 + 资料归档
 - [ADB X](https://pan.baidu.com/s/1AQLJVBPcK4HOVZ8BFJKG0Q?pwd=6666)：基于 Xposed/LSPosed 的 Android 无线 ADB 增强模块，可固定无线调试端口、获取配对码、管理可信 WiFi，并实现连接指定 WiFi 自动开启/关闭无线调试。
