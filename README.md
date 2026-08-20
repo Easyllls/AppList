@@ -504,7 +504,8 @@
   - 我的听书：免费的聚合听书App
   - 小梨听书：有广告但资源不少
   - 章鱼听书：界面不错，无广告，就是两天必须用夸克网盘获取激活码
-- [电池工具](https://pan.baidu.com/s/1f6pog5u7-GyeNpvsFmq2kQ?pwd=6666)
+- [电池工具](https://pan.baidu.com/s/1f6pog5u7-GyeNpvsFmq2kQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-TQHf7-n9fvpSdL1ffwWIvA1?pwd=9ir3#) [夸克](https://pan.quark.cn/s/9fdc6a065222?pwd=DCiP)
+  - Beam：将实时电池指标显示为一个常驻状态栏通知，并在应用内提供完整的数据分析
   - Battery Charge Limiter（BCL）：Android 电池充电管理工具，支持在 root 权限下设置充电开始/停止时间、电压阈值，并提供自定义配置与小组件控制。
   - Battery Guru：监控手机的电池使用情况并估计其当前的健康状况
   - AccuBattery：安卓设备的电池监控与检测应用
@@ -1315,7 +1316,8 @@
 - [直播](https://pan.baidu.com/s/17vfKF2MIGZrYkMgzoVr8-A?pwd=6666)
   - Simple Live：多平台聚合直播，支持抖音、斗鱼、虎牙、快手
   - 纯粹直播：支持多平台 + 自定义源
-- [桌面](https://pan.baidu.com/s/1CirDDSQ28wKjVW9lSCNcBw?pwd=6666)
+- [桌面](https://pan.baidu.com/s/1CirDDSQ28wKjVW9lSCNcBw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-TQMnw5MLhcJop9dPUmt87A1?pwd=enai#) [夸克](https://pan.quark.cn/s/392ede9e714b?pwd=apn8)
+  - LTvLauncher：FLauncher 的一个分支版本，是一款面向 Android TV 的开源替代启动器。该定制版本加入了多项易用性增强功能和 UX（用户体验）优化。
   - FLauncher
   - Projectivy Launcher
   - Leanback启动器：第三方开源的 Google Leanback 启动器增强版
