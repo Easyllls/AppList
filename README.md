@@ -1070,7 +1070,7 @@
   - QStory
   - Serendipity
   - Funbox：表情包
-  - TCQT
+  - TCQT：QQ / TIM 消息防撤回多功能模块（4.0起支持以 Zygisk 模块方式运行（无需XP框架），将文件后缀.apk改为.zip刷入即可，虽然做了防呆处理，但还是不建议双注入。（使用 Zygisk注入时应该在LSP框架中停用模块））
   - TSBattery：省电
   - XAutoDaily：各种签到
   - 模了个块：QQ/TIM增强模块
