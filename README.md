@@ -1422,7 +1422,7 @@
   - qBittorrent：跨平台的 BitTorrent 客户端
 - [HFS](https://pan.baidu.com/s/10R8T8JQ5dTea2vlj5rbsFQ?pwd=6666)：一个 Web 文件服务器 通过虚拟文件系统，可以共享文件夹、单个文件
 - [Openlist](https://pan.baidu.com/s/1y7JZM4sQPSoszNM7QQsKNg?pwd=6666)：Openlist桌面客户端
-- [视频播放器](https://pan.baidu.com/s/14F6BqVXV-Pwg9HZWbgkFNQ?pwd=6666)
+- [视频播放器](https://pan.baidu.com/s/14F6BqVXV-Pwg9HZWbgkFNQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-ZuASzn6FIyfllrJ81OGVGA1?pwd=8rev#) [夸克](https://pan.quark.cn/s/40fd341508c7?pwd=8Nuc)
   - LLPlayer：专注于字幕功能的视频播放器，提供双字幕显示、AI 字幕生成、实时翻译、单词查询等语言学习相关功能，普通播放器中通常没有这些功能。
   - zyfun：原zyplayer，网络资源播放器，需要自备订阅
   - PotPlayer：Windows平台最优秀的影音全能格式播放器
@@ -1433,7 +1433,7 @@
   - VLC：强大的本地视频播放器
   - PiliPlus：使用Flutter开发的BiliBili第三方客户端
   - Shiru：个人动漫库管理软件，可实时观看和追踪您的收藏。轻巧、强大、速度飞快。无需等待！
-- [直播](https://pan.baidu.com/s/1FhP1q49YWUyNg4CU2HiOBQ?pwd=6666)
+- [直播](https://pan.baidu.com/s/1FhP1q49YWUyNg4CU2HiOBQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-Zu_HuG-EAHHWxhmPTJ81bA1?pwd=ve8v#) [夸克](https://pan.quark.cn/s/80a5221fea52?pwd=JDDF)
   - DTV-多平台直播轻量化桌面客户端，支持抖音、虎牙、快手、哔哩哔哩
   - Simple Live：跨平台的聚合直播软件
   - pure live
