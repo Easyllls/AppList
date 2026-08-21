@@ -169,7 +169,7 @@
 - [OpenList](https://pan.baidu.com/s/1iTqxnAYf0VUM76nrzcnZCA?pwd=6666)
   - OpenList Mobile：基于 Flutter 开发的 OpenList 移动应用
   - openlist：跨平台 GUI 客户端 + 内置OpenList服务端的应用
-- [IPTV](https://pan.baidu.com/s/1dhO4Hr8V_Ttkazqygmg-Uw?pwd=6666)
+- [IPTV](https://pan.baidu.com/s/1dhO4Hr8V_Ttkazqygmg-Uw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-Zvc-3Nqus6psrgYczfLYsA1?pwd=4p6a#) [夸克](https://pan.quark.cn/s/b73648cb019e?pwd=uWJw)
   - Fred TV：开源的自定义 IPTV 播放器
   - Astronia：适用于安卓设备的 M3U8 播放器
   - FCLiveTool：直播源预览+下载
