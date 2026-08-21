@@ -1302,7 +1302,7 @@
 - [AdGuard](https://pan.baidu.com/s/1Itk3xrFflxdC0KjZVlMXEQ?pwd=6666)：知名广告拦截软件电视版
 - [BlockAds](https://pan.baidu.com/s/1gaEtm46JIraGW9igvLblnQ?pwd=6666)：基于本地网络的广告拦截器
 - [通用安装程序](https://pan.baidu.com/s/1M1D_F6eAnosONcVXFRhr-w?pwd=6666)：现代化的 Android 软件包管理器，可以处理系统自带安装器无法完成的任务。它支持安装 APK、APK+、APKS、XAPK、APKM（包括拆分 APK 和 OBB 文件）、从网址下载软件包、管理已安装应用，并通过 Root、Shizuku 静默安装等更多功能
-- [IPTV](https://pan.baidu.com/s/1FqmhAooEflR2aPt3n_jl-Q?pwd=6666)
+- [IPTV](https://pan.baidu.com/s/1FqmhAooEflR2aPt3n_jl-Q?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-ZwIGx9WRxqwHAirDhQx50A1?pwd=xqa9#) [夸克](https://pan.quark.cn/s/1caf39d5f0c9?pwd=YBP2)
   - 我的电视：电视直播
   - WebView 电视：基于 腾讯X5 WebView 开发的电视直播App
   - OTT Navigator：IPTV 播放与管理工具
