@@ -1246,7 +1246,11 @@
 - [隐藏位置模拟](https://pan.baidu.com/s/1SjvsVbfnAp51_QLtrCbMiw?pwd=6666)
   - Hide Mock Location：隐藏有关“允许模拟位置”设置的信息。
   - HideMockLocation：防止检测到模拟位置。支持 Android 6-16。对于Xposed API 100 或更低版本：请使用v1.2.2或更低版本。对于Xposed API 101 或更高版本：建议使用v2.0.0 或更高版本。
-- [位置模拟](https://pan.baidu.com/s/1uKpvLEbSupiQCjFG4rMVSw?pwd=6666)
+- [位置模拟](https://pan.baidu.com/s/1uKpvLEbSupiQCjFG4rMVSw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-jRxE7tUarkiaFM-YTybzbA1?pwd=r9sx#) [夸克](https://pan.quark.cn/s/8f1d99e67cb7?pwd=aH48)
+  - AnyWhere：面向 Android 开发调试、功能测试与个人研究的位置环境模拟工具。基于位置模拟无须 root；可在 lsposed 中启用模块防检测（需 root）
+  - LocusMimic：位模拟模块。它支持地图选点、地点搜索、常用地点收藏、位置参数配置，并可向用户在 LSPosed 中选择的目标应用提供模拟位置。
+  - Fake Location：基于 LSPosed 的定位模拟模块，可模拟手机上报的 GPS 位置、基站、WiFi 与运动传感器数据。
+  - XposedFakeLocation：可让你针对特定应用伪造设备位置，并且可选择在系统级别启用位置伪装，无需使用开发者选项中的“模拟位置”。你可以精确自定义位置，包括传感器数据，并在指定半径范围内添加随机化，以增强隐私保护。
   - X定位保护
   - XposedHook
   - lataclysm
