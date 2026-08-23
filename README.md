@@ -1475,6 +1475,9 @@
 - [AppDataCleaner](https://pan.baidu.com/s/10ROWVgwkzvwPSUW64vjzjQ?pwd=6666)：appdata 文件夹清理工具
 - [RunCat](https://pan.baidu.com/s/1_TsfYHsO5LdbfAVscKhbQA?pwd=6666)：在您的任务栏上显示一个跟随CPU负载奔跑的小猫
 - [音乐播放器](https://pan.baidu.com/s/1BMeRmGMVdgTHQtZjwQCDNA?pwd=6666)
+  - NSMusicS：本地音乐播放器并支持私有云音乐扩展
+  - YesPlayMusic：高颜值的第三方网易云播放器
+  - VutronMusic：多数据源桌面音乐播放器
   - Songloft：面向个人用户的自托管工具，定位为帮助用户管理自己合法拥有的音乐文件。本项目自 v2.0 起由 MiMusic 更名为 Songloft
   - AlgerMusicPlayer：第三方网易云音乐播放器、本地服务、桌面歌词等
   - MusicBox：高颜值、插件化的本地音乐播放器
