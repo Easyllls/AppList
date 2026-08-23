@@ -819,7 +819,7 @@
 - [MiPushFramework](https://pan.baidu.com/s/1R69evCVpfmYEcesAtcorGg?pwd=6666)：在非 MIUI 系统上使用接近 MIUI 的小米系统级推送
 - [FuseHide](https://pan.baidu.com/s/130nXZGn1yXVxzzeotETopA?pwd=6666) [夸克](https://pan.quark.cn/s/7b96ba259198?pwd=sb8M) [迅雷](https://pan.xunlei.com/s/VOzSKaDZ9vdBRZZidx9K_lbxA1?pwd=i3ia#)：通过 Hook Android 的 MediaProvider/FUSE 文件系统层，实现对指定应用隐藏存储目录和文件
 - [PureDuPan](https://pan.baidu.com/s/1WAyvmRlVjpDquOJW1gxo9Q?pwd=6666)：百度网盘净化模块，用于屏蔽广告弹窗、简化界面、定制部分页面元素，并提供谨慎可选的性能优化项。
-- [WIfikeyXposed（无能的钥匙）](https://pan.baidu.com/s/1jWUclHxplANnZ0DIBzyTgQ?pwd=6666)：WiFi万能钥匙的 Xposed 模块，提供本地 SVIP 永久解锁、全模块去广告、底栏/工具栏精简等功能
+- [WIfikeyXposed（无能的钥匙）](https://pan.baidu.com/s/1jWUclHxplANnZ0DIBzyTgQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-jGtL6I3K2Mo1C6W2vDVtcA1?pwd=ktcx#) [夸克](https://pan.quark.cn/s/f08efdab22a7?pwd=NFUM)：WiFi万能钥匙的 Xposed 模块，提供本地 SVIP 永久解锁、全模块去广告、底栏/工具栏精简等功能
 - [YuePanel](https://pan.baidu.com/s/1BpNwsJqAY_YIkedSxR7SgA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOztAQrDnY2QAiah1tJW4DPOA1?pwd=bcng#)
 [夸克](https://pan.quark.cn/s/be541ca62faf?pwd=tKKy)：微信,QQ,抖音功能增强模块
 - [三星 One UI 专用](https://pan.baidu.com/s/1nIL8NyMfki0wkLkODCH4QQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzLkKU_kf5-8LF9MKbmjmHYA1?pwd=k3nf#) [夸克](https://pan.quark.cn/s/fddd2f7f53e2?pwd=SLxh)
