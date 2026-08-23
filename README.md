@@ -1370,6 +1370,7 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
+- [WindowTabs](https://pan.baidu.com/s/1aMrJ0LVZ2WD7VVS-pq_j8A?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-hfxbIhGyeboI_F_3CQOruA1?pwd=9vx3#)｜[夸克](https://pan.quark.cn/s/bef8060f83f5?pwd=GPRn)：可将多个应用窗口合并为类似浏览器标签页的形式，提高多任务处理效率。
 - [文件管理器](https://pan.baidu.com/s/1J8FuARmRvC3zYqgBwlysbQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-h_sa_I3K2Mo1C6W2tgT6wA1?pwd=j5n8#) [夸克](https://pan.quark.cn/s/be2a3ee06bcf?pwd=RnJn)
   - Explorer++（Explorerpp）：轻量的多标签文件管理器
   - QTTabBar：在 Windows 资源管理器中使用多标签功能
