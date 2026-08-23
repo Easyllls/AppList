@@ -1446,7 +1446,7 @@
   - DTV-多平台直播轻量化桌面客户端，支持抖音、虎牙、快手、哔哩哔哩
   - Simple Live：跨平台的聚合直播软件
   - pure live
-- [翻译与OCR](https://pan.baidu.com/s/1Tz73wMxZ812oziSDWq3Cew?pwd=6666)
+- [翻译与OCR](https://pan.baidu.com/s/1Tz73wMxZ812oziSDWq3Cew?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-hl_KiAZ1Yp8A68TekauLIA1?pwd=t8fy#) [夸克](https://pan.quark.cn/s/2446cac57e1e?pwd=GHhJ)
   - eSearch：全能的屏幕工具，支持截图、OCR、翻译、搜索、贴图、录屏和 AI 图像处理等
   - STranslate：即用即走的翻译、OCR工具「插件系统」
   - PillOCR：基于大模型api接近无感的OCR工具。
