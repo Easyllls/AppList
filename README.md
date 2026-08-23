@@ -1370,6 +1370,7 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
+- [gocron](https://pan.baidu.com/s/1oaw3mhs0zMacR_hXcXwiZg?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-hh3uHDcwSxi5kB6urUsKsA1?pwd=24v8#) [夸克](https://pan.quark.cn/s/cfe28568f0e8?pwd=wgMU)：轻量级定时任务管理平台，通过 Web 界面集中管理 Shell/HTTP 任务，支持秒级调度、失败重试、任务依赖、日志监控和多节点执行。
 - [WindowTabs](https://pan.baidu.com/s/1aMrJ0LVZ2WD7VVS-pq_j8A?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-hfxbIhGyeboI_F_3CQOruA1?pwd=9vx3#) [夸克](https://pan.quark.cn/s/bef8060f83f5?pwd=GPRn)：可将多个应用窗口合并为类似浏览器标签页的形式，提高多任务处理效率。
 - [文件管理器](https://pan.baidu.com/s/1J8FuARmRvC3zYqgBwlysbQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-h_sa_I3K2Mo1C6W2tgT6wA1?pwd=j5n8#) [夸克](https://pan.quark.cn/s/be2a3ee06bcf?pwd=RnJn)
   - Explorer++（Explorerpp）：轻量的多标签文件管理器
