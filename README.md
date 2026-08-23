@@ -1370,6 +1370,9 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
+- [文件管理器](https://pan.baidu.com/s/1J8FuARmRvC3zYqgBwlysbQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-h_sa_I3K2Mo1C6W2tgT6wA1?pwd=j5n8#) [夸克](https://pan.quark.cn/s/be2a3ee06bcf?pwd=RnJn)
+  - Explorer++（Explorerpp）：轻量的多标签文件管理器
+  - QTTabBar：在 Windows 资源管理器中使用多标签功能
 - [Project Graph](https://pan.baidu.com/s/1CYL8Ahi5fnKJkjq7A_4A5g?pwd=6666)：一款功能丰富、高效易用的桌面级节点图绘制工具。它支持快速创建多种类型的图表，帮助用户在头脑风暴、教学设计、项目规划等场景中快速构思并直观呈现。
 - [游戏](https://pan.baidu.com/s/1H8c7ojH4_K1dCPbNX4orRw?pwd=6666)
   - preserve-cd：是作者 skywind3000 发起的一个绝版游戏保护工程（Preserve-CD），把近 200 款濒临消失的 DOS 和早期 Windows 经典游戏整理成两张 CD 镜像，让这些游戏能够长期保存和再次运行。 
@@ -1533,7 +1536,6 @@
   - OpenShot Video Editor：一款免费、开源的视频编辑器，易于使用，快速上手，功能强大。
   - Shotcut：免费、开源、跨平台的视频编辑器
   - Video2X Qt6：Video2X 的 Qt6 GUI
-- [QTTabBar](https://pan.baidu.com/s/1mQFJitYmmiIngFcNHbUFNA?pwd=6666)：在 Windows 资源管理器中使用多标签功能
 - [Windows激活工具](https://pan.baidu.com/s/11JPOPhrp_Czj8mJNdP46sw?pwd=6666)
   - HEU KMS Activator：功能强大且易于使用的 Windows 和 Office 激活工具
 - [WSABuilds](https://pan.baidu.com/s/1xxczq5L0Xlmoyka5P3sWuw?pwd=6666)：适用于 Win10和11的带有Play服务面具和KSU的安卓子系统
@@ -1592,6 +1594,7 @@
   - Notepad Next：轻量级、跨平台的开源文本编辑器
   - Notepad ++
 - [截屏与录屏](https://pan.baidu.com/s/1Pam5tZV_JdJD8giJM958yQ?pwd=6666)
+  - Simple Screen Recorder：轻量级屏幕录制应用，可轻松捕获屏幕上的高质量视频和音频
   - Cap：Loom 的开源替代方案。它提供快速屏幕录制、精致的本地编辑、即时分享链接、评论、转录文本、数据分析、团队工作区、自定义域名、自定义 S3 存储，以及完整的自托管能力，让你在需要时拥有完全控制权。
   - ShareX：免费且开源的 Windows 截图、屏幕录制、文件分享以及生产力应用。它专为需要快速屏幕捕获、强大的截图编辑、自动化分享、自定义上传目标以及丰富实用功能的用户设计，并将这些功能集成在一个轻量级桌面应用中。
   - PixPin：快速灵活的截图、录屏、OCR 工具
