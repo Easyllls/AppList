@@ -1556,11 +1556,11 @@
 - [远程桌面](https://pan.baidu.com/s/1ft53kAFSFCXqZ5fUSjcAQA?pwd=6666)
   - CrossDesk
   - RustDesk
-- [自动化工具](https://pan.baidu.com/s/19mnt4CbFnEwXRw17tWNR3Q?pwd=6666)
+- [自动化工具](https://pan.baidu.com/s/19mnt4CbFnEwXRw17tWNR3Q?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-j-s1AfhDlvzw4Yd_eDFlqA1?pwd=e8p4#) [夸克](https://pan.quark.cn/s/3bc129f9e3ec?pwd=KtqD)
   - FingerLike：简单的基于 Flutter 构建的鼠标连点器
   - 点点精灵：专业的 Windows 自动化操作软件
   - zTasker：强大的 自动任务 工具，无需编程即可设置复杂的自动化流程
-  - RMT：按键宏工具，让用户通过简单配置即可实现多种自动化操作
+  - RMT（若梦兔）：按键宏工具，让用户通过简单配置即可实现多种自动化操作
   - Shutdown Timerssic：定时关机工具
   - TinyTask：人人都能实现自动化
   - OP Auto Clicker：非常实用、安全的鼠标自动点击工具
@@ -1616,7 +1616,7 @@
   - OpenScreen：免费开源的专业级屏幕录像工具
 - [ZyperWin++](https://pan.baidu.com/s/1Nen_bZNzFcQhfAjBJk1yrQ?pwd=6666)：轻便的Windows优化工具
 - [Winhance](https://pan.baidu.com/s/12BaWKEZjd6ug8_iDjDVb0w?pwd=6666)：PowerShell GUI 应用程序，旨在优化和自定义您的 Windows 体验。
-- [剪切板](https://pan.baidu.com/s/1uCF42LsXlhXiUNPDvgbIEQ?pwd=6666)
+- [剪切板](https://pan.baidu.com/s/1uCF42LsXlhXiUNPDvgbIEQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-j-rH8-NOzJySwa8e_4hCMA1?pwd=k258#) [夸克](https://pan.quark.cn/s/f355c49cb0f7?pwd=S3W6)
   - EcoPaste
   - QuickClipboard
   - Ditto
