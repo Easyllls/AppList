@@ -1591,7 +1591,8 @@
 - [WizTree](https://pan.baidu.com/s/1pYRoFAOJx7w-rnRCWarphw?pwd=6666)：超高速的磁盘空间分析工具 并提供直观的可视化展示
 - [OpenSpeedy](https://pan.baidu.com/s/1CstI3LFaRIAy011NQyIX3g?pwd=6666)：游戏加速工具，加速浏览器、网盘也不错
 - [Windows轻松设置](https://pan.baidu.com/s/1rhMjwmzqMq45PSH7BsJhXg?pwd=6666)：专门为Win10/11系统设计的工具软件
-- [文本编辑](https://pan.baidu.com/s/16vRQm2oMrwKwhbn0yv4HhA?pwd=6666)
+- [文本编辑](https://pan.baidu.com/s/16vRQm2oMrwKwhbn0yv4HhA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-hiNhw2BDG3QK7wXmW9h5ZA1?pwd=b3du#) [夸克](https://pan.quark.cn/s/17f6cd3b32b8?pwd=JKNG)
+  - Lite XL：轻量快速的代码与文本编辑器，低资源占用、现代编辑功能和 Lua 插件扩展能力，可通过丰富插件打造接近 IDE 的开发体验。
   - Notepad3：快速且轻量级的基于 Scintilla 的文本编辑器
   - Notepad4：基于 Scintilla 的轻量级文本编辑器
   - Notepad Next：轻量级、跨平台的开源文本编辑器
