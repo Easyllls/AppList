@@ -1395,7 +1395,7 @@
   - HypoMux：专为 Windows 平台打造的多网卡带宽叠加工具。无需复杂配置，一键聚合多网卡（有线、Wi-Fi网卡、手机热点等），实现物理级多线下载与叠加网速。
   - ProxyPin：抓包
   - SmartPing：一个综合性网络质量(PING)检测工具，支持正/反向PING绘图、互PING拓扑绘图与报警、全国PING延迟地图与在线检测工具等功能
-- [QQ辅助工具](https://pan.baidu.com/s/1aQRQY0JP7SLycYeRVK7aJQ?pwd=6666)
+- [QQ辅助工具](https://pan.baidu.com/s/1aQRQY0JP7SLycYeRVK7aJQ?pwd=6666) [夸克](https://pan.quark.cn/s/3831e090be16?pwd=wad9) [迅雷](https://pan.xunlei.com/s/VP-hf2g5hGyeboI_F_3CPaCCA1?pwd=qjkm#)
   - QQ Chat Exporter（NapCat）：QQ聊天记录、表情包导出工具 | 自动化提取图片/文字/图片消息，支持TXT/JSON导出，高效备份，支持NT QQ
 - [工具箱](https://pan.baidu.com/s/1uaeHAUwSzBV-pYGfVPNB7Q?pwd=6666)
   - 图吧工具箱 WinUI 3：图吧工具箱的重构版 - 基于 WinUI 3 / .NET 10 全新打造，更现代化的PC硬件检测与系统维护工具集。收录 82 款专业工具，一键启动，完全免费离线运行。
