@@ -1243,7 +1243,7 @@
   - SimpleHook
   - 崩溃日志捕捉工具/Crash Catch Tool
   - XAppDebug
-- [隐藏位置模拟](https://pan.baidu.com/s/1SjvsVbfnAp51_QLtrCbMiw?pwd=6666)
+- [隐藏位置模拟](https://pan.baidu.com/s/1SjvsVbfnAp51_QLtrCbMiw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-jU0Lu5MLhcJop9dPh1T7EA1?pwd=34id#) [夸克](https://pan.quark.cn/s/c0267724fc55?pwd=y425)
   - Hide Mock Location：隐藏有关“允许模拟位置”设置的信息。
   - HideMockLocation：防止检测到模拟位置。支持 Android 6-16。对于Xposed API 100 或更低版本：请使用v1.2.2或更低版本。对于Xposed API 101 或更高版本：建议使用v2.0.0 或更高版本。
 - [位置模拟](https://pan.baidu.com/s/1uKpvLEbSupiQCjFG4rMVSw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-jRxE7tUarkiaFM-YTybzbA1?pwd=r9sx#) [夸克](https://pan.quark.cn/s/8f1d99e67cb7?pwd=aH48)
