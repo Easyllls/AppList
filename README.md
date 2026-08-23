@@ -624,7 +624,7 @@
   - NeoZygisk
 - [Universal GMS Doze](https://pan.baidu.com/s/1UWrPD7m2K1n3CkY6vFNcvA?pwd=6666)：让GMS不那么耗电
 - [Play Integrity Fix](https://pan.baidu.com/s/1XYRT5S6pg5d3UXMDFf_KwA?pwd=6666)：修复 Play Integrity 和 SafetyNet 认证
-- [Play Integrity Fix INJECT](https://pan.baidu.com/s/1Jof28xubN6VK9yTxaxLFJg?pwd=6666)：利用Zygisk以注入的方式实现修复Play认证
+- [Play Integrity Fix INJECT](https://pan.baidu.com/s/1Jof28xubN6VK9yTxaxLFJg?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-jCi6sqq0yhI3IxjHd36oDA1?pwd=eyr7#) [夸克](https://pan.quark.cn/s/1e6206791cbe?pwd=QgUi)：利用Zygisk以注入的方式实现修复Play认证
 - [China Play Integrity Fix](https://pan.baidu.com/s/1IH40ulTXSPVfStyjZPjP5g?pwd=6666)：对国内版ROM定制开发并提供更多功能
   - PIFS：高级版，拥有更多功能
   - PIFB：轻量版
@@ -722,7 +722,8 @@
 - [Tricky Store OSS](https://pan.baidu.com/s/1j3cqc1YwaK1rCN_0-XXarw?pwd=6666)：Tricky Store 模块的开源替代品
 - [Tricky Store (Fork)](https://pan.baidu.com/s/1cHl_FjtxrxjB6kFAu_hwpQ?pwd=6666)：Tricky Store的分支版本
 - [Tricky Addon](https://pan.baidu.com/s/1BRPTGRdOfJfz1InjNyAvhA?pwd=6666)：用于配置 Tricky Store 的 KSU WebUI
-- [OpenEUICC](https://pan.baidu.com/s/1Z3ZkIlC2USUu10Hf6yMcWg?pwd=6666)：让不支持的安卓设备支持外置eSIM卡
+- [OpenEUICC](https://pan.baidu.com/s/1Z3ZkIlC2USUu10Hf6yMcWg?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-jChOrgv_szR66mwJdjH34A1?pwd=r3dw#) [夸克](https://pan.quark.cn/s/6c90d3689b9f?pwd=HHrD)：让不支持的安卓设备支持外置eSIM卡
+  - EasyEUICC（非Magisk模块，为了方便整理放在一起）
 - [LiveBoot](https://pan.baidu.com/s/1kvrPB2Vv7_9XHTIPMSTJBg?pwd=6666)：为 Android 设备启用 Unix 风格启动动画
 - [自动神仙救砖](https://pan.baidu.com/s/1KCS8C3PcTbk25XO1fC0pCw?pwd=6666)：卡开机自动禁用Magisk模块
 - [Open Webview](https://pan.baidu.com/s/16szlhzQezq87gS6-yWJreQ?pwd=6666)：替换系统WebView
