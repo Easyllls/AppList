@@ -1474,7 +1474,7 @@
   - LANDrop：跨平台局域网文件传输工具
 - [AppDataCleaner](https://pan.baidu.com/s/10ROWVgwkzvwPSUW64vjzjQ?pwd=6666)：appdata 文件夹清理工具
 - [RunCat](https://pan.baidu.com/s/1_TsfYHsO5LdbfAVscKhbQA?pwd=6666)：在您的任务栏上显示一个跟随CPU负载奔跑的小猫
-- [音乐播放器](https://pan.baidu.com/s/1BMeRmGMVdgTHQtZjwQCDNA?pwd=6666)
+- [音乐播放器](https://pan.baidu.com/s/1BMeRmGMVdgTHQtZjwQCDNA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-hXgC4LjxusgpzVQO1G1x-A1?pwd=fwnx#) [夸克](https://pan.quark.cn/s/b12a9f30e9b4?pwd=FYbu)
   - NSMusicS：本地音乐播放器并支持私有云音乐扩展
   - YesPlayMusic：高颜值的第三方网易云播放器
   - VutronMusic：多数据源桌面音乐播放器
