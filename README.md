@@ -50,7 +50,7 @@
   - 二维码生成器
   - QR Scanner
   - Qart
-- [日历与倒数日](https://pan.baidu.com/s/1pw-Mmdmp2XjCpRXuiOyprQ?pwd=6666)
+- [日历与倒数日](https://pan.baidu.com/s/1pw-Mmdmp2XjCpRXuiOyprQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-j6jAYBx8Yd7t9kt1hNUSzA1?pwd=48e4#) [夸克](https://pan.quark.cn/s/c90fb5522c41?pwd=8dfB)
   - Reminder：一款简洁的安卓纪念日/倒数日管理应用，支持倒数与正数两种模式，帮助你轻松掌握重要日期。应用完全使用 Jetpack Compose 构建。
   - KashCal：一款以隐私为核心的 Android 日历应用，支持 iCloud 与 CalDAV 原生同步，整合本地、订阅和联系人日历，并提供离线使用与无追踪的安全体验
 - [Su Fei](https://pan.baidu.com/s/1CQdfxzqnuNVHE1hYCqmEgg?pwd=6666)：基于 Material 3 设计规范的极简中国传统诗词应用。它不只是一个工具，更是一个宁静的数字阅读空间
@@ -179,7 +179,7 @@
   - Televizo
 - [BetterCounter](https://pan.baidu.com/s/1QUASCbg4uWBLH-vuK-F2zw?pwd=6666)：简单易用的习惯追踪每日计数器
 - [Script Runner for Termux](https://pan.baidu.com/s/14qhnLP3hS6Jj2hd6oDfuJA?pwd=6666)：通过 Termux 管理、编写和执行脚本的安全 Android 桥接工具
-- [天气](https://pan.baidu.com/s/1tYStC0dsQroktWHBxU8h8A?pwd=6666)
+- [天气](https://pan.baidu.com/s/1tYStC0dsQroktWHBxU8h8A?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-j6oVIoCrUySsvoTvKCbWjA1?pwd=fcpv#) [夸克](https://pan.quark.cn/s/df0aa1267828?pwd=WmP5)
   - YoWindow：以真实动态景观为核心的可视化天气应用
   - Weather Master：开源功能强大且设计精美仿 Google Pixel 天气应用
   - Weather M8：简单高效的天气预报
@@ -203,7 +203,7 @@
   - Autox.js：安卓平台上的JavaScript自动化工具
 - [Hypatia](https://pan.baidu.com/s/1kVvIjmzynGCZj-2zwHLkyQ?pwd=6666)：实时恶意软件扫描器
 - [BoostX](https://pan.baidu.com/s/1Fe2EKl1Eu0Zu8Run1cGfRg?pwd=6666)：极简音量增强器
-- [游戏](https://pan.baidu.com/s/1AQs19tKsl6NU3csoVu9iLQ?pwd=6666)
+- [游戏](https://pan.baidu.com/s/1AQs19tKsl6NU3csoVu9iLQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-j6i9u5lb63Wru_cXDgZy2A1?pwd=7i2n#) [夸克](https://pan.quark.cn/s/70947adc1610?pwd=42qj)
   - Block Drop：使用 Flutter 构建的现代版俄罗斯方块克隆游戏
   - Flappy Bird：飞扬的小鸟复刻版，在还原原版游戏体验的同时引入了一系列增强功能
 - [计算器](https://pan.baidu.com/s/1HvhwlFORNB1OhZyQPPmZ0A?pwd=6666)
@@ -245,7 +245,7 @@
   - LibreTorrent：免费、开源、功能齐全的 Android torrent 客户端
 - [WebToApp](https://pan.baidu.com/s/1H7jl8WO6NSNYsFmh5RurQw?pwd=6666)：将任意网站或媒体转换为安卓软件
 - [GameResChange](https://pan.baidu.com/s/1Vqs5-T9BsL0YeMrBpmsmnA?pwd=6666)：更改任意应用或游戏的分辨率
-- [哔哩哔哩](https://pan.baidu.com/s/1a7cnf5kJ4fadW2SJD4OGzA?pwd=6666)
+- [哔哩哔哩](https://pan.baidu.com/s/1a7cnf5kJ4fadW2SJD4OGzA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-j6hNkUVDox8_VbWb3G-juA1?pwd=xwyq#) [夸克](https://pan.quark.cn/s/e7fd49d18aa2?pwd=wTeW)
   - BiliPai：现代化的 Bilibili 第三方 Android 客户端
   - PiliPro：使用Flutter开发的BiliBili第三方客户端
   - PiliPlus：使用Flutter开发的BiliBili第三方客户端
@@ -310,7 +310,7 @@
   - IronFox：基于 Firefox 的安全、注重隐私的安卓网络浏览器
   - Kiwi Browser：基于Chromium内核开发的浏览器，支持插件
 - [Dhizuku](https://pan.baidu.com/s/1sODmVeweK3TMT_zx50ZLXQ?pwd=6666)：可以将设备所有者权限共享给其他应用的工具
-- [应用安装器](https://pan.baidu.com/s/1fNNTj0DUyx4vSkiSjH5lHQ?pwd=6666)
+- [应用安装器](https://pan.baidu.com/s/1fNNTj0DUyx4vSkiSjH5lHQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-j6k-xY4YE9a6_gIYOuQ-vA1?pwd=iit3#) [夸克](https://pan.quark.cn/s/8dbf2a2a1ba3?pwd=9qGc)
   - Universal Installer：现代化的 Android 软件包管理器，可以处理系统自带安装器无法完成的任务。它支持安装 APK、APK+、APKS、XAPK、APKM（包括拆分 APK 和 OBB 文件）、从网址下载软件包、管理已安装应用，并通过 Root、Shizuku 静默安装等更多功能
   - anyapk：在你自己的设备上安装任何 APK
   - InstallerX Revived：现代且功能强大的安卓应用安装器
