@@ -1383,7 +1383,9 @@
   - Dism++：一款集 系统清理、优化、备份、还原、镜像管理、软件管理 于一体的 Windows 高级维护工具。相比传统系统工具，它提供了更直观的 GUI 界面，让用户无需输入复杂命令即可管理 Windows 底层组件。
   - Drive Icon Manager：一键轻松删除Windows平台“此电脑”及“资源管理器侧边栏”中的第三方图标，使你不再受无用的网盘图标影响。
 - [ChatLab](https://pan.baidu.com/s/1bFM5qM_O2OVxg_ngqXMKAQ?pwd=6666)：专注于聊天记录分析的本地化应用。通过 AI Agent 和灵活的 SQL 引擎，你可以自由地分析你的聊天记录数据。目前支持WhatsApp, LINE, QQ, Discord, Instagram, Telegram, iMessage, and Google Chat. Coming next: Messenger and KakaoTalk.
-- [PointerStick](https://pan.baidu.com/s/1iw94tbWuK5DEHmOHfVs7nw?pwd=6666)：演示辅助工具，可在鼠标指针旁显示一个醒目的虚拟指示棒（Pointer Stick），帮助观众快速定位鼠标位置，特别适合会议演示、课堂教学、直播录屏和大屏展示。
+- [鼠标指示器](https://pan.baidu.com/s/1iw94tbWuK5DEHmOHfVs7nw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-hjRVCawKmw3HjLXgPG1Y0A1?pwd=nu77#) [夸克](https://pan.quark.cn/s/bfec8f9b5234?pwd=2beW)
+  - ClickShow：用于提示鼠标点击、鼠标位置。
+  - PointerStick：演示辅助工具，可在鼠标指针旁显示一个醒目的虚拟指示棒（Pointer Stick），帮助观众快速定位鼠标位置，特别适合会议演示、课堂教学、直播录屏和大屏展示。
 - [FxSound](https://pan.baidu.com/s/1w3DzbjGl4m-YzDr1twDfqw?pwd=6666)：音频增强软件，通过实时音频处理技术改善系统声音效果，支持均衡器（EQ）、低音增强、音量提升、虚拟环绕等功能，让音乐、游戏、电影和语音通话拥有更清晰、更饱满的听感。兼容 Windows 7/10/11。
 - [ExplorerPatcher](https://pan.baidu.com/s/18lGTJZPiIhYjRRiYitLPxg?pwd=6666)：Windows11 界面增强工具，通过恢复 Windows 10/经典 Windows 的资源管理器、任务栏、开始菜单等组件，让 Windows 11 拥有更熟悉、更高效的操作体验，同时提供丰富的个性化自定义选项。
 - [WinUtil](https://pan.baidu.com/s/15XR-j07a9N7JCL0v9LQ_BQ?pwd=6666)：一套精心整合的 Windows 系统维护工具（PowerShell脚本），可快速安装常用软件、精简系统、优化各项设置、排查并修复常见问题，以及配置 Windows 更新。建议每次全新安装 Windows 后都运行一次。
@@ -1445,6 +1447,7 @@
   - Simple Live：跨平台的聚合直播软件
   - pure live
 - [翻译与OCR](https://pan.baidu.com/s/1Tz73wMxZ812oziSDWq3Cew?pwd=6666)
+  - eSearch：全能的屏幕工具，支持截图、OCR、翻译、搜索、贴图、录屏和 AI 图像处理等
   - STranslate：即用即走的翻译、OCR工具「插件系统」
   - PillOCR：基于大模型api接近无感的OCR工具。
   - DocuTranslate：基于大语言模型的轻量级本地文件翻译工具
