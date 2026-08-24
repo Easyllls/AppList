@@ -1679,6 +1679,7 @@
 
 **本列表由个人基于兴趣收集整理，所有内容均来源于网络公开渠道，未进行任何修改，仅用于学习与交流用途。请于下载后 24 小时内删除。如涉及版权问题，请联系处理。**
 
+# 📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Easyllls&theme=github-compact" width="100%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Easyllls&theme=merko" width="100%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Easyllls&theme=tokyo-night" width="100%"/>
+
+<img src="https://metrics.lecoq.io/Easyllls" width="100%"/>
