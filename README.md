@@ -23,13 +23,20 @@
 
 **本列表源于个人兴趣爱好收集整理，包含各种 Android、Android TV、Windows 应用，以及 Xposed 和 Magisk 模块。本列表长期更新。**
 
-## 🚧 更新中 🚧
-
-**部分应用早已停更，甚至无法使用，这里仅做备份**
-
 </div>
 
 ---
+
+<div align="center">
+
+<h2>⚡ 更新中 ⚡</h2>
+
+<p>
+部分应用早已停更，甚至无法使用<br>
+这里仅做备份与整理
+</p>
+
+</div>
 
 <details>
 <summary>📱 <strong>Android</strong></summary>
@@ -1677,11 +1684,15 @@
 
 </details>
 
+---
+
 ## 📈 Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Easyllls&theme=github-compact" width="100%"/>
 </p>
+
+---
 
 ## 📜 Disclaimer
 
