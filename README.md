@@ -160,7 +160,8 @@
   - Install with Options：使用 Shizuku 在设备上安装 APK 的简单应用（带高级选项）
   - Shizuku 安装器：一个无需Root权限的第三方应用安装器
   - Nrfr：免 Root 修改系统内的运营商配置参数
-- [广告拦截](https://pan.baidu.com/s/1-ru29N55aZQDI2IYJk63mw?pwd=6666)
+- [广告拦截](https://pan.baidu.com/s/1-ru29N55aZQDI2IYJk63mw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-mvp1LqygEwWjrXV-Is-4xA1?pwd=j9sr#) [夸克](https://pan.quark.cn/s/dbe805a87740?pwd=pxPw)
+  - ADNS：将功能丰富的 Android 私人 DNS 客户端与原生 NextDNS 集成结合，为你提供对设备 DNS 设置以及 NextDNS 账户的完整控制。
   - TrackerControl：监控并控制追踪器和广告
   - BlockAds：一款免费开源的基于本地网络的广告拦截器
   - AdAway：适用于安卓设备的开源 Hosts 文件管理应用
