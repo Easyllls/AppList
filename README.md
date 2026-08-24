@@ -9,7 +9,7 @@
 <div align="center">
 
 # Applist
-![GitHub stars](https://img.shields.io/github/stars/Easyllls/AppList?style=flat-square) ![Profile Views](https://komarev.com/ghpvc/?username=Easyllls&color=blue) [![QQ Channel](https://img.shields.io/badge/QQ_Channel-加入-12B7F5?logo=tencentqq&logoColor=white)](https://pd.qq.com/s/akqek6a90?b=9)
+![Profile Views](https://komarev.com/ghpvc/?username=Easyllls&style=flat-square&color=blue&label=👁%20Views) [![GitHub Stars](https://img.shields.io/github/stars/Easyllls/AppList?style=flat-square&logo=github&logoColor=white&label=Stars)](https://github.com/Easyllls/AppList/stargazers) [![QQ Channel](https://img.shields.io/badge/QQ%20Channel-加入-12B7F5?style=flat-square&logo=qq&logoColor=white)](https://pd.qq.com/s/akqek6a90?b=9)
 
 **本列表源于个人兴趣爱好收集整理，包含各种 Android、Android TV、Windows 应用，以及 Xposed 和 Magisk 模块。本列表长期更新。**
 
