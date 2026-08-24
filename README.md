@@ -16,7 +16,6 @@
 [![Last Commit](https://img.shields.io/github/last-commit/Easyllls/AppList?style=flat-square&logo=git&label=Updated)](https://github.com/Easyllls/AppList/commits)
 [![Issues](https://img.shields.io/github/issues/Easyllls/AppList?style=flat-square&logo=sentry&logoColor=white)](https://github.com/Easyllls/AppList/issues)
 [![QQ Channel](https://img.shields.io/badge/QQ%20Channel-加入-12B7F5?style=flat-square&logo=qq&logoColor=white)](https://pd.qq.com/s/akqek6a90?b=9)
-
 [![百度网盘](https://img.shields.io/badge/百度网盘-下载-00A4FF?style=flat-square&logo=baidu&logoColor=white)](https://pan.baidu.com/s/1NhRycJCVJHVo4ilZbqQiug?pwd=6666)
 [![夸克网盘](https://img.shields.io/badge/夸克网盘-下载-1677FF?style=flat-square&logo=googledrive&logoColor=white)](https://pan.quark.cn/s/6f920ff59e21?pwd=gUEh)
 [![迅雷网盘](https://img.shields.io/badge/迅雷网盘-下载-00A4FF?style=flat-square&logo=googledrive&logoColor=white)](https://pan.xunlei.com/s/VOu2aMA8QqLR0IsFoc_kTXqjA1?pwd=5em6#)
@@ -27,16 +26,9 @@
 
 ---
 
-<div align="center">
+## 🏷 Applist
 
-<h2>⚡ 更新中 ⚡</h2>
-
-<p>
-部分应用早已停更，甚至无法使用<br>
-这里仅做备份与整理
-</p>
-
-</div>
+**部分应用早已停更，甚至无法使用，这里仅做备份与整理（以下目录点击即可展开）**
 
 <details>
 <summary>📱 <strong>Android</strong></summary>
