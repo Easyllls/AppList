@@ -1675,11 +1675,12 @@
 
 </details>
 
-# 声明
+## 📈 Activity Graph
 
-**本列表由个人基于兴趣收集整理，所有内容均来源于网络公开渠道，未进行任何修改，仅用于学习与交流用途。请于下载后 24 小时内删除。如涉及版权问题，请联系处理。**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Easyllls&theme=github-compact" width="100%"/>
+</p>
 
-# 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Easyllls&theme=github-compact" width="100%"/>
+## 📜 声明
 
-<img src="https://metrics.lecoq.io/Easyllls" width="100%"/>
+**本项目列表由个人基于兴趣爱好收集整理，所有内容均来源于互联网公开渠道，未对原始内容进行任何修改。相关内容版权归原作者及相关权利方所有，本项目仅用于学习与交流，不代表对所收录内容的推荐、认可或授权。请在合法合规的范围内使用，如涉及版权或其他权益问题，请联系处理，我会在核实后及时调整。**
