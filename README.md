@@ -1678,3 +1678,11 @@
 # 声明
 
 **本列表由个人基于兴趣收集整理，所有内容均来源于网络公开渠道，未进行任何修改，仅用于学习与交流用途。请于下载后 24 小时内删除。如涉及版权问题，请联系处理。**
+
+## 📊 Statistics
+
+[![Star History](https://api.star-history.com/svg?repos=Easyllls/AppList&type=Date)](https://www.star-history.com/#Easyllls/AppList&Date)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Easyllls&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Easyllls&layout=compact)
