@@ -836,7 +836,7 @@
   - KnoxPatch：在已 Root 的三星设备上恢复官方应用和部分功能
   - One UI X：释放三星 One UI 的无限可能，旨在提供高度可定制的系统体验，解除烦人的限制，并为状态栏、快捷设置以及系统自带应用注入强大的增强功能。
   - OneDesign：OneUI 8.0 自定义增强框架，在系统级别对多个应用进行定制，提供本地化支持、功能增强和系统优化。支持：Android 16+ (OneUI 8.0+)
-- [浏览器增强](https://pan.baidu.com/s/1l9nfpBGGSPwg1JeUE3HXEw?pwd=6666)
+- [浏览器增强](https://pan.baidu.com/s/1l9nfpBGGSPwg1JeUE3HXEw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-wwKsKC0kbXMEGSRMaBwmlA1?pwd=aa3j#) [夸克](https://pan.quark.cn/s/ae4247e12f32?pwd=VCF9)
   - ChromePie：给 Chrome 浏览器加 Pie 菜单
   - ChromeXt：向基于 Chromium 和基于 WebView 的浏览器添加 UserScript 和 DevTools 支持。
   - BetterVia：解除 Via 浏览器白名单限制
@@ -1055,10 +1055,10 @@
 - [VideoSpeed](https://pan.baidu.com/s/1KpdHCf2QTo3FOkl3o1MbFQ?pwd=6666)：用于调节多个应用的视频播放速度
 - [LibrePods](https://pan.baidu.com/s/1v-KykrmsbxmsE7iJxFF5sQ?pwd=6666)：让 AirPods 从苹果生态中解放出来，在安卓设备上解锁苹果生态中独有功能
 - [Lotus](https://pan.baidu.com/s/1zDP8kIhu-CHr8SarkuiqMA?pwd=6666)：一个多功能的增强模块，去广告、屏蔽弹窗、无水印下载等，兼容主流短视频应用
-- [虚拟摄像头](https://pan.baidu.com/s/1jTFhB2R_YV6w-DJf6_Q6Nw?pwd=6666)：拦截相机的预览和拍照请求，并将画面替换为自定义图片或视频
+- [虚拟相机](https://pan.baidu.com/s/1jTFhB2R_YV6w-DJf6_Q6Nw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-wxXNDyscdQgDudIik75VVA1?pwd=e6dd#) [夸克](https://pan.quark.cn/s/38a88cd30b50?pwd=BWWC)：拦截相机的预览和拍照请求，并将画面替换为自定义图片或视频
   - VCAMSX
   - VCAM
-  - CamSwap
+  - CamSwap：拦截 Android 系统相机的预览和拍照请求，并将预览画面替换为用户指定的视频。
 - [微博](https://pan.baidu.com/s/1YRISc-nIw2EJRtUA0x0l5w?pwd=6666)
   - 微博猪手
   - MyXposed：微博轻享版
