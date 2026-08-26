@@ -595,6 +595,7 @@
 <details>
 <summary>🎭 <strong>Magisk Module（大部分已兼容 KernelSU、APatch）</strong></summary>
 
+- [TCQT](https://pan.baidu.com/s/1SkeRiCOvZ-kHXh4SLkZOIg?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-wr1APIRtSI0_3bEFXmI7RA1?pwd=tc8p#) [夸克](https://pan.quark.cn/s/d9189b34497a?pwd=fTWS)：一个针对QQ与TIM的多功能XPosed(Zygisk)模块（后缀为apk时是Xposed模块，后缀为zip时是Magisk模块，支持ksu，apatch）
 - [HMA-OSS Zygisk](https://pan.baidu.com/s/1xvrea67wY2oJ-_duQbWd1A?pwd=6666) [夸克](https://pan.quark.cn/s/8a96ce0c0673?pwd=7yX6) [迅雷](https://pan.xunlei.com/s/VOzMuw8-nKSKAGZ-dNLTYDyKA1?pwd=aeiq#)：用于隐藏你的应用列表、设置等内容的 Zygisk 模块，HMA-OSS Zygisk 是 HMA-OSS 的 Zygisk 实现版本，目标是让 HMA-OSS 不再依赖 LSPosed/Xposed，而是直接通过 Zygisk 注入 Android 应用进程，相比 HMA-OSS，它更轻、更隐蔽
 - [mountify](https://pan.baidu.com/s/1a8qv6HJ64Kg3HJpwoLeoTw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzB0Ft0E8NieAbl9mIEIGeIA1?pwd=s7e2#) [夸克](https://pan.quark.cn/s/04eeded8a161?pwd=btdG)：基于 OverlayFS 的全局挂载模块
 - [TS Enhancer Extreme](https://pan.baidu.com/s/1EF9bw_jzvhvntxLT0m3FPw?pwd=6666)：提升TrickyStore的使用体验,同时极致隐藏由解锁引导加载程序产生的相关检测点
@@ -661,9 +662,9 @@
   - FileClear for ZW：全自动进行深度垃圾清理、广告毒瘤(含腾讯X5内核)屏蔽、系统优化加速的模块
   - clear the blacklist：crond 清理黑名单列表
   - Cache Cleaner-彩銘羽：Xposed模块+Magisk模块一起用
-- [AdGuardHome](https://pan.baidu.com/s/1FkDzIaCg7FpjSsWJa9Q7KQ?pwd=6666)：将 AdGuard Home 集成到 Android Root 系统中的 Magisk/KernelSU 模块，让手机直接运行本地 DNS 广告过滤服务，实现全局去广告和隐私保护。
+- [AdGuardHome](https://pan.baidu.com/s/1FkDzIaCg7FpjSsWJa9Q7KQ?pwd=6666) [夸克](https://pan.quark.cn/s/fd9dc26731d1?pwd=6Xhn) [迅雷](https://pan.xunlei.com/s/VP-wnc5De4YVk-HhkW3Wkkm7A1?pwd=dubq#)：将 AdGuard Home 集成到 Android Root 系统中的 Magisk/KernelSU 模块，让手机直接运行本地 DNS 广告过滤服务，实现全局去广告和隐私保护。
   - AdGuard Home For Android
-  - twoone3（自用）
+  - AdGuardHomeForRoot（twoone3）
   - top大佬(酷安)
   - CHIZI-0618（推荐）
 - [指纹支付](https://pan.baidu.com/s/13PKNZgHgfnZf-PDbuB_UGA?pwd=6666)：让常用应用在支持指纹识别的设备上使用指纹支付，支持微信、支付宝、京东、淘宝、云闪付
@@ -727,7 +728,7 @@
 - [SUI](https://pan.baidu.com/s/19IC9mS0cZmENv8VP5DASMQ?pwd=6666)：现代超级用户界面实现，shizuku的Magisk模块实现
 - [Xperia Music](https://pan.baidu.com/s/1ZtCbY5zpgG7iB54SimW8NQ?pwd=6666)：将索尼音乐安装在任何设备上 并支持更新
 - [Tricky Store](https://pan.baidu.com/s/1-YvrDVeLcYK04Nydz1ueVg?pwd=6666)：用于修改 Android 设备密钥证明（Key Attestation）证书链
-- [Tricky Store OSS](https://pan.baidu.com/s/1j3cqc1YwaK1rCN_0-XXarw?pwd=6666)：Tricky Store 模块的开源替代品
+- [Tricky Store OSS](https://pan.baidu.com/s/1j3cqc1YwaK1rCN_0-XXarw?pwd=6666) [夸克](https://pan.quark.cn/s/102c09c93e44?pwd=kQwE) [迅雷](https://pan.xunlei.com/s/VP-wq0KBqNy9mgFu0LKbPH_1A1?pwd=gvsg#)：Tricky Store 模块的开源替代品
 - [Tricky Store (Fork)](https://pan.baidu.com/s/1cHl_FjtxrxjB6kFAu_hwpQ?pwd=6666)：Tricky Store的分支版本
 - [Tricky Addon](https://pan.baidu.com/s/1BRPTGRdOfJfz1InjNyAvhA?pwd=6666)：用于配置 Tricky Store 的 KSU WebUI
 - [OpenEUICC](https://pan.baidu.com/s/1Z3ZkIlC2USUu10Hf6yMcWg?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-jChOrgv_szR66mwJdjH34A1?pwd=r3dw#) [夸克](https://pan.quark.cn/s/6c90d3689b9f?pwd=HHrD)：让不支持的安卓设备支持外置eSIM卡
@@ -741,7 +742,7 @@
 - [ZN - Audit Patch](https://pan.baidu.com/s/1wp4W0Yt3w_D0H1_Gg5nJvA?pwd=6666)：修补 Android 审计日志中的一个信息泄露漏洞
 - [Nohello](https://pan.baidu.com/s/1QG-gy6VwllDHLt86lRol0w?pwd=6666)：Zygisk 模块，用于隐藏设备 Root 或 Zygisk 的存在
 - [Infamick Script](https://pan.baidu.com/s/1bKyFtqL4t-DhL-R4gJ48-w?pwd=6666)：多功能系统工具脚本合集，可快速访问和修改各类系统设置与信息。
-- [BindHosts](https://pan.baidu.com/s/1ybEIJ2QkIFeO6rBfD2AX6Q?pwd=6666)：一个更强大的 “进阶版 Hosts 管理器”，自带管理工具和 Web UI
+- [BindHosts](https://pan.baidu.com/s/1ybEIJ2QkIFeO6rBfD2AX6Q?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-wpFJnKGShWs2xDfFu-fgDA1?pwd=wnwn#) [夸克](https://pan.quark.cn/s/01ed8e173fe1?pwd=PXPN)：一个更强大的 “进阶版 Hosts 管理器”，自带管理工具和 Web UI
 - [Treat Wheel](https://pan.baidu.com/s/1Tijyz4YQuJSHicz6AcNMRw?pwd=6666)：在 ReZygisk 环境下隐藏非 Zygisk Root痕迹
 - [Play Integrity Fork](https://pan.baidu.com/s/1yPlXgSspBQ9UXpnKdmFWwA?pwd=6666)：修复安卓设备完整性检查。
 - [Yuri Keybox Manager](https://pan.baidu.com/s/1nTwwnKwVpXZcgaySh2vmqA?pwd=6666)：一键获取 Yuri keybox 使受完整性检测影响的应用通过验证
