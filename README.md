@@ -135,7 +135,7 @@
   - EnforceDoze：在屏幕关闭后立即启用 Doze 模式，并关闭运动传感器以获得最佳电池续航
   - FakeStandby：在屏幕关闭时仍然保持应用运行
   - Extinguish：在屏幕关闭时运行任何 Android 应用程序，就如同屏幕打开时一样
-- [应用与进程管理](https://pan.baidu.com/s/1N8wyTsxhncj2mRG1tEoTwQ?pwd=6666)
+- [应用与进程管理](https://pan.baidu.com/s/1N8wyTsxhncj2mRG1tEoTwQ?pwd=6666) 
   - Thor：功能强大的安卓应用管理与安装工具，支持安装、卸载、冻结、批量操作及多种权限模式（Root/Shizuku/Dhizuku）。
   - Shappky：一款使用 Shizuku 或 Root 权限来停止后台应用的工具
   - Running Services Monitor：监控你 Android 设备上正在运行的服务
@@ -198,7 +198,7 @@
   - InkRoot：基于 Memos 系统打造的第三方极简笔记应用
   - Another Notes：适用于 Android 的开源笔记应用
   - 侠客日记：使用MAUI Blazor 构建的开源、跨平台的本地日记app
-- [自动化工具](https://pan.baidu.com/s/18CbZNYWt2JcYiOSSu_xYUw?pwd=6666)
+- [自动化工具](https://pan.baidu.com/s/18CbZNYWt2JcYiOSSu_xYUw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-x8kWqJcK6bNNQdSpGBQEjA1?pwd=tqce#) [夸克](https://pan.quark.cn/s/c62cbbd51477?pwd=UYUw)
   - FingerLike：简单的基于 Flutter 构建的鼠标连点器
   - vFlow：可视化工作流自动化工具
   - MacroDroid
@@ -261,7 +261,7 @@
   - BILIBILIAS：哔哩哔哩视频缓存的辅助工具，一键解析缓存
   - PiliPala：使用Flutter开发的BiliBili第三方客户端。目前支持Android、iOS
   - JKVideo：高颜值第三方 B 站 React Native 客户端
-- [文件同步](https://pan.baidu.com/s/1V_1jSetHTQFGcClGZcYQrQ?pwd=6666)
+- [文件同步](https://pan.baidu.com/s/1V_1jSetHTQFGcClGZcYQrQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-x8Q8HIttxFPtSdZQrHTvaA1?pwd=ifbh#) [夸克](https://pan.quark.cn/s/7cf2987fcf0c?pwd=T3jR)
   - Easy Sync：以简单的方式，将你的手机文件与 WebDAV 服务器进行同步
   - Round Sync：适用于安卓设备的文件同步应用
   - FolderSync Pro：在云存储和Android设备之间同步文件
@@ -318,7 +318,7 @@
   - IronFox：基于 Firefox 的安全、注重隐私的安卓网络浏览器
   - Kiwi Browser：基于Chromium内核开发的浏览器，支持插件
 - [Dhizuku](https://pan.baidu.com/s/1sODmVeweK3TMT_zx50ZLXQ?pwd=6666)：可以将设备所有者权限共享给其他应用的工具
-- [应用安装器](https://pan.baidu.com/s/1fNNTj0DUyx4vSkiSjH5lHQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-j6k-xY4YE9a6_gIYOuQ-vA1?pwd=iit3#) [夸克](https://pan.quark.cn/s/8dbf2a2a1ba3?pwd=9qGc)
+- [应用安装器](https://pan.baidu.com/s/1fNNTj0DUyx4vSkiSjH5lHQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-x9YItZ4hnw2R2OFhvtPSIA1?pwd=3j2f#) [夸克](https://pan.quark.cn/s/8cc24634d002?pwd=kgUf)
   - Universal Installer：现代化的 Android 软件包管理器，可以处理系统自带安装器无法完成的任务。它支持安装 APK、APK+、APKS、XAPK、APKM（包括拆分 APK 和 OBB 文件）、从网址下载软件包、管理已安装应用，并通过 Root、Shizuku 静默安装等更多功能
   - anyapk：在你自己的设备上安装任何 APK
   - InstallerX Revived：现代且功能强大的安卓应用安装器
@@ -450,7 +450,7 @@
   - ZipXtract：完全开源的解压缩应用程序
   - RAR：功能齐全且简单易用的解压缩工具
   - ZArchiver：专业且易于使用的的解压缩应用
-- [相册](https://pan.baidu.com/s/1Po4KLUrn-nojx5pvEvZ0nA?pwd=6666)
+- [相册](https://pan.baidu.com/s/1Po4KLUrn-nojx5pvEvZ0nA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-x95zv4AQ5VuFlRJ_549JhA1?pwd=dkbg#) [夸克](https://pan.quark.cn/s/47a947999a1f?pwd=9Zi9)
   - Photos：漂亮的安卓照片应用
   - QuickPic：基于快图浏览开发的相册应用，支持 Android8+
   - Fossify Gallery：功能强大的相册应用 支持照片与视频基本的编辑功能
@@ -496,7 +496,7 @@
   - Edge Gestures
 - [手电筒](https://pan.baidu.com/s/1d7PHsi3SWh3CKMciBNsWUw?pwd=6666)
   - FlashDim：适用于 Android 13+ 具有调光功能的现代手电筒应用
-- [应用冻结与隐藏](https://pan.baidu.com/s/1RsrReq1R7JJwKOxg_jaF4A?pwd=6666)
+- [应用冻结与隐藏](https://pan.baidu.com/s/1RsrReq1R7JJwKOxg_jaF4A?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-x7s-nPpsFZDzsdMvmCA1LA1?pwd=vhj8#) [夸克](https://pan.quark.cn/s/539152323413?pwd=AGDw)
   - 雹：用于冻结 Android 应用的自由软件
   - Amarok：一键隐藏隐私文件与应用
 - [NFC](https://pan.baidu.com/s/1dWC13VdEUw-QQnTEDAkpXg?pwd=6666)
@@ -1007,6 +1007,7 @@
   - AdClose
   - 地主不看广告：欢乐斗地主跳过广告
 - [抖音](https://pan.baidu.com/s/1U0qnF5x5J68AJFoAaYYCaw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOztCDV5Wqf0p4dxwfYNUAerA1?pwd=ire3#) [夸克](https://pan.quark.cn/s/2ba856e4a4c5?pwd=hCMg)
+  - 抖仙人：抖音纯净播放、内容过滤与无水印下载
   - 抖柚：为抖音添加一些优化体验的小功能
   - GiveMeFire：抖音续火
   - 抖增：抖音离线缓存增强模块
@@ -1078,6 +1079,7 @@
   - QAuxiliary
   - QQHook：QQNT 绕过环境检测模块，防止冻结/踢下线。
   - QFun
+  - QQ净化助手
   - QStory
   - Serendipity
   - Funbox：表情包
