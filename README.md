@@ -1685,7 +1685,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Easyllls&theme=github-compact" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Easyllls/AppList/output/activity-graph.svg" width="100%"/>
 </p>
 
 ---
