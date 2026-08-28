@@ -9,16 +9,15 @@
 <div align="center">
 
 # Applist
-![License](https://img.shields.io/github/license/Easyllls/AppList?style=flat-square&logo=opensourceinitiative&logoColor=white)
-![Profile Views](https://komarev.com/ghpvc/?username=Easyllls&style=flat-square&color=blue&label=👁%20Views)
+[![License](https://img.shields.io/github/license/Easyllls/AppList?style=flat-square&logo=creativecommons&logoColor=white&label=License)](https://github.com/Easyllls/AppList/blob/main/LICENSE)
+[![Contributors](https://img.shields.io/github/contributors/Easyllls/AppList?style=flat-square&logo=opensourceinitiative&logoColor=white&label=Contributors)](https://github.com/Easyllls/AppList/graphs/contributors)
 [![GitHub Stars](https://img.shields.io/github/stars/Easyllls/AppList?style=flat-square&logo=github&logoColor=white&label=Stars)](https://github.com/Easyllls/AppList/stargazers)
-[![Contributors](https://img.shields.io/github/contributors/Easyllls/AppList?style=flat-square&logo=opensourceinitiative&logoColor=white)](https://github.com/Easyllls/AppList/graphs/contributors)
+![Profile Views](https://komarev.com/ghpvc/?username=Easyllls&style=flat-square&color=blue&label=📈%20Views&abbreviated=true)
 [![Last Commit](https://img.shields.io/github/last-commit/Easyllls/AppList?style=flat-square&logo=git&label=Updated)](https://github.com/Easyllls/AppList/commits)
 [![Issues](https://img.shields.io/github/issues/Easyllls/AppList?style=flat-square&logo=sentry&logoColor=white)](https://github.com/Easyllls/AppList/issues)
 [![QQ Channel](https://img.shields.io/badge/QQ%20Channel-加入-12B7F5?style=flat-square&logo=qq&logoColor=white)](https://pd.qq.com/s/akqek6a90?b=9)
 [![百度网盘](https://img.shields.io/badge/百度网盘-下载-00A4FF?style=flat-square&logo=baidu&logoColor=white)](https://pan.baidu.com/s/1NhRycJCVJHVo4ilZbqQiug?pwd=6666)
 [![夸克网盘](https://img.shields.io/badge/夸克网盘-下载-1677FF?style=flat-square&logo=googledrive&logoColor=white)](https://pan.quark.cn/s/6f920ff59e21?pwd=gUEh)
-[![迅雷网盘](https://img.shields.io/badge/迅雷网盘-下载-00A4FF?style=flat-square&logo=googledrive&logoColor=white)](https://pan.xunlei.com/s/VOu2aMA8QqLR0IsFoc_kTXqjA1?pwd=5em6#)
 
 **本列表源于个人兴趣爱好收集整理，包含各种 Android、Android TV、Windows 应用，以及 Xposed 和 Magisk 模块。本列表长期更新。**
 
