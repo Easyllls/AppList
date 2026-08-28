@@ -12,7 +12,7 @@
 [![License](https://img.shields.io/github/license/Easyllls/AppList?style=flat-square&logo=creativecommons&logoColor=white&label=License)](https://github.com/Easyllls/AppList/blob/main/LICENSE)
 [![Contributors](https://img.shields.io/github/contributors/Easyllls/AppList?style=flat-square&logo=opensourceinitiative&logoColor=white&label=Contributors)](https://github.com/Easyllls/AppList/graphs/contributors)
 [![GitHub Stars](https://img.shields.io/github/stars/Easyllls/AppList?style=flat-square&logo=github&logoColor=white&label=Stars)](https://github.com/Easyllls/AppList/stargazers)
-![Profile Views](https://komarev.com/ghpvc/?username=Easyllls&style=flat-square&color=blue&label=📈%20+Profile+Views&abbreviated=true)
+![Profile Views](https://komarev.com/ghpvc/?username=Easyllls&style=flat-square&color=blue&label=📈%20+Profile+Views)
 [![Last Commit](https://img.shields.io/github/last-commit/Easyllls/AppList?style=flat-square&logo=git&label=Updated)](https://github.com/Easyllls/AppList/commits)
 [![Issues](https://img.shields.io/github/issues/Easyllls/AppList?style=flat-square&logo=sentry&logoColor=white)](https://github.com/Easyllls/AppList/issues)
 [![QQ Channel](https://img.shields.io/badge/QQ%20Channel-加入-12B7F5?style=flat-square&logo=qq&logoColor=white)](https://pd.qq.com/s/akqek6a90?b=9)
