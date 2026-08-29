@@ -1411,7 +1411,7 @@
 - [桌面宠物.](https://pan.baidu.com/s/1JFw7ILMoJSLP7N-48FR9WA?pwd=6666)
   - N.E.K.O：一只会主动找你玩的桌面 AI 猫娘。它是一个有现实时间感知、会主动找你、记得你、也能动手帮你的「数字生命」。
   - BongoCat：一个开源跨平台互动桌宠，让一只可爱的猫咪根据你的键盘、鼠标和游戏操作实时动作，并支持自定义模型，是程序员、玩家和直播用户的桌面陪伴工具。 
-- [网络工具](https://pan.baidu.com/s/1iuCAcGl04i_v_jcCXY8aFA?pwd=6666)
+- [网络工具](https://pan.baidu.com/s/1iuCAcGl04i_v_jcCXY8aFA?pwd=6666) [夸克](https://pan.quark.cn/s/c620d250fb16?pwd=AMPa)
   - HypoMux：专为 Windows 平台打造的多网卡带宽叠加工具。无需复杂配置，一键聚合多网卡（有线、Wi-Fi网卡、手机热点等），实现物理级多线下载与叠加网速。
   - ProxyPin：抓包
   - SmartPing：一个综合性网络质量(PING)检测工具，支持正/反向PING绘图、互PING拓扑绘图与报警、全国PING延迟地图与在线检测工具等功能
