@@ -306,7 +306,7 @@
   - 极助手
   - 无线临FTP服务器
   - 文件闪传Pro
-- [设备管理与控制](https://pan.baidu.com/s/1y8EL0sMU9bhe9AcokYg_9g?pwd=6666)
+- [设备管理与控制](https://pan.baidu.com/s/1y8EL0sMU9bhe9AcokYg_9g?pwd=6666) [夸克](https://pan.quark.cn/s/6a2bc2360fb2?pwd=jNs8)
   - KDE Connect：通过无线网络将智能手机与计算机连接，从而实现多种设备间的互动和控制
   - PlainApp：通过网页管理你的手机！访问文件、联系人、视频、音乐等内容
 - [浏览器](https://pan.baidu.com/s/1HjtLqCkVjC-RSnUxmjLujg?pwd=6666)
