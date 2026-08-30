@@ -593,6 +593,7 @@
   - ReSukiSU
   - KernelSU Next
   - KernelSU
+  - Wild KSU
 - [APatch](https://pan.baidu.com/s/1qv7tFBrWMOwLiCDCLFOG8Q?pwd=6666) [夸克](https://pan.quark.cn/s/2dc1c04c3c62?pwd=1jNa) [迅雷](https://pan.xunlei.com/s/VOzSI2FzBWpIoyayU4Wgg9orA1?pwd=g95m#)
   - APatch
   - APatch Next
