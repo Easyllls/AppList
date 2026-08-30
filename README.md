@@ -336,7 +336,7 @@
   - 阅读：可以自定义来源的网络内容阅读工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
   - 静读天下：具有丰富功能的本地电子书阅读器和电子书文档管理。
 - [Morse](https://pan.baidu.com/s/1SCsEDpFXpegdtMxsl6LKfg?pwd=6666)：实时将文本与摩斯密码相互转换
-- [文本与代码编辑](https://pan.baidu.com/s/1ekhPw30BXEGDQfVh67UW6Q?pwd=6666)
+- [文本与代码编辑](https://pan.baidu.com/s/1ekhPw30BXEGDQfVh67UW6Q?pwd=6666) [夸克](https://pan.quark.cn/s/a18ded6995fe?pwd=FXFP)
   - Acode：可扩展、功能强大且开源的文本与代码编辑器
   - Squircle CE：免费开源、轻量级多语言代码编辑器
   - Karbon：强大开源的文本与代码编辑起
@@ -461,7 +461,7 @@
   - Snapmod：更好用的带壳截图生成器
 - [耳机助手](https://pan.baidu.com/s/1ZGJB51QDS5jxmJw0iSPvug?pwd=6666)
   - Mi Buds M8：第三方的小米蓝牙耳机助手 支持刷入固件
-- [密码管理器](https://pan.baidu.com/s/16S9SsFgeFf5OzXgMe8ZWkg?pwd=6666)
+- [密码管理器](https://pan.baidu.com/s/16S9SsFgeFf5OzXgMe8ZWkg?pwd=6666) [夸克](https://pan.quark.cn/s/078a11754e0d?pwd=3Dct)
   - KeePassDX：轻量级的安卓密码管理器
   - Keepass2Android：适用于 Android 的密码管理应用
 - [邮件](https://pan.baidu.com/s/1_LyLVXBUa5ba-w8iEkAxQA?pwd=6666)
