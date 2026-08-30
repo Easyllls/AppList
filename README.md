@@ -254,6 +254,7 @@
 - [WebToApp](https://pan.baidu.com/s/1H7jl8WO6NSNYsFmh5RurQw?pwd=6666)：将任意网站或媒体转换为安卓软件
 - [GameResChange](https://pan.baidu.com/s/1Vqs5-T9BsL0YeMrBpmsmnA?pwd=6666)：更改任意应用或游戏的分辨率
 - [哔哩哔哩](https://pan.baidu.com/s/1a7cnf5kJ4fadW2SJD4OGzA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-j6hNkUVDox8_VbWb3G-juA1?pwd=xwyq#) [夸克](https://pan.quark.cn/s/e7fd49d18aa2?pwd=wTeW)
+  - PiliNara：PiliPlus 的第三方Fork版本，做了一些改动
   - BiliPai：现代化的 Bilibili 第三方 Android 客户端
   - PiliPro：使用Flutter开发的BiliBili第三方客户端
   - PiliPlus：使用Flutter开发的BiliBili第三方客户端
@@ -1489,6 +1490,7 @@
   - 7-Zip：一款拥有极高压缩比的开源压缩软件
 - [Seelen UI](https://pan.baidu.com/s/16Vo652EU3yYzTXCEJHFwkQ?pwd=6666)：完全可定制的 Windows 10/11 桌面环境
 - [哔哩哔哩（第三方）](https://pan.baidu.com/s/1--ro9xh-wucNedmfdPupNg?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-j-qc4hGyeboI_F_3D_m_EA1?pwd=fuwk#) [夸克](https://pan.quark.cn/s/8b5cab49c9d4?pwd=1Z7T)
+  - PiliNara：PiliPlus 的第三方Fork版本，做了一些改动
   - 哔哩助理：基于 Windows App SDK 和 AI 构建的 BiliBili 第三方应用
   - wiliwili：专为手柄用户设计的第三方 B站 客户端
   - PiliPlus：使用Flutter开发的BiliBili第三方客户端
