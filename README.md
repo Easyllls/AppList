@@ -428,6 +428,7 @@
 - [通知管理](https://pan.baidu.com/s/1Wr0VIeJRhOPG1E_1FpyWYQ?pwd=6666)
   - BuzzKill：功能强大且高度可定制的通知管理工具
 - [RSS](https://pan.baidu.com/s/1qf_13dAVgUqoOWGH4wqFLg?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-AJ6bnWZXgKNS2qNLCrU1gA1?pwd=xmsn#) [夸克](https://pan.quark.cn/s/e58e20cb47e5?pwd=uiRT)
+  - FeedFlow：专注于简洁的时间线、灵活的阅读模式，以及对同步和存储方式的自主控制。
   - PodAura：集 RSS 订阅、媒体下载和播放于一体的 Android 播客应用
   - Feeder：很棒的自由/开源 RSS 阅读器
   - FeedMe：简洁但功能齐全的离线RSS阅读器
