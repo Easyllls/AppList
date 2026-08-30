@@ -662,7 +662,7 @@
   - clear the blacklist：crond 清理黑名单列表
   - Cache Cleaner-彩銘羽：Xposed模块+Magisk模块一起用
 - [AdGuardHome](https://pan.baidu.com/s/1FkDzIaCg7FpjSsWJa9Q7KQ?pwd=6666) [夸克](https://pan.quark.cn/s/fd9dc26731d1?pwd=6Xhn) [迅雷](https://pan.xunlei.com/s/VP-wnc5De4YVk-HhkW3Wkkm7A1?pwd=dubq#)：将 AdGuard Home 集成到 Android Root 系统中的 Magisk/KernelSU 模块，让手机直接运行本地 DNS 广告过滤服务，实现全局去广告和隐私保护。
-  - AdGuard Home For Android
+  - AdGuard.Home.For.Android
   - AdGuardHomeForRoot（twoone3）
   - top大佬(酷安)
   - CHIZI-0618（推荐）
@@ -743,7 +743,7 @@
 - [Infamick Script](https://pan.baidu.com/s/1bKyFtqL4t-DhL-R4gJ48-w?pwd=6666)：多功能系统工具脚本合集，可快速访问和修改各类系统设置与信息。
 - [BindHosts](https://pan.baidu.com/s/1ybEIJ2QkIFeO6rBfD2AX6Q?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-wpFJnKGShWs2xDfFu-fgDA1?pwd=wnwn#) [夸克](https://pan.quark.cn/s/01ed8e173fe1?pwd=PXPN)：一个更强大的 “进阶版 Hosts 管理器”，自带管理工具和 Web UI
 - [Treat Wheel](https://pan.baidu.com/s/1Tijyz4YQuJSHicz6AcNMRw?pwd=6666)：在 ReZygisk 环境下隐藏非 Zygisk Root痕迹
-- [Play Integrity Fork](https://pan.baidu.com/s/1yPlXgSspBQ9UXpnKdmFWwA?pwd=6666)：修复安卓设备完整性检查。
+- [Play Integrity Fork](https://pan.baidu.com/s/1yPlXgSspBQ9UXpnKdmFWwA?pwd=6666) [夸克](https://pan.quark.cn/s/485df40875a2?pwd=7MgQ)：修复安卓设备完整性检查。
 - [Yuri Keybox Manager](https://pan.baidu.com/s/1nTwwnKwVpXZcgaySh2vmqA?pwd=6666)：一键获取 Yuri keybox 使受完整性检测影响的应用通过验证
 - [移除温控](https://pan.baidu.com/s/1npRdCa7W9oGpfkF7egFjxw?pwd=6666)
   - thermal-engine Removerv unofficial：不直接修改系统地移除温控文件
