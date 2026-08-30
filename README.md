@@ -326,7 +326,7 @@
   - Thor：功能强大的安卓应用管理与安装工具，支持安装、卸载、冻结、批量操作及多种权限模式（Root/Shizuku/Dhizuku）。
   - Install with Options：使用 Shizuku 在设备上安装 APK 的简单应用（带高级选项）
   - InstallerX
-- [小说与文档阅读器](https://pan.baidu.com/s/1xF6NE5SP1xnUBolFW9Pd1Q?pwd=6666)
+- [小说与文档阅读器](https://pan.baidu.com/s/1xF6NE5SP1xnUBolFW9Pd1Q?pwd=6666) [夸克](https://pan.quark.cn/s/c22a16ebb660?pwd=DPeK)
   - ReadAny：一款 AI 驱动的电子书阅读器，支持智能对话、语义搜索、标注笔记与知识管理。
   - Anx Reader：开源、跨平台的电子书阅读器，集成了阅读同步、笔记、AI 辅助翻译与思维导图等智能功能
   - 阅读MD：使用MD3设计的阅读3.0
@@ -335,6 +335,7 @@
   - Librera Pro：惊人的阅读器，易于使用和高度可配置的应用程序，可读取所有书籍
   - 阅读：可以自定义来源的网络内容阅读工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
   - 静读天下：具有丰富功能的本地电子书阅读器和电子书文档管理。
+  - 轻小说文库
 - [Morse](https://pan.baidu.com/s/1SCsEDpFXpegdtMxsl6LKfg?pwd=6666)：实时将文本与摩斯密码相互转换
 - [文本与代码编辑](https://pan.baidu.com/s/1ekhPw30BXEGDQfVh67UW6Q?pwd=6666) [夸克](https://pan.quark.cn/s/a18ded6995fe?pwd=FXFP)
   - Acode：可扩展、功能强大且开源的文本与代码编辑器
