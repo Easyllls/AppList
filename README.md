@@ -657,7 +657,8 @@
   - ViPER4Android FX
   - Moto Dolby G Pro：从 Motorola G Pro 移植的均衡器，适用于任何 Android 9 及更高版本的 64 位架构设备。
   - ViPERFX：蝰蛇音效完整简中
-- [内存优化（运行内存）](https://pan.baidu.com/s/10JkF7dfBA9cW6KYqpbue8A?pwd=6666)
+- [内存优化（运行内存）](https://pan.baidu.com/s/10JkF7dfBA9cW6KYqpbue8A?pwd=6666) [夸克](https://pan.quark.cn/s/fde1c8665877?pwd=Pytk)
+  - SkyScene Add-on：用于优化 ARM 设备内存管理的 Magisk 模块
   - QTI memory optimization：适用于Android设备的内存管理优化模块
   - 内存清理：在内存紧张时，回收闲置的内存(不会杀死任何应用)。
   - Zsm android
