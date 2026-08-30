@@ -974,6 +974,7 @@
   - VoltX
   - ACEnergy2
 - [上帝模式](https://pan.baidu.com/s/1YQVzGR8TPgymaVNpdOqBnQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-07pRkaSAUaH732f6bXcpvA1?pwd=2tx6#) [夸克](https://pan.quark.cn/s/8b3a62a79660?pwd=B6CV)：移除应用中你不想看到的界面
+  - 上帝视角：基于 Xposed 的 Android 运行时视图调试工具
   - 上帝模式（原版）
   - 上帝模式Pro：在任意应用中修改或屏蔽你不喜欢的UI元素（第三方分支）
 - [存储空间隔离](https://pan.baidu.com/s/1-MxLWwV05LPz1ylgRPHfgQ?pwd=6666)
