@@ -601,6 +601,7 @@
 <details>
 <summary>🎭 <strong>Magisk Module（大部分已兼容 KernelSU、APatch）</strong></summary>
 
+- [洛书](https://pan.baidu.com/s/1AXw6nZLDkze-Ynq8zsbG3g?pwd=6666) [夸克](https://pan.quark.cn/s/eb677eaf1430?pwd=Bjya)：Android 无 Hook 全局字体复合与安全切换模块
 - [TCQT](https://pan.baidu.com/s/1SkeRiCOvZ-kHXh4SLkZOIg?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-wr1APIRtSI0_3bEFXmI7RA1?pwd=tc8p#) [夸克](https://pan.quark.cn/s/d9189b34497a?pwd=fTWS)：一个针对QQ与TIM的多功能XPosed(Zygisk)模块（后缀为apk时是Xposed模块，后缀为zip时是Magisk模块，支持ksu，apatch）
 - [HMA-OSS Zygisk](https://pan.baidu.com/s/1xvrea67wY2oJ-_duQbWd1A?pwd=6666) [夸克](https://pan.quark.cn/s/8a96ce0c0673?pwd=7yX6) [迅雷](https://pan.xunlei.com/s/VOzMuw8-nKSKAGZ-dNLTYDyKA1?pwd=aeiq#)：用于隐藏你的应用列表、设置等内容的 Zygisk 模块，HMA-OSS Zygisk 是 HMA-OSS 的 Zygisk 实现版本，目标是让 HMA-OSS 不再依赖 LSPosed/Xposed，而是直接通过 Zygisk 注入 Android 应用进程，相比 HMA-OSS，它更轻、更隐蔽
 - [mountify](https://pan.baidu.com/s/1a8qv6HJ64Kg3HJpwoLeoTw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzB0Ft0E8NieAbl9mIEIGeIA1?pwd=s7e2#) [夸克](https://pan.quark.cn/s/04eeded8a161?pwd=btdG)：基于 OverlayFS 的全局挂载模块
