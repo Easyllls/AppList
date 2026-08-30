@@ -444,7 +444,7 @@
   - Traffic Light（红绿灯）：在保障隐私的前提下，跟踪你的网络和数据使用情况
   - Speedtest：网络测速
   - ProxyPin：抓包
-- [终端模拟器](https://pan.baidu.com/s/1zO7zWhwXyJrkdNgmbQsU4w?pwd=6666) - [夸克](https://pan.quark.cn/s/76397b952849?pwd=mF8z)
+- [终端模拟器](https://pan.baidu.com/s/1zO7zWhwXyJrkdNgmbQsU4w?pwd=6666) [夸克](https://pan.quark.cn/s/76397b952849?pwd=mF8z)
   - Terminator：多会话终端模拟器，支持 Material UI 主题和 Root
   - ReTerminal：简单的安卓终端模拟器
 - [翻译](https://pan.baidu.com/s/1Vq4mcBg4gRgGNUMz-rAJow?pwd=6666)
