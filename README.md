@@ -848,7 +848,7 @@
   - YourMIUI：优化 MIUI 系统中各种不友好功能的模块
   - HyperCeiler：HyperOS/MIUI 增强模块
   - IsleNotify：让HyperOS的通知接入灵动岛
-  - HyperIsland-为澎湃 OS3 打造的超级岛进度通知增强模块
+  - HyperIsland：为澎湃 OS3 打造的超级岛进度通知增强模块
   - SetoHook：适用于HyperOS的系统增强工具
   - Fingerprint Cataloge：自定义指纹图标和动画。支持创建、上传、导入并应用自定义指纹图标。
   - Hyper Helper：适用于 HyperOS 的轻量级增强模块
