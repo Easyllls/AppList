@@ -37,7 +37,7 @@
   - 知乎++：注重隐私和无广告的第三方开源知乎客户端，独创本地推荐算法，把内容推荐完全放在本地进行，为您提供和筛选高质量内容
 - [工具箱](https://pan.baidu.com/s/1RGmFbaJEvx4S7YAvagCbdg?pwd=6666)
   - 紫罗兰Box：一款Android玩机工具箱
-- [WiFi Password Manager](https://pan.baidu.com/s/13gKGibneMX7PlD8InkR_Sg?pwd=6666)：基于 Shizuku 或 Root 权限的 WiFi 密码管理器
+- [WiFi Password Manager](https://pan.baidu.com/s/13gKGibneMX7PlD8InkR_Sg?pwd=6666) [夸克](https://pan.quark.cn/s/4dcf07cbe2a2?pwd=qLjG)：基于 Shizuku 或 Root 权限的 WiFi 密码管理器
 - [Duplicates Cleaner](https://pan.baidu.com/s/1SCuRMBgdShdEZ6T0wlwqGw?pwd=6666)：以最简单的方式查找和清除重复文件
 - [MKM](https://pan.baidu.com/s/1SFLutnQGC2uSc9oPP-0nBQ?pwd=6666)：轻量级安卓内核调控与系统监控工具
 - [效率与生产力](https://pan.baidu.com/s/1y0ebgDtNjHyNFs97c0U1Xg?pwd=6666) [夸克](https://pan.quark.cn/s/7f822d6cfa89?pwd=RM2K) [迅雷](https://pan.xunlei.com/s/VOzMurU5kVPbabQfE7zoZAEXA1?pwd=vnr6#)
