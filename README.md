@@ -32,6 +32,7 @@
 <details>
 <summary>📱 <strong>Android</strong></summary>
 
+- [Celestia（天际遨游）](https://pan.baidu.com/s/1WEZ8Yrt8Zrlnu4xb3ZQCQg?pwd=6666) [夸克](https://pan.quark.cn/s/f73c0942b68a?pwd=2phv)：一款开源实时三维宇宙模拟/天文馆软件，可以在 3D 环境中探索太阳系、恒星、星系、行星、卫星和航天器，并支持自由缩放、飞行、查看天体信息以及自定义天体数据。
 - [Rootless Store](https://pan.baidu.com/s/12Yr6bF3BsPtK_qhqwVwd6w?pwd=6666) [夸克](https://pan.quark.cn/s/297cb53f2d21?pwd=cNQn)：一个开源的、面向安卓生态的 Rootless 插件管理与运行平台
 - [LuCI Mobile](https://pan.baidu.com/s/1hvUH5QmH-FZaCqr9MDCePw?pwd=6666) [夸克](https://pan.quark.cn/s/d7d30fc6fa70?pwd=rXL3)：远程管理你的 OpenWrt 路由器。监控客户端、网络接口和运行状态
 - [Torrent Search](https://pan.baidu.com/s/1XBGto84g5_VkIJ9-TGyzrA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP--yS0aMQ_1GARObUPQQOVWA1?pwd=khwb#) [夸克](https://pan.quark.cn/s/3f0c94487e56?pwd=1Ei9)：一款可跨多个资源提供商搜索种子的 Android 应用，速度快、信息详细，并提供丰富的操作功能。
@@ -1396,6 +1397,7 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
+- [Celestia（天际遨游）](https://pan.baidu.com/s/1rD4us_OT1uCuSxYLvgwhxQ?pwd=6666) [夸克](https://pan.quark.cn/s/ac72e91a5a98?pwd=uFdk)：一款开源实时三维宇宙模拟/天文馆软件，可以在 3D 环境中探索太阳系、恒星、星系、行星、卫星和航天器，并支持自由缩放、飞行、查看天体信息以及自定义天体数据。
 - [Magpie](https://pan.baidu.com/s/1HPUu0gJFbUyYpcvBH0yf6g?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-hmati9TWDwm1v8P3XRlRJA1?pwd=rfuc#) [夸克](https://pan.quark.cn/s/428a0d533ed0?pwd=tPtp)：窗口放大/超分辨率工具，提升低分辨率窗口、游戏画面的显示效果
 - [gocron](https://pan.baidu.com/s/1oaw3mhs0zMacR_hXcXwiZg?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-hh3uHDcwSxi5kB6urUsKsA1?pwd=24v8#) [夸克](https://pan.quark.cn/s/cfe28568f0e8?pwd=wgMU)：轻量级定时任务管理平台，通过 Web 界面集中管理 Shell/HTTP 任务，支持秒级调度、失败重试、任务依赖、日志监控和多节点执行。
 - [WindowTabs](https://pan.baidu.com/s/1aMrJ0LVZ2WD7VVS-pq_j8A?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-hfxbIhGyeboI_F_3CQOruA1?pwd=9vx3#) [夸克](https://pan.quark.cn/s/bef8060f83f5?pwd=GPRn)：可将多个应用窗口合并为类似浏览器标签页的形式，提高多任务处理效率。
