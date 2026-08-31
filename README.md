@@ -746,7 +746,7 @@
 - [Tricky Addon](https://pan.baidu.com/s/1BRPTGRdOfJfz1InjNyAvhA?pwd=6666)：用于配置 Tricky Store 的 KSU WebUI
 - [OpenEUICC](https://pan.baidu.com/s/1Z3ZkIlC2USUu10Hf6yMcWg?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-jChOrgv_szR66mwJdjH34A1?pwd=r3dw#) [夸克](https://pan.quark.cn/s/6c90d3689b9f?pwd=HHrD)：让不支持的安卓设备支持外置eSIM卡
   - EasyEUICC（非Magisk模块，为了方便整理放在一起）
-- [LiveBoot](https://pan.baidu.com/s/1kvrPB2Vv7_9XHTIPMSTJBg?pwd=6666)：为 Android 设备启用 Unix 风格启动动画
+- [LiveBoot](https://pan.baidu.com/s/1kvrPB2Vv7_9XHTIPMSTJBg?pwd=6666) [夸克](https://pan.quark.cn/s/b179844d6e8d?pwd=1sMJ)：为 Android 设备启用 Unix 风格启动动画
 - [自动神仙救砖](https://pan.baidu.com/s/1KCS8C3PcTbk25XO1fC0pCw?pwd=6666)：卡开机自动禁用Magisk模块
 - [Open Webview](https://pan.baidu.com/s/16szlhzQezq87gS6-yWJreQ?pwd=6666)：替换系统WebView
 - [Wifi Bonding](https://pan.baidu.com/s/1NNDZ7lEn7dQEF20ehHDzPA?pwd=6666)：高通设备 WiFi 增强模块
