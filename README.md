@@ -589,12 +589,12 @@
   - 稳定版
   - Canray
   - Alpha
-- [KernelSU](https://pan.baidu.com/s/1xhaWmtz4fNxiiFMKkIBtLg?pwd=6666) [夸克](https://pan.quark.cn/s/2dc1c04c3c62?pwd=1jNa) [迅雷](https://pan.xunlei.com/s/VOzSI1XiiGP3pHAXU-omc39MA1?pwd=rgqy#)
-  - SukiSU Ultra
-  - ReSukiSU
-  - KernelSU Next
-  - KernelSU
-  - Wild KSU
+- [KernelSU](https://pan.baidu.com/s/1xhaWmtz4fNxiiFMKkIBtLg?pwd=6666) [夸克](https://pan.quark.cn/s/2dc1c04c3c62?pwd=1jNa) [迅雷](https://pan.xunlei.com/s/VOzSI1XiiGP3pHAXU-omc39MA1?pwd=rgqy#)：以下介绍由GPT生成
+  - SukiSU Ultra：功能增强型 KernelSU 分支，主打 KPM、SUSFS、非 GKI/老内核兼容。 
+  - ReSukiSU：基于 SukiSU Ultra 的稳定性增强分支，主打 Metamodule、多管理器支持和兼容性。 
+  - KernelSU Next：KernelSU 的增强分支，主打 更广泛的内核兼容性和更灵活的模块挂载方案。 
+  - KernelSU：官方 KernelSU，主打 内核级 Root、稳定性和成熟的模块生态。 
+  - Wild KSU：偏向 Root 隐藏、SUSFS 集成和多设备/老内核兼容 的 KernelSU 分支。 
 - [APatch](https://pan.baidu.com/s/1qv7tFBrWMOwLiCDCLFOG8Q?pwd=6666) [夸克](https://pan.quark.cn/s/2dc1c04c3c62?pwd=1jNa) [迅雷](https://pan.xunlei.com/s/VOzSI2FzBWpIoyayU4Wgg9orA1?pwd=g95m#)
   - APatch
   - APatch Next
