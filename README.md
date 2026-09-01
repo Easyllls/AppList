@@ -586,9 +586,9 @@
 <summary>🔓 <strong>Root管理器</strong></summary>
 
 - [Magisk](https://pan.baidu.com/s/1q9nEYRGGC0klg_3FocqWlQ?pwd=6666) [夸克](https://pan.quark.cn/s/2dc1c04c3c62?pwd=1jNa) [迅雷](https://pan.xunlei.com/s/VOzSI5J2kf5-8LF9MKbqKfyMA1?pwd=g6f7#)
-  - 稳定版
-  - Canray
-  - Alpha
+  - 稳定版：经典的系统级 Root 方案，主打 无修改系统分区、模块生态和 Zygisk 框架。
+  - Canray：Magisk 的 实验性/前沿版本，优先加入新功能和修复，适合测试新特性。
+  - Alpha：Magisk 的 增强分支，侧重 兼容性、Root 隐藏和 Zygisk 等高级功能。
 - [KernelSU](https://pan.baidu.com/s/1xhaWmtz4fNxiiFMKkIBtLg?pwd=6666) [夸克](https://pan.quark.cn/s/2dc1c04c3c62?pwd=1jNa) [迅雷](https://pan.xunlei.com/s/VOzSI1XiiGP3pHAXU-omc39MA1?pwd=rgqy#)：以下介绍由GPT生成
   - SukiSU Ultra：功能增强型 KernelSU 分支，主打 KPM、SUSFS、非 GKI/老内核兼容。 
   - ReSukiSU：基于 SukiSU Ultra 的稳定性增强分支，主打 Metamodule、多管理器支持和兼容性。 
@@ -596,8 +596,8 @@
   - KernelSU：官方 KernelSU，主打 内核级 Root、稳定性和成熟的模块生态。 
   - Wild KSU：偏向 Root 隐藏、SUSFS 集成和多设备/老内核兼容 的 KernelSU 分支。 
 - [APatch](https://pan.baidu.com/s/1qv7tFBrWMOwLiCDCLFOG8Q?pwd=6666) [夸克](https://pan.quark.cn/s/2dc1c04c3c62?pwd=1jNa) [迅雷](https://pan.xunlei.com/s/VOzSI2FzBWpIoyayU4Wgg9orA1?pwd=g95m#)
-  - APatch
-  - APatch Next
+  - APatch：基于 KernelPatch 的内核级 Root 方案，主打 KPM 内核模块、APM 模块以及无需内核源码即可修补 boot.img。 
+  - APatch Next：APatch 的增强分支，延续 内核级 Root 与 KPM，并针对 兼容性、功能和新内核支持进行进一步改进。
 - [SuperSU](https://pan.baidu.com/s/1qeNx805k-HWanyc-SFG5PA?pwd=6666)：最早的Root管理器，兼容安卓7及以下设备
 
 </details>
