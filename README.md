@@ -323,7 +323,7 @@
   - Kiwi Browser：基于Chromium内核开发的浏览器，支持插件
 - [Dhizuku](https://pan.baidu.com/s/1sODmVeweK3TMT_zx50ZLXQ?pwd=6666)：可以将设备所有者权限共享给其他应用的工具
 - [应用安装器](https://pan.baidu.com/s/1fNNTj0DUyx4vSkiSjH5lHQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-x9YItZ4hnw2R2OFhvtPSIA1?pwd=3j2f#) [夸克](https://pan.quark.cn/s/8cc24634d002?pwd=kgUf)
-  - Universal Installer：现代化的 Android 软件包管理器，可以处理系统自带安装器无法完成的任务。它支持安装 APK、APK+、APKS、XAPK、APKM（包括拆分 APK 和 OBB 文件）、从网址下载软件包、管理已安装应用，并通过 Root、Shizuku 静默安装等更多功能
+  - Universal Installer（通用安装器）：现代化的 Android 软件包管理器，可以处理系统自带安装器无法完成的任务。它支持安装 APK、APK+、APKS、XAPK、APKM（包括拆分 APK 和 OBB 文件）、从网址下载软件包、管理已安装应用，并通过 Root、Shizuku 静默安装等更多功能
   - anyapk：在你自己的设备上安装任何 APK
   - InstallerX Revived：现代且功能强大的安卓应用安装器
   - R-安装组件：快速、安全且易于使用的组件安装服务
