@@ -611,7 +611,7 @@
 - [mountify](https://pan.baidu.com/s/1a8qv6HJ64Kg3HJpwoLeoTw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzB0Ft0E8NieAbl9mIEIGeIA1?pwd=s7e2#) [夸克](https://pan.quark.cn/s/04eeded8a161?pwd=btdG)：基于 OverlayFS 的全局挂载模块
 - [TS Enhancer Extreme](https://pan.baidu.com/s/1EF9bw_jzvhvntxLT0m3FPw?pwd=6666)：提升TrickyStore的使用体验,同时极致隐藏由解锁引导加载程序产生的相关检测点
 - [RemoveApkProtection](https://pan.baidu.com/s/1vXMviun2n0m5mJW-9dHvlQ?pwd=6666)：移除 AOSP 及各类 OEM ROM 签名校验限制，支持 Android 13+ 的原生或定制 ROM（如 HyperOS、ColorOS 等）
-- [OpenList](https://pan.baidu.com/s/1y5D91JNMwFTwoxeltrBPjA?pwd=6666)：将 OpenList 文件服务器集成到安卓系统中以系统化方式运行
+- [OpenListForMagisk](https://pan.baidu.com/s/1rW-kREFL5J-ntYwl6go_bQ?pwd=6666) [夸克](https://pan.quark.cn/s/5a4a1cb12cc9?pwd=C2X8)：将 OpenList 文件服务器集成到安卓系统中以系统化方式运行
 - [TEESimulator](https://pan.baidu.com/s/1yoGK0B3UaGfXi5vpi2XoBQ?pwd=6666) [夸克](https://pan.quark.cn/s/42dad4b4bc6a?pwd=cdGF) [迅雷](https://pan.xunlei.com/s/VOzk_of2MpdvvhGgCOpch1gsA1?pwd=2i6x#)
   - TEESimulator：用于安卓设备硬件支持密钥对及密钥证明的软件模拟方案
   - TEESimulator-RS：这是一个基于 TEESimulator 的分支版本，加入了原生 Rust 证书生成、密钥持久化，以及符合 AOSP 标准的认证（attestation）行为设计。
