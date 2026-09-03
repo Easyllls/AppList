@@ -415,7 +415,7 @@
   - 甲壳虫ADB助手：面向安卓设备 ADB 调试工具
   - WADBS：无线调试快捷开关
   - aShell You：Material You 重新设计的 aShell
-  - atvTools：Android TV 用户的必备工具
+  - atvTools：基于 ADB 的 Android TV/Google TV 综合管理工具，支持应用安装与管理、文件传输、权限管理、远程控制、Shell 命令、截屏/投屏及设备状态监控等功能。 
   - ADB Remote ATV：基于 ADB Shell 命令的安卓TV遥控器
   - 蓝牙遥控器：将您的智能手机变成Android TV的蓝牙遥控器
   - 酷控智能遥控：简单好用的万能遥控
