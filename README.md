@@ -587,10 +587,13 @@
 <summary>🔓 <strong>Root管理器</strong></summary>
 
 - [Magisk](https://pan.baidu.com/s/1q9nEYRGGC0klg_3FocqWlQ?pwd=6666) [夸克](https://pan.quark.cn/s/2dc1c04c3c62?pwd=1jNa) [迅雷](https://pan.xunlei.com/s/VOzSI5J2kf5-8LF9MKbqKfyMA1?pwd=g6f7#)
+  - WeaveMask：基于 Magisk 的增强分支，兼顾 Magisk Root 能力，采用 Miuix UI（Jetpack Compose） 重构和优化管理器界面，同时加入白名单 Root 管理、KernelSU 模块仓库、WebUI 主题等功能。
   - 稳定版：经典的系统级 Root 方案，主打 无修改系统分区、模块生态和 Zygisk 框架。
   - Canray：Magisk 的 实验性/前沿版本，优先加入新功能和修复，适合测试新特性。
   - Alpha：Magisk 的 增强分支，侧重 兼容性、Root 隐藏和 Zygisk 等高级功能。
 - [KernelSU](https://pan.baidu.com/s/1xhaWmtz4fNxiiFMKkIBtLg?pwd=6666) [夸克](https://pan.quark.cn/s/2dc1c04c3c62?pwd=1jNa) [迅雷](https://pan.xunlei.com/s/VOzSI1XiiGP3pHAXU-omc39MA1?pwd=rgqy#)：以下介绍由GPT生成
+  - KowSU：基于 backslashxx/KernelSU 的分支，保留内核 Root 能力，重点强化 Material Design UI 与主题体验，同时保留 KernelSU 的内核 Root 与模块管理能力。
+  - backslashxx/KernelSU：以 Manual Hook 为核心的 KernelSU 分支
   - RKSU（rsuntk/KernelSU）：以兼容性为核心的 KernelSU Fork，重点恢复 Non-GKI、GKI 1.0 和 Magic Mount 等传统能力，让更多旧内核和旧设备继续使用 KernelSU。 
   - SukiSU Ultra：功能增强型 KernelSU 分支，主打 KPM、SUSFS、非 GKI/老内核兼容。 
   - ReSukiSU：基于 SukiSU Ultra 的稳定性增强分支，主打 Metamodule、多管理器支持和兼容性。 
