@@ -1313,6 +1313,7 @@
 <summary>🔒 <strong>免Root框架</strong></summary>
 
 - [免Root框架](https://pan.baidu.com/s/1xJaSIewQDCyRagTCJGwV9A?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzvc_45MvyUe9qNCju-8xydA1?pwd=7t2x#) [夸克](https://pan.quark.cn/s/762995ea0f95?pwd=8SWJ)：无需Root权限即可体验部分Xposed模块，以下是文件列表
+  - HKP：兼容第三方过签工具的免 Root Hook 修补框架，主打更强的组合性、应用兼容性和修补稳定性。
   - AxManager：基于 ADB 的非 Root 安卓模块与系统管理平台
   - LSPatch
   - LSPatch（JingMatrix）
