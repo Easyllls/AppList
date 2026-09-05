@@ -474,7 +474,8 @@
   - Keepass2Android：适用于 Android 的密码管理应用
 - [邮件](https://pan.baidu.com/s/1_LyLVXBUa5ba-w8iEkAxQA?pwd=6666)
   - Thunderbird：免费开源，注重隐私的电子邮件客户端
-- [壁纸](https://pan.baidu.com/s/17150iLn8pcqCN-1jaGJSlw?pwd=6666)
+- [壁纸（动态壁纸）](https://pan.baidu.com/s/17150iLn8pcqCN-1jaGJSlw?pwd=6666) [夸克](https://pan.quark.cn/s/0babbfc5373e?pwd=4df1)
+  - FloatDeck：一款 Android 动态壁纸应用，利用设备的陀螺仪/加速度计传感器创建 3D 视差深度效果，让角色立绘以浮动卡片的形式呈现在屏幕上。
   - 黑客帝国动态壁纸：带有矩阵效果的免费动态壁纸
   - Paperize：开源、 Material 3 设计的动态壁纸更换应用
 - [垃圾电话拦截](https://pan.baidu.com/s/1iENQJhKzfskDP5b5kvS5Rw?pwd=6666)：Android 电话/短信拦截器
