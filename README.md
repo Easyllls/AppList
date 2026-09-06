@@ -824,15 +824,15 @@
 <summary>🛠 <strong>Xposed Framework</strong></summary>
 
 - [LSPosed](https://pan.baidu.com/s/1tVytETarI7m8uebnvwSnaA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOztDjiYb7w6DqVlxxKI6bCBA1?pwd=gp85#) [夸克](https://pan.quark.cn/s/0ceaa79ab2c8?pwd=Gy4P)
-  - LSPosed
-  - LSPosed - Irena
-  - ReLSPosed
-  - Vector（JingMatrix）
-  - LSPosed - mod
-  - LSPosed - npm
-- [Xposed](https://pan.baidu.com/s/1PEreyA9D_vaP_ejcToPqiA?pwd=6666)：安卓7及以下系统  
-- [EdXposed](https://pan.baidu.com/s/1P2AZvMZLdkv-QIIRGZxFtw?pwd=6666)：安卓8–11
-- [Riru](https://pan.baidu.com/s/1CSsnfA0t7Qh9DeWww_Z1Tg?pwd=6666)：注入 zygote，以允许模块在应用程序或系统服务器中运行其代码。（不再建议使用，仅备份）
+  - LSPosed：官方版，经典的 Zygisk/Xposed 框架，通过 ART Hook 在不修改 APK 的情况下修改应用和系统行为，提供模块化 Hook 能力。
+  - LSPosed - Irena：LSPosed 的第三方维护分支，基于 LSPlant/ Zygisk，主要增强新 Android 版本兼容性，并提供独立的构建与更新。
+  - ReLSPosed：基于 JingMatrix 早期 Vector/LSPosed 代码的复活版分支，延续 LSPlant + Zygisk 架构，兼容传统 Xposed 模块。
+  - Vector（JingMatrix）：LSPosed 的后继重构项目，采用现代 Zygisk + LSPlant 架构，兼容传统 Xposed API 与现代 libxposed API，重点提升性能、稳定性和新 Android 兼容性。
+  - LSPosed - mod：基于 LSPosed 的功能增强修改版，加入 KernelSU 支持、CLI 改进、Android 新版本兼容及其他实用修复。
+  - LSPosed - npm：以 LSPosed 的 npm-open 代码为基础的分支，重点修复新版 Android 兼容问题，并通常用于减少/隐藏 LSPosed 的可检测特征。
+- [Xposed](https://pan.baidu.com/s/1PEreyA9D_vaP_ejcToPqiA?pwd=6666)：经典 Android Hook 框架，通过修改/注入 Zygote 来实现对应用和系统运行时方法的 Hook，是 EdXposed、LSPosed 等后续方案的基础。≤安卓7.0
+- [EdXposed](https://pan.baidu.com/s/1P2AZvMZLdkv-QIIRGZxFtw?pwd=6666)：基于 Riru + Xposed 的 Android 框架，通过 Zygote 注入实现模块 Hook，兼容性较好，但项目已停止维护，后续主要由 LSPosed 等方案替代。安卓8–11
+- [Riru](https://pan.baidu.com/s/1CSsnfA0t7Qh9DeWww_Z1Tg?pwd=6666)：通过注入 Zygote 为 Android 提供运行时代码加载能力，是早期 EdXposed 等框架的底层基础设施，后来被 Zygisk 等方案逐渐替代。
 
 </details>
 
