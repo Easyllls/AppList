@@ -1408,6 +1408,13 @@
 </details>
 
 <details>
+<summary>⌚️ <strong>Watch OS</strong></summary>
+
+- [Universal Installer（通用安装器）](https://pan.baidu.com/s/1rewHVect8IlBnX4TPvZyIg?pwd=6666)：现代化的 Android 软件包管理器，可以处理系统自带安装器无法完成的任务。它支持安装 APK、APK+、APKS、XAPK、APKM（包括拆分 APK 和 OBB 文件）、从网址下载软件包、管理已安装应用，并通过 Root、Shizuku 静默安装等更多功能
+
+</details>
+
+<details>
 <summary>💻 <strong>Windows</strong></summary>
 
 - [Celestia（天际遨游）](https://pan.baidu.com/s/1rD4us_OT1uCuSxYLvgwhxQ?pwd=6666) [夸克](https://pan.quark.cn/s/ac72e91a5a98?pwd=uFdk)：一款开源实时三维宇宙模拟/天文馆软件，可以在 3D 环境中探索太阳系、恒星、星系、行星、卫星和航天器，并支持自由缩放、飞行、查看天体信息以及自定义天体数据。
