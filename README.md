@@ -520,7 +520,7 @@
   - 我的听书：免费的聚合听书App
   - 小梨听书：有广告但资源不少
   - 章鱼听书：界面不错，无广告，就是两天必须用夸克网盘获取激活码
-- [电池工具](https://pan.baidu.com/s/1f6pog5u7-GyeNpvsFmq2kQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-TQHf7-n9fvpSdL1ffwWIvA1?pwd=9ir3#) [夸克](https://pan.quark.cn/s/9fdc6a065222?pwd=DCiP)
+- [电池工具](https://pan.baidu.com/s/1K7sr4CFh2-jFWTyRwH7kLw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-TQHf7-n9fvpSdL1ffwWIvA1?pwd=9ir3#) [夸克](https://pan.quark.cn/s/9fdc6a065222?pwd=DCiP)
   - 电量指示器专业版
   - Battery Monitor：查看电池状态，获取有意义的通知，并长期追踪电池使用情况。
   - Beam：将实时电池指标显示为一个常驻状态栏通知，并在应用内提供完整的数据分析
