@@ -1716,6 +1716,15 @@
 
 </details>
 
+<details>
+<summary>🤡 <strong>HarmonyOS</strong></summary>
+
+- [视频播放器](https://pan.baidu.com/s/1DhWsskeWOYeBw6fLR6PcHg?pwd=6666)
+  - Kazumi：基于自定义规则的跨平台番剧采集APP，支持弹幕、实时超分辨率等
+  - NipaPlay：一个现代化的跨平台本地视频播放器，集成了弹幕显示、多格式字幕支持、多音频轨道切换，新番查看等功能，支持挂载Emby/Jellyfin媒体库。采用 Flutter +rust开发，提供统一的用户体验。
+  
+</details>
+
 ---
 
 ## 📈 Activity Graph
