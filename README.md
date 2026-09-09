@@ -1418,6 +1418,7 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
+- [Office Tool Plus](https://pan.baidu.com/s/1jvmAgwsoU-vV3mtRUTATKA?pwd=6666)：功能全面的 Office 部署与管理工具，支持 Microsoft 365、Office、Visio、Project 的下载、安装、配置、激活、更新通道切换、卸载及故障修复等。 
 - [Celestia（天际遨游）](https://pan.baidu.com/s/1rD4us_OT1uCuSxYLvgwhxQ?pwd=6666) [夸克](https://pan.quark.cn/s/ac72e91a5a98?pwd=uFdk)：一款开源实时三维宇宙模拟/天文馆软件，可以在 3D 环境中探索太阳系、恒星、星系、行星、卫星和航天器，并支持自由缩放、飞行、查看天体信息以及自定义天体数据。
 - [Magpie](https://pan.baidu.com/s/1HPUu0gJFbUyYpcvBH0yf6g?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-hmati9TWDwm1v8P3XRlRJA1?pwd=rfuc#) [夸克](https://pan.quark.cn/s/428a0d533ed0?pwd=tPtp)：窗口放大/超分辨率工具，提升低分辨率窗口、游戏画面的显示效果
 - [gocron](https://pan.baidu.com/s/1oaw3mhs0zMacR_hXcXwiZg?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-hh3uHDcwSxi5kB6urUsKsA1?pwd=24v8#) [夸克](https://pan.quark.cn/s/cfe28568f0e8?pwd=wgMU)：轻量级定时任务管理平台，通过 Web 界面集中管理 Shell/HTTP 任务，支持秒级调度、失败重试、任务依赖、日志监控和多节点执行。
