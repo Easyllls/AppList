@@ -1409,13 +1409,6 @@
 </details>
 
 <details>
-<summary>⌚️ <strong>Watch OS</strong></summary>
-
-- [Universal Installer（通用安装器）](https://pan.baidu.com/s/1rewHVect8IlBnX4TPvZyIg?pwd=6666)：现代化的 Android 软件包管理器，可以处理系统自带安装器无法完成的任务。它支持安装 APK、APK+、APKS、XAPK、APKM（包括拆分 APK 和 OBB 文件）、从网址下载软件包、管理已安装应用，并通过 Root、Shizuku 静默安装等更多功能
-
-</details>
-
-<details>
 <summary>💻 <strong>Windows</strong></summary>
 
 - [知乎++](https://pan.baidu.com/s/1TxkFAWy2b7bg5aZ3t2GEjg?pwd=6666)：注重隐私和无广告的第三方开源知乎客户端，独创本地推荐算法，把内容推荐完全放在本地进行，为您提供和筛选高质量内容
@@ -1713,6 +1706,13 @@
 - [各种第三方网盘](https://pan.baidu.com/s/1DbJRr55fd-Nth5LI9QfC1g?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-Zv4xdxQPRpnrt1O5nKKOyA1?pwd=u93v#) [夸克](https://pan.quark.cn/s/fbf57933e93b?pwd=Z2ya)
   - 小白云盘：强大的云盘工具（目前支持阿里、夸克）
   - 小白羊网盘：第三方阿里云盘
+
+</details>
+
+<details>
+<summary>⌚️ <strong>Watch OS</strong></summary>
+
+- [Universal Installer（通用安装器）](https://pan.baidu.com/s/1rewHVect8IlBnX4TPvZyIg?pwd=6666)：现代化的 Android 软件包管理器，可以处理系统自带安装器无法完成的任务。它支持安装 APK、APK+、APKS、XAPK、APKM（包括拆分 APK 和 OBB 文件）、从网址下载软件包、管理已安装应用，并通过 Root、Shizuku 静默安装等更多功能
 
 </details>
 
