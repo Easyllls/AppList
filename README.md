@@ -609,7 +609,9 @@
 </details>
 
 <details>
-<summary>🎭 <strong>Magisk Module（大部分已兼容 KernelSU、APatch）</strong></summary>
+<summary>🎭 <strong>Magisk Module</strong></summary>
+
+实际上，大部分模块已兼容 KernelSU、APatch
 
 - [Device Faker](https://pan.baidu.com/s/1XhrxrpmL-pl8YBtUCDGQpg?pwd=6666) [夸克](https://pan.quark.cn/s/f5e6c074468b?pwd=LN4H)：基于 Zygisk 的机型伪装模块，可以为不同的应用配置不同的设备型号。
 - [洛书](https://pan.baidu.com/s/1AXw6nZLDkze-Ynq8zsbG3g?pwd=6666) [夸克](https://pan.quark.cn/s/eb677eaf1430?pwd=Bjya)：Android 无 Hook 全局字体复合与安全切换模块
@@ -811,6 +813,8 @@
 
 <details>
 <summary>🎯 <strong>KernelSU Module</strong></summary>
+
+该分类仅收录已明确声明不支持Magisk，或Magisk不需要的模块
 
 - [元模块（Metamodule）](https://pan.baidu.com/s/10AM8hknM2Lo2iJ1TScserw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzpRbnpUmD3DOYTibMol580A1?pwd=dyaj#) [夸克](https://pan.quark.cn/s/365046816db1?pwd=Uiu6)：用于给 KernelSU 提供 systemless 挂载能力
   - Magic Mount-rs：面向 KernelSU / APatch 的 Magic Mount 元模块，使用 Rust 实现 Systemless Mount，为其他模块提供统一的系统文件挂载与覆盖能力，无需直接修改系统分区。
