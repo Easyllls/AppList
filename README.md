@@ -1721,7 +1721,7 @@
 </details>
 
 <details>
-<summary>🌼 <strong>Harmony OS</strong></summary>
+<summary>🌸 <strong>Harmony OS</strong></summary>
 
 - [视频播放器](https://pan.baidu.com/s/1DhWsskeWOYeBw6fLR6PcHg?pwd=6666)
   - Kazumi：基于自定义规则的跨平台番剧采集APP，支持弹幕、实时超分辨率等
