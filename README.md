@@ -844,6 +844,7 @@
 
 <details>
 <summary>🛠 <strong>Xposed Module</strong></summary>
+
 - [MapAdKiller](https://pan.baidu.com/s/1WxybqYbtGHE6VYt5THwlnQ?pwd=6666) [夸克](https://pan.quark.cn/s/36ce71dc45c2?pwd=GNLH)：针对高德 / 百度 / 腾讯地图 App 的开屏广告、首页运营横幅、信息流广告卡、第三方广告 SDK 做确定性拦截
 - [K（红果短剧）](https://pan.baidu.com/s/155nSeFt9sIZuyrrR-GQcJA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-OL7MUCatTHv8QfM1QbDwiA1?pwd=idtr#) [夸克](https://pan.quark.cn/s/e9f5ca648716?pwd=bjLv)：红果短剧客户端界面精简与体验增强模块。支持通过模块内置设置面板自由自定义多种沉浸式观影体验、手势拦截、自动最高画质及体验优化功能。
 - [SwiftBackupPrem](https://pan.baidu.com/s/1bluTIUaLbXj-4JZMUB3vtg?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-OL82b9OFw9u9ams4zBMBSA1?pwd=biep#) [夸克](https://pan.quark.cn/s/4f888f0a938d?pwd=2F7H)： 解锁 Swift Backup 高级功能并实现隔离的自定义 Firebase 后端集成。
@@ -1016,7 +1017,7 @@
   - HMAL：第三方修改版HMA
   - 隐秘空间
   - HMA OSS：隐藏你的应用列表、设置、安装包管理器等。它是 HMA 的一个分支
-- [我不是开发者](https://pan.baidu.com/s/1fqQN51z6-RgIZdx7wGXOPw?pwd=6666)：隐藏开发者模式、USB 调试和无线调试。
+- [我不是开发者](https://pan.baidu.com/s/1fqQN51z6-RgIZdx7wGXOPw?pwd=6666) [夸克](https://pan.quark.cn/s/ce66c0285fce?pwd=7Hwr)：隐藏开发者模式、USB 调试和无线调试。
 - [隐藏无障碍模式](https://pan.baidu.com/s/1K6QCudTPPfBCue5pSJEh7g?pwd=6666)
   - 非残！：使用xposed hook假装自己没有使用无障碍服务
 - [进程管理](https://pan.baidu.com/s/1PJjIMMpfZqftWpicu-Upgg?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-AK-euULJGZA291J4EemGJA1?pwd=g796#) [夸克](https://pan.quark.cn/s/258e2a2bd697?pwd=J44K)
