@@ -394,7 +394,7 @@
 - [内核工具](https://pan.baidu.com/s/17olkRiq_-RYlCHTIIzEB2g?pwd=6666)
   - Kernel Flasher：用于刷写、备份和恢复内核的安卓应用
   - RvKernel Manager：适用于 Android 12 + 的Material 3 设计的内核管理器
-- [时钟与闹钟](https://pan.baidu.com/s/1txPKO92RNBs5hHoH1IxrEw?pwd=6666)
+- [时钟与闹钟](https://pan.baidu.com/s/1txPKO92RNBs5hHoH1IxrEw?pwd=6666) [夸克](https://pan.quark.cn/s/12bfa1c0d43f?pwd=AgTr)
   - QRAlarm：扫码才能关闭的闹钟应用
   - Chrono：现代化且功能强大的Android时钟、闹钟、计时器与秒表应用
 - [系统工具](https://pan.baidu.com/s/1J0Z9Yh72_7gxvUH80MB09g?pwd=6666)
