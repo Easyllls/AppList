@@ -613,6 +613,7 @@
 
 实际上，大部分模块已兼容 KernelSU、APatch
 
+- [FuseHide](https://pan.baidu.com/s/1Sm_vxdPoCzaZVoRLmDzCqQ?pwd=6666) [夸克](https://pan.quark.cn/s/a6e58ec6be42?pwd=MbUy)：通过 Hook Android 的 MediaProvider/FUSE 文件系统层，实现对指定应用隐藏存储目录和文件
 - [Device Faker](https://pan.baidu.com/s/1XhrxrpmL-pl8YBtUCDGQpg?pwd=6666) [夸克](https://pan.quark.cn/s/f5e6c074468b?pwd=LN4H)：基于 Zygisk 的机型伪装模块，可以为不同的应用配置不同的设备型号。
 - [洛书](https://pan.baidu.com/s/1AXw6nZLDkze-Ynq8zsbG3g?pwd=6666) [夸克](https://pan.quark.cn/s/eb677eaf1430?pwd=Bjya)：Android 无 Hook 全局字体复合与安全切换模块
 - [TCQT](https://pan.baidu.com/s/1SkeRiCOvZ-kHXh4SLkZOIg?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-wr1APIRtSI0_3bEFXmI7RA1?pwd=tc8p#) [夸克](https://pan.quark.cn/s/d9189b34497a?pwd=fTWS)：一个针对QQ与TIM的多功能XPosed(Zygisk)模块（后缀为apk时是Xposed模块，后缀为zip时是Magisk模块，支持ksu，apatch）
