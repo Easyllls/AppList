@@ -19,7 +19,7 @@
 [![百度网盘](https://img.shields.io/badge/百度网盘-下载-00A4FF?style=flat-square&logo=baidu&logoColor=white)](https://pan.baidu.com/s/1NhRycJCVJHVo4ilZbqQiug?pwd=6666)
 [![夸克网盘](https://img.shields.io/badge/夸克网盘-下载-1677FF?style=flat-square&logo=googledrive&logoColor=white)](https://pan.quark.cn/s/6f920ff59e21?pwd=gUEh)
 
-**本列表源于个人兴趣爱好收集整理，包含各种 Android、Android TV、Windows 应用，以及 Xposed 和 Magisk 模块。本列表长期更新。**
+**本列表源于个人兴趣爱好收集整理，包含各种 Android、Android TV、Windows 应用，以及 Xposed 和 Magisk 模块。本列表持续更新。**
 
 </div>
 
