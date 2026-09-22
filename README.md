@@ -202,6 +202,7 @@
   - Another Notes：适用于 Android 的开源笔记应用
   - 侠客日记：使用MAUI Blazor 构建的开源、跨平台的本地日记app
 - [自动化工具](https://pan.baidu.com/s/18CbZNYWt2JcYiOSSu_xYUw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-x8kWqJcK6bNNQdSpGBQEjA1?pwd=tqce#) [夸克](https://pan.quark.cn/s/c62cbbd51477?pwd=UYUw)
+  - 开屏跳过：安卓系统的开屏广告自动跳过助手（程序可以使用三种方法跳过开屏广告：关键字。在应用中查找含有关键字的按钮，如果发现了对应的按钮，自动帮用户点击从而跳过广告；应用的指定控件。当应用工作时，自动查找对应的控件，如果找到则自动点击；应用的指定位置。当应用工作时，自动点击对应的区域。）
   - FingerLike：简单的基于 Flutter 构建的鼠标连点器
   - vFlow：可视化工作流自动化工具
   - MacroDroid
