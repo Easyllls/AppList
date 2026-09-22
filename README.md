@@ -1419,6 +1419,7 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
+- [酷安](https://pan.baidu.com/s/1MXqanggwlLWGsEGb1sWhwQ?pwd=6666) [夸克](https://pan.quark.cn/s/92fb1d0b3e83?pwd=fJFn)：基于 Tauri 2、Vue 3 和 Rust 的非官方酷安桌面客户端。
 - [知乎++](https://pan.baidu.com/s/1TxkFAWy2b7bg5aZ3t2GEjg?pwd=6666)：注重隐私和无广告的第三方开源知乎客户端，独创本地推荐算法，把内容推荐完全放在本地进行，为您提供和筛选高质量内容
 - [Office Tool Plus](https://pan.baidu.com/s/1jvmAgwsoU-vV3mtRUTATKA?pwd=6666)：功能全面的 Office 部署与管理工具，支持 Microsoft 365、Office、Visio、Project 的下载、安装、配置、激活、更新通道切换、卸载及故障修复等。 
 - [Celestia（天际遨游）](https://pan.baidu.com/s/1rD4us_OT1uCuSxYLvgwhxQ?pwd=6666) [夸克](https://pan.quark.cn/s/ac72e91a5a98?pwd=uFdk)：一款开源实时三维宇宙模拟/天文馆软件，可以在 3D 环境中探索太阳系、恒星、星系、行星、卫星和航天器，并支持自由缩放、飞行、查看天体信息以及自定义天体数据。
