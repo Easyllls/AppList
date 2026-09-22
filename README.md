@@ -138,7 +138,7 @@
   - EnforceDoze：在屏幕关闭后立即启用 Doze 模式，并关闭运动传感器以获得最佳电池续航
   - FakeStandby：在屏幕关闭时仍然保持应用运行
   - Extinguish：在屏幕关闭时运行任何 Android 应用程序，就如同屏幕打开时一样
-- [应用与进程管理](https://pan.baidu.com/s/1N8wyTsxhncj2mRG1tEoTwQ?pwd=6666) 
+- [应用与进程管理](https://pan.baidu.com/s/1N8wyTsxhncj2mRG1tEoTwQ?pwd=6666) [夸克](https://pan.quark.cn/s/d0236816e0bf?pwd=XqaJ)
   - Thor：功能强大的安卓应用管理与安装工具，支持安装、卸载、冻结、批量操作及多种权限模式（Root/Shizuku/Dhizuku）。
   - Shappky：一款使用 Shizuku 或 Root 权限来停止后台应用的工具
   - Running Services Monitor：监控你 Android 设备上正在运行的服务
