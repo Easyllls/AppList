@@ -1422,6 +1422,7 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
+- [青简](https://pan.baidu.com/s/14jrCHfB1NAonHzMWnFPfaw?pwd=6666) [夸克](https://pan.quark.cn/s/d34311caa761?pwd=2mA9)：使用 Rust 开发的开源拼音输入法。整句输入，候选由本机小模型重排。打字时，候选词旁多一条你正在学的语言的译词，不打断，不弹题。
 - [酷安](https://pan.baidu.com/s/1MXqanggwlLWGsEGb1sWhwQ?pwd=6666) [夸克](https://pan.quark.cn/s/92fb1d0b3e83?pwd=fJFn)：基于 Tauri 2、Vue 3 和 Rust 的非官方酷安桌面客户端。
 - [知乎++](https://pan.baidu.com/s/1TxkFAWy2b7bg5aZ3t2GEjg?pwd=6666)：注重隐私和无广告的第三方开源知乎客户端，独创本地推荐算法，把内容推荐完全放在本地进行，为您提供和筛选高质量内容
 - [Office Tool Plus](https://pan.baidu.com/s/1jvmAgwsoU-vV3mtRUTATKA?pwd=6666)：功能全面的 Office 部署与管理工具，支持 Microsoft 365、Office、Visio、Project 的下载、安装、配置、激活、更新通道切换、卸载及故障修复等。 
