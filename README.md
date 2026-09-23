@@ -1590,7 +1590,8 @@
   - Apt：高效便捷的AI解决方案，集成多种最新AI模型
   - Cherry Studio：一款支持多个大语言模型（LLM）服务商的桌面客户端
 - [Aictionary](https://pan.baidu.com/s/1v-D4jKIn_uKsXvUOUGg5wg?pwd=6666)：快速、简洁的桌面词典应用
-- [垃圾清理](https://pan.baidu.com/s/1ZzH1xk8E1DO6j23ms34aTA?pwd=6666)
+- [垃圾清理](https://pan.baidu.com/s/1ZzH1xk8E1DO6j23ms34aTA?pwd=6666) [夸克](https://pan.quark.cn/s/7238bdc1484c?pwd=GJUp)
+  - LightC：磁盘分析与清理，使用 React、TypeScript、Rust 和 Tauri 构建。
   - BleachBit：免费且开源的系统清理工具，旨在释放磁盘空间并保护隐私。
   - Windows Cleaner：免费、功能强大的 Windows 系统清理工具
   - Wise AD Cleaner：功能强大、易于使用的广告清理工具
