@@ -978,6 +978,7 @@
   - ShortX：各种自动任务
   - EdgeX：支持了大部分Xposed Edge功能
 - [蚂蚁森林](https://pan.baidu.com/s/1LDiIPGr7yEhCfafRtZ3BVw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOztC2pmvT1xNRekArwVR_0FA1?pwd=44en#) [夸克](https://pan.quark.cn/s/ecd7eb67661e?pwd=FTL5)
+  - Sure-Xu：芝麻粒生态的免 root 自动化模块，未来拟态纯白 UI / Compose + Miuix / 一个 App 管住全部任务
   - 芝麻粒-M：芝麻粒系列分支版本，基于 libxposed API102，界面使用 Jetpack Compose + Miuix 重写。
   - 芝麻粒-AG：仅支持安卓16，lsp api101
   - 芝麻粒-TK-Alpha
