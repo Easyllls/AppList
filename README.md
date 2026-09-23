@@ -1573,7 +1573,9 @@
   - EasyRC：非常好用的一键全自动重装系统工具
   - FirPE：干净纯粹的第三方WinPE维护系统
   - Rufus：一个用于格式化和创建可启动 USB 闪存驱动器的实用工具
-- [ACE-KILLER](https://pan.baidu.com/s/1Egool9ISkZJOZcGiPO5CoA?pwd=6666)：腾讯游戏进程优化工具
+- [ACE限制工具](https://pan.baidu.com/s/1Egool9ISkZJOZcGiPO5CoA?pwd=6666) [夸克](https://pan.quark.cn/s/9b956e41f30b?pwd=9EUE)
+  - FuckACE：优化所有使用ACE的游戏的免费开源免安装工具，可以全自动限制ACE占用，以降低ACE对电脑的性能影响。
+  - ACE-KILLER：腾讯游戏进程优化工具（已停更）
 - [浏览器](https://pan.baidu.com/s/1m2TVIDQiGosYhKsB609eTg?pwd=6666)
   - LibreWolf：基于 Firefox 的独立定制浏览器，专注于隐私、安全和用户自由
   - TrayChrome：基于 WPF 和 WebView2 的轻量级托盘浏览器
