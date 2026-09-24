@@ -1021,7 +1021,7 @@
   - 隐藏应用列表（HMA）
   - HMAL：第三方修改版HMA
   - 隐秘空间
-  - HMA OSS：隐藏你的应用列表、设置、安装包管理器等。它是 HMA 的一个分支
+  - HMA OSS：隐藏你的应用列表、设置、安装包管理器等。它是 HMA 的一个分支（新版本已转为Zygisk注入，新版本可在Magisk 模块分类获取）
 - [我不是开发者](https://pan.baidu.com/s/1fqQN51z6-RgIZdx7wGXOPw?pwd=6666) [夸克](https://pan.quark.cn/s/ce66c0285fce?pwd=7Hwr)：隐藏开发者模式、USB 调试和无线调试。
 - [隐藏无障碍模式](https://pan.baidu.com/s/1K6QCudTPPfBCue5pSJEh7g?pwd=6666)
   - 非残！：使用xposed hook假装自己没有使用无障碍服务
