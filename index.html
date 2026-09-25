@@ -451,55 +451,144 @@ function parseDetails(details){
   return {name: platform, categories, loose};
 }
 
-function parseREADME(markdown){
-  const wrapper = document.createElement("div");
-  wrapper.innerHTML = marked.parse(markdown);
+function parseMarkdownLinks(text){
+  const links = [];
+  const re = /\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g;
+  let match;
 
+  while((match = re.exec(text))){
+    links.push({
+      name: cleanText(match[1]),
+      href: match[2]
+    });
+  }
+
+  return links;
+}
+
+function stripMarkdownLinks(text){
+  return cleanText(
+    text
+      .replace(/\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g, "$1")
+      .replace(/<[^>]+>/g, "")
+  );
+}
+
+function parseMarkdownItem(line){
+  const match = line.match(/^\s*-\s+(.*)$/);
+  if(!match) return null;
+
+  const raw = match[1];
+  const links = parseMarkdownLinks(raw);
+  const withoutLinks = stripMarkdownLinks(raw);
+
+  let name = links.length ? links[0].name : withoutLinks;
+  let description = withoutLinks;
+
+  if(links.length){
+    description = cleanText(
+      withoutLinks
+        .replace(new RegExp("^" + name.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")), "")
+        .replace(/^[:：]\s*/, "")
+    );
+  }
+
+  return {
+    name,
+    description,
+    links,
+    indent: line.match(/^\s*/)[0].length
+  };
+}
+
+function parseREADME(markdown){
+  const lines = markdown.replace(/\r\n/g,"\n").split("\n");
   const platforms = [];
 
-  // 当前 README 使用 <details><summary>平台</summary> 的结构
-  wrapper.querySelectorAll(":scope > details").forEach(details => {
-    const platform = parseDetails(details);
-    if(platform) platforms.push(platform);
-  });
+  let inDetails = false;
+  let platform = null;
+  let topItems = [];
+  let currentCategory = null;
 
-  // 兼容以后 README 改成普通 Markdown 标题 + 列表的情况
-  if(!platforms.length){
-    let current = null;
-    let currentList = null;
+  function finishPlatform(){
+    if(!platform) return;
 
-    [...wrapper.children].forEach(el => {
-      if(/^H[1-3]$/.test(el.tagName)){
-        const level = Number(el.tagName.slice(1));
-        if(level === 1 || !current){
-          current = {
-            name: cleanText(el.textContent),
-            categories: [],
-            loose: []
-          };
-          platforms.push(current);
-        }
-        currentList = null;
-      }else if(
-        current &&
-        (el.tagName === "UL" || el.tagName === "OL")
-      ){
-        currentList = el;
-        const items = parseApps(el);
-        items.forEach(item => {
-          if(item.nested){
-            current.categories.push({
-              name:item.name,
-              links:item.links,
-              apps:parseApps(item.nested)
-            });
-          }else{
-            current.loose.push(item);
-          }
+    platform.categories = [];
+    platform.loose = [];
+
+    topItems.forEach(item => {
+      if(item.children.length){
+        platform.categories.push({
+          name: item.name,
+          description: item.description,
+          links: item.links,
+          apps: item.children.map(child => ({
+            name: child.name,
+            description: child.description,
+            links: child.links
+          }))
+        });
+      }else{
+        platform.loose.push({
+          name: item.name,
+          description: item.description,
+          links: item.links
         });
       }
     });
+
+    platforms.push(platform);
+    platform = null;
+    topItems = [];
+    currentCategory = null;
   }
+
+  for(const line of lines){
+    const trimmed = line.trim();
+
+    const summaryMatch = trimmed.match(
+      /^<summary[^>]*>([\s\S]*?)<\/summary>$/i
+    );
+
+    if(summaryMatch){
+      finishPlatform();
+
+      platform = {
+        name: stripMarkdownLinks(summaryMatch[1])
+          .replace(/<[^>]*>/g,"")
+          .trim(),
+        categories: [],
+        loose: []
+      };
+
+      inDetails = true;
+      continue;
+    }
+
+    if(inDetails && /^<\/details>/i.test(trimmed)){
+      finishPlatform();
+      inDetails = false;
+      continue;
+    }
+
+    if(!inDetails || !platform) continue;
+
+    const item = parseMarkdownItem(line);
+    if(!item) continue;
+
+    // README 中平台下的第一层列表项为分类或无分类应用。
+    // 缩进超过第一层的列表项属于该分类。
+    if(item.indent <= 2){
+      item.children = [];
+      topItems.push(item);
+      currentCategory = item;
+    }else if(currentCategory){
+      if(!currentCategory.children) currentCategory.children = [];
+      currentCategory.children.push(item);
+    }
+  }
+
+  finishPlatform();
 
   return platforms;
 }
