@@ -1,32 +1,35 @@
-<!DOCTYPE html><html lang="zh-CN">
+<!DOCTYPE html>
+<html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#f6f7f9">
+<meta name="description" content="AppList · Android、Android TV、Windows 及 Root / Xposed 软件资源列表">
 <title>AppList · 软件资源列表</title>
-<meta name="description" content="Android、Android TV、Windows 及 Root / Xposed 软件资源列表">
 <link rel="icon" href="./icon/ai.png">
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <style>
 :root{
-  --bg:#f7f8fa;
+  --bg:#f6f7f9;
   --card:#fff;
   --text:#202124;
-  --sub:#6b7280;
+  --muted:#6b7280;
   --line:#e5e7eb;
   --primary:#2563eb;
-  --hover:#f1f5f9;
-  --shadow:0 4px 16px rgba(0,0,0,.05);
-  --radius:14px
+  --primary-bg:#eff6ff;
+  --hover:#f8fafc;
+  --shadow:0 4px 18px rgba(0,0,0,.05);
+  --radius:16px;
 }
-[data-theme=dark]{
-  --bg:#111315;
-  --card:#1a1d20;
+html.dark{
+  --bg:#0f1115;
+  --card:#171a21;
   --text:#f3f4f6;
-  --sub:#9ca3af;
-  --line:#30343a;
+  --muted:#9ca3af;
+  --line:#2a2f38;
   --primary:#60a5fa;
-  --hover:#252a30;
-  --shadow:0 4px 18px rgba(0,0,0,.25)
+  --primary-bg:#172554;
+  --hover:#1c222c;
+  --shadow:0 5px 22px rgba(0,0,0,.25);
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
@@ -34,497 +37,655 @@ body{
   margin:0;
   background:var(--bg);
   color:var(--text);
-  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans SC",Roboto,Arial,sans-serif;
+  line-height:1.65;
 }
-a{color:inherit;text-decoration:none}
-button{font:inherit}
+a{color:var(--primary);text-decoration:none}
+button,input{font:inherit}
 .header{
   position:sticky;
   top:0;
-  z-index:20;
-  backdrop-filter:blur(16px);
+  z-index:50;
+  backdrop-filter:blur(18px);
   background:color-mix(in srgb,var(--bg) 88%,transparent);
-  border-bottom:1px solid var(--line)
+  border-bottom:1px solid var(--line);
 }
 .header-inner{
-  max-width:1200px;
-  height:64px;
+  max-width:1180px;
   margin:auto;
-  padding:0 20px;
+  min-height:68px;
+  padding:10px 18px;
   display:flex;
   align-items:center;
-  gap:14px
+  gap:14px;
 }
-.logo{
+.brand{
   display:flex;
   align-items:center;
   gap:10px;
-  font-size:20px;
-  font-weight:700;
-  white-space:nowrap
+  min-width:max-content;
+  color:var(--text);
+  font-weight:800;
 }
-.logo img{width:34px;height:34px;border-radius:9px}
-.search{flex:1;max-width:500px;margin-left:auto}
+.brand img{
+  width:38px;height:38px;border-radius:10px;
+  object-fit:cover;
+}
+.brand span{font-size:18px}
+.search{
+  flex:1;
+  min-width:120px;
+  max-width:520px;
+  margin-left:auto;
+  position:relative;
+}
 .search input{
   width:100%;
-  height:40px;
-  padding:0 15px;
+  height:42px;
+  padding:0 16px 0 42px;
   border:1px solid var(--line);
-  border-radius:10px;
+  border-radius:12px;
   outline:none;
   color:var(--text);
-  background:var(--card)
+  background:var(--card);
 }
 .search input:focus{border-color:var(--primary)}
-.header-btn{
-  width:40px;
-  height:40px;
+.search-icon{
+  position:absolute;left:14px;top:10px;
+  color:var(--muted);font-size:18px;
+}
+.actions{display:flex;gap:8px}
+.icon-btn{
+  width:42px;height:42px;
   border:1px solid var(--line);
-  border-radius:10px;
+  border-radius:12px;
   background:var(--card);
   color:var(--text);
   cursor:pointer;
-  display:flex;
-  align-items:center;
-  justify-content:center
+}
+.icon-btn:hover{background:var(--hover)}
+.container{
+  max-width:1180px;
+  margin:auto;
+  padding:28px 18px 70px;
 }
 .hero{
-  max-width:1200px;
-  margin:auto;
-  padding:55px 20px 35px
+  display:grid;
+  grid-template-columns:1fr auto;
+  gap:24px;
+  align-items:center;
+  padding:28px;
+  margin-bottom:24px;
+  background:var(--card);
+  border:1px solid var(--line);
+  border-radius:22px;
+  box-shadow:var(--shadow);
 }
-.hero h1{margin:0 0 12px;font-size:40px}
-.hero p{margin:0;color:var(--sub)}
-.nav{
+.hero h1{margin:0 0 8px;font-size:32px;line-height:1.25}
+.hero p{margin:0;color:var(--muted)}
+.hero img{
+  width:120px;height:120px;border-radius:24px;
+  object-fit:cover;
+}
+.platform-nav{
   position:sticky;
-  top:64px;
-  z-index:10;
-  border-bottom:1px solid var(--line);
-  background:color-mix(in srgb,var(--bg) 94%,transparent);
-  backdrop-filter:blur(12px)
-}
-.nav-inner{
-  max-width:1200px;
-  margin:auto;
-  padding:10px 20px;
+  top:69px;
+  z-index:30;
   display:flex;
   gap:8px;
-  overflow-x:auto
+  overflow:auto;
+  padding:4px 0 14px;
+  margin-bottom:6px;
+  scrollbar-width:none;
 }
-.nav a{
-  flex:none;
-  padding:8px 13px;
-  border-radius:9px;
-  color:var(--sub);
-  font-size:14px
+.platform-nav::-webkit-scrollbar{display:none}
+.nav-link{
+  flex:0 0 auto;
+  padding:8px 14px;
+  border:1px solid var(--line);
+  border-radius:999px;
+  color:var(--text);
+  background:var(--card);
+  font-size:14px;
 }
-.nav a:hover{background:var(--hover);color:var(--text)}
-.container{
-  max-width:1200px;
-  margin:auto;
-  padding:35px 20px 70px
-}
+.nav-link:hover{border-color:var(--primary);color:var(--primary)}
 .platform{
-  scroll-margin-top:130px;
-  margin-bottom:55px
+  scroll-margin-top:140px;
+  margin-top:26px;
 }
-.platform-title{margin:0 0 20px;font-size:28px}
-.platform-body{display:flex;flex-direction:column;gap:20px}
+.platform-title{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  margin:0 0 14px;
+  font-size:26px;
+}
+.platform-title .count{
+  color:var(--muted);
+  font-size:13px;
+  font-weight:500;
+}
+.content-grid{
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:14px;
+}
 .category{
   border:1px solid var(--line);
   border-radius:var(--radius);
   background:var(--card);
   box-shadow:var(--shadow);
-  overflow:hidden
+  overflow:hidden;
 }
-.category-title{
-  padding:17px 20px;
-  border-bottom:1px solid var(--line);
-  font-size:19px;
-  font-weight:700
+.category-head{
+  padding:17px 18px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:10px;
+  cursor:pointer;
+  user-select:none;
 }
+.category-head:hover{background:var(--hover)}
+.category-name{font-size:18px;font-weight:750}
+.category-meta{color:var(--muted);font-size:12px}
 .category-body{
-  padding:20px;
-  display:grid;
-  grid-template-columns:repeat(auto-fill,minmax(260px,1fr));
-  gap:14px
+  border-top:1px solid var(--line);
+  padding:4px 18px 10px;
 }
 .app{
-  display:block;
-  padding:17px;
-  border:1px solid var(--line);
-  border-radius:11px;
-  background:var(--card);
-  transition:.18s
+  padding:13px 0;
+  border-bottom:1px solid var(--line);
 }
-.app:hover{
-  transform:translateY(-2px);
-  border-color:var(--primary);
-  background:var(--hover)
+.app:last-child{border-bottom:0}
+.app-title{
+  display:inline-flex;
+  align-items:center;
+  gap:7px;
+  font-size:16px;
+  font-weight:650;
 }
-.app-title{font-weight:650;margin-bottom:7px}
 .app-desc{
-  color:var(--sub);
+  margin:4px 0 0;
+  color:var(--muted);
   font-size:14px;
-  line-height:1.6;
-  word-break:break-word
+}
+.downloads{
+  display:flex;
+  flex-wrap:wrap;
+  gap:6px;
+  margin-top:8px;
+}
+.download{
+  display:inline-flex;
+  padding:3px 9px;
+  border:1px solid var(--line);
+  border-radius:8px;
+  font-size:12px;
+  color:var(--primary);
+  background:var(--primary-bg);
+}
+.download:hover{border-color:var(--primary)}
+.loose-grid{
+  display:grid;
+  grid-template-columns:repeat(2,minmax(0,1fr));
+  gap:14px;
+  margin-top:14px;
 }
 .top-level-app{
-  display:block;
-  padding:20px;
+  padding:18px;
   border:1px solid var(--line);
   border-radius:var(--radius);
   background:var(--card);
   box-shadow:var(--shadow);
-  transition:.18s
 }
 .top-level-app:hover{
   border-color:var(--primary);
-  background:var(--hover)
+  background:var(--hover);
 }
-.top-level-app .app-title{font-size:19px}
-.loading,.empty{
-  padding:60px 20px;
+.empty,.error,.loading{
+  padding:50px 20px;
   text-align:center;
-  color:var(--sub)
+  color:var(--muted);
 }
 .error{
-  padding:25px;
+  color:#dc2626;
+  background:var(--card);
   border:1px solid var(--line);
   border-radius:var(--radius);
-  background:var(--card);
-  color:var(--sub)
 }
-@media(max-width:700px){
-  .header-inner{padding:0 14px}
-  .logo span{display:none}
+.footer{
+  margin-top:50px;
+  padding-top:22px;
+  border-top:1px solid var(--line);
+  text-align:center;
+  color:var(--muted);
+  font-size:13px;
+}
+.markdown-extra{
+  margin-bottom:24px;
+  color:var(--muted);
+}
+.markdown-extra p{margin:6px 0}
+.markdown-extra img{max-width:100%;height:auto}
+.markdown-extra .repo-badges{display:none}
+.no-result{display:none}
+@media(max-width:760px){
+  .header-inner{padding:9px 12px}
+  .brand span{display:none}
   .search{max-width:none}
-  .hero{padding:40px 16px 28px}
-  .hero h1{font-size:32px}
-  .container{padding:28px 16px 60px}
-  .category-body{grid-template-columns:1fr}
-  .nav-inner{padding-left:16px;padding-right:16px}
+  .container{padding:18px 12px 50px}
+  .hero{grid-template-columns:1fr;padding:22px}
+  .hero img{display:none}
+  .hero h1{font-size:27px}
+  .content-grid,.loose-grid{grid-template-columns:1fr}
+  .platform-nav{top:60px}
 }
 </style>
-</head><body><header class="header">
+</head>
+<body>
+<header class="header">
   <div class="header-inner">
-    <a class="logo" href="#">
+    <a class="brand" href="#">
       <img src="./icon/ai.png" alt="AppList">
       <span>AppList</span>
-    </a><div class="search">
-  <input id="search" type="search" placeholder="搜索应用、分类、描述……">
-</div>
-
-<a
-  class="header-btn"
-  href="https://github.com/Easyllls/AppList"
-  target="_blank"
-  rel="noopener"
-  title="GitHub"
->↗</a>
-
-<button class="header-btn" id="theme" title="切换主题">☾</button>
-
+    </a>
+    <div class="search">
+      <span class="search-icon">⌕</span>
+      <input id="search" type="search" placeholder="搜索应用、分类……" autocomplete="off">
+    </div>
+    <div class="actions">
+      <button class="icon-btn" id="github" title="GitHub">↗</button>
+      <button class="icon-btn" id="theme" title="切换主题">☾</button>
+    </div>
   </div>
-</header><section class="hero">
-  <h1>AppList</h1>
-  <p>Android、Android TV、Windows 及 Root / Xposed 生态软件资源列表</p>
-</section><nav class="nav">
-  <div class="nav-inner" id="platformNav"></div>
-</nav><main class="container" id="content">
-  <div class="loading">正在加载 README.md…</div>
-</main><script>
-const README_URL="https://raw.githubusercontent.com/Easyllls/AppList/main/README.md";
-const content=document.getElementById("content");
-const platformNav=document.getElementById("platformNav");
-const search=document.getElementById("search");
-const theme=document.getElementById("theme");
+</header>
+
+<main class="container">
+  <section class="hero">
+    <div>
+      <h1>AppList</h1>
+      <p>Android、Android TV、Windows 及 Root / Xposed 软件资源列表</p>
+    </div>
+    <img src="./icon/ai.png" alt="AppList">
+  </section>
+
+  <nav id="platformNav" class="platform-nav"></nav>
+  <div id="app"></div>
+
+  <footer class="footer">
+    数据来源：
+    <a href="https://github.com/Easyllls/AppList" target="_blank" rel="noopener">GitHub · Easyllls/AppList</a>
+    · README.md
+  </footer>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+const README_URL =
+  "https://raw.githubusercontent.com/Easyllls/AppList/main/README.md";
+const REPO_URL =
+  "https://github.com/Easyllls/AppList";
+
+const appRoot = document.getElementById("app");
+const navRoot = document.getElementById("platformNav");
+const searchInput = document.getElementById("search");
+
+document.getElementById("github").onclick = () => {
+  location.href = REPO_URL;
+};
+
+const savedTheme = localStorage.getItem("applist-theme");
+if (
+  savedTheme === "dark" ||
+  (!savedTheme && window.matchMedia("(prefers-color-scheme: dark)").matches)
+) {
+  document.documentElement.classList.add("dark");
+}
+updateThemeIcon();
+
+document.getElementById("theme").onclick = () => {
+  document.documentElement.classList.toggle("dark");
+  localStorage.setItem(
+    "applist-theme",
+    document.documentElement.classList.contains("dark") ? "dark" : "light"
+  );
+  updateThemeIcon();
+};
+
+function updateThemeIcon(){
+  document.getElementById("theme").textContent =
+    document.documentElement.classList.contains("dark") ? "☀" : "☾";
+}
 
 function cleanText(text){
-  return text
+  return (text || "")
+    .replace(/\u00a0/g," ")
     .replace(/\s+/g," ")
-    .replace(/^[📱📺🪟🔧🧩🌐💻🖥️]+/u,"")
     .trim();
 }
 
+function slug(text){
+  return "p-" + text.toLowerCase()
+    .replace(/[^\w\u4e00-\u9fff]+/g,"-")
+    .replace(/^-+|-+$/g,"");
+}
+
 function escapeHtml(text){
-  return text.replace(/[&<>"']/g,char=>({
-    "&":"&amp;",
-    "<":"&lt;",
-    ">":"&gt;",
-    '"':"&quot;",
-    "'":"&#039;"
-  }[char]));
+  return String(text)
+    .replace(/&/g,"&amp;")
+    .replace(/</g,"&lt;")
+    .replace(/>/g,"&gt;")
+    .replace(/"/g,"&quot;");
 }
 
-function parseItem(li){
-  const nested=li.querySelector(":scope > ul,:scope > ol");
-  const link=li.querySelector(":scope > a");
-
-  const clone=li.cloneNode(true);
-  clone.querySelector(":scope > ul,:scope > ol")?.remove();
-
-  const name=cleanText(
-    link ? link.textContent : clone.textContent
+function getDirectList(parent){
+  return [...parent.children].find(
+    el => el.tagName === "UL" || el.tagName === "OL"
   );
-
-  return {
-    name,
-    href:link?.href || "#",
-    text:cleanText(clone.textContent),
-    nested
-  };
 }
 
-function parseList(list){
-  const categories=[];
-  const loose=[];
+function getDirectLinks(li){
+  return [...li.children]
+    .filter(el => el.tagName === "A")
+    .map(a => ({
+      name: cleanText(a.textContent),
+      href: a.href
+    }));
+}
 
-  [...list.children].forEach(li=>{
-    if(li.tagName!=="LI") return;
+function getItemTitle(li){
+  const directLinks = getDirectLinks(li);
+  if(directLinks.length) return directLinks[0].name;
 
-    const item=parseItem(li);
+  const clone = li.cloneNode(true);
+  clone.querySelectorAll("ul,ol").forEach(x => x.remove());
+  return cleanText(clone.textContent);
+}
 
-    if(!item.name) return;
+function getItemDescription(li){
+  const clone = li.cloneNode(true);
+  clone.querySelectorAll("ul,ol,a").forEach(x => x.remove());
+  return cleanText(clone.textContent);
+}
 
+function parseApps(list){
+  if(!list) return [];
+
+  return [...list.children]
+    .filter(li => li.tagName === "LI")
+    .map(li => {
+      const links = getDirectLinks(li);
+      const nested = getDirectList(li);
+      return {
+        name: getItemTitle(li),
+        description: getItemDescription(li),
+        links,
+        nested
+      };
+    });
+}
+
+function parseDetails(details){
+  const summary = details.querySelector(":scope > summary");
+  const list = getDirectList(details);
+  if(!summary || !list) return null;
+
+  const platform = cleanText(summary.textContent);
+  const items = parseApps(list);
+  const categories = [];
+  const loose = [];
+
+  items.forEach(item => {
     if(item.nested){
-      const apps=[];
-
-      [...item.nested.children].forEach(child=>{
-        if(child.tagName!=="LI") return;
-
-        const sub=parseItem(child);
-
-        if(sub.name){
-          apps.push({
-            name:sub.name,
-            href:sub.href,
-            text:sub.text
-          });
-        }
-      });
-
       categories.push({
-        name:item.name,
-        href:item.href,
-        apps
+        name: item.name,
+        links: item.links,
+        apps: parseApps(item.nested)
       });
     }else{
-      loose.push({
-        name:item.name,
-        href:item.href,
-        text:item.text
-      });
+      loose.push(item);
     }
   });
 
-  return {categories,loose};
+  return {name: platform, categories, loose};
 }
 
 function parseREADME(markdown){
-  const html=marked.parse(markdown);
-  const wrapper=document.createElement("div");
-  wrapper.innerHTML=html;
+  const wrapper = document.createElement("div");
+  wrapper.innerHTML = marked.parse(markdown);
 
-  const platforms=[];
+  const platforms = [];
 
-  wrapper.querySelectorAll("details").forEach(details=>{
-    const summary=details.querySelector(":scope > summary");
-    const list=details.querySelector(":scope > ul,:scope > ol");
-
-    if(!summary || !list) return;
-
-    const name=cleanText(summary.textContent);
-    const parsed=parseList(list);
-
-    if(name){
-      platforms.push({
-        name,
-        categories:parsed.categories,
-        loose:parsed.loose
-      });
-    }
+  // 当前 README 使用 <details><summary>平台</summary> 的结构
+  wrapper.querySelectorAll(":scope > details").forEach(details => {
+    const platform = parseDetails(details);
+    if(platform) platforms.push(platform);
   });
+
+  // 兼容以后 README 改成普通 Markdown 标题 + 列表的情况
+  if(!platforms.length){
+    let current = null;
+    let currentList = null;
+
+    [...wrapper.children].forEach(el => {
+      if(/^H[1-3]$/.test(el.tagName)){
+        const level = Number(el.tagName.slice(1));
+        if(level === 1 || !current){
+          current = {
+            name: cleanText(el.textContent),
+            categories: [],
+            loose: []
+          };
+          platforms.push(current);
+        }
+        currentList = null;
+      }else if(
+        current &&
+        (el.tagName === "UL" || el.tagName === "OL")
+      ){
+        currentList = el;
+        const items = parseApps(el);
+        items.forEach(item => {
+          if(item.nested){
+            current.categories.push({
+              name:item.name,
+              links:item.links,
+              apps:parseApps(item.nested)
+            });
+          }else{
+            current.loose.push(item);
+          }
+        });
+      }
+    });
+  }
 
   return platforms;
 }
 
-function makeApp(app,topLevel=false){
-  const el=document.createElement("a");
+function makeDownloads(links){
+  if(!links || links.length <= 1) return "";
+  return `
+    <div class="downloads">
+      ${links.slice(1).map(link =>
+        `<a class="download" href="${escapeHtml(link.href)}"
+            target="_blank" rel="noopener">${escapeHtml(link.name || "下载")}</a>`
+      ).join("")}
+    </div>`;
+}
 
-  el.className=topLevel
-    ? "top-level-app"
-    : "app";
+function makeApp(item){
+  const el = document.createElement("article");
+  el.className = "app";
 
-  el.href=app.href || "#";
+  const mainLink = item.links?.[0];
 
-  if(app.href && app.href!=="#"){
-    el.target="_blank";
-    el.rel="noopener";
-  }
+  const title = mainLink
+    ? `<a class="app-title" href="${escapeHtml(mainLink.href)}"
+          target="_blank" rel="noopener">${escapeHtml(item.name)}</a>`
+    : `<span class="app-title">${escapeHtml(item.name)}</span>`;
 
-  let desc=app.text || "";
-
-  if(desc===app.name){
-    desc="";
-  }
-
-  el.innerHTML=`
-    <div class="app-title">${escapeHtml(app.name)}</div>
-    ${desc?`<div class="app-desc">${escapeHtml(desc)}</div>`:""}
+  el.innerHTML = `
+    ${title}
+    ${item.description
+      ? `<div class="app-desc">${escapeHtml(item.description)}</div>`
+      : ""}
+    ${makeDownloads(item.links)}
   `;
 
   return el;
 }
 
 function makeCategory(category){
-  const el=document.createElement("section");
-  el.className="category";
+  const box = document.createElement("section");
+  box.className = "category";
 
-  const title=document.createElement("div");
-  title.className="category-title";
-  title.textContent=category.name;
+  const head = document.createElement("div");
+  head.className = "category-head";
 
-  const body=document.createElement("div");
-  body.className="category-body";
+  const body = document.createElement("div");
+  body.className = "category-body";
 
-  category.apps.forEach(app=>{
-    body.appendChild(makeApp(app));
-  });
+  head.innerHTML = `
+    <span class="category-name">${escapeHtml(category.name)}</span>
+    <span class="category-meta">${category.apps.length} 项　⌄</span>
+  `;
 
-  el.appendChild(title);
-  el.appendChild(body);
+  category.apps.forEach(app => body.appendChild(makeApp(app)));
 
-  return el;
+  head.onclick = () => {
+    const hidden = body.style.display === "none";
+    body.style.display = hidden ? "" : "none";
+    head.querySelector(".category-meta").textContent =
+      `${category.apps.length} 项　${hidden ? "⌄" : "›"}`;
+  };
+
+  box.append(head, body);
+  return box;
 }
 
 function render(platforms){
-  content.innerHTML="";
-  platformNav.innerHTML="";
+  navRoot.innerHTML = "";
+  appRoot.innerHTML = "";
 
   if(!platforms.length){
-    content.innerHTML=`
-      <div class="empty">
-        没有找到匹配的内容
-      </div>
-    `;
+    appRoot.innerHTML =
+      '<div class="empty">README.md 中没有识别到软件列表。</div>';
     return;
   }
 
-  platforms.forEach((platform,index)=>{
-    const id="platform-"+index;
+  platforms.forEach((platform, index) => {
+    const id = slug(platform.name) + "-" + index;
 
-    const navLink=document.createElement("a");
-    navLink.href="#"+id;
-    navLink.textContent=platform.name;
-    platformNav.appendChild(navLink);
+    const nav = document.createElement("a");
+    nav.className = "nav-link";
+    nav.href = "#" + id;
+    nav.textContent = platform.name;
+    navRoot.appendChild(nav);
 
-    const section=document.createElement("section");
-    section.className="platform";
-    section.id=id;
+    const section = document.createElement("section");
+    section.className = "platform";
+    section.id = id;
 
-    const title=document.createElement("h2");
-    title.className="platform-title";
-    title.textContent=platform.name;
+    const total =
+      platform.categories.reduce((n,c) => n + c.apps.length, 0) +
+      platform.loose.length;
 
-    const body=document.createElement("div");
-    body.className="platform-body";
+    section.innerHTML = `
+      <h2 class="platform-title">
+        ${escapeHtml(platform.name)}
+        <span class="count">${total} 项</span>
+      </h2>
+    `;
 
-    platform.categories.forEach(category=>{
-      body.appendChild(makeCategory(category));
+    const content = document.createElement("div");
+    content.className = "content-grid";
+
+    platform.categories.forEach(category => {
+      content.appendChild(makeCategory(category));
     });
 
-    platform.loose.forEach(app=>{
-      body.appendChild(makeApp(app,true));
-    });
+    section.appendChild(content);
 
-    section.appendChild(title);
-    section.appendChild(body);
-    content.appendChild(section);
+    // 没有分类的软件直接和分类卡片同级显示
+    if(platform.loose.length){
+      const looseGrid = document.createElement("div");
+      looseGrid.className = "loose-grid";
+
+      platform.loose.forEach(item => {
+        const el = makeApp(item);
+        el.classList.add("top-level-app");
+        looseGrid.appendChild(el);
+      });
+
+      section.appendChild(looseGrid);
+    }
+
+    appRoot.appendChild(section);
   });
 }
 
-async function loadREADME(){
-  const response=await fetch(
-    README_URL+"?t="+Date.now(),
-    {
-      cache:"no-store",
-      mode:"cors"
-    }
-  );
-
-  if(!response.ok){
-    throw new Error("README.md 加载失败："+response.status);
-  }
-
-  const text=await response.text();
-
-  if(!text.trim()){
-    throw new Error("README.md 内容为空");
-  }
-
-  return text;
+function allSearchText(platforms){
+  return [...document.querySelectorAll(".platform")];
 }
 
-async function init(){
+searchInput.addEventListener("input", () => {
+  const keyword = cleanText(searchInput.value).toLowerCase();
+
+  document.querySelectorAll(".platform").forEach(platform => {
+    let visible = 0;
+
+    platform.querySelectorAll(".category").forEach(category => {
+      const matched =
+        category.textContent.toLowerCase().includes(keyword);
+
+      category.style.display = matched ? "" : "none";
+      if(matched) visible++;
+    });
+
+    platform.querySelectorAll(".top-level-app").forEach(item => {
+      const matched =
+        item.textContent.toLowerCase().includes(keyword);
+
+      item.style.display = matched ? "" : "none";
+      if(matched) visible++;
+    });
+
+    platform.style.display = visible || !keyword ? "" : "none";
+  });
+});
+
+async function loadREADME(){
+  appRoot.innerHTML =
+    '<div class="loading">正在读取 GitHub README.md……</div>';
+
   try{
-    const markdown=await loadREADME();
-    const platforms=parseREADME(markdown);
+    const response = await fetch(
+      README_URL + "?t=" + Date.now(),
+      {cache:"no-store"}
+    );
+
+    if(!response.ok){
+      throw new Error(`HTTP ${response.status}`);
+    }
+
+    const markdown = await response.text();
+    const platforms = parseREADME(markdown);
     render(platforms);
+
   }catch(error){
     console.error(error);
-
-    content.innerHTML=`
+    appRoot.innerHTML = `
       <div class="error">
         <strong>README.md 加载失败</strong>
-        <p>${escapeHtml(error.message)}</p>
-        <p>
-          请刷新页面重试。
-        </p>
-      </div>
-    `;
+        <p>无法读取 GitHub 仓库中的 README.md。</p>
+        <p>请检查网络连接，或稍后刷新页面。</p>
+      </div>`;
   }
 }
 
-search.addEventListener("input",()=>{
-  const keyword=search.value.trim().toLowerCase();
-
-  document
-    .querySelectorAll(".category,.top-level-app")
-    .forEach(el=>{
-      el.style.display=
-        !keyword ||
-        el.textContent.toLowerCase().includes(keyword)
-          ? ""
-          : "none";
-    });
-});
-
-function applyTheme(){
-  const saved=localStorage.getItem("applist-theme");
-
-  if(saved==="dark"){
-    document.documentElement.dataset.theme="dark";
-    theme.textContent="☀";
-  }else{
-    document.documentElement.removeAttribute("data-theme");
-    theme.textContent="☾";
-  }
-}
-
-theme.addEventListener("click",()=>{
-  const dark=
-    document.documentElement.dataset.theme==="dark";
-
-  localStorage.setItem(
-    "applist-theme",
-    dark ? "light" : "dark"
-  );
-
-  applyTheme();
-});
-
-applyTheme();
-init();
-</script></body>
+loadREADME();
+</script>
+</body>
 </html>
