@@ -3,283 +3,348 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="theme-color" content="#f6f7f9">
+<meta name="theme-color" content="#0b0f17">
 <meta name="description" content="AppList · Android、Android TV、Windows 及 Root / Xposed 软件资源列表">
 <title>AppList · 软件资源列表</title>
 <link rel="icon" href="./icon/ai.png">
 <style>
-:root{
-  --bg:#f6f7f9;
-  --card:#fff;
-  --text:#202124;
-  --muted:#6b7280;
-  --line:#e5e7eb;
-  --primary:#2563eb;
-  --primary-bg:#eff6ff;
-  --hover:#f8fafc;
-  --shadow:0 4px 18px rgba(0,0,0,.05);
-  --radius:16px;
+:root {
+  --bg: #f8fafc;
+  --card: #ffffff;
+  --card-border: rgba(226, 232, 240, 0.8);
+  --text: #0f172a;
+  --muted: #64748b;
+  --line: #f1f5f9;
+  --primary: #3b82f6;
+  --primary-glow: rgba(59, 130, 246, 0.15);
+  --primary-bg: #eff6ff;
+  --hover: #f1f5f9;
+  --shadow: 0 10px 25px -5px rgba(15, 23, 42, 0.04), 0 8px 10px -6px rgba(15, 23, 42, 0.04);
+  --radius: 14px;
 }
-html.dark{
-  --bg:#0f1115;
-  --card:#171a21;
-  --text:#f3f4f6;
-  --muted:#9ca3af;
-  --line:#2a2f38;
-  --primary:#60a5fa;
-  --primary-bg:#172554;
-  --hover:#1c222c;
-  --shadow:0 5px 22px rgba(0,0,0,.25);
+
+html.dark {
+  --bg: #0b0f17;
+  --card: #131924;
+  --card-border: rgba(255, 255, 255, 0.08);
+  --text: #f8fafc;
+  --muted: #94a3b8;
+  --line: #1e293b;
+  --primary: #60a5fa;
+  --primary-glow: rgba(96, 165, 250, 0.2);
+  --primary-bg: rgba(30, 58, 138, 0.3);
+  --hover: #1b2230;
+  --shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5);
 }
-*{box-sizing:border-box}
-html{scroll-behavior:smooth}
-body{
-  margin:0;
-  background:var(--bg);
-  color:var(--text);
-  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans SC",Roboto,Arial,sans-serif;
-  line-height:1.65;
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
 }
-a{color:var(--primary);text-decoration:none}
-button,input{font:inherit}
-.header{
-  position:sticky;
-  top:0;
-  z-index:50;
-  backdrop-filter:blur(18px);
-  background:color-mix(in srgb,var(--bg) 88%,transparent);
-  border-bottom:1px solid var(--line);
+a { color: var(--primary); text-decoration: none; }
+button, input { font: inherit; }
+
+/* Header */
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 50;
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  background: color-mix(in srgb, var(--bg) 80%, transparent);
+  border-bottom: 1px solid var(--card-border);
 }
-.header-inner{
-  max-width:1180px;
-  margin:auto;
-  min-height:68px;
-  padding:10px 18px;
-  display:flex;
-  align-items:center;
-  gap:14px;
+.header-inner {
+  max-width: 1140px;
+  margin: auto;
+  min-height: 64px;
+  padding: 8px 20px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
 }
-.brand{
-  display:flex;
-  align-items:center;
-  gap:10px;
-  min-width:max-content;
-  color:var(--text);
-  font-weight:800;
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-width: max-content;
+  color: var(--text);
+  font-weight: 700;
+  font-size: 17px;
+  letter-spacing: -0.3px;
 }
-.brand img{
-  width:38px;height:38px;border-radius:10px;
-  object-fit:cover;
+.brand img {
+  width: 34px; height: 34px; border-radius: 9px;
+  object-fit: cover;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
 }
-.brand span{font-size:18px}
-.search{
-  flex:1;
-  min-width:120px;
-  max-width:520px;
-  margin-left:auto;
-  position:relative;
+.search {
+  flex: 1;
+  max-width: 480px;
+  margin-left: auto;
+  position: relative;
 }
-.search input{
-  width:100%;
-  height:42px;
-  padding:0 16px 0 42px;
-  border:1px solid var(--line);
-  border-radius:12px;
-  outline:none;
-  color:var(--text);
-  background:var(--card);
+.search input {
+  width: 100%;
+  height: 38px;
+  padding: 0 16px 0 38px;
+  border: 1px solid var(--card-border);
+  border-radius: 10px;
+  outline: none;
+  color: var(--text);
+  background: var(--card);
+  font-size: 13.5px;
+  transition: all .2s ease;
 }
-.search input:focus{border-color:var(--primary)}
-.search-icon{
-  position:absolute;left:14px;top:10px;
-  color:var(--muted);font-size:18px;
+.search input:focus {
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px var(--primary-glow);
 }
-.actions{display:flex;gap:8px}
-.icon-btn{
-  width:42px;height:42px;
-  border:1px solid var(--line);
-  border-radius:12px;
-  background:var(--card);
-  color:var(--text);
-  cursor:pointer;
+.search-icon {
+  position: absolute; left: 12px; top: 8px;
+  color: var(--muted); font-size: 15px; pointer-events: none;
 }
-.icon-btn:hover{background:var(--hover)}
-.container{
-  max-width:1180px;
-  margin:auto;
-  padding:28px 18px 70px;
+.actions { display: flex; gap: 8px; }
+.icon-btn {
+  width: 38px; height: 38px;
+  border: 1px solid var(--card-border);
+  border-radius: 10px;
+  background: var(--card);
+  color: var(--muted);
+  cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  transition: all .2s ease;
 }
-.hero{
-  display:grid;
-  grid-template-columns:1fr auto;
-  gap:24px;
-  align-items:center;
-  padding:28px;
-  margin-bottom:24px;
-  background:var(--card);
-  border:1px solid var(--line);
-  border-radius:22px;
-  box-shadow:var(--shadow);
+.icon-btn svg { width: 18px; height: 18px; fill: currentColor; }
+.icon-btn:hover { background: var(--hover); color: var(--text); border-color: var(--primary); }
+
+/* Main Container */
+.container {
+  max-width: 1140px;
+  margin: auto;
+  padding: 32px 20px 80px;
 }
-.hero h1{margin:0 0 8px;font-size:32px;line-height:1.25}
-.hero p{margin:0;color:var(--muted)}
-.hero img{
-  width:120px;height:120px;border-radius:24px;
-  object-fit:cover;
+.hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 32px;
+  margin-bottom: 28px;
+  background: linear-gradient(135deg, var(--card) 0%, color-mix(in srgb, var(--card) 95%, var(--primary)) 100%);
+  border: 1px solid var(--card-border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
 }
-.platform-nav{
-  position:sticky;
-  top:69px;
-  z-index:30;
-  display:flex;
-  gap:8px;
-  overflow:auto;
-  padding:4px 0 14px;
-  margin-bottom:6px;
-  scrollbar-width:none;
+.hero h1 {
+  margin: 0 0 6px;
+  font-size: 28px;
+  font-weight: 800;
+  letter-spacing: -0.5px;
+  background: linear-gradient(135deg, var(--text) 0%, var(--muted) 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
-.platform-nav::-webkit-scrollbar{display:none}
-.nav-link{
-  flex:0 0 auto;
-  padding:8px 14px;
-  border:1px solid var(--line);
-  border-radius:999px;
-  color:var(--text);
-  background:var(--card);
-  font-size:14px;
+.hero p { margin: 0; color: var(--muted); font-size: 14.5px; }
+.hero img { width: 96px; height: 96px; border-radius: 20px; object-fit: cover; box-shadow: 0 8px 20px rgba(0,0,0,0.12); }
+
+/* Sticky Nav Filter */
+.platform-nav {
+  position: sticky;
+  top: 65px;
+  z-index: 30;
+  display: flex;
+  gap: 8px;
+  overflow: auto;
+  padding: 10px 0 14px;
+  margin-bottom: 12px;
+  scrollbar-width: none;
 }
-.nav-link:hover{border-color:var(--primary);color:var(--primary)}
-.platform{
-  scroll-margin-top:140px;
-  margin-top:26px;
+.platform-nav::-webkit-scrollbar { display: none; }
+.nav-link {
+  flex: 0 0 auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 14px;
+  border: 1px solid var(--card-border);
+  border-radius: 20px;
+  color: var(--muted);
+  background: var(--card);
+  font-size: 13px;
+  font-weight: 500;
+  transition: all .2s;
 }
-.platform-title{
-  display:flex;
-  align-items:center;
-  gap:10px;
-  margin:0 0 14px;
-  font-size:26px;
+.nav-link:hover { border-color: var(--primary); color: var(--primary); text-decoration: none; }
+.nav-link .badge {
+  font-size: 11px;
+  padding: 1px 6px;
+  border-radius: 99px;
+  background: var(--hover);
+  color: var(--muted);
 }
-.platform-title .count{
-  color:var(--muted);
-  font-size:13px;
-  font-weight:500;
+
+/* Platform Section */
+.platform {
+  scroll-margin-top: 130px;
+  margin-top: 36px;
 }
-.content-grid{
-  display:grid;
-  grid-template-columns:repeat(2,minmax(0,1fr));
-  gap:14px;
+.platform-title {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 0 0 18px;
+  font-size: 20px;
+  font-weight: 700;
+  letter-spacing: -0.3px;
 }
-.category{
-  border:1px solid var(--line);
-  border-radius:var(--radius);
-  background:var(--card);
-  box-shadow:var(--shadow);
-  overflow:hidden;
+.platform-title .count {
+  color: var(--muted);
+  font-size: 12px;
+  font-weight: 600;
+  background: var(--hover);
+  padding: 2px 8px;
+  border-radius: 20px;
+  border: 1px solid var(--card-border);
 }
-.category-head{
-  padding:17px 18px;
-  display:flex;
-  align-items:center;
-  justify-content:space-between;
-  gap:10px;
-  cursor:pointer;
-  user-select:none;
+
+.content-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 16px;
 }
-.category-head:hover{background:var(--hover)}
-.category-name{font-size:18px;font-weight:750}
-.category-meta{color:var(--muted);font-size:12px}
-.category-body{
-  border-top:1px solid var(--line);
-  padding:4px 18px 10px;
+
+/* Category Component */
+.category {
+  border: 1px solid var(--card-border);
+  border-radius: var(--radius);
+  background: var(--card);
+  box-shadow: var(--shadow);
+  overflow: hidden;
+  height: fit-content;
+  transition: border-color .2s;
 }
-.app{
-  padding:13px 0;
-  border-bottom:1px solid var(--line);
+.category:hover { border-color: color-mix(in srgb, var(--primary) 30%, var(--card-border)); }
+
+.category-head {
+  padding: 14px 18px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  cursor: pointer;
+  user-select: none;
+  background: var(--card);
+  transition: background .2s;
 }
-.app:last-child{border-bottom:0}
-.app-title{
-  display:inline-flex;
-  align-items:center;
-  gap:7px;
-  font-size:16px;
-  font-weight:650;
+.category-head:hover { background: var(--hover); }
+.category-name { font-size: 15px; font-weight: 700; letter-spacing: -0.2px; }
+.category-meta { color: var(--muted); font-size: 12px; display: flex; align-items: center; gap: 4px; }
+.category-arrow { transition: transform .2s ease; display: inline-block; font-size: 10px; opacity: 0.7; }
+.category.collapsed .category-arrow { transform: rotate(-90deg); }
+.category.collapsed .category-body { display: none; }
+
+.category-body {
+  border-top: 1px solid var(--line);
+  padding: 2px 18px 8px;
 }
-.app-desc{
-  margin:4px 0 0;
-  color:var(--muted);
-  font-size:14px;
+
+/* App Entry Item */
+.app {
+  padding: 12px 0;
+  border-bottom: 1px solid var(--line);
 }
-.downloads{
-  display:flex;
-  flex-wrap:wrap;
-  gap:6px;
-  margin-top:8px;
+.app:last-child { border-bottom: 0; }
+.app-title {
+  font-size: 14.5px;
+  font-weight: 600;
+  color: var(--text);
+  line-height: 1.4;
 }
-.download{
-  display:inline-flex;
-  padding:3px 9px;
-  border:1px solid var(--line);
-  border-radius:8px;
-  font-size:12px;
-  color:var(--primary);
-  background:var(--primary-bg);
+.app-title a { color: var(--text); transition: color .15s; }
+.app-title a:hover { color: var(--primary); }
+.app-desc {
+  margin: 3px 0 0;
+  color: var(--muted);
+  font-size: 13px;
+  word-break: break-word;
+  line-height: 1.5;
 }
-.download:hover{border-color:var(--primary)}
-.loose-grid{
-  display:grid;
-  grid-template-columns:repeat(2,minmax(0,1fr));
-  gap:14px;
-  margin-top:14px;
+
+/* Download Badges & PNG Icons */
+.downloads {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 8px;
 }
-.top-level-app{
-  padding:18px;
-  border:1px solid var(--line);
-  border-radius:var(--radius);
-  background:var(--card);
-  box-shadow:var(--shadow);
+.download {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 4px 11px;
+  border: 1px solid var(--card-border);
+  border-radius: 6px;
+  font-size: 12px;
+  font-weight: 500;
+  color: var(--muted);
+  background: var(--hover);
+  transition: all .15s ease;
 }
-.top-level-app:hover{
-  border-color:var(--primary);
-  background:var(--hover);
+.download svg, .download .btn-icon {
+  width: 15px;
+  height: 15px;
+  flex-shrink: 0;
+  object-fit: contain;
 }
-.empty,.error,.loading{
-  padding:50px 20px;
-  text-align:center;
-  color:var(--muted);
+.download:hover {
+  border-color: var(--primary);
+  background: var(--primary-bg);
+  color: var(--primary);
+  transform: translateY(-1px);
 }
-.error{
-  color:#dc2626;
-  background:var(--card);
-  border:1px solid var(--line);
-  border-radius:var(--radius);
+
+.top-level-app {
+  padding: 16px;
+  border: 1px solid var(--card-border);
+  border-radius: var(--radius);
+  background: var(--card);
+  box-shadow: var(--shadow);
+  height: fit-content;
 }
-.footer{
-  margin-top:50px;
-  padding-top:22px;
-  border-top:1px solid var(--line);
-  text-align:center;
-  color:var(--muted);
-  font-size:13px;
+
+.empty, .error, .loading {
+  padding: 60px 20px;
+  text-align: center;
+  color: var(--muted);
+  font-size: 14px;
 }
-.markdown-extra{
-  margin-bottom:24px;
-  color:var(--muted);
+.error { color: #ef4444; background: var(--card); border: 1px solid var(--card-border); border-radius: var(--radius); }
+
+.footer {
+  margin-top: 60px;
+  padding-top: 24px;
+  border-top: 1px solid var(--line);
+  text-align: center;
+  color: var(--muted);
+  font-size: 12.5px;
 }
-.markdown-extra p{margin:6px 0}
-.markdown-extra img{max-width:100%;height:auto}
-.markdown-extra .repo-badges{display:none}
-.no-result{display:none}
-@media(max-width:760px){
-  .header-inner{padding:9px 12px}
-  .brand span{display:none}
-  .search{max-width:none}
-  .container{padding:18px 12px 50px}
-  .hero{grid-template-columns:1fr;padding:22px}
-  .hero img{display:none}
-  .hero h1{font-size:27px}
-  .content-grid,.loose-grid{grid-template-columns:1fr}
-  .platform-nav{top:60px}
+
+@media(max-width: 760px) {
+  .header-inner { padding: 8px 14px; }
+  .brand span { display: none; }
+  .search { max-width: none; }
+  .container { padding: 20px 14px 50px; }
+  .hero { padding: 20px; }
+  .hero img { display: none; }
+  .hero h1 { font-size: 22px; }
+  .content-grid { grid-template-columns: 1fr; }
+  .platform-nav { top: 57px; }
 }
 </style>
 </head>
@@ -291,11 +356,15 @@ button,input{font:inherit}
       <span>AppList</span>
     </a>
     <div class="search">
-      <span class="search-icon">⌕</span>
-      <input id="search" type="search" placeholder="搜索应用、分类……" autocomplete="off">
+      <span class="search-icon">🔍</span>
+      <input id="search" type="search" placeholder="搜索资源、分类或描述..." autocomplete="off">
     </div>
     <div class="actions">
-      <button class="icon-btn" id="github" title="GitHub">↗</button>
+      <button class="icon-btn" id="github" title="查看 GitHub 仓库">
+        <svg viewBox="0 0 24 24" aria-hidden="true">
+          <path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/>
+        </svg>
+      </button>
       <button class="icon-btn" id="theme" title="切换主题">☾</button>
     </div>
   </div>
@@ -305,7 +374,7 @@ button,input{font:inherit}
   <section class="hero">
     <div>
       <h1>AppList</h1>
-      <p>Android、Android TV、Windows 及 Root / Xposed 软件资源列表</p>
+      <p>精选 Android、Android TV、Windows 及 Root / Xposed 实用软件清单</p>
     </div>
     <img src="./icon/ai.png" alt="AppList">
   </section>
@@ -314,319 +383,230 @@ button,input{font:inherit}
   <div id="app"></div>
 
   <footer class="footer">
-    数据来源：
-    <a href="https://github.com/Easyllls/AppList" target="_blank" rel="noopener">GitHub · Easyllls/AppList</a>
-    · README.md
+    数据同步自 <a href="https://github.com/Easyllls/AppList" target="_blank" rel="noopener">GitHub · Easyllls/AppList</a>
   </footer>
 </main>
 
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 <script>
-const README_URL =
-  "https://raw.githubusercontent.com/Easyllls/AppList/main/README.md";
-const REPO_URL =
-  "https://github.com/Easyllls/AppList";
+const README_URL = "https://raw.githubusercontent.com/Easyllls/AppList/main/README.md";
+const REPO_URL = "https://github.com/Easyllls/AppList";
 
 const appRoot = document.getElementById("app");
 const navRoot = document.getElementById("platformNav");
 const searchInput = document.getElementById("search");
 
-document.getElementById("github").onclick = () => {
-  location.href = REPO_URL;
-};
+document.getElementById("github").onclick = () => window.open(REPO_URL, "_blank");
 
+/* 主题模式控制 */
 const savedTheme = localStorage.getItem("applist-theme");
-if (
-  savedTheme === "dark" ||
-  (!savedTheme && window.matchMedia("(prefers-color-scheme: dark)").matches)
-) {
+if (savedTheme === "dark" || (!savedTheme && window.matchMedia("(prefers-color-scheme: dark)").matches)) {
   document.documentElement.classList.add("dark");
 }
 updateThemeIcon();
 
 document.getElementById("theme").onclick = () => {
   document.documentElement.classList.toggle("dark");
-  localStorage.setItem(
-    "applist-theme",
-    document.documentElement.classList.contains("dark") ? "dark" : "light"
-  );
+  localStorage.setItem("applist-theme", document.documentElement.classList.contains("dark") ? "dark" : "light");
   updateThemeIcon();
 };
 
-function updateThemeIcon(){
-  document.getElementById("theme").textContent =
-    document.documentElement.classList.contains("dark") ? "☀" : "☾";
+function updateThemeIcon() {
+  document.getElementById("theme").textContent = document.documentElement.classList.contains("dark") ? "☀" : "☾";
 }
 
-function cleanText(text){
-  return (text || "")
-    .replace(/\u00a0/g," ")
-    .replace(/\s+/g," ")
+function escapeHtml(text) {
+  return String(text || "")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;");
+}
+
+function slug(text) {
+  return "p-" + String(text).toLowerCase().replace(/[^\w\u4e00-\u9fff]+/g, "-").replace(/^-+|-+$/g, "");
+}
+
+/* 图片/SVG 图标库定义 */
+const IMG_ICONS = {
+  baidu: `<img class="btn-icon" src="https://raw.githubusercontent.com/Easyllls/AppList/refs/heads/main/icon/bd.png" alt="百度网盘">`,
+  quark: `<img class="btn-icon" src="https://raw.githubusercontent.com/Easyllls/AppList/refs/heads/main/icon/kk.png" alt="夸克网盘">`,
+  xunlei: `<img class="btn-icon" src="https://raw.githubusercontent.com/Easyllls/AppList/refs/heads/main/icon/xl.png" alt="迅雷网盘">`,
+  pan123: `<svg viewBox="0 0 24 24" fill="currentColor"><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-9 14H7v-2h3v2zm0-4H7v-2h3v2zm0-4H7V7h3v2zm7 8h-5V7h5v10z"/></svg>`,
+  lanzou: `<svg viewBox="0 0 24 24" fill="currentColor"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96zM19 18H6c-2.21 0-4-1.79-4-4 0-2.05 1.53-3.76 3.56-3.97l1.07-.11.5-.95C8.08 7.14 9.94 6 6 12 6c2.62 0 4.88 1.86 5.39 4.43l.3 1.5 1.53.11c1.56.1 2.78 1.41 2.78 2.96 0 1.65-1.35 3-3 3z"/></svg>`,
+  github: `<svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.435 9.795 8.205 11.385.6.105.825-.255.825-.57 0-.285-.015-1.23-.015-2.235-3.015.555-3.795-.735-4.035-1.41-.135-.345-.72-1.41-1.23-1.695-.42-.225-1.02-.78-.015-.795.945-.015 1.62.87 1.845 1.23 1.08 1.815 2.805 1.305 3.495.99.105-.78.42-1.305.765-1.605-2.67-.3-5.46-1.335-5.46-5.925 0-1.305.465-2.385 1.23-3.225-.12-.3-.54-1.53.12-3.18 0 0 1.005-.315 3.3 1.23.96-.27 1.98-.405 3-.405s2.04.135 3 .405c2.295-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.765.84 1.23 1.905 1.23 3.225 0 4.605-2.805 5.625-5.475 5.925.435.375.81 1.095.81 2.22 0 1.605-.015 2.895-.015 3.3 0 .315.225.69.825.57A12.02 12.02 0 0024 12c0-6.63-5.37-12-12-12z"/></svg>`,
+  gdrive: `<svg viewBox="0 0 24 24" fill="currentColor"><path d="M7.71 3.5L1.15 15l3.43 6 6.56-11.5L7.71 3.5zm4.86 6.5L9.14 21.5h13.71L22.86 10H12.57zm.86-6.5l6.57 11.5 3.42-6L16.85 3.5H13.43z"/></svg>`,
+  link: `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg>`
+};
+
+/* 网盘链接映射表 */
+const PAN_MAP = [
+  { match: /pan\.baidu\.com/i, defaultName: "百度网盘", icon: IMG_ICONS.baidu, forceDefault: true },
+  { match: /pan\.quark\.cn/i, defaultName: "夸克网盘", icon: IMG_ICONS.quark },
+  { match: /pan\.xunlei\.com/i, defaultName: "迅雷网盘", icon: IMG_ICONS.xunlei },
+  { match: /123pan\.com|123684\.com/i, defaultName: "123网盘", icon: IMG_ICONS.pan123 },
+  { match: /lanzou/i, defaultName: "蓝奏云", icon: IMG_ICONS.lanzou },
+  { match: /github\.com/i, defaultName: "GitHub", icon: IMG_ICONS.github },
+  { match: /drive\.google\.com/i, defaultName: "Google Drive", icon: IMG_ICONS.gdrive }
+];
+
+function getLinkInfo(link) {
+  const url = link.href || "";
+  
+  let cleanName = (link.name || "")
+    .replace(/提取码\s*[:：]?\s*[a-zA-Z0-9]+/gi, "")
+    .replace(/[?&]pwd=[a-zA-Z0-9]+/gi, "")
     .trim();
-}
 
-function slug(text){
-  return "p-" + text.toLowerCase()
-    .replace(/[^\w\u4e00-\u9fff]+/g,"-")
-    .replace(/^-+|-+$/g,"");
-}
+  for (const pan of PAN_MAP) {
+    if (pan.match.test(url)) {
+      // 百度网盘强制直接展示“百度网盘”
+      if (pan.forceDefault) {
+        return { label: pan.defaultName, icon: pan.icon };
+      }
 
-function escapeHtml(text){
-  return String(text)
-    .replace(/&/g,"&amp;")
-    .replace(/</g,"&lt;")
-    .replace(/>/g,"&gt;")
-    .replace(/"/g,"&quot;");
-}
-
-function getDirectList(parent){
-  return [...parent.children].find(
-    el => el.tagName === "UL" || el.tagName === "OL"
-  );
-}
-
-function getDirectLinks(li){
-  return [...li.children]
-    .filter(el => el.tagName === "A")
-    .map(a => ({
-      name: cleanText(a.textContent),
-      href: a.href
-    }));
-}
-
-function getItemTitle(li){
-  const directLinks = getDirectLinks(li);
-  if(directLinks.length) return directLinks[0].name;
-
-  const clone = li.cloneNode(true);
-  clone.querySelectorAll("ul,ol").forEach(x => x.remove());
-  return cleanText(clone.textContent);
-}
-
-function getItemDescription(li){
-  const clone = li.cloneNode(true);
-  clone.querySelectorAll("ul,ol,a").forEach(x => x.remove());
-  return cleanText(clone.textContent);
-}
-
-function parseApps(list){
-  if(!list) return [];
-
-  return [...list.children]
-    .filter(li => li.tagName === "LI")
-    .map(li => {
-      const links = getDirectLinks(li);
-      const nested = getDirectList(li);
-      return {
-        name: getItemTitle(li),
-        description: getItemDescription(li),
-        links,
-        nested
-      };
-    });
-}
-
-function parseDetails(details){
-  const summary = details.querySelector(":scope > summary");
-  const list = getDirectList(details);
-  if(!summary || !list) return null;
-
-  const platform = cleanText(summary.textContent);
-  const items = parseApps(list);
-  const categories = [];
-  const loose = [];
-
-  items.forEach(item => {
-    if(item.nested){
-      categories.push({
-        name: item.name,
-        links: item.links,
-        apps: parseApps(item.nested)
-      });
-    }else{
-      loose.push(item);
+      let label = pan.defaultName;
+      if (cleanName) {
+        if (/夸克|百度|迅雷|123|蓝奏/.test(cleanName)) {
+          label = cleanName.includes("网盘") ? cleanName : cleanName + "网盘";
+        } else {
+          label = cleanName;
+        }
+      }
+      return { label, icon: pan.icon };
     }
-  });
-
-  return {name: platform, categories, loose};
-}
-
-function parseMarkdownLinks(text){
-  const links = [];
-  const re = /\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g;
-  let match;
-
-  while((match = re.exec(text))){
-    links.push({
-      name: cleanText(match[1]),
-      href: match[2]
-    });
   }
 
+  return { label: cleanName || "下载链接", icon: IMG_ICONS.link };
+}
+
+/* Markdown 解析 */
+function parseLinksFromLine(line) {
+  const links = [];
+  const linkRegex = /\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g;
+  let match;
+  while ((match = linkRegex.exec(line)) !== null) {
+    links.push({ name: match[1].trim(), href: match[2].trim() });
+  }
   return links;
 }
 
-function stripMarkdownLinks(text){
-  return cleanText(
-    text
-      .replace(/\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g, "$1")
-      .replace(/<[^>]+>/g, "")
-  );
-}
+function parseAppItem(line) {
+  const links = parseLinksFromLine(line);
+  let rawText = line.replace(/^\s*-\s*/, "").trim();
 
-function parseMarkdownItem(line){
-  const match = line.match(/^\s*-\s+(.*)$/);
-  if(!match) return null;
+  if (links.length > 0) {
+    let title = links[0].name.trim();
+    title = title.replace(/提取码\s*[:：]?\s*[a-zA-Z0-9]+/gi, "").trim();
 
-  const raw = match[1];
-  const links = parseMarkdownLinks(raw);
-  const withoutLinks = stripMarkdownLinks(raw);
+    let description = rawText.replace(/\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g, "").trim();
+    description = description
+      .replace(/提取码\s*[:：]?\s*[a-zA-Z0-9]+/gi, "")
+      .replace(/^[:：\s\-–—]+/, "")
+      .trim();
 
-  let name = links.length ? links[0].name : withoutLinks;
-  let description = withoutLinks;
-
-  if(links.length){
-    description = cleanText(
-      withoutLinks
-        .replace(new RegExp("^" + name.replace(/[.*+?^${}()|[\]\\]/g,"\\$&")), "")
-        .replace(/^[:：]\s*/, "")
-    );
+    return { title, description, links };
   }
 
-  return {
-    name,
-    description,
-    links,
-    indent: line.match(/^\s*/)[0].length
-  };
+  let title = rawText.replace(/^\[\vert{}\]$/g, "").trim();
+  return { title, description: "", links: [] };
 }
 
-function parseREADME(markdown){
-  const lines = markdown.replace(/\r\n/g,"\n").split("\n");
+function parseREADME(markdown) {
+  const lines = markdown.replace(/\r\n/g, "\n").split("\n");
   const platforms = [];
 
-  let inDetails = false;
-  let platform = null;
-  let topItems = [];
+  let currentPlatform = null;
   let currentCategory = null;
 
-  function finishPlatform(){
-    if(!platform) return;
+  for (let i = 0; i < lines.length; i++) {
+    const rawLine = lines[i];
+    const trimmed = rawLine.trim();
 
-    platform.categories = [];
-    platform.loose = [];
+    if (!trimmed) continue;
 
-    topItems.forEach(item => {
-      if(item.children.length){
-        platform.categories.push({
-          name: item.name,
-          description: item.description,
-          links: item.links,
-          apps: item.children.map(child => ({
-            name: child.name,
-            description: child.description,
-            links: child.links
-          }))
-        });
-      }else{
-        platform.loose.push({
-          name: item.name,
-          description: item.description,
-          links: item.links
-        });
+    const summaryMatch = trimmed.match(/<summary[^>]*>([\s\S]*?)<\/summary>/i);
+    if (summaryMatch) {
+      const platformName = summaryMatch[1].replace(/<[^>]+>/g, "").trim();
+      currentPlatform = { name: platformName, items: [] };
+      platforms.push(currentPlatform);
+      currentCategory = null;
+      continue;
+    }
+
+    if (!currentPlatform) continue;
+
+    if (trimmed.startsWith("-")) {
+      const indent = rawLine.search(/\S/);
+
+      let isCategoryHeader = false;
+      for (let j = i + 1; j < lines.length; j++) {
+        const nextRaw = lines[j];
+        if (!nextRaw.trim()) continue;
+        const nextIndent = nextRaw.search(/\S/);
+        if (nextRaw.trim().startsWith("-")) {
+          if (nextIndent > indent) {
+            isCategoryHeader = true;
+          }
+        }
+        break;
       }
-    });
 
-    platforms.push(platform);
-    platform = null;
-    topItems = [];
-    currentCategory = null;
-  }
+      const itemData = parseAppItem(trimmed);
 
-  for(const line of lines){
-    const trimmed = line.trim();
-
-    const summaryMatch = trimmed.match(
-      /^<summary[^>]*>([\s\S]*?)<\/summary>$/i
-    );
-
-    if(summaryMatch){
-      finishPlatform();
-
-      platform = {
-        name: stripMarkdownLinks(summaryMatch[1])
-          .replace(/<[^>]*>/g,"")
-          .trim(),
-        categories: [],
-        loose: []
-      };
-
-      inDetails = true;
-      continue;
-    }
-
-    if(inDetails && /^<\/details>/i.test(trimmed)){
-      finishPlatform();
-      inDetails = false;
-      continue;
-    }
-
-    if(!inDetails || !platform) continue;
-
-    const item = parseMarkdownItem(line);
-    if(!item) continue;
-
-    // README 中平台下的第一层列表项为分类或无分类应用。
-    // 缩进超过第一层的列表项属于该分类。
-    if(item.indent <= 2){
-      item.children = [];
-      topItems.push(item);
-      currentCategory = item;
-    }else if(currentCategory){
-      if(!currentCategory.children) currentCategory.children = [];
-      currentCategory.children.push(item);
+      if (isCategoryHeader) {
+        currentCategory = { type: "category", name: itemData.title, apps: [] };
+        currentPlatform.items.push(currentCategory);
+      } else {
+        if (indent > 0 && currentCategory) {
+          currentCategory.apps.push(itemData);
+        } else {
+          currentCategory = null;
+          currentPlatform.items.push({ type: "app", data: itemData });
+        }
+      }
     }
   }
-
-  finishPlatform();
 
   return platforms;
 }
 
-function makeDownloads(links){
-  if(!links || links.length <= 1) return "";
+/* DOM 渲染构造器 */
+function makeDownloads(links) {
+  if (!links || links.length === 0) return "";
+  
   return `
     <div class="downloads">
-      ${links.slice(1).map(link =>
-        `<a class="download" href="${escapeHtml(link.href)}"
-            target="_blank" rel="noopener">${escapeHtml(link.name || "下载")}</a>`
-      ).join("")}
+      ${links.map(link => {
+        const info = getLinkInfo(link);
+        return `
+          <a class="download" href="${escapeHtml(link.href)}" target="_blank" rel="noopener" title="${escapeHtml(info.label)}">
+            ${info.icon}
+            <span>${escapeHtml(info.label)}</span>
+          </a>
+        `;
+      }).join("")}
     </div>`;
 }
 
-function makeApp(item){
+function makeApp(item) {
   const el = document.createElement("article");
   el.className = "app";
 
   const mainLink = item.links?.[0];
-
-  const title = mainLink
-    ? `<a class="app-title" href="${escapeHtml(mainLink.href)}"
-          target="_blank" rel="noopener">${escapeHtml(item.name)}</a>`
-    : `<span class="app-title">${escapeHtml(item.name)}</span>`;
+  const titleHtml = mainLink
+    ? `<a href="${escapeHtml(mainLink.href)}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a>`
+    : escapeHtml(item.title);
 
   el.innerHTML = `
-    ${title}
-    ${item.description
-      ? `<div class="app-desc">${escapeHtml(item.description)}</div>`
-      : ""}
+    <div class="app-title">${titleHtml}</div>
+    ${item.description ? `<div class="app-desc">${escapeHtml(item.description)}</div>` : ""}
     ${makeDownloads(item.links)}
   `;
 
   return el;
 }
 
-function makeCategory(category){
+function makeCategory(category) {
   const box = document.createElement("section");
   box.className = "category";
 
@@ -638,138 +618,132 @@ function makeCategory(category){
 
   head.innerHTML = `
     <span class="category-name">${escapeHtml(category.name)}</span>
-    <span class="category-meta">${category.apps.length} 项　⌄</span>
+    <span class="category-meta">
+      ${category.apps.length} 项 
+      <span class="category-arrow">▼</span>
+    </span>
   `;
 
   category.apps.forEach(app => body.appendChild(makeApp(app)));
 
-  head.onclick = () => {
-    const hidden = body.style.display === "none";
-    body.style.display = hidden ? "" : "none";
-    head.querySelector(".category-meta").textContent =
-      `${category.apps.length} 项　${hidden ? "⌄" : "›"}`;
-  };
+  head.onclick = () => box.classList.toggle("collapsed");
 
   box.append(head, body);
   return box;
 }
 
-function render(platforms){
+function render(platforms) {
   navRoot.innerHTML = "";
   appRoot.innerHTML = "";
 
-  if(!platforms.length){
-    appRoot.innerHTML =
-      '<div class="empty">README.md 中没有识别到软件列表。</div>';
+  if (!platforms.length) {
+    appRoot.innerHTML = '<div class="empty">未能在 README.md 中解析到资源数据。</div>';
     return;
   }
 
   platforms.forEach((platform, index) => {
     const id = slug(platform.name) + "-" + index;
 
+    let totalCount = 0;
+    platform.items.forEach(item => {
+      if (item.type === "category") totalCount += item.apps.length;
+      else if (item.type === "app") totalCount += 1;
+    });
+
     const nav = document.createElement("a");
     nav.className = "nav-link";
     nav.href = "#" + id;
-    nav.textContent = platform.name;
+    nav.innerHTML = `${escapeHtml(platform.name)} <span class="badge">${totalCount}</span>`;
     navRoot.appendChild(nav);
 
     const section = document.createElement("section");
     section.className = "platform";
     section.id = id;
 
-    const total =
-      platform.categories.reduce((n,c) => n + c.apps.length, 0) +
-      platform.loose.length;
-
     section.innerHTML = `
       <h2 class="platform-title">
         ${escapeHtml(platform.name)}
-        <span class="count">${total} 项</span>
+        <span class="count">${totalCount}</span>
       </h2>
     `;
 
     const content = document.createElement("div");
     content.className = "content-grid";
 
-    platform.categories.forEach(category => {
-      content.appendChild(makeCategory(category));
+    platform.items.forEach(item => {
+      if (item.type === "category") {
+        if (item.apps.length > 0) {
+          content.appendChild(makeCategory(item));
+        }
+      } else if (item.type === "app") {
+        const el = makeApp(item.data);
+        el.classList.add("top-level-app");
+        content.appendChild(el);
+      }
     });
 
     section.appendChild(content);
-
-    // 没有分类的软件直接和分类卡片同级显示
-    if(platform.loose.length){
-      const looseGrid = document.createElement("div");
-      looseGrid.className = "loose-grid";
-
-      platform.loose.forEach(item => {
-        const el = makeApp(item);
-        el.classList.add("top-level-app");
-        looseGrid.appendChild(el);
-      });
-
-      section.appendChild(looseGrid);
-    }
-
     appRoot.appendChild(section);
   });
 }
 
-function allSearchText(platforms){
-  return [...document.querySelectorAll(".platform")];
-}
-
+/* 搜索逻辑 */
+let searchTimer = null;
 searchInput.addEventListener("input", () => {
-  const keyword = cleanText(searchInput.value).toLowerCase();
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(() => {
+    const keyword = searchInput.value.trim().toLowerCase();
 
-  document.querySelectorAll(".platform").forEach(platform => {
-    let visible = 0;
+    document.querySelectorAll(".platform").forEach(platform => {
+      let platformHasMatch = false;
 
-    platform.querySelectorAll(".category").forEach(category => {
-      const matched =
-        category.textContent.toLowerCase().includes(keyword);
+      platform.querySelectorAll(".category").forEach(category => {
+        let categoryHasMatch = false;
+        
+        category.querySelectorAll(".app").forEach(app => {
+          const matched = app.textContent.toLowerCase().includes(keyword);
+          app.style.display = matched ? "" : "none";
+          if (matched) categoryHasMatch = true;
+        });
 
-      category.style.display = matched ? "" : "none";
-      if(matched) visible++;
+        if (categoryHasMatch || category.querySelector(".category-name").textContent.toLowerCase().includes(keyword)) {
+          category.style.display = "";
+          category.classList.remove("collapsed");
+          platformHasMatch = true;
+        } else {
+          category.style.display = "none";
+        }
+      });
+
+      platform.querySelectorAll(".top-level-app").forEach(app => {
+        const matched = app.textContent.toLowerCase().includes(keyword);
+        app.style.display = matched ? "" : "none";
+        if (matched) platformHasMatch = true;
+      });
+
+      platform.style.display = (platformHasMatch || !keyword) ? "" : "none";
     });
-
-    platform.querySelectorAll(".top-level-app").forEach(item => {
-      const matched =
-        item.textContent.toLowerCase().includes(keyword);
-
-      item.style.display = matched ? "" : "none";
-      if(matched) visible++;
-    });
-
-    platform.style.display = visible || !keyword ? "" : "none";
-  });
+  }, 150);
 });
 
-async function loadREADME(){
-  appRoot.innerHTML =
-    '<div class="loading">正在读取 GitHub README.md……</div>';
+/* 初始化读取数据 */
+async function loadREADME() {
+  appRoot.innerHTML = '<div class="loading">正在加载资源清单...</div>';
 
-  try{
-    const response = await fetch(
-      README_URL + "?t=" + Date.now(),
-      {cache:"no-store"}
-    );
-
-    if(!response.ok){
-      throw new Error(`HTTP ${response.status}`);
-    }
+  try {
+    const response = await fetch(README_URL + "?t=" + Date.now(), { cache: "no-store" });
+    if (!response.ok) throw new Error(`HTTP ${response.status}`);
 
     const markdown = await response.text();
     const platforms = parseREADME(markdown);
     render(platforms);
 
-  }catch(error){
+  } catch (error) {
     console.error(error);
     appRoot.innerHTML = `
       <div class="error">
-        <strong>README.md 加载失败</strong>
-        <p>无法读取 GitHub 仓库中的 README.md。</p>
-        <p>请检查网络连接，或稍后刷新页面。</p>
+        <strong>数据加载失败</strong>
+        <p>无法获取远程 README.md 资源文件。</p>
       </div>`;
   }
 }
