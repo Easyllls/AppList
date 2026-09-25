@@ -1,473 +1,667 @@
-<!DOCTYPE html>
-<html lang="zh-CN">
+<!DOCTYPE html><html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>AppList · 软件资源列表</title>
 <meta name="description" content="Android、Android TV、Windows 及 Root / Xposed 软件资源列表">
 <meta name="theme-color" content="#f7f8fa">
-<link rel="icon" href="./icon/ai.png">
-<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-<style>
+<link rel="icon" href="./icon/ai.png"><script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script><style>
 :root{
---bg:#f6f7f9;--card:#fff;--card2:#fafbfc;--text:#17191d;--sub:#69717d;
---muted:#9aa2ad;--line:#e7e9ed;--blue:#2563eb;--blue-bg:#eff6ff;
---shadow:0 8px 30px rgba(20,30,50,.055);--radius:18px;--header:62px
+  --bg:#f7f8fa;
+  --card:#fff;
+  --text:#202124;
+  --sub:#6b7280;
+  --line:#e5e7eb;
+  --primary:#2563eb;
+  --hover:#f1f5f9;
+  --shadow:0 4px 16px rgba(0,0,0,.05);
+  --radius:14px;
 }
-html.dark{
---bg:#0d1117;--card:#151a21;--card2:#11161c;--text:#f1f5f9;
---sub:#9aa6b2;--muted:#66717e;--line:#27303b;--blue:#60a5fa;
---blue-bg:rgba(37,99,235,.14);--shadow:0 8px 30px rgba(0,0,0,.22)
+
+[data-theme="dark"]{
+  --bg:#111315;
+  --card:#1a1d20;
+  --text:#f3f4f6;
+  --sub:#9ca3af;
+  --line:#30343a;
+  --primary:#60a5fa;
+  --hover:#252a30;
+  --shadow:0 4px 18px rgba(0,0,0,.25);
 }
-*{box-sizing:border-box}
-html{scroll-behavior:smooth}
+
+*{
+  box-sizing:border-box;
+}
+
+html{
+  scroll-behavior:smooth;
+}
+
 body{
-margin:0;background:radial-gradient(circle at 50% -10%,rgba(37,99,235,.09),transparent 32rem),var(--bg);
-color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans SC","Microsoft YaHei",sans-serif;line-height:1.6
+  margin:0;
+  background:var(--bg);
+  color:var(--text);
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC",
+  "Hiragino Sans GB","Microsoft YaHei",sans-serif;
 }
-a{text-decoration:none;color:inherit}
-button,input{font:inherit}
+
+a{
+  color:inherit;
+  text-decoration:none;
+}
+
+button{
+  font:inherit;
+}
+
 .header{
-position:sticky;top:0;z-index:1000;height:var(--header);
-background:color-mix(in srgb,var(--card) 88%,transparent);
-backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);
-border-bottom:1px solid var(--line)
+  position:sticky;
+  top:0;
+  z-index:20;
+  backdrop-filter:blur(16px);
+  background:color-mix(in srgb,var(--bg) 88%,transparent);
+  border-bottom:1px solid var(--line);
 }
-.header-inner,.main,.hero,.footer,.nav-inner{width:min(1320px,calc(100% - 32px));margin:auto}
-.header-inner{height:100%;display:flex;align-items:center;gap:14px}
-.brand{display:flex;align-items:center;gap:9px;font-weight:800;font-size:18px;white-space:nowrap}
-.brand img{width:34px;height:34px;border-radius:9px;object-fit:cover}
-.search{position:relative;flex:1;max-width:540px;margin:auto}
+
+.header-inner{
+  max-width:1200px;
+  margin:auto;
+  height:64px;
+  padding:0 20px;
+  display:flex;
+  align-items:center;
+  gap:14px;
+}
+
+.logo{
+  display:flex;
+  align-items:center;
+  gap:10px;
+  font-size:20px;
+  font-weight:700;
+  white-space:nowrap;
+}
+
+.logo img{
+  width:34px;
+  height:34px;
+  border-radius:9px;
+}
+
+.search{
+  flex:1;
+  max-width:500px;
+  margin-left:auto;
+}
+
 .search input{
-width:100%;height:40px;padding:0 15px 0 40px;border:1px solid var(--line);
-border-radius:12px;background:var(--card2);color:var(--text);outline:none
+  width:100%;
+  height:40px;
+  padding:0 15px;
+  border:1px solid var(--line);
+  border-radius:10px;
+  outline:none;
+  color:var(--text);
+  background:var(--card);
 }
-.search input:focus{border-color:var(--blue);box-shadow:0 0 0 3px var(--blue-bg)}
-.search span{position:absolute;left:14px;top:7px;color:var(--muted);font-size:20px}
-.actions{display:flex;gap:7px}
-.icon-btn{
-width:38px;height:38px;border:1px solid var(--line);border-radius:11px;
-background:var(--card);color:var(--sub);display:grid;place-items:center;cursor:pointer
+
+.search input:focus{
+  border-color:var(--primary);
 }
-.icon-btn:hover{color:var(--blue);border-color:var(--blue)}
-.github-btn svg{width:20px;height:20px;fill:currentColor}
-.hero{padding:58px 0 34px;text-align:center}
-.hero-logo{width:72px;height:72px;border-radius:20px;box-shadow:0 12px 32px rgba(37,99,235,.14)}
-.hero h1{margin:16px 0 7px;font-size:clamp(34px,5vw,52px);line-height:1.1;letter-spacing:-1.8px}
-.hero p{margin:0;color:var(--sub);font-size:15px}
-.hero-tags{display:flex;justify-content:center;gap:7px;flex-wrap:wrap;margin-top:17px}
-.hero-tags span{
-padding:5px 11px;border:1px solid var(--line);border-radius:999px;
-color:var(--sub);background:var(--card);font-size:12px
+
+.header-btn{
+  width:40px;
+  height:40px;
+  border:1px solid var(--line);
+  border-radius:10px;
+  background:var(--card);
+  color:var(--text);
+  cursor:pointer;
+  display:flex;
+  align-items:center;
+  justify-content:center;
 }
+
+.hero{
+  max-width:1200px;
+  margin:auto;
+  padding:55px 20px 35px;
+}
+
+.hero h1{
+  margin:0 0 12px;
+  font-size:40px;
+  line-height:1.2;
+}
+
+.hero p{
+  margin:0;
+  color:var(--sub);
+  font-size:16px;
+}
+
 .nav{
-position:sticky;top:var(--header);z-index:900;border-top:1px solid var(--line);
-border-bottom:1px solid var(--line);background:color-mix(in srgb,var(--card) 91%,transparent);
-backdrop-filter:blur(16px);-webkit-backdrop-filter:blur(16px)
+  position:sticky;
+  top:64px;
+  z-index:10;
+  border-bottom:1px solid var(--line);
+  background:color-mix(in srgb,var(--bg) 94%,transparent);
+  backdrop-filter:blur(12px);
 }
-.nav-inner{display:flex;overflow-x:auto;scrollbar-width:none}
-.nav-inner::-webkit-scrollbar{display:none}
-.nav a{padding:13px 16px;color:var(--sub);font-size:14px;font-weight:650;white-space:nowrap;position:relative}
-.nav a:hover,.nav a.active{color:var(--blue)}
-.nav a.active:after{
-content:"";position:absolute;left:15px;right:15px;bottom:0;height:2px;background:var(--blue);border-radius:2px
+
+.nav-inner{
+  max-width:1200px;
+  margin:auto;
+  padding:10px 20px;
+  display:flex;
+  gap:8px;
+  overflow-x:auto;
 }
-.main{padding:30px 0 70px}
-.loading,.error,.no-results{padding:60px 20px;text-align:center;color:var(--sub)}
-.error{color:#dc2626}
-.platform{scroll-margin-top:132px;margin-bottom:52px}
-.platform-head{display:flex;align-items:center;justify-content:space-between;margin-bottom:18px}
-.platform-title{display:flex;align-items:center;gap:11px}
-.platform-title h2{margin:0;font-size:27px;letter-spacing:-.7px}
-.platform-title .dot{width:8px;height:28px;border-radius:99px;background:var(--blue)}
-.collapse{
-width:34px;height:34px;border:1px solid var(--line);border-radius:10px;
-background:var(--card);color:var(--sub);cursor:pointer
+
+.nav a{
+  flex:none;
+  padding:8px 13px;
+  border-radius:9px;
+  color:var(--sub);
+  font-size:14px;
 }
-.platform.collapsed .platform-body{display:none}
-.platform.collapsed .collapse{transform:rotate(-90deg)}
-.category{margin:0 0 25px}
-.category-card{
-border:1px solid var(--line);border-radius:var(--radius);background:var(--card);
-box-shadow:var(--shadow);overflow:hidden
+
+.nav a:hover{
+  background:var(--hover);
+  color:var(--text);
 }
-.category-head{
-min-height:58px;padding:15px 19px;display:flex;align-items:center;
-justify-content:space-between;gap:12px;border-bottom:1px solid var(--line);
-background:linear-gradient(180deg,var(--card),var(--card2))
+
+.container{
+  max-width:1200px;
+  margin:auto;
+  padding:35px 20px 70px;
 }
-.category-title{display:flex;align-items:center;gap:9px;font-size:18px;font-weight:750}
-.category-title:before{content:"";width:4px;height:19px;background:var(--blue);border-radius:99px}
-.app{padding:17px 19px;border-bottom:1px solid var(--line);transition:background .18s}
-.app:last-child{border-bottom:0}
-.app:hover{background:var(--card2)}
-.app-top{display:flex;align-items:flex-start;justify-content:space-between;gap:15px}
-.app-name{font-size:16px;font-weight:750;line-height:1.4}
-.app-desc{margin-top:5px;color:var(--sub);font-size:13px;line-height:1.65}
-.links{display:flex;flex-wrap:wrap;gap:6px;margin-top:11px}
-.url-tag{
-display:inline-flex;align-items:center;gap:5px;padding:4px 9px;
-border:1px solid rgba(37,99,235,.22);border-radius:8px;color:var(--blue);
-background:var(--blue-bg);font-size:12px;font-weight:650;transition:.18s
+
+.platform{
+  scroll-margin-top:130px;
+  margin-bottom:55px;
 }
-.url-tag:hover{background:var(--blue);color:#fff;border-color:var(--blue);transform:translateY(-1px)}
+
+.platform-title{
+  margin:0 0 20px;
+  font-size:28px;
+}
+
+.platform-body{
+  display:flex;
+  flex-direction:column;
+  gap:20px;
+}
+
+.category{
+  border:1px solid var(--line);
+  border-radius:var(--radius);
+  background:var(--card);
+  box-shadow:var(--shadow);
+  overflow:hidden;
+}
+
+.category-title{
+  padding:17px 20px;
+  border-bottom:1px solid var(--line);
+  font-size:19px;
+  font-weight:700;
+}
+
+.category-body{
+  padding:20px;
+  display:grid;
+  grid-template-columns:repeat(auto-fill,minmax(260px,1fr));
+  gap:14px;
+}
+
+.app{
+  display:block;
+  padding:17px;
+  border:1px solid var(--line);
+  border-radius:11px;
+  background:var(--card);
+  transition:.18s;
+}
+
+.app:hover{
+  transform:translateY(-2px);
+  border-color:var(--primary);
+  background:var(--hover);
+}
+
+.app-title{
+  font-weight:650;
+  margin-bottom:7px;
+}
+
+.app-desc{
+  color:var(--sub);
+  font-size:14px;
+  line-height:1.6;
+  word-break:break-word;
+}
+
 .top-level-app{
-margin:0 0 25px;border:1px solid var(--line);border-radius:var(--radius);
-background:var(--card);box-shadow:var(--shadow)
+  display:block;
+  border:1px solid var(--line);
+  border-radius:var(--radius);
+  background:var(--card);
+  box-shadow:var(--shadow);
+  padding:20px;
 }
-.hidden{display:none!important}
-.no-results{display:none}
-.no-results.show{display:block}
-.footer{border-top:1px solid var(--line);padding:28px 0 40px;text-align:center;color:var(--muted);font-size:12px}
-.footer a{color:var(--sub)}
+
+.top-level-app:hover{
+  border-color:var(--primary);
+  background:var(--hover);
+}
+
+.top-level-app .app-title{
+  font-size:19px;
+}
+
+.empty{
+  padding:50px 20px;
+  text-align:center;
+  color:var(--sub);
+}
+
+.error{
+  max-width:800px;
+  margin:50px auto;
+  padding:25px;
+  border:1px solid var(--line);
+  border-radius:var(--radius);
+  background:var(--card);
+  color:var(--sub);
+}
+
+.loading{
+  padding:50px 20px;
+  text-align:center;
+  color:var(--sub);
+}
+
 @media(max-width:700px){
-.header-inner,.main,.hero,.footer,.nav-inner{width:calc(100% - 20px)}
-.brand span{display:none}.search{max-width:none}
-.hero{padding:42px 0 28px}.hero-logo{width:64px;height:64px}
-.hero h1{font-size:37px}.hero p{font-size:13px}
-.nav a{padding:12px 13px}.main{padding-top:24px}
-.platform-title h2{font-size:24px}.category-head{padding:14px 15px}.app{padding:15px}
-}
-</style>
-</head>
-<body>
+  .header-inner{
+    padding:0 14px;
+  }
 
-<header class="header">
-<div class="header-inner">
-<a class="brand" href="#"><img src="./icon/ai.png" alt=""><span>AppList</span></a>
-<div class="search"><span>⌕</span><input id="search" type="search" placeholder="搜索应用、分类、描述……" autocomplete="off"></div>
-<div class="actions">
-<a class="icon-btn github-btn" href="https://github.com/Easyllls/AppList" target="_blank" rel="noopener" title="GitHub">
-<svg viewBox="0 0 24 24"><path d="M12 .5C5.65.5.5 5.65.5 12c0 5.08 3.29 9.39 7.86 10.91.58.11.79-.25.79-.56v-2.16c-3.2.69-3.87-1.54-3.87-1.54-.53-1.33-1.28-1.68-1.28-1.68-1.04-.71.08-.7.08-.7 1.15.08 1.76 1.18 1.76 1.18 1.02 1.75 2.67 1.24 3.32.95.1-.74.4-1.24.73-1.53-2.55-.29-5.23-1.28-5.23-5.69 0-1.26.45-2.29 1.18-3.1-.12-.29-.51-1.47.11-3.06 0 0 .96-.31 3.15 1.18a10.9 10.9 0 0 1 5.74 0c2.19-1.49 3.15-1.18 3.15-1.18.62 1.59.23 2.77.11 3.06.73.81 1.18 1.84 1.18 3.1 0 4.42-2.69 5.39-5.25 5.67.41.35.78 1.04.78 2.1v3.12c0 .31.21.68.8.56A11.51 11.51 0 0 0 23.5 12C23.5 5.65 18.35.5 12 .5z"/></svg>
-</a>
-<button class="icon-btn" id="theme" title="切换主题">☼</button>
+  .logo span{
+    display:none;
+  }
+
+  .search{
+    max-width:none;
+  }
+
+  .hero{
+    padding:40px 16px 28px;
+  }
+
+  .hero h1{
+    font-size:32px;
+  }
+
+  .container{
+    padding:28px 16px 60px;
+  }
+
+  .category-body{
+    grid-template-columns:1fr;
+  }
+
+  .nav-inner{
+    padding-left:16px;
+    padding-right:16px;
+  }
+}
+</style></head><body><header class="header">
+  <div class="header-inner">
+    <a class="logo" href="#">
+      <img src="./icon/ai.png" alt="AppList">
+      <span>AppList</span>
+    </a><div class="search">
+  <input id="search" type="search" placeholder="搜索应用、工具、模块…">
 </div>
-</div>
-</header>
 
-<section class="hero">
-<img class="hero-logo" src="./icon/ai.png" alt="AppList">
-<h1>AppList</h1>
-<p>Android、Android TV、Windows 及 Root / Xposed 生态软件资源列表</p>
-<div class="hero-tags"><span>Android</span><span>Android TV</span><span>Windows</span><span>Root</span><span>Xposed</span></div>
-</section>
+<a
+  class="header-btn"
+  href="https://github.com/Easyllls/AppList"
+  target="_blank"
+  rel="noopener"
+  title="GitHub"
+>↗</a>
 
-<nav class="nav"><div class="nav-inner" id="nav"></div></nav>
+<button class="header-btn" id="theme" title="切换主题">☾</button>
 
-<main class="main">
-<div id="loading" class="loading">正在读取 README.md……</div>
-<div id="content"></div>
-<div id="empty" class="no-results">没有找到匹配的内容</div>
-</main>
+  </div>
+</header><section class="hero">
+  <h1>AppList</h1>
+  <p>Android、Android TV、Windows 及 Root / Xposed 软件资源列表</p>
+</section><nav class="nav">
+  <div class="nav-inner" id="platformNav"></div>
+</nav><main class="container" id="content">
+  <div class="loading">正在加载 README.md…</div>
+</main><script>
+const README_URL =
+  "https://raw.githubusercontent.com/Easyllls/AppList/main/README.md";
 
-<footer class="footer">
-<div>数据来源：<a href="https://github.com/Easyllls/AppList" target="_blank" rel="noopener">Github@AppList</a></div>
-</footer>
+const REPO_URL =
+  "https://github.com/Easyllls/AppList";
 
-<script>
-"use strict";
+const content = document.getElementById("content");
+const platformNav = document.getElementById("platformNav");
+const search = document.getElementById("search");
+const theme = document.getElementById("theme");
 
-const README_URL="./README.md";
-const $=s=>document.querySelector(s);
-const loading=$("#loading"),content=$("#content"),nav=$("#nav"),empty=$("#empty"),search=$("#search");
-
-marked.setOptions({gfm:true,breaks:true});
-
-function abs(u){
-try{return new URL(u,location.href).href}catch{return u}
+function escapeHtml(str){
+  return str.replace(/[&<>"']/g,m=>({
+    "&":"&amp;",
+    "<":"&lt;",
+    ">":"&gt;",
+    '"':"&quot;",
+    "'":"&#039;"
+  }[m]));
 }
 
-function esc(s){
-return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;").replace(/'/g,"&#039;");
-}
-
-function linksOf(li){
-const c=li.cloneNode(true);
-c.querySelectorAll("ul,ol").forEach(x=>x.remove());
-return [...c.querySelectorAll("a")].map(a=>({
-text:a.textContent.trim()||"链接",
-url:abs(a.getAttribute("href")||"")
-})).filter(x=>x.url);
-}
-
-function parseItem(li){
-const c=li.cloneNode(true);
-c.querySelectorAll(":scope > ul,:scope > ol").forEach(x=>x.remove());
-const text=c.textContent.replace(/\s+/g," ").trim();
-const links=linksOf(li);
-let name=text,desc="";
-const strong=c.querySelector("strong,b");
-
-if(strong&&text.startsWith(strong.textContent.trim())){
-name=strong.textContent.trim();
-desc=text.slice(name.length).replace(/^[:：\s-–—]+/,"").trim();
-}
-
-if(links.length&&!name)name=links[0].text;
-
-return{
-name:name||"未命名应用",
-desc,
-links
-};
+function cleanText(str){
+  return str
+    .replace(/!.*?.*?/g,"")
+    .replace(/([^]+)\][^)]+/g,"$1")
+    .replace(/`/g,"")
+    .trim();
 }
 
 function parseList(ul){
-const categories=[],loose=[];
+  const categories=[];
+  const loose=[];
 
-[...ul.children].filter(x=>x.tagName==="LI").forEach(li=>{
-const sub=[...li.children].find(x=>x.tagName==="UL"||x.tagName==="OL");
+  [...ul.children].forEach(li=>{
+    if(li.tagName!=="LI") return;
 
-if(sub){
-const info=parseItem(li);
-const child=parseList(sub);
+    const nested=li.querySelector(":scope > ul, :scope > ol");
+    const clone=li.cloneNode(true);
 
-categories.push({
-name:info.name,
-links:info.links,
-children:[
-...child.loose,
-...child.categories.flatMap(x=>x.children)
-]
+    if(nested){
+      clone.querySelector(":scope > ul, :scope > ol")?.remove();
+
+      const title=cleanText(clone.textContent);
+      const apps=[];
+
+      [...nested.children].forEach(item=>{
+        if(item.tagName!=="LI") return;
+
+        const link=item.querySelector("a");
+        const itemClone=item.cloneNode(true);
+        itemClone.querySelector(":scope > ul, :scope > ol")?.remove();
+
+        const name=cleanText(
+          link ? link.textContent : itemClone.textContent
+        );
+
+        const href=link?.href || "#";
+
+        if(name){
+          apps.push({
+            name,
+            href,
+            text:cleanText(itemClone.textContent)
+          });
+        }
+      });
+
+      if(title){
+        categories.push({
+          name:title,
+          apps
+        });
+      }
+    }else{
+      const link=li.querySelector("a");
+      const name=cleanText(link ? link.textContent : li.textContent);
+
+      if(name){
+        loose.push({
+          name,
+          href:link?.href || "#",
+          text:cleanText(li.textContent)
+        });
+      }
+    }
+  });
+
+  return {categories,loose};
+}
+
+function parseREADME(markdown){
+  const html=marked.parse(markdown);
+  const wrapper=document.createElement("div");
+  wrapper.innerHTML=html;
+
+  const platforms=[];
+  let current=null;
+
+  [...wrapper.children].forEach(el=>{
+    if(/^H[1-6]$/.test(el.tagName)){
+      const level=Number(el.tagName.substring(1));
+      const name=cleanText(el.textContent);
+
+      if(level===1 || !current){
+        current={
+          name,
+          list:null,
+          categories:[],
+          loose:[]
+        };
+        platforms.push(current);
+      }
+
+      return;
+    }
+
+    if((el.tagName==="UL" || el.tagName==="OL") && current){
+      current.list=el;
+      const parsed=parseList(el);
+      current.categories=parsed.categories;
+      current.loose=parsed.loose;
+    }
+  });
+
+  if(!platforms.length){
+    const lists=wrapper.querySelectorAll("ul,ol");
+
+    lists.forEach((list,i)=>{
+      const parsed=parseList(list);
+
+      if(parsed.categories.length || parsed.loose.length){
+        platforms.push({
+          name:"AppList",
+          categories:parsed.categories,
+          loose:parsed.loose
+        });
+      }
+    });
+  }
+
+  return platforms;
+}
+
+function makeApp(app){
+  const el=document.createElement("a");
+  el.className="app";
+  el.href=app.href;
+  el.target="_blank";
+  el.rel="noopener";
+
+  el.innerHTML=`
+    <div class="app-title">${escapeHtml(app.name)}</div>
+    ${
+      app.text && app.text!==app.name
+      ? `<div class="app-desc">${escapeHtml(app.text)}</div>`
+      : ""
+    }
+  `;
+
+  return el;
+}
+
+function makeCategory(category){
+  const el=document.createElement("section");
+  el.className="category";
+
+  const title=document.createElement("div");
+  title.className="category-title";
+  title.textContent=category.name;
+
+  const body=document.createElement("div");
+  body.className="category-body";
+
+  category.apps.forEach(app=>{
+    body.appendChild(makeApp(app));
+  });
+
+  el.appendChild(title);
+  el.appendChild(body);
+
+  return el;
+}
+
+function render(platforms){
+  content.innerHTML="";
+  platformNav.innerHTML="";
+
+  if(!platforms.length){
+    content.innerHTML=`
+      <div class="empty">
+        没有识别到 README.md 内容
+      </div>
+    `;
+    return;
+  }
+
+  platforms.forEach((platform,index)=>{
+    const id=`platform-${index}`;
+
+    const navLink=document.createElement("a");
+    navLink.href="#"+id;
+    navLink.textContent=platform.name;
+    platformNav.appendChild(navLink);
+
+    const section=document.createElement("section");
+    section.className="platform";
+    section.id=id;
+
+    const title=document.createElement("h2");
+    title.className="platform-title";
+    title.textContent=platform.name;
+
+    const body=document.createElement("div");
+    body.className="platform-body";
+
+    platform.categories.forEach(category=>{
+      body.appendChild(makeCategory(category));
+    });
+
+    platform.loose.forEach(app=>{
+      const el=makeApp(app);
+      el.classList.add("top-level-app");
+      body.appendChild(el);
+    });
+
+    section.appendChild(title);
+    section.appendChild(body);
+    content.appendChild(section);
+  });
+}
+
+async function loadREADME(){
+  const url=README_URL+"?t="+Date.now();
+
+  const res=await fetch(url,{
+    cache:"no-store"
+  });
+
+  if(!res.ok){
+    throw new Error(
+      `README.md 加载失败：HTTP ${res.status}`
+    );
+  }
+
+  const text=await res.text();
+
+  if(!text.trim()){
+    throw new Error("README.md 内容为空");
+  }
+
+  return text;
+}
+
+async function init(){
+  try{
+    const markdown=await loadREADME();
+    const platforms=parseREADME(markdown);
+    render(platforms);
+  }catch(error){
+    console.error(error);
+
+    content.innerHTML=`
+      <div class="error">
+        <strong>README.md 加载失败</strong>
+        <p>${escapeHtml(error.message)}</p>
+        <p>
+          请检查 GitHub 仓库中的 README.md 是否存在，
+          或稍后刷新页面重试。
+        </p>
+        <a
+          href="${REPO_URL}"
+          target="_blank"
+          rel="noopener"
+        >
+          打开 GitHub 仓库 ↗
+        </a>
+      </div>
+    `;
+  }
+}
+
+search.addEventListener("input",()=>{
+  const keyword=search.value.trim().toLowerCase();
+
+  document.querySelectorAll(".category,.top-level-app")
+    .forEach(el=>{
+      el.style.display=
+        !keyword || el.textContent.toLowerCase().includes(keyword)
+        ? ""
+        : "none";
+    });
 });
-}else{
-loose.push(parseItem(li));
+
+function applyTheme(){
+  const saved=localStorage.getItem("applist-theme");
+
+  if(saved==="dark"){
+    document.documentElement.dataset.theme="dark";
+    theme.textContent="☀";
+  }else{
+    document.documentElement.removeAttribute("data-theme");
+    theme.textContent="☾";
+  }
 }
+
+theme.addEventListener("click",()=>{
+  const dark=document.documentElement.dataset.theme==="dark";
+
+  if(dark){
+    localStorage.setItem("applist-theme","light");
+  }else{
+    localStorage.setItem("applist-theme","dark");
+  }
+
+  applyTheme();
 });
 
-return{categories,loose};
-}
-
-function parsePlatforms(root){
-const platforms=[];
-const headers=[...root.querySelectorAll("h1,h2,h3,h4,h5,h6")];
-
-headers.forEach(h=>{
-const p={name:h.textContent.trim(),categories:[],loose:[]};
-let n=h.nextElementSibling;
-
-while(n&&!headers.includes(n)){
-if(n.tagName==="UL"||n.tagName==="OL"){
-const x=parseList(n);
-p.categories.push(...x.categories);
-p.loose.push(...x.loose);
-}
-n=n.nextElementSibling;
-}
-
-if(p.categories.length||p.loose.length)platforms.push(p);
-});
-
-if(platforms.length)return platforms;
-
-const p={name:"全部应用与资源",categories:[],loose:[]};
-
-[...root.children]
-.filter(x=>x.tagName==="UL"||x.tagName==="OL")
-.forEach(ul=>{
-const x=parseList(ul);
-p.categories.push(...x.categories);
-p.loose.push(...x.loose);
-});
-
-if(p.categories.length||p.loose.length)platforms.push(p);
-
-return platforms;
-}
-
-function makeLink(x){
-const a=document.createElement("a");
-a.className="url-tag";
-a.href=x.url;
-a.target="_blank";
-a.rel="noopener noreferrer";
-a.title=x.url;
-a.innerHTML=`<span>${esc(x.text)}</span><span>↗</span>`;
-return a;
-}
-
-function makeLinks(arr){
-if(!arr.length)return null;
-const box=document.createElement("div");
-box.className="links";
-arr.forEach(x=>box.appendChild(makeLink(x)));
-return box;
-}
-
-function makeApp(a){
-const el=document.createElement("article");
-el.className="app";
-
-const name=document.createElement("div");
-name.className="app-name";
-name.textContent=a.name;
-el.appendChild(name);
-
-if(a.desc){
-const d=document.createElement("div");
-d.className="app-desc";
-d.textContent=a.desc;
-el.appendChild(d);
-}
-
-const l=makeLinks(a.links);
-if(l)el.appendChild(l);
-
-el.dataset.search=(a.name+" "+a.desc+" "+a.links.map(x=>x.text).join(" ")).toLowerCase();
-
-return el;
-}
-
-function makeCategory(c){
-const section=document.createElement("section");
-section.className="category";
-
-const card=document.createElement("div");
-card.className="category-card";
-
-const head=document.createElement("div");
-head.className="category-head";
-
-const title=document.createElement("div");
-title.className="category-title";
-title.textContent=c.name;
-
-head.appendChild(title);
-
-const l=makeLinks(c.links);
-if(l)head.appendChild(l);
-
-card.appendChild(head);
-
-const items=document.createElement("div");
-items.className="items";
-
-c.children.forEach(a=>items.appendChild(makeApp(a)));
-
-card.appendChild(items);
-section.appendChild(card);
-
-section.dataset.search=(c.name+" "+c.children.map(a=>a.name+" "+a.desc).join(" ")).toLowerCase();
-
-return section;
-}
-
-function render(data){
-content.innerHTML="";
-nav.innerHTML="";
-
-data.forEach((p,i)=>{
-const id="platform-"+i;
-
-const n=document.createElement("a");
-n.href="#"+id;
-n.textContent=p.name;
-nav.appendChild(n);
-
-const sec=document.createElement("section");
-sec.className="platform";
-sec.id=id;
-
-const head=document.createElement("div");
-head.className="platform-head";
-
-const title=document.createElement("div");
-title.className="platform-title";
-title.innerHTML=`<span class="dot"></span><h2>${esc(p.name)}</h2>`;
-
-const btn=document.createElement("button");
-btn.className="collapse";
-btn.textContent="⌄";
-btn.onclick=()=>sec.classList.toggle("collapsed");
-
-head.append(title,btn);
-sec.appendChild(head);
-
-const body=document.createElement("div");
-body.className="platform-body";
-
-p.categories.forEach(c=>body.appendChild(makeCategory(c)));
-
-p.loose.forEach(a=>{
-const el=makeApp(a);
-el.classList.add("top-level-app");
-body.appendChild(el);
-});
-
-sec.appendChild(body);
-content.appendChild(sec);
-});
-
-observe();
-}
-
-function observe(){
-const sections=[...document.querySelectorAll(".platform")];
-const links=[...nav.querySelectorAll("a")];
-
-const io=new IntersectionObserver(entries=>{
-entries.forEach(e=>{
-if(e.isIntersecting){
-links.forEach(a=>a.classList.toggle("active",a.getAttribute("href")==="#"+e.target.id));
-}
-});
-},{rootMargin:"-25% 0px -65% 0px"});
-
-sections.forEach(x=>io.observe(x));
-}
-
-function doSearch(){
-const q=search.value.trim().toLowerCase();
-let count=0;
-
-document.querySelectorAll(".platform").forEach(p=>{
-let has=false;
-
-p.querySelectorAll(".category,.top-level-app").forEach(x=>{
-const hit=!q||(x.dataset.search||"").includes(q);
-x.classList.toggle("hidden",!hit);
-if(hit){has=true;count++}
-});
-
-p.classList.toggle("hidden",!has);
-});
-
-empty.classList.toggle("show",!!q&&!count);
-}
-
-search.addEventListener("input",doSearch);
-
-$("#theme").onclick=()=>{
-const dark=document.documentElement.classList.toggle("dark");
-localStorage.setItem("applist-theme",dark?"dark":"light");
-};
-
-if(localStorage.getItem("applist-theme")==="dark")
-document.documentElement.classList.add("dark");
-
-async function load(){
-try{
-const r=await fetch(README_URL+"?v="+Date.now(),{cache:"no-store"});
-if(!r.ok)throw new Error("README.md 加载失败："+r.status);
-
-const md=await r.text();
-const root=document.createElement("div");
-root.innerHTML=marked.parse(md);
-
-const data=parsePlatforms(root);
-
-if(!data.length)throw new Error("没有识别到 README.md 内容");
-
-render(data);
-loading.remove();
-
-}catch(e){
-loading.className="error";
-loading.textContent=e.message||"加载失败";
-}
-}
-
-load();
-</script>
-</body>
+applyTheme();
+init();
+</script></body>
 </html>
