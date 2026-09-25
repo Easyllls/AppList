@@ -4,8 +4,9 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>AppList · 软件资源列表</title>
 <meta name="description" content="Android、Android TV、Windows 及 Root / Xposed 软件资源列表">
-<meta name="theme-color" content="#f7f8fa">
-<link rel="icon" href="./icon/ai.png"><script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script><style>
+<link rel="icon" href="./icon/ai.png">
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<style>
 :root{
   --bg:#f7f8fa;
   --card:#fff;
@@ -15,10 +16,9 @@
   --primary:#2563eb;
   --hover:#f1f5f9;
   --shadow:0 4px 16px rgba(0,0,0,.05);
-  --radius:14px;
+  --radius:14px
 }
-
-[data-theme="dark"]{
+[data-theme=dark]{
   --bg:#111315;
   --card:#1a1d20;
   --text:#f3f4f6;
@@ -26,74 +26,45 @@
   --line:#30343a;
   --primary:#60a5fa;
   --hover:#252a30;
-  --shadow:0 4px 18px rgba(0,0,0,.25);
+  --shadow:0 4px 18px rgba(0,0,0,.25)
 }
-
-*{
-  box-sizing:border-box;
-}
-
-html{
-  scroll-behavior:smooth;
-}
-
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
 body{
   margin:0;
   background:var(--bg);
   color:var(--text);
-  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC",
-  "Hiragino Sans GB","Microsoft YaHei",sans-serif;
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif
 }
-
-a{
-  color:inherit;
-  text-decoration:none;
-}
-
-button{
-  font:inherit;
-}
-
+a{color:inherit;text-decoration:none}
+button{font:inherit}
 .header{
   position:sticky;
   top:0;
   z-index:20;
   backdrop-filter:blur(16px);
   background:color-mix(in srgb,var(--bg) 88%,transparent);
-  border-bottom:1px solid var(--line);
+  border-bottom:1px solid var(--line)
 }
-
 .header-inner{
   max-width:1200px;
-  margin:auto;
   height:64px;
+  margin:auto;
   padding:0 20px;
   display:flex;
   align-items:center;
-  gap:14px;
+  gap:14px
 }
-
 .logo{
   display:flex;
   align-items:center;
   gap:10px;
   font-size:20px;
   font-weight:700;
-  white-space:nowrap;
+  white-space:nowrap
 }
-
-.logo img{
-  width:34px;
-  height:34px;
-  border-radius:9px;
-}
-
-.search{
-  flex:1;
-  max-width:500px;
-  margin-left:auto;
-}
-
+.logo img{width:34px;height:34px;border-radius:9px}
+.search{flex:1;max-width:500px;margin-left:auto}
 .search input{
   width:100%;
   height:40px;
@@ -102,13 +73,9 @@ button{
   border-radius:10px;
   outline:none;
   color:var(--text);
-  background:var(--card);
+  background:var(--card)
 }
-
-.search input:focus{
-  border-color:var(--primary);
-}
-
+.search input:focus{border-color:var(--primary)}
 .header-btn{
   width:40px;
   height:40px;
@@ -119,210 +86,133 @@ button{
   cursor:pointer;
   display:flex;
   align-items:center;
-  justify-content:center;
+  justify-content:center
 }
-
 .hero{
   max-width:1200px;
   margin:auto;
-  padding:55px 20px 35px;
+  padding:55px 20px 35px
 }
-
-.hero h1{
-  margin:0 0 12px;
-  font-size:40px;
-  line-height:1.2;
-}
-
-.hero p{
-  margin:0;
-  color:var(--sub);
-  font-size:16px;
-}
-
+.hero h1{margin:0 0 12px;font-size:40px}
+.hero p{margin:0;color:var(--sub)}
 .nav{
   position:sticky;
   top:64px;
   z-index:10;
   border-bottom:1px solid var(--line);
   background:color-mix(in srgb,var(--bg) 94%,transparent);
-  backdrop-filter:blur(12px);
+  backdrop-filter:blur(12px)
 }
-
 .nav-inner{
   max-width:1200px;
   margin:auto;
   padding:10px 20px;
   display:flex;
   gap:8px;
-  overflow-x:auto;
+  overflow-x:auto
 }
-
 .nav a{
   flex:none;
   padding:8px 13px;
   border-radius:9px;
   color:var(--sub);
-  font-size:14px;
+  font-size:14px
 }
-
-.nav a:hover{
-  background:var(--hover);
-  color:var(--text);
-}
-
+.nav a:hover{background:var(--hover);color:var(--text)}
 .container{
   max-width:1200px;
   margin:auto;
-  padding:35px 20px 70px;
+  padding:35px 20px 70px
 }
-
 .platform{
   scroll-margin-top:130px;
-  margin-bottom:55px;
+  margin-bottom:55px
 }
-
-.platform-title{
-  margin:0 0 20px;
-  font-size:28px;
-}
-
-.platform-body{
-  display:flex;
-  flex-direction:column;
-  gap:20px;
-}
-
+.platform-title{margin:0 0 20px;font-size:28px}
+.platform-body{display:flex;flex-direction:column;gap:20px}
 .category{
   border:1px solid var(--line);
   border-radius:var(--radius);
   background:var(--card);
   box-shadow:var(--shadow);
-  overflow:hidden;
+  overflow:hidden
 }
-
 .category-title{
   padding:17px 20px;
   border-bottom:1px solid var(--line);
   font-size:19px;
-  font-weight:700;
+  font-weight:700
 }
-
 .category-body{
   padding:20px;
   display:grid;
   grid-template-columns:repeat(auto-fill,minmax(260px,1fr));
-  gap:14px;
+  gap:14px
 }
-
 .app{
   display:block;
   padding:17px;
   border:1px solid var(--line);
   border-radius:11px;
   background:var(--card);
-  transition:.18s;
+  transition:.18s
 }
-
 .app:hover{
   transform:translateY(-2px);
   border-color:var(--primary);
-  background:var(--hover);
+  background:var(--hover)
 }
-
-.app-title{
-  font-weight:650;
-  margin-bottom:7px;
-}
-
+.app-title{font-weight:650;margin-bottom:7px}
 .app-desc{
   color:var(--sub);
   font-size:14px;
   line-height:1.6;
-  word-break:break-word;
+  word-break:break-word
 }
-
 .top-level-app{
   display:block;
+  padding:20px;
   border:1px solid var(--line);
   border-radius:var(--radius);
   background:var(--card);
   box-shadow:var(--shadow);
-  padding:20px;
+  transition:.18s
 }
-
 .top-level-app:hover{
   border-color:var(--primary);
-  background:var(--hover);
+  background:var(--hover)
 }
-
-.top-level-app .app-title{
-  font-size:19px;
-}
-
-.empty{
-  padding:50px 20px;
+.top-level-app .app-title{font-size:19px}
+.loading,.empty{
+  padding:60px 20px;
   text-align:center;
-  color:var(--sub);
+  color:var(--sub)
 }
-
 .error{
-  max-width:800px;
-  margin:50px auto;
   padding:25px;
   border:1px solid var(--line);
   border-radius:var(--radius);
   background:var(--card);
-  color:var(--sub);
+  color:var(--sub)
 }
-
-.loading{
-  padding:50px 20px;
-  text-align:center;
-  color:var(--sub);
-}
-
 @media(max-width:700px){
-  .header-inner{
-    padding:0 14px;
-  }
-
-  .logo span{
-    display:none;
-  }
-
-  .search{
-    max-width:none;
-  }
-
-  .hero{
-    padding:40px 16px 28px;
-  }
-
-  .hero h1{
-    font-size:32px;
-  }
-
-  .container{
-    padding:28px 16px 60px;
-  }
-
-  .category-body{
-    grid-template-columns:1fr;
-  }
-
-  .nav-inner{
-    padding-left:16px;
-    padding-right:16px;
-  }
+  .header-inner{padding:0 14px}
+  .logo span{display:none}
+  .search{max-width:none}
+  .hero{padding:40px 16px 28px}
+  .hero h1{font-size:32px}
+  .container{padding:28px 16px 60px}
+  .category-body{grid-template-columns:1fr}
+  .nav-inner{padding-left:16px;padding-right:16px}
 }
-</style></head><body><header class="header">
+</style>
+</head><body><header class="header">
   <div class="header-inner">
     <a class="logo" href="#">
       <img src="./icon/ai.png" alt="AppList">
       <span>AppList</span>
     </a><div class="search">
-  <input id="search" type="search" placeholder="搜索应用、工具、模块…">
+  <input id="search" type="search" placeholder="搜索应用、分类、描述……">
 </div>
 
 <a
@@ -338,96 +228,93 @@ button{
   </div>
 </header><section class="hero">
   <h1>AppList</h1>
-  <p>Android、Android TV、Windows 及 Root / Xposed 软件资源列表</p>
+  <p>Android、Android TV、Windows 及 Root / Xposed 生态软件资源列表</p>
 </section><nav class="nav">
   <div class="nav-inner" id="platformNav"></div>
 </nav><main class="container" id="content">
   <div class="loading">正在加载 README.md…</div>
 </main><script>
-const README_URL =
-  "https://raw.githubusercontent.com/Easyllls/AppList/main/README.md";
+const README_URL="https://raw.githubusercontent.com/Easyllls/AppList/main/README.md";
+const content=document.getElementById("content");
+const platformNav=document.getElementById("platformNav");
+const search=document.getElementById("search");
+const theme=document.getElementById("theme");
 
-const REPO_URL =
-  "https://github.com/Easyllls/AppList";
+function cleanText(text){
+  return text
+    .replace(/\s+/g," ")
+    .replace(/^[📱📺🪟🔧🧩🌐💻🖥️]+/u,"")
+    .trim();
+}
 
-const content = document.getElementById("content");
-const platformNav = document.getElementById("platformNav");
-const search = document.getElementById("search");
-const theme = document.getElementById("theme");
-
-function escapeHtml(str){
-  return str.replace(/[&<>"']/g,m=>({
+function escapeHtml(text){
+  return text.replace(/[&<>"']/g,char=>({
     "&":"&amp;",
     "<":"&lt;",
     ">":"&gt;",
     '"':"&quot;",
     "'":"&#039;"
-  }[m]));
+  }[char]));
 }
 
-function cleanText(str){
-  return str
-    .replace(/!.*?.*?/g,"")
-    .replace(/([^]+)\][^)]+/g,"$1")
-    .replace(/`/g,"")
-    .trim();
+function parseItem(li){
+  const nested=li.querySelector(":scope > ul,:scope > ol");
+  const link=li.querySelector(":scope > a");
+
+  const clone=li.cloneNode(true);
+  clone.querySelector(":scope > ul,:scope > ol")?.remove();
+
+  const name=cleanText(
+    link ? link.textContent : clone.textContent
+  );
+
+  return {
+    name,
+    href:link?.href || "#",
+    text:cleanText(clone.textContent),
+    nested
+  };
 }
 
-function parseList(ul){
+function parseList(list){
   const categories=[];
   const loose=[];
 
-  [...ul.children].forEach(li=>{
+  [...list.children].forEach(li=>{
     if(li.tagName!=="LI") return;
 
-    const nested=li.querySelector(":scope > ul, :scope > ol");
-    const clone=li.cloneNode(true);
+    const item=parseItem(li);
 
-    if(nested){
-      clone.querySelector(":scope > ul, :scope > ol")?.remove();
+    if(!item.name) return;
 
-      const title=cleanText(clone.textContent);
+    if(item.nested){
       const apps=[];
 
-      [...nested.children].forEach(item=>{
-        if(item.tagName!=="LI") return;
+      [...item.nested.children].forEach(child=>{
+        if(child.tagName!=="LI") return;
 
-        const link=item.querySelector("a");
-        const itemClone=item.cloneNode(true);
-        itemClone.querySelector(":scope > ul, :scope > ol")?.remove();
+        const sub=parseItem(child);
 
-        const name=cleanText(
-          link ? link.textContent : itemClone.textContent
-        );
-
-        const href=link?.href || "#";
-
-        if(name){
+        if(sub.name){
           apps.push({
-            name,
-            href,
-            text:cleanText(itemClone.textContent)
+            name:sub.name,
+            href:sub.href,
+            text:sub.text
           });
         }
       });
 
-      if(title){
-        categories.push({
-          name:title,
-          apps
-        });
-      }
+      categories.push({
+        name:item.name,
+        href:item.href,
+        apps
+      });
     }else{
-      const link=li.querySelector("a");
-      const name=cleanText(link ? link.textContent : li.textContent);
-
-      if(name){
-        loose.push({
-          name,
-          href:link?.href || "#",
-          text:cleanText(li.textContent)
-        });
-      }
+      loose.push({
+        name:item.name,
+        href:item.href,
+        text:item.text
+      });
     }
   });
 
@@ -440,67 +327,51 @@ function parseREADME(markdown){
   wrapper.innerHTML=html;
 
   const platforms=[];
-  let current=null;
 
-  [...wrapper.children].forEach(el=>{
-    if(/^H[1-6]$/.test(el.tagName)){
-      const level=Number(el.tagName.substring(1));
-      const name=cleanText(el.textContent);
+  wrapper.querySelectorAll("details").forEach(details=>{
+    const summary=details.querySelector(":scope > summary");
+    const list=details.querySelector(":scope > ul,:scope > ol");
 
-      if(level===1 || !current){
-        current={
-          name,
-          list:null,
-          categories:[],
-          loose:[]
-        };
-        platforms.push(current);
-      }
+    if(!summary || !list) return;
 
-      return;
-    }
+    const name=cleanText(summary.textContent);
+    const parsed=parseList(list);
 
-    if((el.tagName==="UL" || el.tagName==="OL") && current){
-      current.list=el;
-      const parsed=parseList(el);
-      current.categories=parsed.categories;
-      current.loose=parsed.loose;
+    if(name){
+      platforms.push({
+        name,
+        categories:parsed.categories,
+        loose:parsed.loose
+      });
     }
   });
-
-  if(!platforms.length){
-    const lists=wrapper.querySelectorAll("ul,ol");
-
-    lists.forEach((list,i)=>{
-      const parsed=parseList(list);
-
-      if(parsed.categories.length || parsed.loose.length){
-        platforms.push({
-          name:"AppList",
-          categories:parsed.categories,
-          loose:parsed.loose
-        });
-      }
-    });
-  }
 
   return platforms;
 }
 
-function makeApp(app){
+function makeApp(app,topLevel=false){
   const el=document.createElement("a");
-  el.className="app";
-  el.href=app.href;
-  el.target="_blank";
-  el.rel="noopener";
+
+  el.className=topLevel
+    ? "top-level-app"
+    : "app";
+
+  el.href=app.href || "#";
+
+  if(app.href && app.href!=="#"){
+    el.target="_blank";
+    el.rel="noopener";
+  }
+
+  let desc=app.text || "";
+
+  if(desc===app.name){
+    desc="";
+  }
 
   el.innerHTML=`
     <div class="app-title">${escapeHtml(app.name)}</div>
-    ${
-      app.text && app.text!==app.name
-      ? `<div class="app-desc">${escapeHtml(app.text)}</div>`
-      : ""
-    }
+    ${desc?`<div class="app-desc">${escapeHtml(desc)}</div>`:""}
   `;
 
   return el;
@@ -534,14 +405,14 @@ function render(platforms){
   if(!platforms.length){
     content.innerHTML=`
       <div class="empty">
-        没有识别到 README.md 内容
+        没有找到匹配的内容
       </div>
     `;
     return;
   }
 
   platforms.forEach((platform,index)=>{
-    const id=`platform-${index}`;
+    const id="platform-"+index;
 
     const navLink=document.createElement("a");
     navLink.href="#"+id;
@@ -564,9 +435,7 @@ function render(platforms){
     });
 
     platform.loose.forEach(app=>{
-      const el=makeApp(app);
-      el.classList.add("top-level-app");
-      body.appendChild(el);
+      body.appendChild(makeApp(app,true));
     });
 
     section.appendChild(title);
@@ -576,19 +445,19 @@ function render(platforms){
 }
 
 async function loadREADME(){
-  const url=README_URL+"?t="+Date.now();
+  const response=await fetch(
+    README_URL+"?t="+Date.now(),
+    {
+      cache:"no-store",
+      mode:"cors"
+    }
+  );
 
-  const res=await fetch(url,{
-    cache:"no-store"
-  });
-
-  if(!res.ok){
-    throw new Error(
-      `README.md 加载失败：HTTP ${res.status}`
-    );
+  if(!response.ok){
+    throw new Error("README.md 加载失败："+response.status);
   }
 
-  const text=await res.text();
+  const text=await response.text();
 
   if(!text.trim()){
     throw new Error("README.md 内容为空");
@@ -610,16 +479,8 @@ async function init(){
         <strong>README.md 加载失败</strong>
         <p>${escapeHtml(error.message)}</p>
         <p>
-          请检查 GitHub 仓库中的 README.md 是否存在，
-          或稍后刷新页面重试。
+          请刷新页面重试。
         </p>
-        <a
-          href="${REPO_URL}"
-          target="_blank"
-          rel="noopener"
-        >
-          打开 GitHub 仓库 ↗
-        </a>
       </div>
     `;
   }
@@ -628,12 +489,14 @@ async function init(){
 search.addEventListener("input",()=>{
   const keyword=search.value.trim().toLowerCase();
 
-  document.querySelectorAll(".category,.top-level-app")
+  document
+    .querySelectorAll(".category,.top-level-app")
     .forEach(el=>{
       el.style.display=
-        !keyword || el.textContent.toLowerCase().includes(keyword)
-        ? ""
-        : "none";
+        !keyword ||
+        el.textContent.toLowerCase().includes(keyword)
+          ? ""
+          : "none";
     });
 });
 
@@ -650,13 +513,13 @@ function applyTheme(){
 }
 
 theme.addEventListener("click",()=>{
-  const dark=document.documentElement.dataset.theme==="dark";
+  const dark=
+    document.documentElement.dataset.theme==="dark";
 
-  if(dark){
-    localStorage.setItem("applist-theme","light");
-  }else{
-    localStorage.setItem("applist-theme","dark");
-  }
+  localStorage.setItem(
+    "applist-theme",
+    dark ? "light" : "dark"
+  );
 
   applyTheme();
 });
