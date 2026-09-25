@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>AppList · 我的软件列表</title>
+<title>AppList · 软件资源列表</title>
 <meta name="description" content="Android、Android TV、Windows 及 Root / Xposed 软件资源列表">
 <meta name="theme-color" content="#f7f8fa">
 <link rel="icon" href="./icon/ai.png">
@@ -248,23 +248,48 @@ function parseCategory(li){
 }
 function parsePlatforms(root){
   const details=Array.from(root.querySelectorAll("details"));
+
   if(details.length) return details.map((d,i)=>{
     const summary=d.querySelector(":scope > summary");
     const name=summary?summary.textContent.trim():`平台 ${i+1}`;
     const categories=[], loose=[];
-    Array.from(d.children).filter(x=>x.tagName==="UL"||x.tagName==="OL").forEach(list=>{
+
+    /*
+     * marked 对 <details> 内直接写的 Markdown 列表可能不会继续解析成 <ul>。
+     * 因此如果没有找到已经解析好的列表，就把 summary 以外的内容重新交给 marked。
+     */
+    let lists=Array.from(d.children).filter(x=>x.tagName==="UL"||x.tagName==="OL");
+
+    if(!lists.length){
+      const md=[];
+      d.childNodes.forEach(node=>{
+        if(node===summary)return;
+        if(node.nodeType===Node.TEXT_NODE) md.push(node.textContent);
+        else if(node.nodeType===Node.ELEMENT_NODE) md.push(node.outerHTML);
+      });
+
+      const temp=document.createElement("div");
+      temp.innerHTML=marked.parse(md.join("\n"));
+      lists=Array.from(temp.children).filter(x=>x.tagName==="UL"||x.tagName==="OL");
+    }
+
+    lists.forEach(list=>{
       Array.from(list.children).filter(x=>x.tagName==="LI").forEach(li=>{
         const sub=directList(li);
+
         if(sub){
           const c=parseCategory(li);
-          /* 没有真实分类名称时，不创建“其他”。 */
           if(c.name) categories.push(c);
           else loose.push(...c.children);
-        }else loose.push(parseApp(li));
+        }else{
+          loose.push(parseApp(li));
+        }
       });
     });
+
     return {name,categories,loose};
   });
+
   return parseFromH2(root);
 }
 function parseFromH2(root){
