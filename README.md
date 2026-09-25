@@ -1502,7 +1502,7 @@
   - PiliPlus：使用Flutter开发的BiliBili第三方客户端
   - Shiru：个人动漫库管理软件，可实时观看和追踪您的收藏。轻巧、强大、速度飞快。无需等待！
 - [直播](https://pan.baidu.com/s/1FhP1q49YWUyNg4CU2HiOBQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-Zu_HuG-EAHHWxhmPTJ81bA1?pwd=ve8v#) [夸克](https://pan.quark.cn/s/80a5221fea52?pwd=JDDF)
-  - DTV-多平台直播轻量化桌面客户端，支持抖音、虎牙、快手、哔哩哔哩
+  - DTV：多平台直播轻量化桌面客户端，支持抖音、虎牙、快手、哔哩哔哩
   - Simple Live：跨平台的聚合直播软件
   - pure live
 - [翻译与OCR](https://pan.baidu.com/s/1Tz73wMxZ812oziSDWq3Cew?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-hl_KiAZ1Yp8A68TekauLIA1?pwd=t8fy#) [夸克](https://pan.quark.cn/s/2446cac57e1e?pwd=GHhJ)
