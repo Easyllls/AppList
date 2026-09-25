@@ -234,16 +234,18 @@ button, input { font: inherit; }
 .category-head {
   padding: 14px 18px;
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   justify-content: space-between;
-  gap: 10px;
+  gap: 12px;
   cursor: pointer;
   user-select: none;
   background: var(--card);
   transition: background .2s;
 }
 .category-head:hover { background: var(--hover); }
+.category-left { display: flex; flex-direction: column; gap: 4px; flex: 1; min-width: 0; }
 .category-name { font-size: 15px; font-weight: 700; letter-spacing: -0.2px; }
+.category-right { display: flex; align-items: center; gap: 8px; flex-shrink: 0; }
 .category-meta { color: var(--muted); font-size: 12px; display: flex; align-items: center; gap: 4px; }
 .category-arrow { transition: transform .2s ease; display: inline-block; font-size: 10px; opacity: 0.7; }
 .category.collapsed .category-arrow { transform: rotate(-90deg); }
@@ -276,18 +278,18 @@ button, input { font: inherit; }
   line-height: 1.5;
 }
 
-/* Download Badges & PNG Icons */
+/* Download Badges */
 .downloads {
   display: flex;
   flex-wrap: wrap;
   gap: 6px;
-  margin-top: 8px;
+  margin-top: 6px;
 }
 .download {
   display: inline-flex;
   align-items: center;
   gap: 6px;
-  padding: 4px 11px;
+  padding: 3px 10px;
   border: 1px solid var(--card-border);
   border-radius: 6px;
   font-size: 12px;
@@ -297,8 +299,8 @@ button, input { font: inherit; }
   transition: all .15s ease;
 }
 .download svg, .download .btn-icon {
-  width: 15px;
-  height: 15px;
+  width: 14px;
+  height: 14px;
   flex-shrink: 0;
   object-fit: contain;
 }
@@ -426,7 +428,7 @@ function slug(text) {
   return "p-" + String(text).toLowerCase().replace(/[^\w\u4e00-\u9fff]+/g, "-").replace(/^-+|-+$/g, "");
 }
 
-/* 图片/SVG 图标库定义 */
+/* 图标库定义 */
 const IMG_ICONS = {
   baidu: `<img class="btn-icon" src="https://raw.githubusercontent.com/Easyllls/AppList/refs/heads/main/icon/bd.png" alt="百度网盘">`,
   quark: `<img class="btn-icon" src="https://raw.githubusercontent.com/Easyllls/AppList/refs/heads/main/icon/kk.png" alt="夸克网盘">`,
@@ -459,7 +461,6 @@ function getLinkInfo(link) {
 
   for (const pan of PAN_MAP) {
     if (pan.match.test(url)) {
-      // 百度网盘强制直接展示“百度网盘”
       if (pan.forceDefault) {
         return { label: pan.defaultName, icon: pan.icon };
       }
@@ -479,7 +480,7 @@ function getLinkInfo(link) {
   return { label: cleanName || "下载链接", icon: IMG_ICONS.link };
 }
 
-/* Markdown 解析 */
+/* Markdown 解析逻辑重构 */
 function parseLinksFromLine(line) {
   const links = [];
   const linkRegex = /\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g;
@@ -495,7 +496,15 @@ function parseAppItem(line) {
   let rawText = line.replace(/^\s*-\s*/, "").trim();
 
   if (links.length > 0) {
+    // 提取第一个链接文本或前面的纯文本作为标题
     let title = links[0].name.trim();
+    
+    // 如果 [标题](链接) 之前有前缀文本，比如 "前缀 [网盘](链接)"
+    const firstLinkIdx = rawText.indexOf('[');
+    if (firstLinkIdx > 0) {
+      title = rawText.substring(0, firstLinkIdx).replace(/[:：\s\-–—]+$/, "").trim();
+    }
+    
     title = title.replace(/提取码\s*[:：]?\s*[a-zA-Z0-9]+/gi, "").trim();
 
     let description = rawText.replace(/\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g, "").trim();
@@ -503,6 +512,9 @@ function parseAppItem(line) {
       .replace(/提取码\s*[:：]?\s*[a-zA-Z0-9]+/gi, "")
       .replace(/^[:：\s\-–—]+/, "")
       .trim();
+
+    // 如果描述与标题完全重复，清空描述
+    if (description === title) description = "";
 
     return { title, description, links };
   }
@@ -554,7 +566,12 @@ function parseREADME(markdown) {
       const itemData = parseAppItem(trimmed);
 
       if (isCategoryHeader) {
-        currentCategory = { type: "category", name: itemData.title, apps: [] };
+        currentCategory = { 
+          type: "category", 
+          name: itemData.title, 
+          links: itemData.links, 
+          apps: [] 
+        };
         currentPlatform.items.push(currentCategory);
       } else {
         if (indent > 0 && currentCategory) {
@@ -575,7 +592,7 @@ function makeDownloads(links) {
   if (!links || links.length === 0) return "";
   
   return `
-    <div class="downloads">
+    <div class="downloads" onclick="event.stopPropagation()">
       ${links.map(link => {
         const info = getLinkInfo(link);
         return `
@@ -617,11 +634,16 @@ function makeCategory(category) {
   body.className = "category-body";
 
   head.innerHTML = `
-    <span class="category-name">${escapeHtml(category.name)}</span>
-    <span class="category-meta">
-      ${category.apps.length} 项 
-      <span class="category-arrow">▼</span>
-    </span>
+    <div class="category-left">
+      <span class="category-name">${escapeHtml(category.name)}</span>
+      ${makeDownloads(category.links)}
+    </div>
+    <div class="category-right">
+      <span class="category-meta">
+        ${category.apps.length} 项 
+        <span class="category-arrow">▼</span>
+      </span>
+    </div>
   `;
 
   category.apps.forEach(app => body.appendChild(makeApp(app)));
