@@ -1,0 +1,2410 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>AppList · 软件资源列表</title>
+    <meta name="description" content="Android、Android TV、Windows 及 Root/Xposed 生态软件资源列表">
+    <meta name="theme-color" content="#0f172a">
+
+    <link rel="icon" href="./icon/ai.png">
+
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+    <style>
+        :root {
+            --bg: #f5f7fb;
+            --bg-soft: #eef2f7;
+            --surface: rgba(255, 255, 255, .88);
+            --surface-solid: #ffffff;
+            --surface-hover: #f8fafc;
+
+            --text: #111827;
+            --text-secondary: #64748b;
+            --text-muted: #94a3b8;
+
+            --border: rgba(15, 23, 42, .09);
+            --border-hover: rgba(15, 23, 42, .16);
+
+            --primary: #2563eb;
+            --primary-soft: rgba(37, 99, 235, .10);
+
+            --green: #16a34a;
+            --orange: #ea580c;
+
+            --shadow: 0 8px 30px rgba(15, 23, 42, .06);
+            --shadow-hover: 0 16px 40px rgba(15, 23, 42, .10);
+
+            --radius: 18px;
+            --radius-small: 12px;
+
+            --header-height: 68px;
+        }
+
+        html.dark {
+            --bg: #090d14;
+            --bg-soft: #111827;
+            --surface: rgba(17, 24, 39, .88);
+            --surface-solid: #111827;
+            --surface-hover: #172033;
+
+            --text: #f1f5f9;
+            --text-secondary: #94a3b8;
+            --text-muted: #64748b;
+
+            --border: rgba(255, 255, 255, .08);
+            --border-hover: rgba(255, 255, 255, .16);
+
+            --primary: #60a5fa;
+            --primary-soft: rgba(96, 165, 250, .12);
+
+            --shadow: 0 10px 35px rgba(0, 0, 0, .25);
+            --shadow-hover: 0 18px 45px rgba(0, 0, 0, .35);
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        html {
+            scroll-behavior: smooth;
+        }
+
+        body {
+            margin: 0;
+            min-height: 100vh;
+            background:
+                radial-gradient(
+                    circle at 20% 0%,
+                    rgba(37, 99, 235, .08),
+                    transparent 32rem
+                ),
+                var(--bg);
+
+            color: var(--text);
+            font-family:
+                -apple-system,
+                BlinkMacSystemFont,
+                "Segoe UI",
+                "Noto Sans SC",
+                "Microsoft YaHei",
+                sans-serif;
+
+            line-height: 1.6;
+        }
+
+        a {
+            color: inherit;
+            text-decoration: none;
+        }
+
+        button,
+        input {
+            font: inherit;
+        }
+
+        img {
+            max-width: 100%;
+        }
+
+        /* =========================
+           Header
+        ========================= */
+
+        .header {
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+
+            height: var(--header-height);
+
+            border-bottom: 1px solid var(--border);
+
+            background: var(--surface);
+            backdrop-filter: blur(18px);
+            -webkit-backdrop-filter: blur(18px);
+        }
+
+        .header-inner {
+            width: min(1400px, calc(100% - 32px));
+            height: 100%;
+
+            margin: auto;
+
+            display: flex;
+            align-items: center;
+            gap: 18px;
+        }
+
+        .brand {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+
+            flex-shrink: 0;
+
+            font-weight: 800;
+            font-size: 18px;
+            letter-spacing: -.3px;
+        }
+
+        .brand img {
+            width: 34px;
+            height: 34px;
+
+            object-fit: cover;
+
+            border-radius: 9px;
+        }
+
+        .brand span {
+            white-space: nowrap;
+        }
+
+        .header-search {
+            position: relative;
+
+            flex: 1;
+            max-width: 560px;
+
+            margin: 0 auto;
+        }
+
+        .header-search input {
+            width: 100%;
+            height: 42px;
+
+            padding: 0 16px 0 42px;
+
+            border: 1px solid var(--border);
+            border-radius: 12px;
+
+            outline: none;
+
+            color: var(--text);
+            background: var(--surface-solid);
+
+            transition: .2s;
+        }
+
+        .header-search input:focus {
+            border-color: var(--primary);
+            box-shadow: 0 0 0 3px var(--primary-soft);
+        }
+
+        .search-icon {
+            position: absolute;
+            left: 14px;
+            top: 50%;
+
+            transform: translateY(-50%);
+
+            color: var(--text-muted);
+
+            pointer-events: none;
+        }
+
+        .header-actions {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .icon-button {
+            width: 40px;
+            height: 40px;
+
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+
+            border: 1px solid var(--border);
+            border-radius: 11px;
+
+            background: var(--surface-solid);
+            color: var(--text-secondary);
+
+            cursor: pointer;
+
+            transition: .2s;
+        }
+
+        .icon-button:hover {
+            color: var(--text);
+            border-color: var(--border-hover);
+            transform: translateY(-1px);
+        }
+
+        /* =========================
+           Hero
+        ========================= */
+
+        .hero {
+            width: min(1400px, calc(100% - 32px));
+
+            margin: 0 auto;
+            padding: 70px 0 46px;
+
+            text-align: center;
+        }
+
+        .hero-logo {
+            width: 76px;
+            height: 76px;
+
+            margin: 0 auto 20px;
+
+            object-fit: cover;
+
+            border-radius: 22px;
+
+            box-shadow:
+                0 12px 35px rgba(37, 99, 235, .16);
+        }
+
+        .hero h1 {
+            margin: 0;
+
+            font-size: clamp(34px, 5vw, 58px);
+            line-height: 1.08;
+            letter-spacing: -2px;
+        }
+
+        .hero p {
+            max-width: 720px;
+
+            margin: 18px auto 0;
+
+            color: var(--text-secondary);
+
+            font-size: 16px;
+        }
+
+        .hero-meta {
+            margin-top: 22px;
+
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+
+        .hero-tag {
+            padding: 6px 12px;
+
+            border: 1px solid var(--border);
+            border-radius: 999px;
+
+            color: var(--text-secondary);
+            background: var(--surface);
+
+            font-size: 13px;
+        }
+
+        /* =========================
+           Platform Navigation
+        ========================= */
+
+        .platform-nav {
+            position: sticky;
+            top: var(--header-height);
+            z-index: 900;
+
+            border-top: 1px solid var(--border);
+            border-bottom: 1px solid var(--border);
+
+            background: var(--surface);
+            backdrop-filter: blur(18px);
+            -webkit-backdrop-filter: blur(18px);
+        }
+
+        .platform-nav-inner {
+            width: min(1400px, calc(100% - 32px));
+
+            margin: auto;
+
+            display: flex;
+            align-items: center;
+
+            overflow-x: auto;
+
+            scrollbar-width: none;
+        }
+
+        .platform-nav-inner::-webkit-scrollbar {
+            display: none;
+        }
+
+        .platform-link {
+            position: relative;
+
+            padding: 15px 18px;
+
+            color: var(--text-secondary);
+
+            white-space: nowrap;
+
+            font-size: 14px;
+            font-weight: 600;
+        }
+
+        .platform-link:hover {
+            color: var(--text);
+        }
+
+        .platform-link.active {
+            color: var(--primary);
+        }
+
+        .platform-link.active::after {
+            content: "";
+
+            position: absolute;
+            left: 18px;
+            right: 18px;
+            bottom: 0;
+
+            height: 2px;
+
+            border-radius: 2px;
+
+            background: var(--primary);
+        }
+
+        /* =========================
+           Main
+        ========================= */
+
+        .main {
+            width: min(1400px, calc(100% - 32px));
+
+            margin: auto;
+
+            padding: 34px 0 80px;
+        }
+
+        .loading,
+        .error {
+            padding: 60px 20px;
+
+            text-align: center;
+
+            color: var(--text-secondary);
+        }
+
+        .error {
+            color: #dc2626;
+        }
+
+        /* =========================
+           Platform
+        ========================= */
+
+        .platform {
+            scroll-margin-top: 145px;
+
+            margin-bottom: 52px;
+        }
+
+        .platform-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+
+            gap: 20px;
+
+            margin-bottom: 22px;
+        }
+
+        .platform-title {
+            display: flex;
+            align-items: center;
+            gap: 12px;
+
+            min-width: 0;
+        }
+
+        .platform-title h2 {
+            margin: 0;
+
+            font-size: 28px;
+            letter-spacing: -.8px;
+        }
+
+        .platform-toggle {
+            width: 36px;
+            height: 36px;
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+
+            border: 1px solid var(--border);
+            border-radius: 10px;
+
+            background: var(--surface);
+            color: var(--text-secondary);
+
+            cursor: pointer;
+
+            transition: .2s;
+        }
+
+        .platform-toggle:hover {
+            color: var(--text);
+        }
+
+        .platform.collapsed .platform-body {
+            display: none;
+        }
+
+        .platform.collapsed .platform-toggle {
+            transform: rotate(-90deg);
+        }
+
+        /* =========================
+           Categories
+        ========================= */
+
+        .category {
+            margin-bottom: 30px;
+        }
+
+        .category-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+
+            gap: 20px;
+
+            margin-bottom: 13px;
+        }
+
+        .category-title {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+
+            min-width: 0;
+        }
+
+        .category-title h3 {
+            margin: 0;
+
+            font-size: 19px;
+            letter-spacing: -.3px;
+        }
+
+        .category-title::before {
+            content: "";
+
+            width: 4px;
+            height: 20px;
+
+            flex-shrink: 0;
+
+            border-radius: 99px;
+
+            background: var(--primary);
+        }
+
+        /* =========================
+           Download Links
+        ========================= */
+
+        .download-links {
+            display: flex;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+
+        .download-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 5px;
+
+            min-height: 30px;
+
+            padding: 4px 9px;
+
+            border: 1px solid var(--border);
+            border-radius: 8px;
+
+            background: var(--surface);
+            color: var(--text-secondary);
+
+            font-size: 12px;
+            font-weight: 600;
+
+            transition: .18s;
+        }
+
+        a.download-link:hover {
+            color: var(--primary);
+            border-color: rgba(37, 99, 235, .25);
+            background: var(--primary-soft);
+
+            transform: translateY(-1px);
+        }
+
+        .download-link .arrow {
+            opacity: .65;
+            font-size: 11px;
+        }
+
+        .download-link.unknown {
+            color: var(--text-secondary);
+        }
+
+        /* =========================
+           App Grid
+        ========================= */
+
+        .app-grid {
+            display: grid;
+
+            grid-template-columns:
+                repeat(auto-fill, minmax(250px, 1fr));
+
+            gap: 14px;
+        }
+
+        .app-card {
+            position: relative;
+
+            min-width: 0;
+
+            padding: 18px;
+
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+
+            background: var(--surface);
+
+            box-shadow: var(--shadow);
+
+            transition:
+                transform .2s,
+                border-color .2s,
+                box-shadow .2s;
+        }
+
+        .app-card:hover {
+            transform: translateY(-3px);
+
+            border-color: var(--border-hover);
+
+            box-shadow: var(--shadow-hover);
+        }
+
+        .app-card-header {
+            display: flex;
+            align-items: flex-start;
+            justify-content: space-between;
+
+            gap: 12px;
+        }
+
+        .app-name {
+            min-width: 0;
+
+            font-size: 16px;
+            font-weight: 700;
+
+            line-height: 1.35;
+        }
+
+        .app-description {
+            margin-top: 9px;
+
+            color: var(--text-secondary);
+
+            font-size: 13px;
+            line-height: 1.65;
+        }
+
+        .app-description a {
+            color: var(--primary);
+        }
+
+        .app-links {
+            margin-top: 14px;
+        }
+
+        .app-card-image {
+            display: block;
+
+            max-width: 100%;
+            max-height: 100px;
+
+            margin: 10px 0;
+
+            border-radius: 10px;
+        }
+
+        /* =========================
+           Empty / Search
+        ========================= */
+
+        .no-results {
+            display: none;
+
+            padding: 80px 20px;
+
+            text-align: center;
+
+            color: var(--text-secondary);
+        }
+
+        .no-results.show {
+            display: block;
+        }
+
+        .hidden-by-search {
+            display: none !important;
+        }
+
+        /* =========================
+           Footer
+        ========================= */
+
+        .footer {
+            width: min(1400px, calc(100% - 32px));
+
+            margin: auto;
+
+            padding: 30px 0 45px;
+
+            border-top: 1px solid var(--border);
+
+            color: var(--text-muted);
+
+            text-align: center;
+
+            font-size: 13px;
+        }
+
+        .footer a {
+            color: var(--text-secondary);
+        }
+
+        .footer a:hover {
+            color: var(--primary);
+        }
+
+        /* =========================
+           Markdown hidden container
+        ========================= */
+
+        #markdown-source {
+            display: none;
+        }
+
+        /* =========================
+           Mobile
+        ========================= */
+
+        @media (max-width: 700px) {
+            :root {
+                --header-height: 60px;
+            }
+
+            .header-inner,
+            .platform-nav-inner,
+            .main,
+            .hero,
+            .footer {
+                width: min(100% - 20px, 1400px);
+            }
+
+            .header-inner {
+                gap: 8px;
+            }
+
+            .brand span {
+                display: none;
+            }
+
+            .header-search {
+                max-width: none;
+            }
+
+            .header-actions {
+                gap: 5px;
+            }
+
+            .hero {
+                padding: 48px 0 32px;
+            }
+
+            .hero h1 {
+                font-size: 38px;
+            }
+
+            .hero p {
+                font-size: 14px;
+            }
+
+            .platform-title h2 {
+                font-size: 24px;
+            }
+
+            .platform-link {
+                padding: 13px 14px;
+            }
+
+            .platform-link.active::after {
+                left: 14px;
+                right: 14px;
+            }
+
+            .category-header {
+                align-items: flex-start;
+                flex-direction: column;
+                gap: 8px;
+            }
+
+            .app-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .app-card {
+                padding: 16px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+
+<header class="header">
+    <div class="header-inner">
+
+        <a class="brand" href="#">
+            <img src="./icon/ai.png" alt="AppList">
+            <span>AppList</span>
+        </a>
+
+        <div class="header-search">
+            <span class="search-icon">⌕</span>
+            <input
+                id="search"
+                type="search"
+                placeholder="搜索应用、分类、描述……"
+                autocomplete="off"
+            >
+        </div>
+
+        <div class="header-actions">
+
+            <a
+                class="icon-button"
+                href="https://github.com/Easyllls/AppList"
+                target="_blank"
+                rel="noopener noreferrer"
+                title="GitHub"
+                aria-label="GitHub"
+            >
+                GH
+            </a>
+
+            <button
+                class="icon-button"
+                id="theme-toggle"
+                title="切换主题"
+                aria-label="切换主题"
+            >
+                ☼
+            </button>
+
+        </div>
+
+    </div>
+</header>
+
+
+<section class="hero">
+
+    <img
+        class="hero-logo"
+        src="./icon/ai.png"
+        alt="AppList"
+    >
+
+    <h1>AppList</h1>
+
+    <p>
+        Android、Android TV、Windows 及 Root / Xposed 生态软件资源列表
+    </p>
+
+    <div class="hero-meta">
+        <span class="hero-tag">Android</span>
+        <span class="hero-tag">Android TV</span>
+        <span class="hero-tag">Windows</span>
+        <span class="hero-tag">Root</span>
+        <span class="hero-tag">Xposed</span>
+    </div>
+
+</section>
+
+
+<nav class="platform-nav">
+    <div
+        class="platform-nav-inner"
+        id="platform-nav"
+    ></div>
+</nav>
+
+
+<main class="main">
+
+    <div
+        id="loading"
+        class="loading"
+    >
+        正在读取 README.md……
+    </div>
+
+    <div
+        id="content"
+        style="display:none"
+    ></div>
+
+    <div
+        id="no-results"
+        class="no-results"
+    >
+        没有找到匹配的内容
+    </div>
+
+</main>
+
+
+<footer class="footer">
+
+    <div>
+        AppList · 软件资源列表
+    </div>
+
+    <div style="margin-top:8px">
+        数据来源：
+        <a
+            href="https://github.com/Easyllls/AppList/blob/main/README.md"
+            target="_blank"
+            rel="noopener noreferrer"
+        >
+            README.md
+        </a>
+    </div>
+
+</footer>
+
+
+<!--
+    README.md 的原始 Markdown 会放到这里进行解析。
+    不作为页面数据源，只用于 marked 生成 HTML。
+-->
+<div id="markdown-source"></div>
+
+
+<script>
+"use strict";
+
+/* =========================================================
+   配置
+========================================================= */
+
+const CONFIG = {
+
+    README_URL: "./README.md",
+
+    GITHUB_URL: "https://github.com/Easyllls/AppList",
+
+    /*
+     * 下载平台 URL 识别。
+     *
+     * 这里只根据 URL 的 hostname 判断。
+     * 不根据链接文字猜测。
+     */
+    DOWNLOAD_PLATFORMS: [
+        {
+            host: /(^|\.)pan\.baidu\.com$/i,
+            name: "百度网盘"
+        },
+        {
+            host: /(^|\.)pan\.xunlei\.com$/i,
+            name: "迅雷"
+        },
+        {
+            host: /(^|\.)pan\.quark\.cn$/i,
+            name: "夸克"
+        }
+    ]
+
+};
+
+
+/* =========================================================
+   DOM
+========================================================= */
+
+const $ = selector => document.querySelector(selector);
+
+const loading = $("#loading");
+const content = $("#content");
+const nav = $("#platform-nav");
+const searchInput = $("#search");
+const noResults = $("#no-results");
+
+
+/* =========================================================
+   Markdown 配置
+========================================================= */
+
+marked.setOptions({
+    gfm: true,
+    breaks: true
+});
+
+
+/* =========================================================
+   URL 处理
+========================================================= */
+
+function absoluteUrl(url) {
+
+    try {
+        return new URL(url, location.href).href;
+    } catch {
+        return url;
+    }
+
+}
+
+
+function getHostname(url) {
+
+    try {
+        return new URL(url, location.href).hostname;
+    } catch {
+        return "";
+    }
+
+}
+
+
+/*
+ * 根据 URL 识别下载平台。
+ *
+ * 例如：
+ *
+ * pan.baidu.com
+ * → 百度网盘
+ *
+ * pan.xunlei.com
+ * → 迅雷
+ *
+ * pan.quark.cn
+ * → 夸克
+ *
+ * 未知域名：
+ * → null
+ */
+function detectDownloadPlatform(url) {
+
+    const hostname = getHostname(url);
+
+    if (!hostname) {
+        return null;
+    }
+
+    const matched = CONFIG.DOWNLOAD_PLATFORMS.find(
+        item => item.host.test(hostname)
+    );
+
+    return matched ? matched.name : null;
+
+}
+
+
+/* =========================================================
+   Markdown HTML 清理 / 节点工具
+========================================================= */
+
+
+/*
+ * 获取 li 的直接子列表。
+ *
+ * 非常重要：
+ *
+ * <li>
+ *   当前内容
+ *   <ul>
+ *      子项目
+ *   </ul>
+ * </li>
+ *
+ * 这里不能使用 querySelector("ul")
+ * 因为可能拿到更深层的子列表。
+ */
+function getDirectList(li) {
+
+    return Array.from(li.children).find(
+        child =>
+            child.tagName === "UL" ||
+            child.tagName === "OL"
+    ) || null;
+
+}
+
+
+/*
+ * 获取 li 的直接链接。
+ *
+ * 不读取子 ul 里的 a。
+ */
+function getDirectLinks(li) {
+
+    return Array.from(li.children).filter(
+        child => child.tagName === "A"
+    );
+
+}
+
+
+/*
+ * 获取 li 自己的文本。
+ *
+ * 删除所有直接子列表之后再读取 textContent，
+ * 从而不会把子应用的文字混进分类标题。
+ */
+function getOwnText(li) {
+
+    const clone = li.cloneNode(true);
+
+    Array.from(clone.children)
+        .filter(
+            child =>
+                child.tagName === "UL" ||
+                child.tagName === "OL"
+        )
+        .forEach(child => child.remove());
+
+    return clone.textContent
+        .replace(/\s+/g, " ")
+        .trim();
+
+}
+
+
+/*
+ * 获取 li 自己的 HTML。
+ *
+ * 同样删除子列表。
+ */
+function getOwnHTML(li) {
+
+    const clone = li.cloneNode(true);
+
+    Array.from(clone.children)
+        .filter(
+            child =>
+                child.tagName === "UL" ||
+                child.tagName === "OL"
+        )
+        .forEach(child => child.remove());
+
+    return clone.innerHTML.trim();
+
+}
+
+
+/* =========================================================
+   链接解析
+========================================================= */
+
+function parseLinks(links) {
+
+    return links.map(link => {
+
+        const url = absoluteUrl(link.getAttribute("href") || "");
+
+        const text = link.textContent
+            .replace(/\s+/g, " ")
+            .trim();
+
+        const platform = detectDownloadPlatform(url);
+
+        return {
+            text,
+            url,
+            platform
+        };
+
+    }).filter(item => item.url);
+
+}
+
+
+/*
+ * 根据链接是否属于下载平台，生成按钮文字。
+ *
+ * 已知：
+ *   百度网盘
+ *   迅雷
+ *   夸克
+ *
+ * 未知：
+ *   使用原链接文字
+ *
+ * 如果未知链接文字正好是应用名称，
+ * 这种情况在应用级链接里会使用“打开链接”。
+ */
+function getLinkLabel(link, fallback = "打开链接") {
+
+    if (link.platform) {
+        return link.platform;
+    }
+
+    return link.text || fallback;
+
+}
+
+
+/* =========================================================
+   下载按钮
+========================================================= */
+
+function createDownloadButton(link, fallbackLabel = "打开链接") {
+
+    const label = getLinkLabel(link, fallbackLabel);
+
+    const a = document.createElement("a");
+
+    a.className = "download-link";
+
+    a.href = link.url;
+
+    a.target = "_blank";
+    a.rel = "noopener noreferrer";
+
+    a.title = link.url;
+
+    a.innerHTML = `
+        <span>${escapeHTML(label)}</span>
+        <span class="arrow">↗</span>
+    `;
+
+    return a;
+
+}
+
+
+function createDownloadLinks(links, fallbackLabel = "打开链接") {
+
+    const container = document.createElement("div");
+
+    container.className = "download-links";
+
+    links.forEach(link => {
+
+        container.appendChild(
+            createDownloadButton(
+                link,
+                fallbackLabel
+            )
+        );
+
+    });
+
+    return container;
+
+}
+
+
+/* =========================================================
+   HTML 转义
+========================================================= */
+
+function escapeHTML(value) {
+
+    return String(value)
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+
+}
+
+
+/* =========================================================
+   应用描述处理
+========================================================= */
+
+
+/*
+ * README 常见写法：
+ *
+ * NipaPlay：一款……
+ *
+ * 也兼容：
+ *
+ * NipaPlay: 一款……
+ */
+function splitNameDescription(text) {
+
+    const match = text.match(/^(.+?)[：:]\s*(.*)$/);
+
+    if (!match) {
+
+        return {
+            name: text.trim(),
+            description: ""
+        };
+
+    }
+
+    return {
+        name: match[1].trim(),
+        description: match[2].trim()
+    };
+
+}
+
+
+/* =========================================================
+   应用解析
+========================================================= */
+
+function parseApp(li) {
+
+    const ownText = getOwnText(li);
+
+    const directLinks = parseLinks(
+        getDirectLinks(li)
+    );
+
+    /*
+     * 如果存在 Markdown 链接：
+     *
+     * - [NipaPlay](https://pan.baidu.com/...)
+     *
+     * 链接文字就是应用名称。
+     *
+     * 如果还有：
+     *
+     * [迅雷](...)
+     * [夸克](...)
+     *
+     * 则全部作为该应用的下载链接。
+     */
+    let name = "";
+    let description = "";
+
+    if (directLinks.length > 0) {
+
+        name = directLinks[0].text || "";
+
+        /*
+         * 如果第一链接没有文字，
+         * 再从当前 li 文本获取名称。
+         */
+        if (!name) {
+            name = ownText;
+        }
+
+        /*
+         * 如果文本中存在：
+         *
+         * NipaPlay：说明
+         *
+         * 则提取说明。
+         */
+        const split = splitNameDescription(ownText);
+
+        if (
+            split.description &&
+            split.name !== name
+        ) {
+            description = split.description;
+        }
+
+        /*
+         * 如果当前文本本身就是：
+         *
+         * NipaPlay：说明
+         *
+         * 那么直接取冒号后的内容。
+         */
+        if (
+            split.description &&
+            ownText.startsWith(split.name)
+        ) {
+            description = split.description;
+        }
+
+    } else {
+
+        const split = splitNameDescription(ownText);
+
+        name = split.name;
+        description = split.description;
+
+    }
+
+
+    /*
+     * 如果第一个链接文字就是应用名称，
+     * 后面的链接是下载平台。
+     *
+     * 例如：
+     *
+     * [NipaPlay](百度)
+     * [迅雷](迅雷)
+     * [夸克](夸克)
+     *
+     * 第一项本身也可能是百度网盘下载。
+     *
+     * 所以所有链接都保留。
+     */
+    return {
+        name: name || "未命名应用",
+        description,
+        links: directLinks,
+        html: getOwnHTML(li)
+    };
+
+}
+
+
+/* =========================================================
+   分类解析
+========================================================= */
+
+function parseCategory(li) {
+
+    const ownText = getOwnText(li);
+
+    const directLinks = parseLinks(
+        getDirectLinks(li)
+    );
+
+    const childList = getDirectList(li);
+
+    /*
+     * 分类名称：
+     *
+     * 如果第一链接是：
+     *
+     * [进程管理](百度网盘)
+     *
+     * 那么“进程管理”是分类名称，
+     * URL 则属于分类下载链接。
+     */
+    let name = "";
+
+    if (directLinks.length > 0) {
+
+        name = directLinks[0].text.trim();
+
+    }
+
+
+    /*
+     * 如果没有 Markdown 链接：
+     *
+     * 视频播放器 迅雷 夸克
+     *
+     * 则直接使用文本。
+     */
+    if (!name) {
+        name = ownText;
+    }
+
+
+    /*
+     * 删除常见渠道文字，
+     * 避免：
+     *
+     * 视频播放器 迅雷 夸克
+     *
+     * 被渲染成：
+     *
+     * 视频播放器 迅雷 夸克
+     *
+     * 标题。
+     *
+     * 注意：
+     * 这里只用于“无 URL 的旧式写法”。
+     */
+    const channelNames = [
+        "百度网盘",
+        "百度",
+        "迅雷",
+        "夸克",
+        "阿里云盘",
+        "阿里",
+        "123云盘",
+        "天翼云盘",
+        "蓝奏云"
+    ];
+
+    /*
+     * 如果没有直接链接，
+     * 从分类标题中删除这些渠道文字。
+     */
+    if (directLinks.length === 0) {
+
+        for (const channel of channelNames) {
+
+            name = name
+                .replace(
+                    new RegExp(
+                        `\\s*${escapeRegExp(channel)}\\s*`,
+                        "g"
+                    ),
+                    " "
+                );
+
+        }
+
+        name = name
+            .replace(/\s+/g, " ")
+            .trim();
+
+    }
+
+
+    /*
+     * 子应用。
+     */
+    const children = childList
+        ? Array.from(childList.children)
+            .filter(child => child.tagName === "LI")
+            .map(parseApp)
+        : [];
+
+
+    return {
+        name: name || "未分类",
+        links: directLinks,
+        children
+    };
+
+}
+
+
+function escapeRegExp(value) {
+
+    return value.replace(
+        /[.*+?^${}()|[\]\\]/g,
+        "\\$&"
+    );
+
+}
+
+
+/* =========================================================
+   平台解析
+========================================================= */
+
+
+/*
+ * README 通常使用：
+ *
+ * <details>
+ * <summary>📱 Android</summary>
+ *
+ * ...
+ *
+ * </details>
+ *
+ * 这里把每个 details 视为一个平台。
+ */
+function parsePlatforms(root) {
+
+    const details = Array.from(
+        root.querySelectorAll("details")
+    );
+
+    /*
+     * 如果 README 没有 details，
+     * 使用普通 h2 作为平台。
+     */
+    if (details.length === 0) {
+        return parsePlatformsFromHeadings(root);
+    }
+
+    return details.map((detail, index) => {
+
+        const summary = detail.querySelector(":scope > summary");
+
+        const name = summary
+            ? summary.textContent.trim()
+            : `平台 ${index + 1}`;
+
+        const categories = [];
+
+        /*
+         * 只处理 details 第一层的 ul。
+         */
+        const lists = Array.from(
+            detail.children
+        ).filter(
+            child =>
+                child.tagName === "UL" ||
+                child.tagName === "OL"
+        );
+
+        lists.forEach(list => {
+
+            Array.from(list.children)
+                .filter(child => child.tagName === "LI")
+                .forEach(li => {
+
+                    const childList = getDirectList(li);
+
+                    if (childList) {
+
+                        categories.push(
+                            parseCategory(li)
+                        );
+
+                    } else {
+
+                        /*
+                         * 没有子列表：
+                         *
+                         * 直接作为“无分类应用”。
+                         */
+                        categories.push({
+                            name: "",
+                            links: [],
+                            children: [
+                                parseApp(li)
+                            ]
+                        });
+
+                    }
+
+                });
+
+        });
+
+
+        return {
+            name,
+            categories
+        };
+
+    });
+
+}
+
+
+/*
+ * 无 details 时的兼容解析。
+ */
+function parsePlatformsFromHeadings(root) {
+
+    const result = [];
+
+    const headings = Array.from(
+        root.querySelectorAll("h2")
+    );
+
+    headings.forEach((heading, index) => {
+
+        const name = heading.textContent.trim();
+
+        const categories = [];
+
+        let node = heading.nextElementSibling;
+
+        while (
+            node &&
+            !/^H2$/i.test(node.tagName)
+        ) {
+
+            if (
+                node.tagName === "UL" ||
+                node.tagName === "OL"
+            ) {
+
+                Array.from(node.children)
+                    .filter(
+                        child =>
+                            child.tagName === "LI"
+                    )
+                    .forEach(li => {
+
+                        if (getDirectList(li)) {
+
+                            categories.push(
+                                parseCategory(li)
+                            );
+
+                        } else {
+
+                            categories.push({
+                                name: "",
+                                links: [],
+                                children: [
+                                    parseApp(li)
+                                ]
+                            });
+
+                        }
+
+                    });
+
+            }
+
+            node = node.nextElementSibling;
+
+        }
+
+        result.push({
+            name,
+            categories
+        });
+
+    });
+
+    return result;
+
+}
+
+
+/* =========================================================
+   平台导航
+========================================================= */
+
+function renderPlatformNav(platforms) {
+
+    nav.innerHTML = "";
+
+    platforms.forEach((platform, index) => {
+
+        const id = `platform-${index}`;
+
+        const a = document.createElement("a");
+
+        a.className = "platform-link";
+
+        a.href = `#${id}`;
+
+        a.textContent = platform.name;
+
+        a.dataset.target = id;
+
+        nav.appendChild(a);
+
+    });
+
+}
+
+
+/* =========================================================
+   分类渲染
+========================================================= */
+
+function renderCategory(category) {
+
+    const section = document.createElement("section");
+
+    section.className = "category";
+
+
+    /*
+     * 有子应用：
+     *
+     * 正常分类卡片。
+     */
+    if (category.children.length > 0) {
+
+        const header = document.createElement("div");
+
+        header.className = "category-header";
+
+
+        const title = document.createElement("div");
+
+        title.className = "category-title";
+
+
+        const h3 = document.createElement("h3");
+
+        h3.textContent = category.name || "其他";
+
+        title.appendChild(h3);
+
+        header.appendChild(title);
+
+
+        /*
+         * 分类下载链接。
+         *
+         * 例如：
+         *
+         * [进程管理](百度网盘)
+         * [迅雷](迅雷)
+         * [夸克](夸克)
+         *
+         * 全部只来自当前 li。
+         */
+        if (category.links.length > 0) {
+
+            header.appendChild(
+                createDownloadLinks(
+                    category.links,
+                    "打开链接"
+                )
+            );
+
+        }
+
+
+        section.appendChild(header);
+
+
+        const grid = document.createElement("div");
+
+        grid.className = "app-grid";
+
+
+        category.children.forEach(app => {
+
+            grid.appendChild(
+                renderApp(app)
+            );
+
+        });
+
+
+        section.appendChild(grid);
+
+        return section;
+
+    }
+
+
+    /*
+     * 没有分类子项的应用。
+     */
+    if (
+        category.children.length === 1 &&
+        !category.name
+    ) {
+
+        const grid = document.createElement("div");
+
+        grid.className = "app-grid";
+
+        grid.appendChild(
+            renderApp(category.children[0])
+        );
+
+        return grid;
+
+    }
+
+
+    return section;
+
+}
+
+
+/* =========================================================
+   应用卡片
+========================================================= */
+
+function renderApp(app) {
+
+    const article = document.createElement("article");
+
+    article.className = "app-card";
+
+
+    const header = document.createElement("div");
+
+    header.className = "app-card-header";
+
+
+    const name = document.createElement("div");
+
+    name.className = "app-name";
+
+    name.textContent = app.name;
+
+
+    header.appendChild(name);
+
+    article.appendChild(header);
+
+
+    /*
+     * 描述。
+     */
+    if (app.description) {
+
+        const description = document.createElement("div");
+
+        description.className = "app-description";
+
+        description.textContent = app.description;
+
+        article.appendChild(description);
+
+    }
+
+
+    /*
+     * 下载链接。
+     */
+    if (app.links.length > 0) {
+
+        const links = document.createElement("div");
+
+        links.className = "app-links";
+
+        links.appendChild(
+            createDownloadLinks(
+                app.links,
+                "打开链接"
+            )
+        );
+
+        article.appendChild(links);
+
+    }
+
+
+    return article;
+
+}
+
+
+/* =========================================================
+   平台渲染
+========================================================= */
+
+function renderPlatforms(platforms) {
+
+    content.innerHTML = "";
+
+    platforms.forEach((platform, index) => {
+
+        const section = document.createElement("section");
+
+        section.className = "platform";
+
+        section.id = `platform-${index}`;
+
+
+        /*
+         * 平台标题。
+         */
+        const header = document.createElement("div");
+
+        header.className = "platform-header";
+
+
+        const title = document.createElement("div");
+
+        title.className = "platform-title";
+
+
+        const h2 = document.createElement("h2");
+
+        h2.textContent = platform.name;
+
+        title.appendChild(h2);
+
+
+        const toggle = document.createElement("button");
+
+        toggle.className = "platform-toggle";
+
+        toggle.textContent = "⌄";
+
+        toggle.title = "展开 / 折叠";
+
+        toggle.addEventListener("click", () => {
+
+            section.classList.toggle("collapsed");
+
+        });
+
+
+        title.appendChild(toggle);
+
+        header.appendChild(title);
+
+        section.appendChild(header);
+
+
+        /*
+         * 平台内容。
+         */
+        const body = document.createElement("div");
+
+        body.className = "platform-body";
+
+
+        platform.categories.forEach(category => {
+
+            body.appendChild(
+                renderCategory(category)
+            );
+
+        });
+
+
+        section.appendChild(body);
+
+        content.appendChild(section);
+
+    });
+
+}
+
+
+/* =========================================================
+   搜索
+========================================================= */
+
+function setupSearch() {
+
+    searchInput.addEventListener(
+        "input",
+        () => {
+
+            const keyword = searchInput.value
+                .trim()
+                .toLowerCase();
+
+            const platforms =
+                content.querySelectorAll(".platform");
+
+            let totalVisible = 0;
+
+
+            platforms.forEach(platform => {
+
+                const categories =
+                    platform.querySelectorAll(".category");
+
+                let platformVisible = 0;
+
+
+                categories.forEach(category => {
+
+                    const categoryText =
+                        category.textContent
+                            .toLowerCase();
+
+                    const apps =
+                        category.querySelectorAll(".app-card");
+
+
+                    /*
+                     * 没有 app-card 的特殊情况。
+                     */
+                    if (apps.length === 0) {
+
+                        const match =
+                            !keyword ||
+                            categoryText.includes(keyword);
+
+                        category.classList.toggle(
+                            "hidden-by-search",
+                            !match
+                        );
+
+                        if (match) {
+                            platformVisible++;
+                        }
+
+                        return;
+
+                    }
+
+
+                    let categoryVisible = 0;
+
+
+                    apps.forEach(app => {
+
+                        const text =
+                            app.textContent.toLowerCase();
+
+                        const match =
+                            !keyword ||
+                            text.includes(keyword) ||
+                            categoryText.includes(keyword);
+
+                        app.classList.toggle(
+                            "hidden-by-search",
+                            !match
+                        );
+
+                        if (match) {
+                            categoryVisible++;
+                        }
+
+                    });
+
+
+                    /*
+                     * 搜索分类名称时，
+                     * 显示整个分类。
+                     */
+                    const categoryNameMatch =
+                        keyword &&
+                        categoryText.includes(keyword);
+
+
+                    if (categoryNameMatch) {
+
+                        apps.forEach(app => {
+
+                            app.classList.remove(
+                                "hidden-by-search"
+                            );
+
+                        });
+
+                        categoryVisible =
+                            apps.length;
+
+                    }
+
+
+                    const visible =
+                        categoryVisible > 0;
+
+                    category.classList.toggle(
+                        "hidden-by-search",
+                        !visible
+                    );
+
+
+                    if (visible) {
+                        platformVisible++;
+                    }
+
+                });
+
+
+                /*
+                 * 平台名称本身也参与搜索。
+                 */
+                if (
+                    keyword &&
+                    platform.textContent
+                        .toLowerCase()
+                        .includes(keyword)
+                ) {
+
+                    categories.forEach(
+                        category =>
+                            category.classList.remove(
+                                "hidden-by-search"
+                            )
+                    );
+
+                    platformVisible = categories.length;
+
+                }
+
+
+                const visible =
+                    platformVisible > 0;
+
+                platform.classList.toggle(
+                    "hidden-by-search",
+                    !visible
+                );
+
+
+                if (visible) {
+                    totalVisible++;
+                }
+
+            });
+
+
+            noResults.classList.toggle(
+                "show",
+                totalVisible === 0
+            );
+
+        }
+    );
+
+}
+
+
+/* =========================================================
+   平台导航滚动状态
+========================================================= */
+
+function setupPlatformObserver() {
+
+    const links =
+        Array.from(
+            document.querySelectorAll(
+                ".platform-link"
+            )
+        );
+
+    const sections =
+        Array.from(
+            document.querySelectorAll(
+                ".platform"
+            )
+        );
+
+    if (!links.length || !sections.length) {
+        return;
+    }
+
+
+    const observer = new IntersectionObserver(
+        entries => {
+
+            entries.forEach(entry => {
+
+                if (!entry.isIntersecting) {
+                    return;
+                }
+
+                links.forEach(link => {
+
+                    link.classList.toggle(
+                        "active",
+                        link.dataset.target ===
+                        entry.target.id
+                    );
+
+                });
+
+            });
+
+        },
+        {
+            rootMargin: "-150px 0px -65% 0px"
+        }
+    );
+
+
+    sections.forEach(
+        section => observer.observe(section)
+    );
+
+}
+
+
+/* =========================================================
+   深色模式
+========================================================= */
+
+function getStoredTheme() {
+
+    return localStorage.getItem(
+        "applist-theme"
+    );
+
+}
+
+
+function applyTheme(theme) {
+
+    document.documentElement.classList.toggle(
+        "dark",
+        theme === "dark"
+    );
+
+
+    const button = $("#theme-toggle");
+
+    button.textContent =
+        theme === "dark"
+            ? "☀"
+            : "☾";
+
+}
+
+
+function setupTheme() {
+
+    const stored = getStoredTheme();
+
+    const initial =
+        stored ||
+        (
+            window.matchMedia &&
+            window.matchMedia(
+                "(prefers-color-scheme: dark)"
+            ).matches
+                ? "dark"
+                : "light"
+        );
+
+
+    applyTheme(initial);
+
+
+    $("#theme-toggle").addEventListener(
+        "click",
+        () => {
+
+            const next =
+                document.documentElement
+                    .classList.contains("dark")
+                    ? "light"
+                    : "dark";
+
+            localStorage.setItem(
+                "applist-theme",
+                next
+            );
+
+            applyTheme(next);
+
+        }
+    );
+
+}
+
+
+/* =========================================================
+   README 加载
+========================================================= */
+
+async function loadREADME() {
+
+    try {
+
+        const response = await fetch(
+            CONFIG.README_URL,
+            {
+                cache: "no-cache"
+            }
+        );
+
+
+        if (!response.ok) {
+
+            throw new Error(
+                `README.md 加载失败：HTTP ${response.status}`
+            );
+
+        }
+
+
+        const markdown =
+            await response.text();
+
+
+        /*
+         * Markdown → HTML
+         */
+        const html =
+            marked.parse(markdown);
+
+
+        /*
+         * 使用独立 DOM 解析，
+         * 不直接显示 GitHub 原始 Markdown。
+         */
+        const parser =
+            new DOMParser();
+
+        const documentFragment =
+            parser.parseFromString(
+                html,
+                "text/html"
+            );
+
+
+        /*
+         * 解析平台。
+         */
+        const platforms =
+            parsePlatforms(
+                documentFragment.body
+            );
+
+
+        if (!platforms.length) {
+
+            throw new Error(
+                "没有找到可识别的平台结构。"
+            );
+
+        }
+
+
+        /*
+         * 导航。
+         */
+        renderPlatformNav(platforms);
+
+
+        /*
+         * 内容。
+         */
+        renderPlatforms(platforms);
+
+
+        loading.style.display = "none";
+
+        content.style.display = "block";
+
+
+        /*
+         * 搜索。
+         */
+        setupSearch();
+
+
+        /*
+         * 导航高亮。
+         */
+        setupPlatformObserver();
+
+
+    } catch (error) {
+
+        console.error(error);
+
+        loading.style.display = "none";
+
+        loading.textContent =
+            "README.md 加载失败：" +
+            error.message;
+
+        loading.className = "error";
+
+    }
+
+}
+
+
+/* =========================================================
+   启动
+========================================================= */
+
+setupTheme();
+
+loadREADME();
+
+</script>
+
+</body>
+</html>
