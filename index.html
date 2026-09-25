@@ -202,116 +202,143 @@ function abs(url){
 function esc(s){
   return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;").replace(/'/g,"&#039;");
 }
-function directList(li){
-  return Array.from(li.children).find(x=>x.tagName==="UL"||x.tagName==="OL")||null;
-}
-function ownText(li){
-  const c=li.cloneNode(true);
-  Array.from(c.children).filter(x=>x.tagName==="UL"||x.tagName==="OL").forEach(x=>x.remove());
-  return c.textContent.replace(/\s+/g," ").trim();
-}
-function ownHTML(li){
-  const c=li.cloneNode(true);
-  Array.from(c.children).filter(x=>x.tagName==="UL"||x.tagName==="OL").forEach(x=>x.remove());
-  return c.innerHTML.trim();
-}
-function directLinks(li){
-  return Array.from(li.querySelectorAll(":scope > a")).map(a=>({
-    text:a.textContent.replace(/\s+/g," ").trim()||"打开链接",
+
+function extractDirectLinks(element){
+  const clone=element.cloneNode(true);
+  Array.from(clone.querySelectorAll("ul, ol")).forEach(x=>x.remove());
+  return Array.from(clone.querySelectorAll("a")).map(a=>({
+    text:a.textContent.replace(/\s+/g," ").trim()||"链接",
     url:abs(a.getAttribute("href")||"")
   })).filter(x=>x.url);
 }
-function splitName(text){
-  const m=text.match(/^(.+?)[：:]\s*(.*)$/);
-  return m?{name:m[1].trim(),desc:m[2].trim()}:{name:text.trim(),desc:""};
-}
-function parseApp(li){
-  const text=ownText(li), links=directLinks(li), split=splitName(text);
-  let name=split.name, desc=split.desc;
 
-  /* 有链接时：优先使用链接文字作为名称；但如果文字本身带“名称：描述”，仍保留描述。 */
-  if(links.length){
-    name=links[0].text||name;
-    if(split.desc) desc=split.desc;
+function parseLine(li){
+  const clone=li.cloneNode(true);
+  Array.from(clone.children).filter(x=>x.tagName==="UL"||x.tagName==="OL").forEach(x=>x.remove());
+  
+  const rawText=clone.textContent.replace(/\s+/g," ").trim();
+  const rawHTML=clone.innerHTML.trim();
+  const links=extractDirectLinks(li);
+
+  let name="", desc="";
+
+  const sepMatch=rawText.match(/^(.+?)(?:[:：]|\s+-\s+|\s*[(（])\s*(.+?)[)）]?$/);
+  
+  if(sepMatch){
+    name=sepMatch[1].trim();
+    desc=sepMatch[2].trim();
+  }else{
+    name=rawText;
   }
 
-  /* 对“名称 [渠道] [渠道]”这种写法，名称取第一个非链接文本。 */
-  if(!name) name="未命名";
+  const strongEl=clone.querySelector("strong, b");
+  if(strongEl&&strongEl.textContent.trim()){
+    const boldText=strongEl.textContent.trim();
+    if(rawText.startsWith(boldText)){
+      name=boldText;
+      desc=rawText.slice(boldText.length).replace(/^[:：\s-–—]+/, "").trim();
+    }
+  }
 
-  return {name,desc,links,html:ownHTML(li)};
+  if(links.length>0){
+    if(!name||name===rawText){
+      name=links[0].text;
+    }
+  }
+
+  return {
+    name:name||"未命名应用",
+    desc:desc,
+    links:links,
+    html:rawHTML
+  };
 }
-function parseCategory(li){
-  const text=ownText(li), links=directLinks(li), list=directList(li);
-  let name=links.length?links[0].text:text;
-  const children=list?Array.from(list.children).filter(x=>x.tagName==="LI").map(parseApp):[];
-  return {name:name.trim(),links,children};
-}
-function parsePlatforms(root){
-  const details=Array.from(root.querySelectorAll("details"));
 
-  if(details.length) return details.map((d,i)=>{
-    const summary=d.querySelector(":scope > summary");
-    const name=summary?summary.textContent.trim():`平台 ${i+1}`;
-    const categories=[], loose=[];
+function parseList(ul){
+  const categories=[], loose=[];
 
-    /*
-     * marked 对 <details> 内直接写的 Markdown 列表可能不会继续解析成 <ul>。
-     * 因此如果没有找到已经解析好的列表，就把 summary 以外的内容重新交给 marked。
-     */
-    let lists=Array.from(d.children).filter(x=>x.tagName==="UL"||x.tagName==="OL");
-
-    if(!lists.length){
-      const md=[];
-      d.childNodes.forEach(node=>{
-        if(node===summary)return;
-        if(node.nodeType===Node.TEXT_NODE) md.push(node.textContent);
-        else if(node.nodeType===Node.ELEMENT_NODE) md.push(node.outerHTML);
+  Array.from(ul.children).filter(x=>x.tagName==="LI").forEach(li=>{
+    const subList=Array.from(li.children).find(x=>x.tagName==="UL"||x.tagName==="OL");
+    
+    if(subList){
+      const categoryInfo=parseLine(li);
+      const subItems=parseList(subList);
+      
+      categories.push({
+        name:categoryInfo.name,
+        links:categoryInfo.links,
+        children:[...subItems.loose,...subItems.categories.flatMap(c=>c.children)]
       });
+    }else{
+      loose.push(parseLine(li));
+    }
+  });
+
+  return {categories,loose};
+}
+
+function parsePlatforms(root){
+  const platforms=[];
+
+  const detailsList=Array.from(root.querySelectorAll("details"));
+  if(detailsList.length>0){
+    detailsList.forEach((d,i)=>{
+      const summary=d.querySelector(":scope > summary");
+      const pName=summary?summary.textContent.trim():`平台 ${i+1}`;
+      
+      const mdContent=Array.from(d.childNodes)
+        .filter(n=>n!==summary)
+        .map(n=>n.nodeType===Node.TEXT_NODE?n.textContent:(n.outerHTML||""))
+        .join("\n");
 
       const temp=document.createElement("div");
-      temp.innerHTML=marked.parse(md.join("\n"));
-      lists=Array.from(temp.children).filter(x=>x.tagName==="UL"||x.tagName==="OL");
-    }
+      temp.innerHTML=marked.parse(mdContent);
 
-    lists.forEach(list=>{
-      Array.from(list.children).filter(x=>x.tagName==="LI").forEach(li=>{
-        const sub=directList(li);
-
-        if(sub){
-          const c=parseCategory(li);
-          if(c.name) categories.push(c);
-          else loose.push(...c.children);
-        }else{
-          loose.push(parseApp(li));
-        }
+      const p={name:pName,categories:[],loose:[]};
+      Array.from(temp.querySelectorAll(":scope > ul, :scope > ol")).forEach(ul=>{
+        const parsed=parseList(ul);
+        p.categories.push(...parsed.categories);
+        p.loose.push(...parsed.loose);
       });
+
+      if(p.categories.length||p.loose.length) platforms.push(p);
     });
+    if(platforms.length) return platforms;
+  }
 
-    return {name,categories,loose};
-  });
-
-  return parseFromH2(root);
-}
-function parseFromH2(root){
-  const out=[],hs=Array.from(root.querySelectorAll("h2"));
-  hs.forEach((h,i)=>{
-    const p={name:h.textContent.trim(),categories:[],loose:[]};
-    let n=h.nextElementSibling;
-    while(n&&(!hs[i+1]||n!==hs[i+1])){
-      if(n.tagName==="UL"||n.tagName==="OL"){
-        Array.from(n.children).filter(x=>x.tagName==="LI").forEach(li=>{
-          const sub=directList(li);
-          if(sub){
-            const c=parseCategory(li);
-            if(c.name)p.categories.push(c); else p.loose.push(...c.children);
-          }else p.loose.push(parseApp(li));
-        });
+  const headers=Array.from(root.querySelectorAll("h1, h2, h3, h4, h5, h6"));
+  if(headers.length>0){
+    headers.forEach(h=>{
+      const pName=h.textContent.trim();
+      const p={name:pName,categories:[],loose:[]};
+      
+      let next=h.nextElementSibling;
+      while(next&&!headers.includes(next)){
+        if(next.tagName==="UL"||next.tagName==="OL"){
+          const parsed=parseList(next);
+          p.categories.push(...parsed.categories);
+          p.loose.push(...parsed.loose);
+        }
+        next=next.nextElementSibling;
       }
-      n=n.nextElementSibling;
-    }
-    out.push(p);
+
+      if(p.categories.length||p.loose.length) platforms.push(p);
+    });
+    if(platforms.length) return platforms;
+  }
+
+  const fallbackPlatform={name:"全部应用与资源",categories:[],loose:[]};
+  Array.from(root.children).filter(x=>x.tagName==="UL"||x.tagName==="OL").forEach(ul=>{
+    const parsed=parseList(ul);
+    fallbackPlatform.categories.push(...parsed.categories);
+    fallbackPlatform.loose.push(...parsed.loose);
   });
-  return out;
+
+  if(fallbackPlatform.categories.length||fallbackPlatform.loose.length){
+    platforms.push(fallbackPlatform);
+  }
+
+  return platforms;
 }
 
 function tag(link){
@@ -321,7 +348,7 @@ function tag(link){
   return a;
 }
 function linksEl(links){
-  if(!links.length)return null;
+  if(!links||!links.length)return null;
   const box=document.createElement("div");box.className="links";
   links.forEach(x=>box.appendChild(tag(x)));
   return box;
@@ -336,7 +363,7 @@ function appEl(app){
   el.dataset.search=(app.name+" "+app.desc+" "+app.links.map(x=>x.text).join(" ")).toLowerCase();
   return el;
 }
-function categoryEl(c,index){
+function categoryEl(c){
   const section=document.createElement("section");section.className="category";
   const card=document.createElement("div");card.className="category-card";
   const head=document.createElement("div");head.className="category-head";
@@ -365,7 +392,7 @@ function render(platforms){
     head.append(title,btn);sec.appendChild(head);
 
     const body=document.createElement("div");body.className="platform-body";
-    p.categories.forEach((c,j)=>body.appendChild(categoryEl(c,j)));
+    p.categories.forEach(c=>body.appendChild(categoryEl(c)));
 
     if(p.loose.length){
       const grid=document.createElement("div");grid.className="loose-grid";
