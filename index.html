@@ -18,7 +18,7 @@
   --primary: #3b82f6;
   --primary-glow: rgba(59, 130, 246, 0.15);
   --primary-bg: #eff6ff;
-  --hover: #f1f5f9;
+  --hover: #f8fafc;
   --shadow: 0 10px 25px -5px rgba(15, 23, 42, 0.04), 0 8px 10px -6px rgba(15, 23, 42, 0.04);
   --radius: 14px;
 }
@@ -243,7 +243,7 @@ button, input { font: inherit; }
   transition: background .2s;
 }
 .category-head:hover { background: var(--hover); }
-.category-left { display: flex; flex-direction: column; gap: 4px; flex: 1; min-width: 0; }
+.category-left { display: flex; flex-direction: column; gap: 6px; flex: 1; min-width: 0; }
 .category-name { font-size: 15px; font-weight: 700; letter-spacing: -0.2px; }
 .category-right { display: flex; align-items: center; gap: 8px; flex-shrink: 0; }
 .category-meta { color: var(--muted); font-size: 12px; display: flex; align-items: center; gap: 4px; }
@@ -251,31 +251,55 @@ button, input { font: inherit; }
 .category.collapsed .category-arrow { transform: rotate(-90deg); }
 .category.collapsed .category-body { display: none; }
 
+/* 分类下的应用列表样式 */
 .category-body {
   border-top: 1px solid var(--line);
-  padding: 2px 18px 8px;
+  padding: 10px 18px 14px 28px; /* 缩进关键位置 */
 }
 
-/* App Entry Item */
-.app {
-  padding: 12px 0;
-  border-bottom: 1px solid var(--line);
+.sub-app-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
-.app:last-child { border-bottom: 0; }
-.app-title {
-  font-size: 14.5px;
-  font-weight: 600;
-  color: var(--text);
-  line-height: 1.4;
+
+.sub-app-item {
+  position: relative;
+  padding: 6px 0;
+  font-size: 13.5px;
+  line-height: 1.6;
 }
-.app-title a { color: var(--text); transition: color .15s; }
-.app-title a:hover { color: var(--primary); }
-.app-desc {
-  margin: 3px 0 0;
+
+/* 缩进前面的项目符号 */
+.sub-app-item::before {
+  content: "";
+  position: absolute;
+  left: -14px;
+  top: 15px;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  background-color: var(--muted);
+  opacity: 0.6;
+}
+
+/* 名称高亮样式 */
+.app-highlight-title {
+  font-weight: 700;
+  color: var(--primary);
+  margin-right: 4px;
+}
+
+.app-highlight-title a {
+  color: var(--primary);
+}
+
+.app-highlight-title a:hover {
+  text-decoration: underline;
+}
+
+.app-desc-text {
   color: var(--muted);
-  font-size: 13px;
-  word-break: break-word;
-  line-height: 1.5;
 }
 
 /* Download Badges */
@@ -283,7 +307,7 @@ button, input { font: inherit; }
   display: flex;
   flex-wrap: wrap;
   gap: 6px;
-  margin-top: 6px;
+  margin-top: 4px;
 }
 .download {
   display: inline-flex;
@@ -480,7 +504,7 @@ function getLinkInfo(link) {
   return { label: cleanName || "下载链接", icon: IMG_ICONS.link };
 }
 
-/* Markdown 解析逻辑重构 */
+/* Markdown 解析逻辑 */
 function parseLinksFromLine(line) {
   const links = [];
   const linkRegex = /\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g;
@@ -496,10 +520,8 @@ function parseAppItem(line) {
   let rawText = line.replace(/^\s*-\s*/, "").trim();
 
   if (links.length > 0) {
-    // 提取第一个链接文本或前面的纯文本作为标题
     let title = links[0].name.trim();
     
-    // 如果 [标题](链接) 之前有前缀文本，比如 "前缀 [网盘](链接)"
     const firstLinkIdx = rawText.indexOf('[');
     if (firstLinkIdx > 0) {
       title = rawText.substring(0, firstLinkIdx).replace(/[:：\s\-–—]+$/, "").trim();
@@ -513,14 +535,22 @@ function parseAppItem(line) {
       .replace(/^[:：\s\-–—]+/, "")
       .trim();
 
-    // 如果描述与标题完全重复，清空描述
     if (description === title) description = "";
 
     return { title, description, links };
   }
 
-  let title = rawText.replace(/^\[\vert{}\]$/g, "").trim();
-  return { title, description: "", links: [] };
+  let title = rawText;
+  let description = "";
+
+  // 匹配冒号拆分：例如 "酷安：基于 Tauri..."，把前面的酷安提取出来高亮
+  const colonMatch = rawText.match(/^([^：:]+)[:：]\s*(.*)$/);
+  if (colonMatch) {
+    title = colonMatch[1].trim();
+    description = colonMatch[2].trim();
+  }
+
+  return { title, description, links: [] };
 }
 
 function parseREADME(markdown) {
@@ -605,22 +635,27 @@ function makeDownloads(links) {
     </div>`;
 }
 
-function makeApp(item) {
-  const el = document.createElement("article");
-  el.className = "app";
+/* 渲染分类下的缩进子元素，高亮名称 */
+function makeSubAppItem(item) {
+  const li = document.createElement("li");
+  li.className = "sub-app-item";
 
   const mainLink = item.links?.[0];
+  const titleText = escapeHtml(item.title);
+  
   const titleHtml = mainLink
-    ? `<a href="${escapeHtml(mainLink.href)}" target="_blank" rel="noopener">${escapeHtml(item.title)}</a>`
-    : escapeHtml(item.title);
+    ? `<a href="${escapeHtml(mainLink.href)}" target="_blank" rel="noopener">${titleText}</a>`
+    : titleText;
 
-  el.innerHTML = `
-    <div class="app-title">${titleHtml}</div>
-    ${item.description ? `<div class="app-desc">${escapeHtml(item.description)}</div>` : ""}
+  li.innerHTML = `
+    <div>
+      <span class="app-highlight-title">${titleHtml}${item.description ? "：" : ""}</span>
+      ${item.description ? `<span class="app-desc-text">${escapeHtml(item.description)}</span>` : ""}
+    </div>
     ${makeDownloads(item.links)}
   `;
 
-  return el;
+  return li;
 }
 
 function makeCategory(category) {
@@ -646,12 +681,37 @@ function makeCategory(category) {
     </div>
   `;
 
-  category.apps.forEach(app => body.appendChild(makeApp(app)));
+  const ul = document.createElement("ul");
+  ul.className = "sub-app-list";
+  category.apps.forEach(app => ul.appendChild(makeSubAppItem(app)));
+  body.appendChild(ul);
 
   head.onclick = () => box.classList.toggle("collapsed");
 
   box.append(head, body);
   return box;
+}
+
+function makeTopLevelApp(item) {
+  const el = document.createElement("article");
+  el.className = "top-level-app";
+
+  const mainLink = item.links?.[0];
+  const titleText = escapeHtml(item.title);
+
+  const titleHtml = mainLink
+    ? `<a href="${escapeHtml(mainLink.href)}" target="_blank" rel="noopener">${titleText}</a>`
+    : titleText;
+
+  el.innerHTML = `
+    <div>
+      <span class="app-highlight-title" style="font-size: 15px;">${titleHtml}${item.description ? "：" : ""}</span>
+      ${item.description ? `<span class="app-desc-text">${escapeHtml(item.description)}</span>` : ""}
+    </div>
+    ${makeDownloads(item.links)}
+  `;
+
+  return el;
 }
 
 function render(platforms) {
@@ -698,9 +758,7 @@ function render(platforms) {
           content.appendChild(makeCategory(item));
         }
       } else if (item.type === "app") {
-        const el = makeApp(item.data);
-        el.classList.add("top-level-app");
-        content.appendChild(el);
+        content.appendChild(makeTopLevelApp(item.data));
       }
     });
 
@@ -722,7 +780,7 @@ searchInput.addEventListener("input", () => {
       platform.querySelectorAll(".category").forEach(category => {
         let categoryHasMatch = false;
         
-        category.querySelectorAll(".app").forEach(app => {
+        category.querySelectorAll(".sub-app-item").forEach(app => {
           const matched = app.textContent.toLowerCase().includes(keyword);
           app.style.display = matched ? "" : "none";
           if (matched) categoryHasMatch = true;
