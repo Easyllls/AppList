@@ -1185,6 +1185,7 @@
   - 红薯猪手
   - 小红书+
 - [微信](https://pan.baidu.com/s/19gJIzQ_eb321uYIJz3PrNQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzt9eZU47t0DRLz38Ioz211A1?pwd=zb22#) [夸克](https://pan.quark.cn/s/c3b8965b11f9?pwd=bk4r)
+  - 微信Agent：一款运行在微信内的个人 AI 助手模块。它可以接入 DeepSeek、OpenAI 和 OpenRouter 等 AI 服务，连接自定义 MCP 服务，并结合微信上下文完成自动回复、联系人整理、群聊分析、聊天记录查询、文件导出和消息发送等任务。
   - SystemedNotificationBlocker：系统级 微信/QQ 消息屏蔽模块, 可自定义屏蔽的内容, 如指定群聊的 @所有人 消息，通过 hook 系统框架com.android.server.notification.NotificationManagerService的 notificationManagerClass实现。Android 8.0+ 下载app-arm64Minsdk26-release.apk；Android 10+ 下载app-arm64Minsdk29-release.apk；Android 15+ 下载app-arm64Minsdk35-release.apk
   - WABTest：强制开启微信部分内测功能
   - 微信防撤回（8.0.69）：微信 8.0.69（versionCode 3022）的 LSPosed 防撤回模块，基于 libxposed Modern API 102。
