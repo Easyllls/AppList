@@ -32,6 +32,7 @@
 <details>
 <summary>📱 <strong>Android</strong></summary>
 
+- [无障碍管理器](https://pan.baidu.com/s/1LfI87CaZtIiif_nbkUk0Pg?pwd=6666)：本APP可以彻底取代系统设置里的无障碍设置页面。仅需要授权本APP写入安全设置即可使用。支持无障碍保活，不耗电不主动唤醒，且保活速度极快。
 - [Celestia（天际遨游）](https://pan.baidu.com/s/1WEZ8Yrt8Zrlnu4xb3ZQCQg?pwd=6666) [夸克](https://pan.quark.cn/s/f73c0942b68a?pwd=2phv)：一款开源实时三维宇宙模拟/天文馆软件，可以在 3D 环境中探索太阳系、恒星、星系、行星、卫星和航天器，并支持自由缩放、飞行、查看天体信息以及自定义天体数据。
 - [Rootless Store](https://pan.baidu.com/s/12Yr6bF3BsPtK_qhqwVwd6w?pwd=6666) [夸克](https://pan.quark.cn/s/297cb53f2d21?pwd=cNQn)：一个开源的、面向安卓生态的 Rootless 插件管理与运行平台
 - [LuCI Mobile](https://pan.baidu.com/s/1hvUH5QmH-FZaCqr9MDCePw?pwd=6666) [夸克](https://pan.quark.cn/s/d7d30fc6fa70?pwd=rXL3)：远程管理你的 OpenWrt 路由器。监控客户端、网络接口和运行状态
