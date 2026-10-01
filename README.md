@@ -148,6 +148,7 @@
   - LibChecker：查看并分析 App 使用的第三方库的应用。
   - Blocker：安卓应用组件管理
 - [Shizuku及其工具集](https://pan.baidu.com/s/11GpcRDfzVe0Wnu-qBN44hw?pwd=6666)
+  - Stellar：Shizuku 的深度定制版本，专为开发者提供更灵活、更强大的特权 API 框架。通过 ADB 无线调试或 Root 权限启动服务后，应用程序可以调用需要系统级权限的 API，而无需应用本身拥有 Root 权限。
   - Shizuku：无需解锁设备调用具有Root权限的系统API
   - Shizuku thedjchi：这是 Shizuku 的一个分支版本（Fork）
   - AppVaultX：由 Shizuku 驱动的高性能应用管理
