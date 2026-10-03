@@ -1476,6 +1476,7 @@
 - [文件比较与同步](https://pan.baidu.com/s/1bSznk5ArzN5YbxGKlWLJzA?pwd=6666)
   - Beyond Compare：数据比较与同步工具，可用于比较文件夹、文本文件、图片和表格，高效查看差异，并可靠地合并修改内容。以及在多设备之间同步内容
 - [Office助手](https://pan.baidu.com/s/1ulazm39WHmXw4WFn9G82bg?pwd=6666)
+  - LKY Office Tools：一键自动化 下载、安装、激活 Office 的利器
   - Office Installer+：一键安装、更新、激活、卸载 Office 全家桶
 - [刷机工具](https://pan.baidu.com/s/1pGxhyaSRR0jhXCanhJCNjA?pwd=6666)
   - 紫罗兰工具箱：面向Android开发的多功能刷机工具箱。支持小米、真我、一加、OPPO等机型线刷。
