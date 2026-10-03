@@ -32,6 +32,7 @@
 <details>
 <summary>📱 <strong>Android</strong></summary>
 
+- [BoxPlayer](https://pan.baidu.com/s/1_OJHW_Ohx7plOFMhk2nR_g?pwd=6666)：多网盘文件管理、媒体库、媒体服务器、音乐播放器和电子书阅读器
 - [无障碍管理器](https://pan.baidu.com/s/1LfI87CaZtIiif_nbkUk0Pg?pwd=6666)：本APP可以彻底取代系统设置里的无障碍设置页面。仅需要授权本APP写入安全设置即可使用。支持无障碍保活，不耗电不主动唤醒，且保活速度极快。
 - [Celestia（天际遨游）](https://pan.baidu.com/s/1WEZ8Yrt8Zrlnu4xb3ZQCQg?pwd=6666) [夸克](https://pan.quark.cn/s/f73c0942b68a?pwd=2phv)：一款开源实时三维宇宙模拟/天文馆软件，可以在 3D 环境中探索太阳系、恒星、星系、行星、卫星和航天器，并支持自由缩放、飞行、查看天体信息以及自定义天体数据。
 - [Rootless Store](https://pan.baidu.com/s/12Yr6bF3BsPtK_qhqwVwd6w?pwd=6666) [夸克](https://pan.quark.cn/s/297cb53f2d21?pwd=cNQn)：一个开源的、面向安卓生态的 Rootless 插件管理与运行平台
@@ -1427,6 +1428,7 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
+- [BoxPlayer](https://pan.baidu.com/s/1S0rW6V0yYXry2h5fFmUavA?pwd=6666)：多网盘文件管理、媒体库、媒体服务器、音乐播放器和电子书阅读器
 - [青简](https://pan.baidu.com/s/14jrCHfB1NAonHzMWnFPfaw?pwd=6666) [夸克](https://pan.quark.cn/s/d34311caa761?pwd=2mA9)：使用 Rust 开发的开源拼音输入法。整句输入，候选由本机小模型重排。打字时，候选词旁多一条你正在学的语言的译词，不打断，不弹题。
 - [酷安](https://pan.baidu.com/s/1MXqanggwlLWGsEGb1sWhwQ?pwd=6666) [夸克](https://pan.quark.cn/s/92fb1d0b3e83?pwd=fJFn)：基于 Tauri 2、Vue 3 和 Rust 的非官方酷安桌面客户端。
 - [知乎++](https://pan.baidu.com/s/1TxkFAWy2b7bg5aZ3t2GEjg?pwd=6666)：注重隐私和无广告的第三方开源知乎客户端，独创本地推荐算法，把内容推荐完全放在本地进行，为您提供和筛选高质量内容
