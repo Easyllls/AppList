@@ -1429,6 +1429,8 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
+- [桌面收纳工具](https://pan.baidu.com/s/1gN_OnuKkaMgsmhnRAzTAMg?pwd=6666)
+  - WitchDrawer：基于原生 WPF 构建的轻量级 Windows 桌面文件收纳工具。专为桌面美化和日常文件收纳设计：将常用文件拖入桌面小收纳盒，快速打开，让临时工作资料井然有序。
 - [NexBox](https://pan.baidu.com/s/1V95H4K_kcv8McAZHsFnv3g?pwd=6666)：专为现代玩家打造的游戏工具箱，集成了硬件监控、系统优化、游戏辅助等多种实用功能，帮助你获得更流畅的游戏体验。。 其核心功能有：硬件监控 系统优化 辅助准心 监控悬浮框 显示器滤镜 DLSS模型修改 第三方工具
 - [Mocreak](https://pan.baidu.com/s/1TBCoUIg9gqYgwE6Agq5NLA?pwd=6666)：一键自动化下载、安装、部署正版 Windows 和 Office 的办公增强工具。该工具完全免费、无广告、绿色、无毒、简约、高效、安全。
 - [BoxPlayer](https://pan.baidu.com/s/1S0rW6V0yYXry2h5fFmUavA?pwd=6666)：多网盘文件管理、媒体库、媒体服务器、音乐播放器和电子书阅读器
