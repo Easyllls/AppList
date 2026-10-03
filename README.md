@@ -1429,6 +1429,7 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
+- [NexBox](https://pan.baidu.com/s/1V95H4K_kcv8McAZHsFnv3g?pwd=6666)：专为现代玩家打造的游戏工具箱，集成了硬件监控、系统优化、游戏辅助等多种实用功能，帮助你获得更流畅的游戏体验。。 其核心功能有：硬件监控 系统优化 辅助准心 监控悬浮框 显示器滤镜 DLSS模型修改 第三方工具
 - [Mocreak](https://pan.baidu.com/s/1TBCoUIg9gqYgwE6Agq5NLA?pwd=6666)：一键自动化下载、安装、部署正版 Windows 和 Office 的办公增强工具。该工具完全免费、无广告、绿色、无毒、简约、高效、安全。
 - [BoxPlayer](https://pan.baidu.com/s/1S0rW6V0yYXry2h5fFmUavA?pwd=6666)：多网盘文件管理、媒体库、媒体服务器、音乐播放器和电子书阅读器
 - [青简](https://pan.baidu.com/s/14jrCHfB1NAonHzMWnFPfaw?pwd=6666) [夸克](https://pan.quark.cn/s/d34311caa761?pwd=2mA9)：使用 Rust 开发的开源拼音输入法。整句输入，候选由本机小模型重排。打字时，候选词旁多一条你正在学的语言的译词，不打断，不弹题。
