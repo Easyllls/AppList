@@ -1751,6 +1751,13 @@
 </details>
 
 <details>
+<summary>🚙 <strong>Car Head Unit Apps</strong></summary>
+
+- [DiPlay](https://pan.baidu.com/s/1rewHVect8IlBnX4TPvZyIg?pwd=6666)：适用于兼容 Android 车机（支持 Android 9 及以上）的独立 CarPlay 接收器。 支持有线和无线 CarPlay，目前处于公开预览阶段。本项目主要针对比亚迪汽车开发。虽然在其他品牌车型上可能也能运行，但官方不提供其他品牌的支持，也没有计划针对其他品牌的兼容性问题进行适配或修复。
+
+</details>
+
+<details>
 <summary>🌸 <strong>Harmony OS</strong></summary>
 
 - [视频播放器](https://pan.baidu.com/s/1DhWsskeWOYeBw6fLR6PcHg?pwd=6666)
