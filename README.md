@@ -594,7 +594,7 @@
 </details>
 
 <details>
-<summary>🔓 <strong>Root管理器</strong></summary>
+<summary>🔓 <strong>Root Manager</strong></summary>
 
 - [Magisk](https://pan.baidu.com/s/1q9nEYRGGC0klg_3FocqWlQ?pwd=6666) [夸克](https://pan.quark.cn/s/a8a7243fda8d?pwd=eust) [迅雷](https://pan.xunlei.com/s/VOzSI5J2kf5-8LF9MKbqKfyMA1?pwd=g6f7#)
   - WeaveMask：基于 Magisk 的增强分支，兼顾 Magisk Root 能力，采用 Miuix UI（Jetpack Compose） 重构和优化管理器界面，同时加入白名单 Root 管理、KernelSU 模块仓库、WebUI 主题等功能。
@@ -1334,7 +1334,7 @@
 </details>
 
 <details>
-<summary>🔒 <strong>免Root框架</strong></summary>
+<summary>🔒 <strong>Rootless Framework</strong></summary>
 
 - [免Root框架](https://pan.baidu.com/s/1xJaSIewQDCyRagTCJGwV9A?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzvc_45MvyUe9qNCju-8xydA1?pwd=7t2x#) [夸克](https://pan.quark.cn/s/762995ea0f95?pwd=8SWJ)：无需Root权限即可体验部分Xposed模块，以下是文件列表
   - HKP：兼容第三方过签工具的免 Root Hook 修补框架，主打更强的组合性、应用兼容性和修补稳定性。（1.0最高支持API 100，2.0支持最新API 但不支持100，两者可共存安装）
