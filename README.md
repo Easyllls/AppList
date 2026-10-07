@@ -1506,7 +1506,7 @@
   - 迅雷专业版：第三方修改版
   - AB Download Manager：能加速你下载速度的下载管理器，界面不错
   - BiliTools：哔哩哔哩工具箱，支持下载视频、番剧等等各类资源
-  - Motrix Next：功能齐全的多协议下载管理器
+  - Motrix Next（现已更名为 Rayburst）：一款基于 Aria2 Next + Tauri 打造的现代化开源跨平台下载管理器，支持 HTTP、BT、磁力、ED2K、HLS/DASH 等多种下载协议。 
   - Fluent M3U8：美观、艺术的 M3U8 下载器
   - Gopeed：一款支持多平台、多协议的高速下载工具
   - res-downloader：集网络资源嗅探 + 高速下载功能于一体的下载工具
