@@ -527,9 +527,10 @@
 - [远程桌面](https://pan.baidu.com/s/1YcE1aLxycnFzrs9RR4bHYA?pwd=6666)
   - RustDesk：开源的跨平台远程桌面应用
 - [听书](https://pan.baidu.com/s/10_U9fZHYIF2uIciM2xajsg?pwd=6666)
+  - Voice：专注于用户体验的极简本地有声书播放器，以可靠、简单为核心。
   - 我的听书：免费的聚合听书App
   - 小梨听书：有广告但资源不少
-  - 章鱼听书：界面不错，无广告，就是两天必须用夸克网盘获取激活码
+  - 摸鱼听书：界面不错，看广告解锁收听时长、激活码:购买或者每天去网盘转存
 - [电池工具](https://pan.baidu.com/s/1K7sr4CFh2-jFWTyRwH7kLw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-TQHf7-n9fvpSdL1ffwWIvA1?pwd=9ir3#) [夸克](https://pan.quark.cn/s/9fdc6a065222?pwd=DCiP)
   - 电量指示器专业版
   - Battery Monitor：查看电池状态，获取有意义的通知，并长期追踪电池使用情况。
@@ -878,6 +879,7 @@
   - EdgeX：Edge 浏览器增强，通过 UI 调整和功能改进来增强您的浏览体验。隐藏状态栏、移除地址栏底边距、长按更多按钮回顶部、长按新标签页按钮原地加载、设置新标签页 URL、支持外部下载
 - [Punch-hole Download Progress](https://pan.baidu.com/s/19p0KZ5jQ00hBdJ0A4EcT6g?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-0J9k2tS0g1irp-FUSzYTiA1?pwd=y73b#) [夸克](https://pan.quark.cn/s/5ba01c730316?pwd=fLfQ)：在摄像头开孔周围以动画圆环的形式显示下载进度。
 - [MIUI｜HyperOS](https://pan.baidu.com/s/15UPhTPhCzEF9RF3MnK2p9g?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOztDRg7u5R28ttLfjQLhh7GA1?pwd=a6rh#) [夸克](https://pan.quark.cn/s/32dd909f37ad?pwd=kFag)：以下模块仅适用于小米设备
+  - HyperMusicCover：HyperOS 4 音乐锁屏，播放音乐时把专辑封面变成锁屏壁纸，时钟收成小尺寸
   - 云备份助手：通过 Xposed 模块虚拟小米智能存储设备，将小米备份 App 的 DFS 存储流程重定向到自建 SMB 或 WebDAV 服务，实现备份与恢复数据的云端存储
   - 澎湃OS剪贴板补全：修复 HyperOS 3.0第三方输入法无法读取系统剪贴板历史内容的问题
   - HyperLyric：依托安卓实时通知和小米焦点通知，实现歌词上岛效果的软件，让澎湃3设备体验灵动岛歌词
