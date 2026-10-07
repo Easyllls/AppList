@@ -604,6 +604,7 @@
   - Canray：Magisk 的 实验性/前沿版本，优先加入新功能和修复，适合测试新特性。
   - Alpha：Magisk 的 增强分支，侧重 兼容性、Root 隐藏和 Zygisk 等高级功能。
 - [KernelSU](https://pan.baidu.com/s/1xhaWmtz4fNxiiFMKkIBtLg?pwd=6666) [夸克](https://pan.quark.cn/s/d8c8e72f6b82?pwd=ug1c) [迅雷](https://pan.xunlei.com/s/VOzSI1XiiGP3pHAXU-omc39MA1?pwd=rgqy#)：以下介绍由GPT生成
+  - YukiSU：一套面向 ARM64 GKI 2.0 设备的内核级 Root 方案，fork 自 SukiSU-Ultra。它能继续使用 KernelSU 的授权、App Profile、模块和 MetaModule 生态，同时换上了一套 C++ 用户空间、自己的管理器，以及 YukiZygisk、SuperKey 等扩展。
   - KowSU：基于 backslashxx/KernelSU 的分支，保留内核 Root 能力，重点强化 Material Design UI 与主题体验，同时保留 KernelSU 的内核 Root 与模块管理能力。
   - backslashxx/KernelSU：以 Manual Hook 为核心的 KernelSU 分支
   - RKSU（rsuntk/KernelSU）：以兼容性为核心的 KernelSU Fork，重点恢复 Non-GKI、GKI 1.0 和 Magic Mount 等传统能力，让更多旧内核和旧设备继续使用 KernelSU。 
