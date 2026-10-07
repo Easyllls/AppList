@@ -1406,6 +1406,7 @@
 - [视频播放器](https://pan.baidu.com/s/1b3qjrq0OWnYNHZhOghBGKA?pwd=6666)
   - Ghosten Player：支持播放网盘与本地文件并自动生成海报墙的视频播放
 - [TVbox](https://pan.baidu.com/s/1_7_gD39SXqXpyJTD4LoRzg?pwd=6666) [夸克](https://pan.quark.cn/s/0edfe68d4fbc?pwd=LyzT) [迅雷](https://pan.xunlei.com/s/VOzAdNjUephyxok0av3iuqVpA1?pwd=zdez#)：tvbox通常需要自备订阅，否则就是个空壳
+  - TVBox：一个面向 Android TV / 电视盒子的影视播放应用，使用 Kotlin、Jetpack Compose 和 Media3 ExoPlayer 构建。应用重点适配遥控器操作，支持影视分类、搜索、详情、m3u8 播放、观看历史、电视直播和 OTA 更新。
   - WebHomeTV：是基于 FongMi / CatVod 生态二次开发的 Android 影音应用,保留原有点播、直播、Spider、解析、投屏、本地 HTTP 服务等能力,并重点增强了 WebHome 自定义首页、App Native SDK、管理页面、远程托管、WebHome 扩展、登录态学习/同步、网盘链接检测、站点健康排序、观影记录同步 和 Nostr/TMDB 推荐首页。
   - 默影视：基于WebHomeTV二次开发，调整了部分交互方式，支持Python和JavaScript源的TMDB海报。
   - NewBox
