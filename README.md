@@ -982,6 +982,7 @@
   - 启用截图：解除Android设备的某些应用截屏限制
   - HideScreen：在截图录屏中隐藏屏幕内容为透明，即跳过内容合成
 - [自动化工具](https://pan.baidu.com/s/1UBwSZvVHnz7YER4xOu0gtw?pwd=6666)
+  - Xposed Edge Pro：Patched for A16-Xposed Edge Pro Android 16 兼容性修复 部分功能增强
   - Xposed Edge Pro：强大的安卓全局手势、按键映射与自动化控制模块（第三方修改版，支持Android16+）
   - Xposed Edge Pro：功能强大的按键与手势映射、各种自动化任务
   - ShortX：各种自动任务
