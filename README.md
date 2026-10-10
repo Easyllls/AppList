@@ -626,7 +626,7 @@
 
 实际上，大部分模块已兼容 KernelSU、APatch
 
-
+- [Audit Detect Pass](https://pan.baidu.com/s/1xFspTggl4TkWlXArfLzEPw?pwd=6666)：通过针对SELinux拒绝日志中u:r:su:s0和u:r:magisk:s0上下文的检测
 - [Oh My Keymint](https://pan.baidu.com/s/1oj98ekUgDHI9Z2elLvilTw?pwd=6666)：完整的 Keystore 实现，完整实现了 AOSP（Android 开源项目）的 AIDL 接口，并参考了 AOSP 官方实现。
 - [Specter](https://pan.baidu.com/s/1MUPla9IY5387yF0w_pJdxQ?pwd=6666)：面向 Android 的一体化 Play Integrity 完整性验证与 Root 隐藏方案，专注于提升设备完整性、管理 TEESimulator 并处理环境检测问题。项目由 Yurikey 原有方案重写而来，强调简洁、专注与轻量化。
 - [Tricky Addon Enhanced](https://pan.baidu.com/s/1whG7Lhc8BOQQV_IkHOrOKw?pwd=6666)：Tricky Addon 的增强分支，使用 Rust 编写的原生守护进程，可在后台静默管理 TrickyStore 和 TEESimulator
