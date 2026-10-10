@@ -626,6 +626,7 @@
 
 实际上，大部分模块已兼容 KernelSU、APatch
 
+- [AlwaysStrong](https://pan.baidu.com/s/1okYsypKJnvtAqSZWkr9dpQ?pwd=6666)：一键刷入即可获得 STRONG 级别的 Play Integrity 完整性检测方案，兼容 Magisk / KernelSU / APatch。该模块将 TEESimulator-RS 和 PlayIntegrityFork 整合为一个模块，无需再手动叠加安装或配置这两个模块。
 - [HMA UID Fake](https://pan.baidu.com/s/1zhChAsL-wDZo4jVb9AHegQ?pwd=6666)：HMA/HMA-OSS 的内核层补充模块，用来弥补应用隐藏后，其他应用仍可能通过 UID 优先级接口探测隐藏目标的问题，而不是修改应用本身的 UID。模块读取 HMA 或 HMA-OSS 的配置，并依据其隐藏规则同步策略。
 - [Audit Detect Pass](https://pan.baidu.com/s/1xFspTggl4TkWlXArfLzEPw?pwd=6666)：通过针对SELinux拒绝日志中u:r:su:s0和u:r:magisk:s0上下文的检测
 - [Oh My Keymint](https://pan.baidu.com/s/1oj98ekUgDHI9Z2elLvilTw?pwd=6666)：完整的 Keystore 实现，完整实现了 AOSP（Android 开源项目）的 AIDL 接口，并参考了 AOSP 官方实现。
