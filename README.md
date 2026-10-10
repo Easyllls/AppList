@@ -626,6 +626,7 @@
 
 实际上，大部分模块已兼容 KernelSU、APatch
 
+- [Specter](https://pan.baidu.com/s/1MUPla9IY5387yF0w_pJdxQ?pwd=6666)：面向 Android 的一体化 Play Integrity 完整性验证与 Root 隐藏方案，专注于提升设备完整性、管理 TEESimulator 并处理环境检测问题。项目由 Yurikey 原有方案重写而来，强调简洁、专注与轻量化。
 - [Tricky Addon Enhanced](https://pan.baidu.com/s/1whG7Lhc8BOQQV_IkHOrOKw?pwd=6666)：Tricky Addon 的增强分支，使用 Rust 编写的原生守护进程，可在后台静默管理 TrickyStore 和 TEESimulator
 - [FuseHide](https://pan.baidu.com/s/1Sm_vxdPoCzaZVoRLmDzCqQ?pwd=6666) [夸克](https://pan.quark.cn/s/a6e58ec6be42?pwd=MbUy)：通过 Hook Android 的 MediaProvider/FUSE 文件系统层，实现对指定应用隐藏存储目录和文件
 - [Device Faker](https://pan.baidu.com/s/1XhrxrpmL-pl8YBtUCDGQpg?pwd=6666) [夸克](https://pan.quark.cn/s/f5e6c074468b?pwd=LN4H)：基于 Zygisk 的机型伪装模块，可以为不同的应用配置不同的设备型号。
