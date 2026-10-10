@@ -626,6 +626,7 @@
 
 实际上，大部分模块已兼容 KernelSU、APatch
 
+- [HMA UID Fake](https://pan.baidu.com/s/1zhChAsL-wDZo4jVb9AHegQ?pwd=6666)：HMA/HMA-OSS 的内核层补充模块，用来弥补应用隐藏后，其他应用仍可能通过 UID 优先级接口探测隐藏目标的问题，而不是修改应用本身的 UID。模块读取 HMA 或 HMA-OSS 的配置，并依据其隐藏规则同步策略。
 - [Audit Detect Pass](https://pan.baidu.com/s/1xFspTggl4TkWlXArfLzEPw?pwd=6666)：通过针对SELinux拒绝日志中u:r:su:s0和u:r:magisk:s0上下文的检测
 - [Oh My Keymint](https://pan.baidu.com/s/1oj98ekUgDHI9Z2elLvilTw?pwd=6666)：完整的 Keystore 实现，完整实现了 AOSP（Android 开源项目）的 AIDL 接口，并参考了 AOSP 官方实现。
 - [Specter](https://pan.baidu.com/s/1MUPla9IY5387yF0w_pJdxQ?pwd=6666)：面向 Android 的一体化 Play Integrity 完整性验证与 Root 隐藏方案，专注于提升设备完整性、管理 TEESimulator 并处理环境检测问题。项目由 Yurikey 原有方案重写而来，强调简洁、专注与轻量化。
