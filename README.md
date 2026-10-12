@@ -668,11 +668,11 @@
   - YAKT
 - [Zygisk](https://pan.baidu.com/s/1JbcDVYAe3Ot-9ZtFzvkyYA?pwd=6666) [夸克](https://pan.quark.cn/s/287ece0f48ed?pwd=Djbq) [迅雷](https://pan.xunlei.com/s/VOyxEgDSyJShggD7-pvKLz96A1?pwd=qtdy#)：第三方 Zygisk 实现，可替代Magisk自身的Zygisk和让KernelSU、APatch加载Zygisk模块
   - YukiZygisk：一种全新的内核级 Zygisk 实现，旨在探索更加高效、简洁且灵活的注入方式（不支持Magisk）
-  - OnyxZygisk：开箱即用的 Zygisk 运行时，全 Root 方案通用
-  - NyaZygisk：通过 ptrace 进行 Zygote 注入
-  - Zygisk Next
-  - ReZygisk
-  - NeoZygisk
+  - OnyxZygisk：基于 ptrace 的 Zygisk 实现，内置 WebUI，支持 FN 模块热插拔，并提供高级 DenyList（拒绝列表）功能。无需内核模块。
+  - NyaZygisk：基于"ptrace"实现的 Zygote 与进程注入框架，同时支持 Magisk Zygisk API 和 Zygisk Next（ZN）API，兼容 APatch、KernelSU 和 Magisk。基于NeoZygisk分支开发，在原有基础上扩展了双引擎模块加载机制和 Zygisk Next API 兼容性。
+  - Zygisk Next：独立的 Zygisk 运行时实现，为 KernelSU 等 Root 方案提供 Zygisk 模块兼容能力，也可替代 Magisk 内置 Zygisk，并扩展面向 init 进程的注入 API 和 HyperOS Rust Runtime 原生回调。 
+  - ReZygisk：基于 Zygisk Next 分支并使用 C 语言重写的独立 Zygisk 实现，兼容 KernelSU、APatch 和 Magisk，主打轻量化、高执行效率，并通过自定义链接器规避基于系统链接器的检测。
+  - NeoZygisk：基于 `ptrace` 实现的 Zygote 注入模块，为 APatch 和 KernelSU 提供与 Magisk 内置 Zygisk 完全兼容的 API，主打精简高效、卸载模块后清理注入痕迹，并通过高级 DenyList 精细控制 Root 与模块的可见性，实现隐藏能力。
 - [Universal GMS Doze](https://pan.baidu.com/s/1UWrPD7m2K1n3CkY6vFNcvA?pwd=6666)：让GMS不那么耗电
 - [Play Integrity Fix](https://pan.baidu.com/s/1XYRT5S6pg5d3UXMDFf_KwA?pwd=6666)：修复 Play Integrity 和 SafetyNet 认证
 - [Play Integrity Fix INJECT](https://pan.baidu.com/s/1Jof28xubN6VK9yTxaxLFJg?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-jCi6sqq0yhI3IxjHd36oDA1?pwd=eyr7#) [夸克](https://pan.quark.cn/s/1e6206791cbe?pwd=QgUi)：利用Zygisk以注入的方式实现修复Play认证
