@@ -1182,6 +1182,7 @@
   - 钉钉红包
   - dingPass
 - [皮皮虾](https://pan.baidu.com/s/1bJA-o9tHVNj6k_tlzRfpoA?pwd=6666)
+  - 皮友助手：皮皮虾增强模块
   - 皮皮虾助手
   - 皮皮虾伴侣
   - 皮皮虾Hook
