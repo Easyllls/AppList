@@ -838,7 +838,7 @@
 
 该分类仅收录已明确声明不支持Magisk，或Magisk不需要的模块
 
-- [SUSFS LKM Loader](https://pan.baidu.com/s/107ANXSpCbNuSxzOIwV3Www?pwd=6666)：独立的 KernelSU 兼容模块 ZIP，用于封装上游发布包 `inforcqb/susfs4ksu-lkm`。（susfs4ksu-lkm：SUSFS 的可加载内核模块（LKM）移植版：让 susfs 可以在不用重编译内核的情况下运行）
+- [SUSFS LKM Loader](https://pan.baidu.com/s/107ANXSpCbNuSxzOIwV3Www?pwd=6666)：适用于 KernelSU 的 inforcqb/susfs4ksu-lkm 加载模块，自动匹配指定 KMI 版本并在启动时加载内核模块，仅负责加载，不管理规则。支持范围受内核版本、架构及厂商 ABI 限制。（inforcqb/susfs4ksu-lkm：SUSFS 的可加载内核模块（LKM）移植版：让 susfs 可以在不用重编译内核的情况下运行）
 - [元模块（Metamodule）](https://pan.baidu.com/s/10AM8hknM2Lo2iJ1TScserw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzpRbnpUmD3DOYTibMol580A1?pwd=dyaj#) [夸克](https://pan.quark.cn/s/365046816db1?pwd=Uiu6)：用于给 KernelSU 提供 systemless 挂载能力
   - NoMount：面向 Android 内核的 VFS（虚拟文件系统）路径重定向框架。与依赖修改挂载表、导致 "/proc/mounts" 出现额外挂载记录的传统挂载方案（如 Magic Mount 或 OverlayFS）不同，NoMount 完全在 RAM 中运行。它不会执行真正的挂载操作，而是动态拦截路径解析和目录遍历，从而以完全透明的方式向 Android 系统和用户空间应用注入文件，且不会产生任何挂载记录。
   - mountify：基于 OverlayFS 的全局挂载模块
