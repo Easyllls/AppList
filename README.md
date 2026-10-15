@@ -609,7 +609,7 @@
   - backslashxx/KernelSU：以 Manual Hook 为核心的 KernelSU 分支
   - RKSU（rsuntk/KernelSU）：以兼容性为核心的 KernelSU Fork，重点恢复 Non-GKI、GKI 1.0 和 Magic Mount 等传统能力，让更多旧内核和旧设备继续使用 KernelSU。 
   - SukiSU Ultra：功能增强型 KernelSU 分支，主打 KPM、SUSFS、非 GKI/老内核兼容。 
-  - ReSukiSU（BakaSU）：基于 SukiSU Ultra 的稳定性增强分支，主打 Metamodule、多管理器支持和兼容性。 
+  - ReSukiSU：基于 SukiSU Ultra 的稳定性增强分支，主打 Metamodule、多管理器支持和兼容性。 （新版本已更名为 BakaSU）
   - KernelSU Next：KernelSU 的增强分支，主打 更广泛的内核兼容性和更灵活的模块挂载方案。 
   - KernelSU：官方 KernelSU，主打 内核级 Root、稳定性和成熟的模块生态。 
   - Wild KSU：偏向 Root 隐藏、SUSFS 集成和多设备/老内核兼容 的 KernelSU 分支。 
