@@ -1452,6 +1452,7 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
+- [TVBox Desktop](https://pan.baidu.com/s/1fbL4Z4P20VuLInb2RxwoMw?pwd=6666)：纯白极简的 Windows 影视聚合客户端。吃安卓 TVBox 的配置订阅格式，用桌面端更好用的交互方式呈现。
 - [桌面收纳工具](https://pan.baidu.com/s/1gN_OnuKkaMgsmhnRAzTAMg?pwd=6666)
   - WitchDrawer：基于原生 WPF 构建的轻量级 Windows 桌面文件收纳工具。专为桌面美化和日常文件收纳设计：将常用文件拖入桌面小收纳盒，快速打开，让临时工作资料井然有序。
 - [NexBox](https://pan.baidu.com/s/1V95H4K_kcv8McAZHsFnv3g?pwd=6666)：专为现代玩家打造的游戏工具箱，集成了硬件监控、系统优化、游戏辅助等多种实用功能，帮助你获得更流畅的游戏体验。。 其核心功能有：硬件监控 系统优化 辅助准心 监控悬浮框 显示器滤镜 DLSS模型修改 第三方工具
