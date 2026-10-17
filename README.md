@@ -79,7 +79,7 @@
   - Clipboard
 - [视频播放器](https://pan.baidu.com/s/1HVohGvJoB88U60hQju1JXw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzAfkfenHxtG0IxS7bqVXKGA1?pwd=s3yw#) [夸克](https://pan.quark.cn/s/a0a20e3f695a?pwd=vrBR)
   - UZN：自定义规则视频播放器
-  - Animeko 支持云同步观看记录 (Bangumi)、多视频数据源、缓存、弹幕、以及更多功能，提供尽可能简单且舒适的追番体验
+  - Animeko：支持云同步观看记录 (Bangumi)、多视频数据源、缓存、弹幕、以及更多功能，提供尽可能简单且舒适的追番体验
   - NekoVideo：基于 Kotlin 和 Jetpack Compose 开发的开源安卓本地视频播放器
   - 爱看：面向 Android 的轻量影视聚合浏览工具， 以原生界面、轻巧体积和流畅响应为核心，汇集电影、电视剧、热门榜单与多线路资源， 让查找、切换和播放都更直接。
   - 资源猫-自定义规则视频播放器
@@ -1531,7 +1531,8 @@
 - [HFS](https://pan.baidu.com/s/10R8T8JQ5dTea2vlj5rbsFQ?pwd=6666)：一个 Web 文件服务器 通过虚拟文件系统，可以共享文件夹、单个文件
 - [Openlist](https://pan.baidu.com/s/1y7JZM4sQPSoszNM7QQsKNg?pwd=6666)：Openlist桌面客户端
 - [视频播放器](https://pan.baidu.com/s/14F6BqVXV-Pwg9HZWbgkFNQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-ZuASzn6FIyfllrJ81OGVGA1?pwd=8rev#) [夸克](https://pan.quark.cn/s/40fd341508c7?pwd=8Nuc)
-  - Animeko 支持云同步观看记录 (Bangumi)、多视频数据源、缓存、弹幕、以及更多功能，提供尽可能简单且舒适的追番体验
+  - UZN：自定义规则视频播放器
+  - Animeko：支持云同步观看记录 (Bangumi)、多视频数据源、缓存、弹幕、以及更多功能，提供尽可能简单且舒适的追番体验
   - LLPlayer：专注于字幕功能的视频播放器，提供双字幕显示、AI 字幕生成、实时翻译、单词查询等语言学习相关功能，普通播放器中通常没有这些功能。
   - zyfun：原zyplayer，网络资源播放器，需要自备订阅
   - PotPlayer：Windows平台最优秀的影音全能格式播放器
