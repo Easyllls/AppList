@@ -78,6 +78,7 @@
   - 全局复制
   - Clipboard
 - [视频播放器](https://pan.baidu.com/s/1HVohGvJoB88U60hQju1JXw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzAfkfenHxtG0IxS7bqVXKGA1?pwd=s3yw#) [夸克](https://pan.quark.cn/s/a0a20e3f695a?pwd=vrBR)
+  - UZN：自定义规则视频播放器
   - Animeko 支持云同步观看记录 (Bangumi)、多视频数据源、缓存、弹幕、以及更多功能，提供尽可能简单且舒适的追番体验
   - NekoVideo：基于 Kotlin 和 Jetpack Compose 开发的开源安卓本地视频播放器
   - 爱看：面向 Android 的轻量影视聚合浏览工具， 以原生界面、轻巧体积和流畅响应为核心，汇集电影、电视剧、热门榜单与多线路资源， 让查找、切换和播放都更直接。
