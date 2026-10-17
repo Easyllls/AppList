@@ -558,6 +558,7 @@
   - 百度网盘三星定制版
   - 小白云盘：强大的云盘工具（目前支持阿里云盘）安卓TV、手机、平板、投影仪及PC
 - [TVBOX](https://pan.baidu.com/s/1OR1TuA7E2nGQMLm1N5jVfg?pwd=6666) [夸克](https://pan.quark.cn/s/4c4901f33cc4?pwd=kgpT) [迅雷](https://pan.xunlei.com/s/VOzAdI7ldZT7pZLoW8jqaSMfA1?pwd=8zc5#)
+  - AVBox（Audio Video Box）：AVBox 是一款采用 Jetpack Compose 现代化重构界面的 TVBox 开源影音播放器，支持自定义影视源聚合与播放，注重本地数据存储，但不内置影视资源。
   - WebHomeTV：是基于 FongMi / CatVod 生态二次开发的 Android 影音应用,保留原有点播、直播、Spider、解析、投屏、本地 HTTP 服务等能力,并重点增强了 WebHome 自定义首页、App Native SDK、管理页面、远程托管、WebHome 扩展、登录态学习/同步、网盘链接检测、站点健康排序、观影记录同步 和 Nostr/TMDB 推荐首页。
   - 默影视：基于WebHomeTV二次开发，调整了部分交互方式，支持Python和JavaScript源的TMDB海报。
   - NewBox
