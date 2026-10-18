@@ -1248,7 +1248,7 @@
   - VAvatar
   - wxrecordread
   - WExpt
-  - WeKit：已停更，仅留存
+  - WeKit：已停更，仅留存（moe.ouom.wekit）
   - 去他妈的微信信息流
   - 你才长按复制访问
   - X（微X3.0）
