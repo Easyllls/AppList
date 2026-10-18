@@ -882,7 +882,7 @@
 - [飞书助手](https://pan.baidu.com/s/14EE4Vi1VigbkBT_9Dm3jbA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzvOIRG2Il5b6HbWXOirIHnA1?pwd=wska#) [夸克](https://pan.quark.cn/s/53ab55940a0c?pwd=SWX1)
   - FeishuKit（原 fuck lark）：飞书增强 (防撤回 + 离职统计 + 资料归档（设置页内注入开关面板，各功能独立开关。支持国内版 国际版）
 - [ADB X](https://pan.baidu.com/s/1AQLJVBPcK4HOVZ8BFJKG0Q?pwd=6666)：基于 Xposed/LSPosed 的 Android 无线 ADB 增强模块，可固定无线调试端口、获取配对码、管理可信 WiFi，并实现连接指定 WiFi 自动开启/关闭无线调试。
-- [MiPushFramework](https://pan.baidu.com/s/1R69evCVpfmYEcesAtcorGg?pwd=6666)：在非 MIUI 系统上使用接近 MIUI 的小米系统级推送
+- [MiPushFramework（MiPush 管理器）](https://pan.baidu.com/s/1R69evCVpfmYEcesAtcorGg?pwd=6666)：在非 MIUI 系统上使用接近 MIUI 的小米系统级推送
 - [FuseHide](https://pan.baidu.com/s/130nXZGn1yXVxzzeotETopA?pwd=6666) [夸克](https://pan.quark.cn/s/7b96ba259198?pwd=sb8M) [迅雷](https://pan.xunlei.com/s/VOzSKaDZ9vdBRZZidx9K_lbxA1?pwd=i3ia#)：通过 Hook Android 的 MediaProvider/FUSE 文件系统层，实现对指定应用隐藏存储目录和文件
 - [PureDuPan](https://pan.baidu.com/s/1WAyvmRlVjpDquOJW1gxo9Q?pwd=6666) [夸克](https://pan.quark.cn/s/739002c87a55?pwd=nt3j)：百度网盘净化模块，用于屏蔽广告弹窗、简化界面、定制部分页面元素，并提供谨慎可选的性能优化项。
 - [WIfikeyXposed（无能的钥匙）](https://pan.baidu.com/s/1jWUclHxplANnZ0DIBzyTgQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-jGtL6I3K2Mo1C6W2vDVtcA1?pwd=ktcx#) [夸克](https://pan.quark.cn/s/f08efdab22a7?pwd=NFUM)：WiFi万能钥匙的 Xposed 模块，提供本地 SVIP 永久解锁、全模块去广告、底栏/工具栏精简等功能
