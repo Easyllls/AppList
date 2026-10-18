@@ -873,6 +873,7 @@
 <details>
 <summary>🛠 <strong>Xposed Module</strong></summary>
 
+- [Nuke](https://pan.baidu.com/s/1kdFk6KGZFDLXfZaduzw6jA?pwd=6666)：一个支持 QQ、微信和抖音的 Android Xposed 模块，提供宿主内功能扩展、界面定制与使用体验优化。支持 Vector、LSPosed 等 Root 框架，以及 NPatch、FPA、LSPatch 等免 Root 注入框架。
 - [酷安净化](https://pan.baidu.com/s/1lZtkj26s7uPqbvkJq6CHxQ?pwd=6666) [夸克](https://pan.quark.cn/s/8970c1766a56?pwd=LQEv)：基于 libxposed Modern API 102 的酷安去广告模块，在酷安原生设置中提供独立的净化开关。
 - [MapAdKiller](https://pan.baidu.com/s/1WxybqYbtGHE6VYt5THwlnQ?pwd=6666) [夸克](https://pan.quark.cn/s/36ce71dc45c2?pwd=GNLH)：针对高德 / 百度 / 腾讯地图 App 的开屏广告、首页运营横幅、信息流广告卡、第三方广告 SDK 做确定性拦截
 - [K（红果短剧）](https://pan.baidu.com/s/155nSeFt9sIZuyrrR-GQcJA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-OL7MUCatTHv8QfM1QbDwiA1?pwd=idtr#) [夸克](https://pan.quark.cn/s/e9f5ca648716?pwd=bjLv)：红果短剧客户端界面精简与体验增强模块。支持通过模块内置设置面板自由自定义多种沉浸式观影体验、手势拦截、自动最高画质及体验优化功能。
