@@ -66,7 +66,7 @@
   - Qart
 - [日历与倒数日](https://pan.baidu.com/s/1pw-Mmdmp2XjCpRXuiOyprQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-j6jAYBx8Yd7t9kt1hNUSzA1?pwd=48e4#) [夸克](https://pan.quark.cn/s/c90fb5522c41?pwd=8dfB)
   - Reminder：一款简洁的安卓纪念日/倒数日管理应用，支持倒数与正数两种模式，帮助你轻松掌握重要日期。应用完全使用 Jetpack Compose 构建。
-  - KashCal：一款以隐私为核心的 Android 日历应用，支持 iCloud 与 CalDAV 原生同步，整合本地、订阅和联系人日历，并提供离线使用与无追踪的安全体验
+  - KashCal（中文名：开序历）：一款以隐私为核心的 Android 日历应用，支持 iCloud 与 CalDAV 原生同步，整合本地、订阅和联系人日历，并提供离线使用与无追踪的安全体验
 - [Su Fei](https://pan.baidu.com/s/1CQdfxzqnuNVHE1hYCqmEgg?pwd=6666)：基于 Material 3 设计规范的极简中国传统诗词应用。它不只是一个工具，更是一个宁静的数字阅读空间
 - [TTS（语音合成）](https://pan.baidu.com/s/1qII2fC1pMc0Q3sAiNCoC1Q?pwd=6666)
   - Supertonic TTS：一款面向 Android 的高性能本地离线文本转语音（TTS）系统。它采用 Supertonic ONNX 模型，能够完全在设备端进行高质量语音合成，无需联网即可使用，兼顾隐私保护与可用性。
