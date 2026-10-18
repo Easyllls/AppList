@@ -1248,7 +1248,7 @@
   - VAvatar
   - wxrecordread
   - WExpt
-  - WeKit：（原版已停止开发，Fork被爆存在恶意代码（实际情况未知），已清除）
+  - WeKit：已停更，仅留存
   - 去他妈的微信信息流
   - 你才长按复制访问
   - X（微X3.0）
