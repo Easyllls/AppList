@@ -1066,6 +1066,7 @@
   - AdClose
   - 地主不看广告：欢乐斗地主跳过广告
 - [抖音](https://pan.baidu.com/s/1U0qnF5x5J68AJFoAaYYCaw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOztCDV5Wqf0p4dxwfYNUAerA1?pwd=ire3#) [夸克](https://pan.quark.cn/s/2ba856e4a4c5?pwd=hCMg)
+  - DouAi：抖音增强模块，面向抖音 com.ss.android.ugc.aweme 40.6.0，使用 libxposed API 102。（入口在 抖音设置）
   - 抖仙人：抖音纯净播放、内容过滤与无水印下载
   - 抖柚：为抖音添加一些优化体验的小功能
   - GiveMeFire：抖音续火
