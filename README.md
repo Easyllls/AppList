@@ -276,6 +276,7 @@
   - BILIBILIAS：哔哩哔哩视频缓存的辅助工具，一键解析缓存
   - PiliPala：使用Flutter开发的BiliBili第三方客户端。目前支持Android、iOS
   - JKVideo：高颜值第三方 B 站 React Native 客户端
+  - 哔哩哔哩@bbshow：基于 revanced 方案的改包，补丁是 哔哩漫游X（使用条件是用户等级4级且是大会员）
 - [文件同步](https://pan.baidu.com/s/1V_1jSetHTQFGcClGZcYQrQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-x8Q8HIttxFPtSdZQrHTvaA1?pwd=ifbh#) [夸克](https://pan.quark.cn/s/7cf2987fcf0c?pwd=T3jR)
   - Easy Sync：以简单的方式，将你的手机文件与 WebDAV 服务器进行同步
   - Round Sync：适用于安卓设备的文件同步应用
