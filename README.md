@@ -1461,6 +1461,8 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
+- [图片编辑](https://pan.baidu.com/s/1mj1TvLPg5hI37NgszD6Bqg?pwd=6666)
+  - PhotoCraft：开源的 Adobe Photoshop 纯净室重新实现版本，完全使用 Rust 语言重写
 - [TVBox](https://pan.baidu.com/s/1fbL4Z4P20VuLInb2RxwoMw?pwd=6666)：
   - Win-Box：一款纯Vibe coding的Windows版TVbox
   - TVBox Desktop：纯白极简的 Windows 影视聚合客户端。吃安卓 TVBox 的配置订阅格式，用桌面端更好用的交互方式呈现。
