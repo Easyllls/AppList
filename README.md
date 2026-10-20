@@ -32,6 +32,7 @@
 <details>
 <summary>📱 <strong>Android</strong></summary>
 
+- [DroidDeck](https://pan.baidu.com/s/1HqOWYJoOAdcuWZNA6pq7Lg?pwd=6666)：将 SteamOS 的体验带到 Android：让搭载 Adreno GPU 的掌机运行 Valve 的 Steam 大屏幕模式客户端，并通过 Valve 的 ARM64 Proton 运行 Windows 游戏。
 - [AxManager](https://pan.baidu.com/s/18L69X_737ZpfxK0FlqFzWw?pwd=6666)：一个面向 Android 的特权运行环境，可使用 ADB（Shell）权限运行，也可在具备 Root 权限时使用 Root 模式。AxManager 会保持后台服务持续运行，并在此基础上提供多项功能：支持 WebUI 的 Magisk 风格插件、应用级权限控制、兼容 Shizuku 的 API、Shell 命令终端，以及系统设置编辑器。
 - [BoxPlayer](https://pan.baidu.com/s/1_OJHW_Ohx7plOFMhk2nR_g?pwd=6666)：多网盘文件管理、媒体库、媒体服务器、音乐播放器和电子书阅读器
 - [无障碍管理器](https://pan.baidu.com/s/1LfI87CaZtIiif_nbkUk0Pg?pwd=6666)：本APP可以彻底取代系统设置里的无障碍设置页面。仅需要授权本APP写入安全设置即可使用。支持无障碍保活，不耗电不主动唤醒，且保活速度极快。
