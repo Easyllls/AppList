@@ -1570,6 +1570,7 @@
 - [Block-Ads](https://pan.baidu.com/s/1p6pARVSBq4tJMcym7D5Qxg?pwd=6666)：禁止垃圾进程运行
 - [CTM工具](https://pan.baidu.com/s/1QpHic3vBtGBhteRB3IumyQ?pwd=6666)：适用于 Windows 10 与 11 的桌面美化与系统优化工具
 - [硬件监控资源监控](https://pan.baidu.com/s/1AbgEAxhd6BNya91NXvTLMw?pwd=6666)
+  - TaskbarMonitor：任务栏内的硬件监控工具。实时监控 CPU/GPU 负载与温度、内存、磁盘和网络，支持自定义主题。使用 C++17 编写，基于 Win32 API 和双缓冲 GDI 实现。内存占用低于 10 MB。
   - LiteMonitor：轻量、可定制的开源桌面硬件监控软件并支持任务栏显示，支持更换皮肤。
   - TrafficMonitor：系统信息监控悬浮窗软件，并支持任务栏显示，支持更换皮肤。
 - [Defender工具](https://pan.baidu.com/s/1ZYvQ4PwCLOR-8sEgFhGqVA?pwd=6666)
