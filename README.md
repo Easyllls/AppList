@@ -1563,6 +1563,7 @@
   - Simple Live：跨平台的聚合直播软件
   - pure live
 - [翻译与OCR](https://pan.baidu.com/s/1Tz73wMxZ812oziSDWq3Cew?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-hl_KiAZ1Yp8A68TekauLIA1?pwd=t8fy#) [夸克](https://pan.quark.cn/s/2446cac57e1e?pwd=GHhJ)
+  - ReaLingo：支持阿里云通义千问、OpenAI 和 Gemini 的开源桌面实时语音翻译工具，支持麦克风与系统声音输入、双语字幕、语音朗读及字幕导出。
   - eSearch：全能的屏幕工具，支持截图、OCR、翻译、搜索、贴图、录屏和 AI 图像处理等
   - STranslate：即用即走的翻译、OCR工具「插件系统」
   - PillOCR：基于大模型api接近无感的OCR工具。
