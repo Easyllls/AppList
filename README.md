@@ -900,7 +900,7 @@
   - OneDesign：OneUI 8.0 自定义增强框架，在系统级别对多个应用进行定制，提供本地化支持、功能增强和系统优化。支持：Android 16+ (OneUI 8.0+)
 - [浏览器增强](https://pan.baidu.com/s/1l9nfpBGGSPwg1JeUE3HXEw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-wwKsKC0kbXMEGSRMaBwmlA1?pwd=aa3j#) [夸克](https://pan.quark.cn/s/ae4247e12f32?pwd=VCF9)
   - ChromePie：给 Chrome 浏览器加 Pie 菜单
-  - ChromeXt：向基于 Chromium 和基于 WebView 的浏览器添加 UserScript 和 DevTools 支持。
+  - ChromeXt：给 Chromium 内核浏览器和部分 WebView 浏览器增加用户脚本（UserScript）运行能力，以及网页开发者工具。简单说，就是让安卓浏览器也能使用类似电脑端 Tampermonkey（油猴）的脚本功能。（安装后打开 [github.io](https://jingmatrix.github.io/ChromeXt/)或[onrender.com](https://jianyu-ma.onrender.com/ChromeXt/)或[netlify.app](https://jianyu-ma.netlify.app/ChromeXt/) 打开管理面板）
   - BetterVia：解除 Via 浏览器白名单限制
   - EdgeX：Edge 浏览器增强，通过 UI 调整和功能改进来增强您的浏览体验。隐藏状态栏、移除地址栏底边距、长按更多按钮回顶部、长按新标签页按钮原地加载、设置新标签页 URL、支持外部下载
 - [Punch-hole Download Progress](https://pan.baidu.com/s/19p0KZ5jQ00hBdJ0A4EcT6g?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-0J9k2tS0g1irp-FUSzYTiA1?pwd=y73b#) [夸克](https://pan.quark.cn/s/5ba01c730316?pwd=fLfQ)：在摄像头开孔周围以动画圆环的形式显示下载进度。
