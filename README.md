@@ -366,6 +366,7 @@
   - QuickEdit：高效、稳定和全功能文本与代码编辑器
 - [HTTP on Fire](https://pan.baidu.com/s/1B3BFeo2SfBN6R8es4b5FmA?pwd=6666)：无代码 Android HTTP 服务器与设备管理器
 - [输入法](https://pan.baidu.com/s/1_RMBhMMNHmtviSxxZbw5fA?pwd=6666)
+  - Xime（曦码输入法）是一款基于 Rime 引擎的 Android 开源中文输入法，支持五笔、拼音及混输、自定义输入方案、离线语音输入、AI 联想预测、手写、剪贴板管理、WebDAV 同步和 Lua 插件扩展，兼具丰富的键盘布局与主题自定义功能。
   - 言犀键盘（说点啥）：基于 AI 的智能语音输入法 | 让语音输入更自然、更高效（后改名 说点啥）
   - 雨燕输入法：简洁、实用、轻快的中文输入法
   - 小企鹅输入法：一个支持插件扩展、多语言输入引擎（如 Rime）、离线使用且高度可定制的开源 Android 输入法。
