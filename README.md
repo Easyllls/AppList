@@ -637,7 +637,6 @@
 - [Oh My Keymint](https://pan.baidu.com/s/1oj98ekUgDHI9Z2elLvilTw?pwd=6666)：一个完整的 Keystore 实现，完整实现了 AOSP 的 AIDL 接口，并参考了 AOSP 官方实现。理论上，这种方式能够降低检测器发现其行为与 AOSP 不一致的可能性，因此相比 TrickyStore 的 FOSS 分支或 TEESimulator 等其他基于 TrickyStore 的模块，能够实现更高的隐蔽性。
   - qwq233：原版
   - ITxiao6666：第三方增强版，提供应用配置、Keybox 管理及配套 WebUI。
-- [PathMask](https://pan.baidu.com/s/1UfLsD7m_dcjzUdtqBBz0GA?pwd=6666)：一个 Android GKI/arm64 内核模块演示项目。它可以把指定路径在指定 App 面前伪装成“不存在”
 - [AlwaysStrong](https://pan.baidu.com/s/1okYsypKJnvtAqSZWkr9dpQ?pwd=6666)：一键刷入即可获得 STRONG 级别的 Play Integrity 完整性检测方案，兼容 Magisk / KernelSU / APatch。该模块将 TEESimulator-RS 和 PlayIntegrityFork 整合为一个模块，无需再手动叠加安装或配置这两个模块。
 - [HMA UID Fake](https://pan.baidu.com/s/1zhChAsL-wDZo4jVb9AHegQ?pwd=6666)：HMA/HMA-OSS 的内核层补充模块，用来弥补应用隐藏后，其他应用仍可能通过 UID 优先级接口探测隐藏目标的问题，而不是修改应用本身的 UID。模块读取 HMA 或 HMA-OSS 的配置，并依据其隐藏规则同步策略。
 - [Audit Detect Pass](https://pan.baidu.com/s/1xFspTggl4TkWlXArfLzEPw?pwd=6666)：通过针对SELinux拒绝日志中u:r:su:s0和u:r:magisk:s0上下文的检测
@@ -849,6 +848,7 @@
 
 该分类仅收录已明确声明不支持Magisk，或Magisk不需要的模块
 
+- [PathMask](https://pan.baidu.com/s/1UfLsD7m_dcjzUdtqBBz0GA?pwd=6666)：一个 Android GKI/arm64 内核模块演示项目。它可以把指定路径在指定 App 面前伪装成“不存在”
 - [SUSFS LKM Loader](https://pan.baidu.com/s/107ANXSpCbNuSxzOIwV3Www?pwd=6666)：适用于 KernelSU 的 inforcqb/susfs4ksu-lkm 加载模块，自动匹配指定 KMI 版本并在启动时加载内核模块，仅负责加载，不管理规则。支持范围受内核版本、架构及厂商 ABI 限制。（inforcqb/susfs4ksu-lkm：SUSFS 的可加载内核模块（LKM）移植版：让 susfs 可以在不用重编译内核的情况下运行）
 - [元模块（Metamodule）](https://pan.baidu.com/s/10AM8hknM2Lo2iJ1TScserw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzpRbnpUmD3DOYTibMol580A1?pwd=dyaj#) [夸克](https://pan.quark.cn/s/365046816db1?pwd=Uiu6)：用于给 KernelSU 提供 systemless 挂载能力
   - NoMount：面向 Android 内核的 VFS（虚拟文件系统）路径重定向框架。与依赖修改挂载表、导致 "/proc/mounts" 出现额外挂载记录的传统挂载方案（如 Magic Mount 或 OverlayFS）不同，NoMount 完全在 RAM 中运行。它不会执行真正的挂载操作，而是动态拦截路径解析和目录遍历，从而以完全透明的方式向 Android 系统和用户空间应用注入文件，且不会产生任何挂载记录。
