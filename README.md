@@ -1607,6 +1607,7 @@
 - [AppDataCleaner](https://pan.baidu.com/s/10ROWVgwkzvwPSUW64vjzjQ?pwd=6666)：appdata 文件夹清理工具
 - [RunCat](https://pan.baidu.com/s/1_TsfYHsO5LdbfAVscKhbQA?pwd=6666)：在您的任务栏上显示一个跟随CPU负载奔跑的小猫
 - [音乐播放器](https://pan.baidu.com/s/1BMeRmGMVdgTHQtZjwQCDNA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-hXgC4LjxusgpzVQO1G1x-A1?pwd=fwnx#) [夸克](https://pan.quark.cn/s/b12a9f30e9b4?pwd=FYbu)
+  - MoeKoe Music：基于 Electron + Vue 3 开发的开源酷狗音乐第三方客户端，支持 Windows、macOS、Linux 和 Web，具备高品质音乐播放、歌词显示、每日推荐、账号登录、主题切换及插件扩展等功能，主打简洁美观、无社交干扰的跨平台听歌体验。
   - Folia：以全屏沉浸式歌词播放为核心的在线音乐播放器，支持网易云、酷狗、Navidrome 和本地音乐库，通过智能歌词匹配，AI生成配色主题，以及多种全屏歌词动画为用户提供独特的听歌体验。
   - Mineradio：以电影镜头、粒子视觉和歌词舞台为核心的沉浸式音乐播放器。
   - NSMusicS：本地音乐播放器并支持私有云音乐扩展
