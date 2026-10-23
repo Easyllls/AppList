@@ -1159,7 +1159,6 @@
   - QQ净化助手
   - QStory
   - Serendipity
-  - Funbox：表情包
   - TCQT：QQ / TIM 消息防撤回多功能模块（4.0起支持以 Zygisk 模块方式运行（无需XP框架），将文件后缀.apk改为.zip刷入即可，虽然做了防呆处理，但还是不建议双注入。（使用 Zygisk注入时应该在LSP框架中停用模块））
   - TSBattery：省电
   - XAutoDaily：各种签到
@@ -1243,7 +1242,6 @@
   - FloatingClouds（浮云）：会话隐藏、联系人屏蔽、朋友圈净化、消息免打扰、VoIP 拦截等隐私增强功能。
   - WAuxiliary：防撤回等
   - NewMiko：各种增强功能
-  - FunBox：表情包及其他
   - FingerPay：指纹支付
   - FkWeChat：各种增强
   - I'm Pad：平板模式
