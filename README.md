@@ -1079,6 +1079,7 @@
   - AdClose
   - 地主不看广告：欢乐斗地主跳过广告
 - [抖音](https://pan.baidu.com/s/1U0qnF5x5J68AJFoAaYYCaw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOztCDV5Wqf0p4dxwfYNUAerA1?pwd=ire3#) [夸克](https://pan.quark.cn/s/2ba856e4a4c5?pwd=hCMg)
+  - dyguard：密友隐藏、消息防撤回、图片与视频保存、自动播放等功能。支持版本：Android 9 及以上。：抖音 39.9.0（390901）、40.8.0（400801）。
   - 星火燎原：自动给「今天还没互动」的会话续火花，发一条你自己写的文案。 文案是一段 JavaScript，由「模板 + 两层变量 + 宏 + 自定义函数」组合出来，目标是「每天自动续，但话说得像真人说的」。
   - DouAi：抖音增强模块，面向抖音 com.ss.android.ugc.aweme 40.6.0，使用 libxposed API 102。（入口在 抖音设置）
   - 抖仙人：抖音纯净播放、内容过滤与无水印下载
