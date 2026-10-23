@@ -881,6 +881,7 @@
 <details>
 <summary>🛠 <strong>Xposed Module</strong></summary>
 
+- [咸鱼小猪手](https://pan.baidu.com/s/1kZnPcWLl2f_-GTA6SGHyEA?pwd=6666)：闲鱼 App 任务自动化引擎。注入闲鱼进程后，通过闲鱼自有 mtop 协议栈直调接口，无需电脑、无需抓包改机，打开闲鱼即可自动完成每日任务领取奖励。兼容：包名：com.piggyhand.fish · 适用闲鱼 7.25.31 · 仅供学习研究协议机制使用
 - [Nuke](https://pan.baidu.com/s/1kdFk6KGZFDLXfZaduzw6jA?pwd=6666)：一个支持 QQ、微信和抖音的 Android Xposed 模块，提供宿主内功能扩展、界面定制与使用体验优化。支持 Vector、LSPosed 等 Root 框架，以及 NPatch、FPA、LSPatch 等免 Root 注入框架。
 - [酷安净化](https://pan.baidu.com/s/1lZtkj26s7uPqbvkJq6CHxQ?pwd=6666) [夸克](https://pan.quark.cn/s/8970c1766a56?pwd=LQEv)：基于 libxposed Modern API 102 的酷安去广告模块，在酷安原生设置中提供独立的净化开关。
 - [MapAdKiller](https://pan.baidu.com/s/1WxybqYbtGHE6VYt5THwlnQ?pwd=6666) [夸克](https://pan.quark.cn/s/36ce71dc45c2?pwd=GNLH)：针对高德 / 百度 / 腾讯地图 App 的开屏广告、首页运营横幅、信息流广告卡、第三方广告 SDK 做确定性拦截
