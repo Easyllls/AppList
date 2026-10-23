@@ -1079,12 +1079,13 @@
   - AdClose
   - 地主不看广告：欢乐斗地主跳过广告
 - [抖音](https://pan.baidu.com/s/1U0qnF5x5J68AJFoAaYYCaw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOztCDV5Wqf0p4dxwfYNUAerA1?pwd=ire3#) [夸克](https://pan.quark.cn/s/2ba856e4a4c5?pwd=hCMg)
+  - 星火燎原：自动给「今天还没互动」的会话续火花，发一条你自己写的文案。 文案是一段 JavaScript，由「模板 + 两层变量 + 宏 + 自定义函数」组合出来，目标是「每天自动续，但话说得像真人说的」。
   - DouAi：抖音增强模块，面向抖音 com.ss.android.ugc.aweme 40.6.0，使用 libxposed API 102。（入口在 抖音设置）
   - 抖仙人：抖音纯净播放、内容过滤与无水印下载
   - 抖柚：为抖音添加一些优化体验的小功能
   - GiveMeFire：抖音续火
   - 抖增：抖音离线缓存增强模块
-  - Dyyds（推荐）
+  - Dyyds
   - YuePanel：QQ、微信、抖音功能增强模块，可能需要赞助开启所有功能
   - Freedom+：依赖LSPosed运行的抖音增强模块
   - 逗音小手
