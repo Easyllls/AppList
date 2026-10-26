@@ -32,6 +32,11 @@
 <details>
 <summary>📱 <strong>Android</strong></summary>
 
+- [网盘链接解析](https://pan.baidu.com/s/17xVDSanLxLiWnK8KFqltWg?pwd=6666)：不建议解析百度网盘，一次就给我号封了
+  - 星辰助手：面向 Android 的多网盘文件管理与分享链接解析工具，支持账号管理、文件浏览、链接解析、转存与下载任务管理。
+  - 文析助手（AsterLink）：面向 Android 和 Windows 的免费网盘管理与文件传输应用，已接入 17 个网盘和 GitHub 文件源。
+  - 云析：开源的 Android 网盘 / 视频解析下载应用，识别夸克 / UC / 迅雷 / 百度 / 139 / 123 / 115 / 光鸭 / 蓝奏云 / 蓝奏云优享版 的分享链接并自动匹配提取码；也能解析抖音 / 小红书 / 快手 / 微博 / AcFun / 哔哩哔哩 / Pixiv 的视频与图集。Range 分片并发 + 断点续传，图片 / 视频 / 音频可在线预览。
+  - 云取：网盘分享解析与高速下载 Android 应用，基于 云析 二次开发。支持夸克/UC/迅雷/百度/123/139/115/光鸭/蓝奏等平台，下载由 TurboDL 引擎承担。
 - [DroidDeck](https://pan.baidu.com/s/1HqOWYJoOAdcuWZNA6pq7Lg?pwd=6666)：将 SteamOS 的体验带到 Android：让搭载 Adreno GPU 的掌机运行 Valve 的 Steam 大屏幕模式客户端，并通过 Valve 的 ARM64 Proton 运行 Windows 游戏。
 - [AxManager](https://pan.baidu.com/s/18L69X_737ZpfxK0FlqFzWw?pwd=6666)：一个面向 Android 的特权运行环境，可使用 ADB（Shell）权限运行，也可在具备 Root 权限时使用 Root 模式。AxManager 会保持后台服务持续运行，并在此基础上提供多项功能：支持 WebUI 的 Magisk 风格插件、应用级权限控制、兼容 Shizuku 的 API、Shell 命令终端，以及系统设置编辑器。
 - [BoxPlayer](https://pan.baidu.com/s/1_OJHW_Ohx7plOFMhk2nR_g?pwd=6666)：多网盘文件管理、媒体库、媒体服务器、音乐播放器和电子书阅读器
