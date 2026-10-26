@@ -1479,7 +1479,7 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
-- [文析助手（AsterLink）](https://pan.baidu.com/s/1GwSPDoxSRUrTP9qV3YboNA?pwd=6666)：面向 Android 和 Windows 的免费网盘管理与文件传输应用，已接入 17 个网盘和 GitHub 文件源。
+- [文析助手（AsterLink）](https://pan.baidu.com/s/1GwSPDoxSRUrTP9qV3YboNA?pwd=6666)：面向 Windows 的免费网盘管理与文件传输应用，已接入 17 个网盘和 GitHub 文件源。
 - [Android DEX](https://pan.baidu.com/s/1IwCU8VnfQAZDJ7GR5HJvcQ?pwd=6666)：适用于所有安卓设备的通用三星 DeX 替代方案。支持在 Windows、Linux 和 macOS 上运行安卓应用，提供可调整大小的窗口、高级 FPS 游戏控制功能，以及高性能的无线 ADB 镜像投屏。
 - [图片编辑](https://pan.baidu.com/s/1mj1TvLPg5hI37NgszD6Bqg?pwd=6666)
   - PhotoCraft：开源的 Adobe Photoshop 纯净室重新实现版本，完全使用 Rust 语言重写
