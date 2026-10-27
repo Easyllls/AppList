@@ -724,7 +724,7 @@
   - Cache Cleaner-彩銘羽：Xposed模块+Magisk模块一起用
 - [AdGuardHome](https://pan.baidu.com/s/1FkDzIaCg7FpjSsWJa9Q7KQ?pwd=6666) [夸克](https://pan.quark.cn/s/fd9dc26731d1?pwd=6Xhn) [迅雷](https://pan.xunlei.com/s/VP-wnc5De4YVk-HhkW3Wkkm7A1?pwd=dubq#)：将 AdGuard Home 集成到 Android Root 系统中的 Magisk/KernelSU 模块，让手机直接运行本地 DNS 广告过滤服务，实现全局去广告和隐私保护。
   - AdGuard.Home.For.Android
-  - AdGuardHomeForRoot（twoone3）
+  - AdGuardHomeForRoot（twoone3）：在安卓设备上运行 AdGuardHome 的模块，提供了一个本地 DNS 服务器，能够屏蔽广告、恶意软件和跟踪器。
   - top大佬(酷安)
   - CHIZI-0618（推荐）
 - [指纹支付](https://pan.baidu.com/s/13PKNZgHgfnZf-PDbuB_UGA?pwd=6666)：让常用应用在支持指纹识别的设备上使用指纹支付，支持微信、支付宝、京东、淘宝、云闪付
