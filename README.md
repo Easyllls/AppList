@@ -1425,6 +1425,7 @@
   - Simple Live：多平台聚合直播，支持抖音、斗鱼、虎牙、快手
   - 纯粹直播：支持多平台 + 自定义源
 - [桌面](https://pan.baidu.com/s/1CirDDSQ28wKjVW9lSCNcBw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-TQMnw5MLhcJop9dPUmt87A1?pwd=enai#) [夸克](https://pan.quark.cn/s/392ede9e714b?pwd=apn8)
+  - Aerial：参照 Apple TV 做的 Android TV 桌面：没有广告，没有推荐流，只有你的 App、壁纸和航拍屏保。适合小米、TCL、创维、索尼等国产电视，也能装在盒子和投影仪上。开机自动进入，待机也不会被清理。
   - LTvLauncher：FLauncher 的一个分支版本，是一款面向 Android TV 的开源替代启动器。该定制版本加入了多项易用性增强功能和 UX（用户体验）优化。
   - FLauncher
   - Projectivy Launcher
