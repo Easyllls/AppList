@@ -1236,6 +1236,7 @@
   - 红薯猪手
   - 小红书+
 - [微信](https://pan.baidu.com/s/19gJIzQ_eb321uYIJz3PrNQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzt9eZU47t0DRLz38Ioz211A1?pwd=zb22#) [夸克](https://pan.quark.cn/s/c3b8965b11f9?pwd=bk4r)
+  - Wren：微信娱乐性拓展模块，基于 libxposed API 102 开发
   - quality：微信增强模块，提供消息防撤回、复读、语音转发与时长自定义、聊天气泡自定义及消息详情等功能，并持续修复兼容性问题。
   - OKK：基于 LSPosed / Xposed 的微信全能体验增强模块，提供消息保护、聊天增强、会话分组、界面美化、实用工具、在线插件扩展
   - 微信Agent：运行在微信内的个人 AI 助手模块。它可以接入 DeepSeek、OpenAI 和 OpenRouter 等 AI 服务，连接自定义 MCP 服务，并结合微信上下文完成自动回复、联系人整理、群聊分析、聊天记录查询、文件导出和消息发送等任务。
