@@ -886,6 +886,7 @@
 <details>
 <summary>🛠 <strong>Xposed Module</strong></summary>
 
+- [静途 (QuietMap)](https://pan.baidu.com/s/11GwkJ6r7PX35coXQ5FWleA?pwd=6666)：高德地图 去除开屏与信息流广告、精简打车及生活服务推荐、后台净化、数据层断源、收敛弹窗与统计上报。专注纯净导航体验
 - [FunBox](https://pan.baidu.com/s/1Q08Qfa-NMqIgTlVzZB0n9A?pwd=6666)：在QQ/微信/TIM中使用表情面板和语音面板以保存和发送表情和语音。支持微信8.0.40以上、QQ9.0.30以上、TIM4.0.97以上
 - [咸鱼小猪手](https://pan.baidu.com/s/1kZnPcWLl2f_-GTA6SGHyEA?pwd=6666)：闲鱼 App 任务自动化引擎。注入闲鱼进程后，通过闲鱼自有 mtop 协议栈直调接口，无需电脑、无需抓包改机，打开闲鱼即可自动完成每日任务领取奖励。兼容：包名：com.piggyhand.fish · 适用闲鱼 7.25.31 · 仅供学习研究协议机制使用
 - [Nuke](https://pan.baidu.com/s/1kdFk6KGZFDLXfZaduzw6jA?pwd=6666)：一个支持 QQ、微信和抖音的 Android Xposed 模块，提供宿主内功能扩展、界面定制与使用体验优化。支持 Vector、LSPosed 等 Root 框架，以及 NPatch、FPA、LSPatch 等免 Root 注入框架。
