@@ -462,6 +462,7 @@
 - [DSU Sideloader](https://pan.baidu.com/s/17GxT703_7aCgBSsQDoIJzA?pwd=6666)：通过 安卓的 DSU 功能轻松安装 GSI。
 - [Sefirah](https://pan.baidu.com/s/1BVi1tQZXJyINfJInAQtPGQ?pwd=6666)：在 Windows PC 和 Android 设备之间无缝共享剪贴板和通知
 - [网络与WiFi工具](https://pan.baidu.com/s/1opn0eMB4-G_ApNo2_KOVmg?pwd=6666) [夸克](https://pan.quark.cn/s/32828895799f?pwd=Kwxn)
+  - WPAForge：在手机上，逐条试出你自己路由器的 WPA 密码，智能字典破解 WiFi：按 SSID 与线索现场生成候选、逐条真实关联验证；含 WPS PIN、局域网侦察、.cap/.hc22000 离线校验、信道诊断；收尾自动写回目标原网络配置并回读确认。需 Root（只用在你自己拥有、或已获得授权的网络上。 对别人的网络发起关联尝试是违法行为， 路由器那边会记下你的 MAC 和时间。）
   - Find my IP：查看并记录我的IP地址，支持IPv4和IPv6
   - NetGuard：简单的方法来阻止每个应用访问互联网
   - 小米WiFi助手：管理小米路由器
