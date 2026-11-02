@@ -505,6 +505,7 @@
   - Paperize：开源、 Material 3 设计的动态壁纸更换应用
 - [垃圾电话拦截](https://pan.baidu.com/s/1iENQJhKzfskDP5b5kvS5Rw?pwd=6666)：Android 电话/短信拦截器
 - [安卓设备运行环境检测（Root检测）](https://pan.baidu.com/s/1AYD7QWPJyKxCeOuwG9VI6Q?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-07gmB2pX0zuT8O6KWVEQDA1?pwd=5xfv#) [夸克](https://pan.quark.cn/s/ada61b91d15e?pwd=xwkN)
+  - Maple检测：Android 设备环境检测工具，主要用于检测 Root、系统修改、注入框架及设备完整性异常，帮助用户排查设备环境中的潜在风险，并提供详细的检测依据。
   - DuckDetector：在 Android 设备上采集并关联与安全相关的证据，用于发现启动状态变化、Root 与 SU 痕迹、运行时注入或 Hook、挂载命名空间异常、系统属性篡改、可疑应用、KeyStore 与证明链异常，以及虚拟化迹象。
   - 应用检测 Demo：检测HMA OSS
   - Play Integrity API Checker：通过 Play 完整性 API 获取有关您的设备完整性的信息
