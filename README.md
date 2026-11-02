@@ -505,6 +505,7 @@
   - Paperize：开源、 Material 3 设计的动态壁纸更换应用
 - [垃圾电话拦截](https://pan.baidu.com/s/1iENQJhKzfskDP5b5kvS5Rw?pwd=6666)：Android 电话/短信拦截器
 - [安卓设备运行环境检测（Root检测）](https://pan.baidu.com/s/1AYD7QWPJyKxCeOuwG9VI6Q?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-07gmB2pX0zuT8O6KWVEQDA1?pwd=5xfv#) [夸克](https://pan.quark.cn/s/ada61b91d15e?pwd=xwkN)
+  - DuckDetector：在 Android 设备上采集并关联与安全相关的证据，用于发现启动状态变化、Root 与 SU 痕迹、运行时注入或 Hook、挂载命名空间异常、系统属性篡改、可疑应用、KeyStore 与证明链异常，以及虚拟化迹象。
   - 应用检测 Demo：检测HMA OSS
   - Play Integrity API Checker：通过 Play 完整性 API 获取有关您的设备完整性的信息
   - 小骨检测：为游戏而开发的设备环境检测软件
@@ -515,7 +516,7 @@
   - Native Detector
   - Momo
   - Magisk检测应用
-  - Applist Detector
+  - Applist Detector：一个专注于 Android 应用可见性与可疑应用识别的检测工具。它通过 PackageManager 多接口交叉检测、Magisk 应用特征识别、Native 文件检测及 Xposed 环境检测，帮助开发者判断设备上是否存在可能影响应用运行环境的工具。
 - [LiveBoot](https://pan.baidu.com/s/1xn2Wvaewwgsfnz1_UgwSAg?pwd=6666)：修改安卓设备的启动画面，类似于“Matrix 数字雨”效果
 - [Rays](https://pan.baidu.com/s/1EFgnI_607MxoCvD2OiLYqA?pwd=6666)：在本地记录、查找、管理表情包的工具
 - [Apk编辑](https://pan.baidu.com/s/10FZx1vScNtuqlvAhRsYOcA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-JvRCugZJ3ZIwfWBC8acjtA1?pwd=ewkz#) [夸克](https://pan.quark.cn/s/173d88baa0af?pwd=vSg3)
