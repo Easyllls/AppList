@@ -1077,6 +1077,7 @@
 - [隐藏无障碍模式](https://pan.baidu.com/s/1K6QCudTPPfBCue5pSJEh7g?pwd=6666)
   - 非残！：使用xposed hook假装自己没有使用无障碍服务
 - [进程管理](https://pan.baidu.com/s/1PJjIMMpfZqftWpicu-Upgg?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-AK-euULJGZA291J4EemGJA1?pwd=g796#) [夸克](https://pan.quark.cn/s/258e2a2bd697?pwd=J44K)
+  - 进程保活：基于 LSPosed 的 Android 后台保活模块，可通过提高进程优先级、拦截系统杀进程操作、被清理自动拉起、开机自启动及页面保活等机制，防止指定应用被系统回收，并支持消息推送保活、后台网络防断连和进程状态监控，适配 Android 11–17。
   - 不死鸟：通过修改进程的 MaxOomAdj 实现应用进程保活
   - NoActive：通过Hook系统框架实现Android墓碑
   - AppRetention：通过 Hook 系统 kill 逻辑 来实现 后台保活
