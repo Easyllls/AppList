@@ -527,6 +527,7 @@
   - AntiSplit M：拆分应用合并
   - Apktool M：安卓应用安装包（apk）反编译应用。适合开发者、翻译者、以及高级用户使用。它无需 Root 权限，就能对 Android 安装包进行多种操作，包括查看源码、编辑、签名和翻译。
 - [视频编辑](https://pan.baidu.com/s/1bGNda0yPAMJHexPL3iKq-w?pwd=6666)
+  - Concat：是一款免费、开源的视频编辑器，是 macOS、Windows、Linux 和 Android 上的 CapCut 替代品。它覆盖了人们真正打开 CapCut 要做的事：自动字幕、文字转语音、背景移除、关键帧动画、特效与标题、多轨剪辑、4K 导出。而且没有任何套路：无水印、无需账号、无需订阅、不上传。
   - VideoGuru：功能齐全强大的免费视频编辑器
 - [手势](https://pan.baidu.com/s/1pnFClX7hxf6pSh7N0gEsVQ?pwd=6666)
   - MyGesture：快速、智能的分边缘导航手势
@@ -1689,6 +1690,7 @@
   - Wise AD Cleaner：功能强大、易于使用的广告清理工具
   - CCleaner：专业的系统清理软件、隐私保护工具和电脑优化工具。
 - [视频编辑与格式转换](https://pan.baidu.com/s/1Y79YP9OCtGRXGlanOTO57g?pwd=6666)
+  - Concat：免费、开源的视频编辑器，是 CapCut 替代品。它覆盖了人们真正打开 CapCut 要做的事：自动字幕、文字转语音、背景移除、关键帧动画、特效与标题、多轨剪辑、4K 导出。而且没有任何套路：无水印、无需账号、无需订阅、不上传。
   - VideoTools：“小而美”的视频处理工具，功能实用且体积极小
   - HandBrake：视频转码器
   - Video2X：基于机器学习的视频超分辨率和帧插值框架
