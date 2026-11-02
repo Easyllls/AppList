@@ -357,7 +357,7 @@
 - [小说与文档阅读器](https://pan.baidu.com/s/1xF6NE5SP1xnUBolFW9Pd1Q?pwd=6666) [夸克](https://pan.quark.cn/s/c22a16ebb660?pwd=DPeK)
   - ReadAny：一款 AI 驱动的电子书阅读器，支持智能对话、语义搜索、标注笔记与知识管理。
   - Anx Reader：开源、跨平台的电子书阅读器，集成了阅读同步、笔记、AI 辅助翻译与思维导图等智能功能
-  - 阅读MD：使用MD3设计的阅读3.0
+  - 阅读MD3：Legado with MD3 基于开源项目 阅读 (Legado) 开发的 Material Design 3 风格重构版本。
   - Readest：现代化、功能丰富的电子书阅读器，提供跨平台无缝访问
   - MuPDF viewer：轻量、高性能的PDF文档查看工具
   - Librera Pro：惊人的阅读器，易于使用和高度可配置的应用程序，可读取所有书籍
