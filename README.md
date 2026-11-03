@@ -32,6 +32,7 @@
 <details>
 <summary>📱 <strong>Android</strong></summary>
 
+- [CleanYourTV Next](https://pan.baidu.com/s/1veVF37PN6ltbWkV_1CnYNw?pwd=6666)：Android TV 管理工具，通过局域网 ADB 连接电视或电视盒子，无需 Root、无需电脑，即可在手机上管理电视桌面、应用、文件及系统设置。
 - [FPS Meter](https://pan.baidu.com/s/1Si6V7dzYJa7vbCOzwo2s7w?pwd=6666)：一款高性能、轻量级的 Android FPS 帧率监控工具。提供实时帧率悬浮显示，为手游和性能测试提供简洁直观的监控体验。
 - [AirPlay Server](https://pan.baidu.com/s/17EAqBkTighAxgaMm8FIoAA?pwd=6666)：一款功能完善、免费且开源的 Android AirPlay 实现，可将 Android 设备变成兼容 AirPlay 的显示器和扬声器，基于 UxPlay 构建。它是首个面向 Android 和 Android TV 的开源 AirPlay 2 接收器，兼容 iOS/iPadOS、macOS 设备以及其他发送端实现。
 - [网盘链接解析](https://pan.baidu.com/s/17xVDSanLxLiWnK8KFqltWg?pwd=6666)：不建议解析百度网盘，一次就给我号封了
