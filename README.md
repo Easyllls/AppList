@@ -268,7 +268,7 @@
 - [下载工具](https://pan.baidu.com/s/1OTJLuLL0XXQmqquCs5UFiA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzB1vZiNksW0WYLTLRmwx7EA1?pwd=89j9#) [夸克](https://pan.quark.cn/s/e001eb707afe?pwd=GhnP)
   - FluxDown：Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。
   - Ghost Downloader：AI 驱动的新一代跨平台多协议 Fluent Design 并发下载器
-  - AB Download Manager：高颜值且高速的下载管理器
+  - AB Download Manager（AB DM）：高颜值且高速的下载管理器
   - qBitController：能从 Android 设备中远程控制 qBittorrent 的软件
   - 1DM+：功能强大的 Android 下载管理器
   - Seal：简单的 Android 视频/音频下载器，遵循 Material Design 3 设计规范
@@ -1567,7 +1567,7 @@
   - Internet Download Manager：十分强大好用的多线程下载工具
   - Neat Download Manager：优秀免费的多线程网络下载工具
   - 迅雷专业版：第三方修改版
-  - AB Download Manager：能加速你下载速度的下载管理器，界面不错
+  - AB Download Manager（AB DM）：能加速你下载速度的下载管理器，界面不错
   - BiliTools：哔哩哔哩工具箱，支持下载视频、番剧等等各类资源
   - Motrix Next（现已更名为 Rayburst）：一款基于 Aria2 Next + Tauri 打造的现代化开源跨平台下载管理器，支持 HTTP、BT、磁力、ED2K、HLS/DASH 等多种下载协议。 
   - Fluent M3U8：美观、艺术的 M3U8 下载器
