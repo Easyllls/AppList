@@ -1498,6 +1498,7 @@
 - [图片编辑](https://pan.baidu.com/s/1mj1TvLPg5hI37NgszD6Bqg?pwd=6666)
   - PhotoCraft：开源的 Adobe Photoshop 纯净室重新实现版本，完全使用 Rust 语言重写
 - [TVBox](https://pan.baidu.com/s/1fbL4Z4P20VuLInb2RxwoMw?pwd=6666)：
+  - AVBox（Audio Video Box）：基于 TVBoxOS、参考 FongMi/TV 开发的安卓影音播放器，核心特点是保留 TVBox 的影视源聚合与播放能力，并使用 Jetpack Compose 重写界面。它本身不内置影视资源，需要用户自行配置数据源。
   - Win-Box：一款纯Vibe coding的Windows版TVbox
   - TVBox Desktop：纯白极简的 Windows 影视聚合客户端。吃安卓 TVBox 的配置订阅格式，用桌面端更好用的交互方式呈现。
 - [桌面收纳工具](https://pan.baidu.com/s/1gN_OnuKkaMgsmhnRAzTAMg?pwd=6666)
