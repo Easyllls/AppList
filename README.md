@@ -1108,6 +1108,7 @@
   - Dyyds
   - YuePanel：QQ、微信、抖音功能增强模块，可能需要赞助开启所有功能
   - Freedom+：依赖LSPosed运行的抖音增强模块
+  - 抖X：可能需要绑定UID（不确定是否需要捐赠）
   - 逗音小手
   - 抖+
   - Woodpecker
