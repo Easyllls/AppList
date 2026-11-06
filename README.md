@@ -1246,6 +1246,7 @@
   - 音效增强器
   - 音量增强器
 - [小红书](https://pan.baidu.com/s/1OfvnsVJVwYLwFFk-sjZL9w?pwd=6666)
+  - 静盒 (QuietBox)：去掉广告、收敛弹窗、收紧隐私，让 App 安静下来。当前版本：0.9.8（versionCode 22）。适配小红书 9.53.0（9530807）
   - 红薯自动
   - 红薯猪手
   - 小红书+
