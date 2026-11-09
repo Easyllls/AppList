@@ -649,6 +649,7 @@
 
 实际上，大部分模块已兼容 KernelSU、APatch
 
+- [FkWeChat](https://pan.baidu.com/s/1XpDz8vjDJOUX9m2ebsRdyQ?pwd=6666)：微信增强模块，Zygisk模式（后缀名改为“apk”即可安装为Xposed模块）
 - [Oh My Keymint](https://pan.baidu.com/s/1oj98ekUgDHI9Z2elLvilTw?pwd=6666)：一个完整的 Keystore 实现，完整实现了 AOSP 的 AIDL 接口，并参考了 AOSP 官方实现。理论上，这种方式能够降低检测器发现其行为与 AOSP 不一致的可能性，因此相比 TrickyStore 的 FOSS 分支或 TEESimulator 等其他基于 TrickyStore 的模块，能够实现更高的隐蔽性。
   - qwq233：原版
   - ITxiao6666：第三方增强版，提供应用配置、Keybox 管理及配套 WebUI。
