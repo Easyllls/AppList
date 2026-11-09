@@ -649,7 +649,6 @@
 
 实际上，大部分模块已兼容 KernelSU、APatch
 
-- [FkWeChat](https://pan.baidu.com/s/1XpDz8vjDJOUX9m2ebsRdyQ?pwd=6666)：微信增强模块，Zygisk模式（后缀名改为“apk”即可安装为Xposed模块）
 - [Oh My Keymint](https://pan.baidu.com/s/1oj98ekUgDHI9Z2elLvilTw?pwd=6666)：一个完整的 Keystore 实现，完整实现了 AOSP 的 AIDL 接口，并参考了 AOSP 官方实现。理论上，这种方式能够降低检测器发现其行为与 AOSP 不一致的可能性，因此相比 TrickyStore 的 FOSS 分支或 TEESimulator 等其他基于 TrickyStore 的模块，能够实现更高的隐蔽性。
   - qwq233：原版
   - ITxiao6666：第三方增强版，提供应用配置、Keybox 管理及配套 WebUI。
@@ -785,6 +784,7 @@
   - fas-rs
   - afps
 - [微信](https://pan.baidu.com/s/183KJpbmqHHa5ftKV_XWukw?pwd=6666)
+  - FkWeChat：微信增强模块，Zygisk模式（后缀名改为“apk”即可安装为Xposed模块）
   - WeChat Monet Pro：适用于微信的莫奈取色模块，提供 Monet 基础主题、经典气泡、现代圆角、半透明 Monet Pro 和底栏样式；仅适配 Play 版本 8.0.72。
   - 微信进程清理：息屏清理不必要的进程以降低内存占用
   - 微信莫奈取色模块：为微信开启莫奈取色
