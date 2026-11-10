@@ -1427,6 +1427,7 @@
 <details>
 <summary>📺 <strong>Android TV</strong></summary>
 
+- [果映 TV](https://pan.baidu.com/s/1AL3ryN7guGyYzHsbNP89CQ?pwd=6666)：非官方红果短剧 Android TV 客户端，使用 kotlin-tv 中的 Kotlin 原生客户端，支持 Android 6.0 及以上。安装一个 APK 即可使用，无需部署 Node 或 Docker。
 - [AdGuard](https://pan.baidu.com/s/1Itk3xrFflxdC0KjZVlMXEQ?pwd=6666)：知名广告拦截软件电视版
 - [BlockAds](https://pan.baidu.com/s/1gaEtm46JIraGW9igvLblnQ?pwd=6666)：基于本地网络的广告拦截器
 - [通用安装程序](https://pan.baidu.com/s/1M1D_F6eAnosONcVXFRhr-w?pwd=6666) [夸克](https://pan.quark.cn/s/e0dcc636f208?pwd=AWP6)：现代化的 Android 软件包管理器，可以处理系统自带安装器无法完成的任务。它支持安装 APK、APK+、APKS、XAPK、APKM（包括拆分 APK 和 OBB 文件）、从网址下载软件包、管理已安装应用，并通过 Root、Shizuku 静默安装等更多功能
