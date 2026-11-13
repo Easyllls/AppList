@@ -1178,6 +1178,7 @@
   - tim小助手：对Tim,QQ进行的扩展优化的Xposed模块
   - TAssistant：以促进 TIM体验 为主的 Xposed 模块
 - [QQ](https://pan.baidu.com/s/1OljRTNqRUtSAlCT_93sOdA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzt9coL7-Du2AB1bIP4CdEhA1?pwd=jtmi#) [夸克](https://pan.quark.cn/s/ae6d9c20052e?pwd=YbZS)
+  - QTool：QQ 功能增强模块，支持 LSPosed 与 Zygisk 两种加载方式（改后缀），围绕 QQ 宿主提供聊天分组、悬浮入口、日常任务、界面调整及调试辅助等功能
   - QEdge：QQ增强模块
   - QWish：QQ 增强模块，提供聊天功能扩展、界面优化及个性化配置，支持在线脚本与表情扩展。
   - NewSafe：过QQ检测，推荐9.3.55；过模拟器检测；防撤回；复读；如使用的其他模块有so请到app界面自行配置so隐藏列表，纯java模块可无视
