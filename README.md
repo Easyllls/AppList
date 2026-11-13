@@ -901,7 +901,9 @@
 - [底栏液态玻璃](https://pan.baidu.com/s/1-qx_OGXgLpy3nw_4XW0MYA?pwd=6666)：为微信和 QQ 打造的 iOS 26 风格液态玻璃底部导航栏
 - [静途 (QuietMap)](https://pan.baidu.com/s/11GwkJ6r7PX35coXQ5FWleA?pwd=6666)：高德地图 去除开屏与信息流广告、精简打车及生活服务推荐、后台净化、数据层断源、收敛弹窗与统计上报。专注纯净导航体验
 - [FunBox](https://pan.baidu.com/s/1Q08Qfa-NMqIgTlVzZB0n9A?pwd=6666)：在QQ/微信/TIM中使用表情面板和语音面板以保存和发送表情和语音。支持微信8.0.40以上、QQ9.0.30以上、TIM4.0.97以上
-- [咸鱼小猪手](https://pan.baidu.com/s/1kZnPcWLl2f_-GTA6SGHyEA?pwd=6666)：闲鱼 App 任务自动化引擎。注入闲鱼进程后，通过闲鱼自有 mtop 协议栈直调接口，无需电脑、无需抓包改机，打开闲鱼即可自动完成每日任务领取奖励。兼容：包名：com.piggyhand.fish · 适用闲鱼 7.25.31 · 仅供学习研究协议机制使用
+- [闲鱼](https://pan.baidu.com/s/1kZnPcWLl2f_-GTA6SGHyEA?pwd=6666)
+  - 咸鱼小猪手：闲鱼 App 任务自动化引擎。注入闲鱼进程后，通过闲鱼自有 mtop 协议栈直调接口，无需电脑、无需抓包改机，打开闲鱼即可自动完成每日任务领取奖励。兼容：包名：com.piggyhand.fish · 适用闲鱼 7.25.31 · 仅供学习研究协议机制使用
+  - 潮汐：基于 LSPosed 和 libxposed API 101/102 开发的闲鱼自动化增强模块，通过 Hook 闲鱼客户端实现日常任务（闲鱼币、鱼塘、会员及现金任务）自动化，提供独立的 Material 3 管理界面，支持 26 项功能开关及实时日志监控。
 - [Nuke](https://pan.baidu.com/s/1kdFk6KGZFDLXfZaduzw6jA?pwd=6666)：一个支持 QQ、微信和抖音的 Android Xposed 模块，提供宿主内功能扩展、界面定制与使用体验优化。支持 Vector、LSPosed 等 Root 框架，以及 NPatch、FPA、LSPatch 等免 Root 注入框架。
 - [小绿书进化](https://pan.baidu.com/s/1lZtkj26s7uPqbvkJq6CHxQ?pwd=6666) [夸克](https://pan.quark.cn/s/8970c1766a56?pwd=LQEv)
   - 酷安净化：基于 libxposed Modern API 102 的酷安去广告模块，在酷安原生设置中提供独立的净化开关。
