@@ -901,7 +901,9 @@
 - [FunBox](https://pan.baidu.com/s/1Q08Qfa-NMqIgTlVzZB0n9A?pwd=6666)：在QQ/微信/TIM中使用表情面板和语音面板以保存和发送表情和语音。支持微信8.0.40以上、QQ9.0.30以上、TIM4.0.97以上
 - [咸鱼小猪手](https://pan.baidu.com/s/1kZnPcWLl2f_-GTA6SGHyEA?pwd=6666)：闲鱼 App 任务自动化引擎。注入闲鱼进程后，通过闲鱼自有 mtop 协议栈直调接口，无需电脑、无需抓包改机，打开闲鱼即可自动完成每日任务领取奖励。兼容：包名：com.piggyhand.fish · 适用闲鱼 7.25.31 · 仅供学习研究协议机制使用
 - [Nuke](https://pan.baidu.com/s/1kdFk6KGZFDLXfZaduzw6jA?pwd=6666)：一个支持 QQ、微信和抖音的 Android Xposed 模块，提供宿主内功能扩展、界面定制与使用体验优化。支持 Vector、LSPosed 等 Root 框架，以及 NPatch、FPA、LSPatch 等免 Root 注入框架。
-- [酷安净化](https://pan.baidu.com/s/1lZtkj26s7uPqbvkJq6CHxQ?pwd=6666) [夸克](https://pan.quark.cn/s/8970c1766a56?pwd=LQEv)：基于 libxposed Modern API 102 的酷安去广告模块，在酷安原生设置中提供独立的净化开关。
+- [小绿书进化](https://pan.baidu.com/s/1lZtkj26s7uPqbvkJq6CHxQ?pwd=6666) [夸克](https://pan.quark.cn/s/8970c1766a56?pwd=LQEv)
+  - 酷安净化：基于 libxposed Modern API 102 的酷安去广告模块，在酷安原生设置中提供独立的净化开关。
+  - CoolapkReviver：让旧版酷安通过服务端版本校验，修复酷安评论区接口异常。测试基准：本项目基于酷安 13.0.1 版本开发与实测，该版本未使用 360 加固，okhttp3 类以明文 dex 存在，可直接 hook。
 - [MapAdKiller](https://pan.baidu.com/s/1WxybqYbtGHE6VYt5THwlnQ?pwd=6666) [夸克](https://pan.quark.cn/s/36ce71dc45c2?pwd=GNLH)：针对高德 / 百度 / 腾讯地图 App 的开屏广告、首页运营横幅、信息流广告卡、第三方广告 SDK 做确定性拦截
 - [K（红果短剧）](https://pan.baidu.com/s/155nSeFt9sIZuyrrR-GQcJA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-OL7MUCatTHv8QfM1QbDwiA1?pwd=idtr#) [夸克](https://pan.quark.cn/s/e9f5ca648716?pwd=bjLv)：红果短剧客户端界面精简与体验增强模块。支持通过模块内置设置面板自由自定义多种沉浸式观影体验、手势拦截、自动最高画质及体验优化功能。
 - [SwiftBackupPrem](https://pan.baidu.com/s/1bluTIUaLbXj-4JZMUB3vtg?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-OL82b9OFw9u9ams4zBMBSA1?pwd=biep#) [夸克](https://pan.quark.cn/s/4f888f0a938d?pwd=2F7H)： 解锁 Swift Backup 高级功能并实现隔离的自定义 Firebase 后端集成。
