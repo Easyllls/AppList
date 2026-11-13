@@ -49,6 +49,7 @@
 - [LuCI Mobile](https://pan.baidu.com/s/1hvUH5QmH-FZaCqr9MDCePw?pwd=6666) [夸克](https://pan.quark.cn/s/d7d30fc6fa70?pwd=rXL3)：远程管理你的 OpenWrt 路由器。监控客户端、网络接口和运行状态
 - [Torrent Search](https://pan.baidu.com/s/1XBGto84g5_VkIJ9-TGyzrA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP--yS0aMQ_1GARObUPQQOVWA1?pwd=khwb#) [夸克](https://pan.quark.cn/s/3f0c94487e56?pwd=1Ei9)：一款可跨多个资源提供商搜索种子的 Android 应用，速度快、信息详细，并提供丰富的操作功能。
 - [各种第三方客户端](https://pan.baidu.com/s/1_XH2nwKMuLisoZmZe7d9Cw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzpRjtftNeEsDVIDr0_PGHaA1?pwd=qxuh#) [夸克](https://pan.quark.cn/s/eb041b3e0dba?pwd=X8dC)
+  - 红果独立版：红果短剧安卓客户端，集成红果账号登录，本地播放记录，本地收藏，支持倍速、自动连播，还原官方客户端播放方式
   - 酷安开源版
   - c001apk（TG-Twilight）：基于 c001apk-flutter 继续维护，修复 API、完善中文体验，让日常浏览保持轻巧。
   - 酷安：基于 Tauri 2、Vue 3 和 Rust 的非官方酷安桌面客户端。
