@@ -58,6 +58,8 @@
   - Hydrogen：一个基于luajvm开发的第三方知乎安卓客户端
 - [工具箱](https://pan.baidu.com/s/1RGmFbaJEvx4S7YAvagCbdg?pwd=6666)
   - 紫罗兰Box：一款Android玩机工具箱
+  - 图吧工具箱CE安装助手：手机端下载 PC 安装包
+  - 图吧工具箱手机助手：局域网连接电脑端「连接手机」
 - [WiFi Password Manager](https://pan.baidu.com/s/13gKGibneMX7PlD8InkR_Sg?pwd=6666) [夸克](https://pan.quark.cn/s/4dcf07cbe2a2?pwd=qLjG)：基于 Shizuku 或 Root 权限的 WiFi 密码管理器
 - [Duplicates Cleaner](https://pan.baidu.com/s/1SCuRMBgdShdEZ6T0wlwqGw?pwd=6666)：以最简单的方式查找和清除重复文件
 - [MKM](https://pan.baidu.com/s/1SFLutnQGC2uSc9oPP-0nBQ?pwd=6666)：轻量级安卓内核调控与系统监控工具
