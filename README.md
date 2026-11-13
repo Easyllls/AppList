@@ -1578,13 +1578,14 @@
   - 刷机匣：GeekFlashTool 是一款免费的图形化综合刷机工具，侧重于深度刷机功能
   - 柚坛工具箱：Android、OpenHarmony 玩机用户、ROM 开发者和刷机爱好者的一站式搞机工具箱，集成了 ADB、Fastboot、刷机、Root、应用管理、分区管理、投屏等大量功能，
 - [下载工具](https://pan.baidu.com/s/1uwkePgEAIIWvGGYEYuGo7A?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzB1GHvoeFydZJOPvAr7kVFA1?pwd=y5w9#) [夸克](https://pan.quark.cn/s/dea640ec514e?pwd=L7vD)：各种下载工具合集
+  - Mister Download Manager (MDM)：用纯 Rust 从零开发的开源下载管理器，定位类似 Internet Download Manager（IDM），支持多线程下载、断点续传、浏览器接管、视频下载、BT磁力下载、及AI MCP集成等。
   - FluxDown：Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。
   - Motrix：界面简洁、功能丰富的桌面下载管理器，可处理 HTTP、FTP、BitTorrent 和磁力链接（Magnet）等多种下载任务。（2.0 保留了 v1 简洁易用的特点，并使用 Electron、React 和 TypeScript 重新开发。下载内核与界面相互独立；浏览器扩展和命令行工具通过开放协议 MDXP（Motrix Download eXchange Protocol，采用 JSON-RPC 2.0）与应用通信，插件则在独立的沙箱中运行）
   - Parabolic：从网页下载视频和音频
   - Ghost Downloader：AI 驱动的新一代跨平台多协议 Fluent Design 并发下载器
   - So Novel：一款通用的网页内容处理与导出工具，它致力于帮助用户高效地从网页中提取结构化信息，并将其灵活导出为 EPUB、TXT、PDF 等多种标准电子文档格式。适用于学习采集、格式转换、电子书制作等场景。
   - XiaDown（下蛋）：在线音乐播放器，也是一款支持双引擎下载的视频下载工具。
-  - Internet Download Manager：十分强大好用的多线程下载工具
+  - Internet Download Manager（IDM）：十分强大好用的多线程下载工具
   - Neat Download Manager：优秀免费的多线程网络下载工具
   - 迅雷专业版：第三方修改版
   - AB Download Manager（AB DM）：能加速你下载速度的下载管理器，界面不错
