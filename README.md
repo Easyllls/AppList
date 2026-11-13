@@ -898,6 +898,7 @@
 <details>
 <summary>🛠 <strong>Xposed Module</strong></summary>
 
+- [ChatGPT 流光背景](https://pan.baidu.com/s/1NqcP1ssSa0dkxn1R2mFd4A?pwd=6666)：为 ChatGPT Android 添加循环流光彩色背景、控件及菜单磨砂、上下滚动边缘磨砂，并提供可选键盘黑色遮罩兼容。
 - [底栏液态玻璃](https://pan.baidu.com/s/1-qx_OGXgLpy3nw_4XW0MYA?pwd=6666)：为微信和 QQ 打造的 iOS 26 风格液态玻璃底部导航栏
 - [静途 (QuietMap)](https://pan.baidu.com/s/11GwkJ6r7PX35coXQ5FWleA?pwd=6666)：高德地图 去除开屏与信息流广告、精简打车及生活服务推荐、后台净化、数据层断源、收敛弹窗与统计上报。专注纯净导航体验
 - [FunBox](https://pan.baidu.com/s/1Q08Qfa-NMqIgTlVzZB0n9A?pwd=6666)：在QQ/微信/TIM中使用表情面板和语音面板以保存和发送表情和语音。支持微信8.0.40以上、QQ9.0.30以上、TIM4.0.97以上
