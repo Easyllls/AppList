@@ -243,6 +243,7 @@
 - [Hypatia](https://pan.baidu.com/s/1kVvIjmzynGCZj-2zwHLkyQ?pwd=6666)：实时恶意软件扫描器
 - [BoostX](https://pan.baidu.com/s/1Fe2EKl1Eu0Zu8Run1cGfRg?pwd=6666)：极简音量增强器
 - [游戏](https://pan.baidu.com/s/1AQs19tKsl6NU3csoVu9iLQ?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-j6i9u5lb63Wru_cXDgZy2A1?pwd=7i2n#) [夸克](https://pan.quark.cn/s/70947adc1610?pwd=42qj)
+  - Chogan：集合了多款可独立通关小游戏的轻量级应用。涵盖棋盘、卡牌、益智和街机类型。完全免费、开源，无广告、无应用内购、无数据分析或追踪器，并且完全支持离线使用。
   - Block Drop：使用 Flutter 构建的现代版俄罗斯方块克隆游戏
   - Flappy Bird：飞扬的小鸟复刻版，在还原原版游戏体验的同时引入了一系列增强功能
 - [计算器](https://pan.baidu.com/s/1HvhwlFORNB1OhZyQPPmZ0A?pwd=6666)
