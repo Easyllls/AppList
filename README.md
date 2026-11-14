@@ -1439,6 +1439,8 @@
 <details>
 <summary>📺 <strong>Android TV</strong></summary>
 
+- [短剧](https://pan.baidu.com/s/1w4lNjAPGX2XrVG-_Ozpmng?pwd=6666)
+  - 短剧之家：多平台短剧聚合播放应用，内置红果短剧源，支持在线播放、自动连播、弹幕及离线缓存等功能。支持多设备使用，提供 WebDAV 播放记录同步，实现手机、电脑和电视无缝切换
 - [红果短剧（第三方）](https://pan.baidu.com/s/1CRODmdFwwE6S2-MnM-XtaQ?pwd=6666)
   - hongguoTV：非官方红果短剧电视客户端。Kotlin 原生 APK，安装后联网使用，仅提供 APK 安装包。
   - 果映 TV：非官方红果短剧 Android TV 客户端，使用 kotlin-tv 中的 Kotlin 原生客户端，支持 Android 6.0 及以上。安装一个 APK 即可使用，无需部署 Node 或 Docker。
