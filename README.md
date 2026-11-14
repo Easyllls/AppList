@@ -1520,6 +1520,8 @@
 <details>
 <summary>💻 <strong>Windows</strong></summary>
 
+- [短剧](https://pan.baidu.com/s/1xCJ3Y43TYyvSsvA49l46yg?pwd=6666)
+  - 短剧之家：多平台短剧聚合播放应用，内置红果短剧源，支持在线播放、自动连播、弹幕及离线缓存等功能。支持多设备使用，提供 WebDAV 播放记录同步，实现手机、电脑和电视无缝切换
 - [文析助手（AsterLink）](https://pan.baidu.com/s/1GwSPDoxSRUrTP9qV3YboNA?pwd=6666)：面向 Windows 的免费网盘管理与文件传输应用，已接入 17 个网盘和 GitHub 文件源。
 - [Android DEX](https://pan.baidu.com/s/1IwCU8VnfQAZDJ7GR5HJvcQ?pwd=6666)：适用于所有安卓设备的通用三星 DeX 替代方案。支持在 Windows、Linux 和 macOS 上运行安卓应用，提供可调整大小的窗口、高级 FPS 游戏控制功能，以及高性能的无线 ADB 镜像投屏。
 - [图片编辑](https://pan.baidu.com/s/1mj1TvLPg5hI37NgszD6Bqg?pwd=6666)
