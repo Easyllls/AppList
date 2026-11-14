@@ -1551,6 +1551,7 @@
   - QTTabBar：在 Windows 资源管理器中使用多标签功能
 - [Project Graph](https://pan.baidu.com/s/1CYL8Ahi5fnKJkjq7A_4A5g?pwd=6666)：一款功能丰富、高效易用的桌面级节点图绘制工具。它支持快速创建多种类型的图表，帮助用户在头脑风暴、教学设计、项目规划等场景中快速构思并直观呈现。
 - [游戏](https://pan.baidu.com/s/1H8c7ojH4_K1dCPbNX4orRw?pwd=6666)
+  - Block Drop：使用 Flutter 构建的现代版俄罗斯方块克隆游戏
   - preserve-cd：是作者 skywind3000 发起的一个绝版游戏保护工程（Preserve-CD），把近 200 款濒临消失的 DOS 和早期 Windows 经典游戏整理成两张 CD 镜像，让这些游戏能够长期保存和再次运行。 
 - [MinerU](https://pan.baidu.com/s/1YNkYAWMtdEwiKe32vUfoqg?pwd=6666)：一款文档解析工具，可将 PDF、图片以及 DOCX、PPTX、XLSX 转化为机器可读格式（如 Markdown、JSON），便于后续检索、抽取与二次处理。 
 - [Windows优化工具](https://pan.baidu.com/s/1TiJ1cBmiiDn0pAxzH3dx7Q?pwd=6666)
