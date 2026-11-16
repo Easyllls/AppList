@@ -449,6 +449,7 @@
   - MMRL：用于管理 Magisk、KernelSU 和 APatch 模块的终极管理器
   - MRepo：开源的第三方Magisk与KernelSU模块管理器，支持自定义仓库
 - [ADB工具与遥控](https://pan.baidu.com/s/1XWJiDI5AmxA0SeGsHMF5Sw?pwd=6666) [夸克](https://pan.quark.cn/s/73aa43e6fd1f?pwd=yWh8)
+  - sky adb：运行在 Android 手机上的 ADB 管理工具，用于通过 WiFi ADB / Wireless Debugging 或 USB OTG 管理手机、平板、电视和盒子。并支持AI控制
   - 甲壳虫ADB助手：面向安卓设备 ADB 调试工具
   - WADBS：无线调试快捷开关
   - aShell You：Material You 重新设计的 aShell
