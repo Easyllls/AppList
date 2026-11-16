@@ -304,6 +304,7 @@
   - FolderSync Pro：在云存储和Android设备之间同步文件
   - Syncthing-Fork：完全去中心化、加密、安全 的 Android 文件同步工具
 - [AI与Agent](https://pan.baidu.com/s/1W6EhYjihT6qzQLYNvMTf8Q?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzLkOk1wWWe6ZRRljTvzslyA1?pwd=33d6#) [夸克](https://pan.quark.cn/s/bb0a0084491d?pwd=tyVx)
+  - DSH Go：基于 DeepSeek Harness 的开源 Android AI Agent 客户端，支持免 Root 本机运行 Linux 与 DSH、SSH 远程控制电脑、AI 编程与工具调用、手机屏幕识别及自动操作，并提供插件扩展、对话分享和桌宠互动等功能。
   - Agora：BYOK LLM 客户端 多大型接入点、智能代理工作流程、远程设备控制
   - Operit AI：功能完备的AI智能助手应用，完全独立运行，拥有强大的工具调用能力
   - Chatbox：跨平台 AI 客户端，支持多种大语言模型与本地部署
