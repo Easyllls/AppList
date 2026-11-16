@@ -624,6 +624,7 @@
   - 影梭
   - FakeLocation
 - [桌面](https://pan.baidu.com/s/1RUn0yUp5gyzNmQCxOfTIbQ?pwd=6666)
+  - Grace Launcher：基于 Kotlin 和 Jetpack Compose 开发的开源 Android 桌面启动器，支持应用列表管理、图标与字体自定义、时钟小组件、主题美化、日程天气及音乐控制，无广告、无追踪、无需网络权限。 
   - Kvaesitso：搜索型桌面
 - [小米定制版](https://pan.baidu.com/s/1vV-xFlVTLXy5fxOveSmwZw?pwd=6666)：各种小米手机内置应用
 - [ArchiveMaster](https://pan.baidu.com/s/1kg44pzJOMfImC8UpHTV0Ww?pwd=6666)：一套协助用户对文件进行处理、管理、备份、同步的工具集
