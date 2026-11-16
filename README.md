@@ -126,6 +126,7 @@
   - 是你的益达：基于规则的视频播放器
   - 纯纯看番：使用 Compose 开发的 Android 看番软件，支持多番剧源
 - [音乐播放器](https://pan.baidu.com/s/1__Kw4CupE5uEGIv-fiiu5Q?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzus3bF4mQzlkk3EiqurdqUA1?pwd=hgjx#) [夸克](https://pan.quark.cn/s/4ce12125dd13?pwd=77FV)
+  - 像素播放器：基于 Jetpack Compose 构建，并采用 Material 3 Expressive 设计规范的音乐播放器。可将多个音乐来源整合到同一个应用中。你可以播放设备本地存储的音乐、在线播放网络串流，还可以利用 AI 创建智能播放列表。
   - PixelPlayerOSS：该项目基于 PixelPlayer 开发，坚持 FOSS（自由开源软件）的发展方向，并移除了与这一理念不符的第三方集成
   - 留声机：一款采用 Media3 和 Material Design 构建、遵循 Android 官方设计标准的简洁可靠音乐播放器。
   - Songloft：面向个人用户的自托管工具，定位为帮助用户管理自己合法拥有的音乐文件。本项目自 v2.0 起由 MiMusic 更名为 Songloft
