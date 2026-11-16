@@ -276,6 +276,7 @@
   - AnExplorer
   - Amaze
 - [下载工具](https://pan.baidu.com/s/1OTJLuLL0XXQmqquCs5UFiA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzB1vZiNksW0WYLTLRmwx7EA1?pwd=89j9#) [夸克](https://pan.quark.cn/s/e001eb707afe?pwd=GhnP)
+  - NyaLoader：基于 Kotlin 和 Jetpack Compose 开发的 Android 多线程下载管理器，支持最高 256 线程并发下载、断点续传、批量下载、内置浏览器自动捕获下载链接、下载限速及多主题个性化设置。
   - FluxDown：Rust 驱动的多协议下载管理器，支持 HTTP/FTP/BitTorrent 磁力链接及 HLS/DASH 流媒体，智能多线程加速与浏览器无缝集成。精美界面，极致性能，永久免费，零广告。
   - Ghost Downloader：AI 驱动的新一代跨平台多协议 Fluent Design 并发下载器
   - AB Download Manager（AB DM）：高颜值且高速的下载管理器
