@@ -197,6 +197,7 @@
   - Recording Studio：适用于安卓设备的录音机应用
   - Audionyx：通过蓝牙设备实时录制和播放音频的应用。
 - [相机](https://pan.baidu.com/s/10twrXbnc5c0gliThabwZrA?pwd=6666)
+  - LensCast：支持通过 WiFi 将实时视频和音频串流传输至 Web 浏览器。它可以将 Android 设备变成网络摄像站，提供专业级控制功能、远程 Web 访问、间隔拍摄和定时录制
   - Intruder Selfie：在每次屏幕被解锁时，使用前置摄像头悄悄拍摄并记录精确时间戳
   - Libre Camera：使用 Flutter 和 Dart 编写的相机应用
   - SnapSafe：以保护你的照片为核心目标的相机应用
