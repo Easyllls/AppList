@@ -351,6 +351,8 @@
   - KDE Connect：通过无线网络将智能手机与计算机连接，从而实现多种设备间的互动和控制
   - PlainApp：通过网页管理你的手机！访问文件、联系人、视频、音乐等内容
 - [浏览器](https://pan.baidu.com/s/1HjtLqCkVjC-RSnUxmjLujg?pwd=6666)
+  - Candy Browser：采用 Material 3 Expressive 设计、以手势操作为核心，支持 GeckoView / Android WebView 双内核、Firefox 扩展及本地隐私工具的 Android 浏览器。
+  - Sideraven：基于 Iceraven（Firefox for Android 分支）开发的浏览器，专为 Android 平板设计、兼顾手机使用的浏览器。采用类似桌面版 Zen Browser 的垂直标签页侧边栏设计，将标签页从顶部移至侧边纵向排列，让多标签管理更加直观高效。
   - Titanium：基于 Chromium 的网页浏览器，支持扩展，基于 "GrapheneOS" 的 "Vanadium" 构建。
   - Ungoogled Chromium：基于 Chromium 的 Android 开源浏览器构建版本，核心目标是移除 Chromium 对 Google Web 服务及相关组件的依赖
   - Helium：一款完全开源的实验性 Android 浏览器，基于 Chromium 构建，支持浏览器扩展程序，基于 GrapheneOS 的 Vanadium 项目构建；同时参考了 imput 的 Helium 项目。
