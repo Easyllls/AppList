@@ -661,6 +661,16 @@
 </details>
 
 <details>
+<summary>🔐 <strong>Temporary Root</strong></summary>
+
+通过漏洞获取临时 Root ，拥有与常规 Root 相同的能力，支持授权 Root 和加载 Magisk/KernelSU 模块，重启设备需要重新获取
+
+- [临时Root工具](https://pan.baidu.com/s/1tR1VrypR7pbEhsEwa3ocvQ?pwd=6666)
+  - GhostLock：利用 Android 内核漏洞 CVE-2026-43499 获取临时 Root 权限，并尝试加载 KernelSU 等 Root 管理框架的工具
+  
+</details>
+
+<details>
 <summary>🎭 <strong>Magisk Module</strong></summary>
 
 实际上，大部分模块已兼容 KernelSU、APatch
