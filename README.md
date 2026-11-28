@@ -1546,6 +1546,8 @@
 <summary>💻 <strong>Windows</strong></summary>
 
 - [短剧](https://pan.baidu.com/s/1xCJ3Y43TYyvSsvA49l46yg?pwd=6666)
+  - ApexDrama：第三方红果短剧客户端，免登录、匿名设备直连，无需账号即可看全站。免广告、免费使用，支持真人剧、AI漫剧、AI短剧等多种短剧。支持Windows和安卓双端播放
+  - 红果短剧：Android TV及桌面平台的红果短剧客户端，提供遥控器适配、短剧浏览、账号同步、多播放引擎
   - 短剧之家：多平台短剧聚合播放应用，内置红果短剧源，支持在线播放、自动连播、弹幕及离线缓存等功能。支持多设备使用，提供 WebDAV 播放记录同步，实现手机、电脑和电视无缝切换
 - [文析助手（AsterLink）](https://pan.baidu.com/s/1GwSPDoxSRUrTP9qV3YboNA?pwd=6666)：面向 Windows 的免费网盘管理与文件传输应用，已接入 17 个网盘和 GitHub 文件源。
 - [Android DEX](https://pan.baidu.com/s/1IwCU8VnfQAZDJ7GR5HJvcQ?pwd=6666)：适用于所有安卓设备的通用三星 DeX 替代方案。支持在 Windows、Linux 和 macOS 上运行安卓应用，提供可调整大小的窗口、高级 FPS 游戏控制功能，以及高性能的无线 ADB 镜像投屏。
