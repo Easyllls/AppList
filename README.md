@@ -642,13 +642,15 @@
   - Canray：Magisk 的 实验性/前沿版本，优先加入新功能和修复，适合测试新特性。
   - Alpha：Magisk 的 增强分支，侧重 兼容性、Root 隐藏和 Zygisk 等高级功能。
 - [KernelSU](https://pan.baidu.com/s/1OaIL-zZkHYT2x9-N8Kf7Sw?pwd=6666) [夸克](https://pan.quark.cn/s/d8c8e72f6b82?pwd=ug1c) [迅雷](https://pan.xunlei.com/s/VOzSI1XiiGP3pHAXU-omc39MA1?pwd=rgqy#)：以下介绍由GPT生成
+  - SukiSU Nova：（原 SukiSU Ultra）基于 KernelSU 演进的 Android 内核级 Root 方案，集成 NyaZygisk、KPM、SUSFS、Root 权限管理及内核扩展功能。
+  - BakaSU：（原 ReSukiSU）KernelSU 下游项目，由 SukiSU Nova（原名：SukiSU Ultra） 分支而来，拥有更好的稳定性。
   - FinaSU：基于 KernelSU 深度扩展的内核级 Root 方案，集成 FolkZygisk、SUSFS、NoMount 和 Sui 等功能，提供一体化 Root 管理、模块注入与隐藏能力。（推荐 GKI 内核（5.10+）；4.14+ 受支持，但需要自行编译内核；通过 LKM（可加载的 kernelsu.ko）、修补 boot 镜像或 AnyKernel3 包进行安装）
   - YukiSU：一套面向 ARM64 GKI 2.0 设备的内核级 Root 方案，fork 自 SukiSU-Ultra。它能继续使用 KernelSU 的授权、App Profile、模块和 MetaModule 生态，同时换上了一套 C++ 用户空间、自己的管理器，以及 YukiZygisk、SuperKey 等扩展。
   - KowSU：基于 backslashxx/KernelSU 的分支，保留内核 Root 能力，重点强化 Material Design UI 与主题体验，同时保留 KernelSU 的内核 Root 与模块管理能力。
   - backslashxx/KernelSU：以 Manual Hook 为核心的 KernelSU 分支
   - RKSU（rsuntk/KernelSU）：以兼容性为核心的 KernelSU Fork，重点恢复 Non-GKI、GKI 1.0 和 Magic Mount 等传统能力，让更多旧内核和旧设备继续使用 KernelSU。 
   - SukiSU Ultra：功能增强型 KernelSU 分支，主打 KPM、SUSFS、非 GKI/老内核兼容。 
-  - ReSukiSU：基于 SukiSU Ultra 的稳定性增强分支，主打 Metamodule、多管理器支持和兼容性。 （新版本已更名为 BakaSU）
+  - ReSukiSU：基于 SukiSU Ultra 的稳定性增强分支，主打 Metamodule、多管理器支持和兼容性。 
   - KernelSU Next：KernelSU 的增强分支，主打 更广泛的内核兼容性和更灵活的模块挂载方案。 
   - KernelSU：官方 KernelSU，主打 内核级 Root、稳定性和成熟的模块生态。 
   - Wild KSU：偏向 Root 隐藏、SUSFS 集成和多设备/老内核兼容 的 KernelSU 分支。 
