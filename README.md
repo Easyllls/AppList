@@ -1042,7 +1042,9 @@
   - MIUI9 Root25秒解除限制
 - [DIY NFC卡面图片](https://pan.baidu.com/s/1MrTEtZmc95I39ZhycSNG5Q?pwd=6666)：自定义MIUI/HyperOS/ColorOS NFC卡片的卡面
 - [fcmfix](https://pan.baidu.com/s/1MtwOanTAnDIBcx8pdt8Icg?pwd=6666)：让fcm/gcm唤醒未启动的应用进行发送通知
-- [贴吧TS](https://pan.baidu.com/s/1aU2Rn4pvS01izHHlvnn52A?pwd=6666)：提供修改百度贴吧底栏等个性化功能
+- [贴吧TS](https://pan.baidu.com/s/1aU2Rn4pvS01izHHlvnn52A?pwd=6666)
+  - 贴吧TS（5.x）：GuhDoy/TiebaTS（已归档，2024-08 停更）的后续开发版本，原项目的功能在此基础之上继续维护与演进。感谢原作者与社区贡献者。
+  - 贴吧TS（3.x）：提供修改百度贴吧底栏等个性化功能
 - [知了](https://pan.baidu.com/s/1wi7w-D9BDPAlpSNZUPh2Sg?pwd=6666)：知乎功能扩展与增强模块
 - [哔哩哔哩](https://pan.baidu.com/s/16t1zGYA-Ula9z1j12-z1YA?pwd=6666) [迅雷](https://pan.xunlei.com/s/VP-0ELlCcvqiuxoUIlQXdOAoA1?pwd=9qmv#) [夸克](https://pan.quark.cn/s/9d1e3e3749d5?pwd=GUZi)
   - BBZQ：适配 Modern API 的哔哩哔哩功能增强模组，采用 Kotlin 完整实作，旨在去除不必要内容、优化核心体验，同时提供各类实用功能。 
