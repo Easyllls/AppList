@@ -32,8 +32,6 @@
 <details>
 <summary>📱 <strong>Android</strong></summary>
 
-- [短剧](https://pan.baidu.com/s/1GKZehKrCDqDN4nrtW0pa8g?pwd=6666)
-  - 短剧之家：多平台短剧聚合播放应用，内置红果短剧源，支持在线播放、自动连播、弹幕及离线缓存等功能。支持多设备使用，提供 WebDAV 播放记录同步，实现手机、电脑和电视无缝切换
 - [CleanYourTV Next](https://pan.baidu.com/s/1veVF37PN6ltbWkV_1CnYNw?pwd=6666)：Android TV 管理工具，通过局域网 ADB 连接电视或电视盒子，无需 Root、无需电脑，即可在手机上管理电视桌面、应用、文件及系统设置。
 - [FPS Meter](https://pan.baidu.com/s/1Si6V7dzYJa7vbCOzwo2s7w?pwd=6666)：一款高性能、轻量级的 Android FPS 帧率监控工具。提供实时帧率悬浮显示，为手游和性能测试提供简洁直观的监控体验。
 - [AirPlay Server](https://pan.baidu.com/s/17EAqBkTighAxgaMm8FIoAA?pwd=6666)：一款功能完善、免费且开源的 Android AirPlay 实现，可将 Android 设备变成兼容 AirPlay 的显示器和扬声器，基于 UxPlay 构建。它是首个面向 Android 和 Android TV 的开源 AirPlay 2 接收器，兼容 iOS/iPadOS、macOS 设备以及其他发送端实现。
@@ -53,6 +51,7 @@
 - [各种第三方客户端](https://pan.baidu.com/s/1_XH2nwKMuLisoZmZe7d9Cw?pwd=6666) [迅雷](https://pan.xunlei.com/s/VOzpRjtftNeEsDVIDr0_PGHaA1?pwd=qxuh#) [夸克](https://pan.quark.cn/s/eb041b3e0dba?pwd=X8dC)
   - ApexDrama：第三方红果短剧客户端，免登录、匿名设备直连，无需账号即可看全站。免广告、免费使用，支持真人剧、AI漫剧、AI短剧等多种短剧。支持Windows和安卓双端播放、观看数据与多设备同步
   - 红果独立版：红果短剧安卓客户端，集成红果账号登录，本地播放记录，本地收藏，支持倍速、自动连播，还原官方客户端播放方式
+  - 短剧之家：多平台短剧聚合播放应用，内置红果短剧源，支持在线播放、自动连播、弹幕及离线缓存等功能。支持多设备使用，提供 WebDAV 播放记录同步，实现手机、电脑和电视无缝切换
   - 酷安开源版
   - c001apk（TG-Twilight）：基于 c001apk-flutter 继续维护，修复 API、完善中文体验，让日常浏览保持轻巧。
   - 酷安：基于 Tauri 2、Vue 3 和 Rust 的非官方酷安桌面客户端。
